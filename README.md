@@ -14,6 +14,9 @@ Pull requests VERY welcome!
 
 The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data store. It's an open, federated and decentralised system where the identity of users and provenance of data is ensured by cryptographically signing digital assets.
 
+### eDonkey network (eD2k)
+[eDonkey network](http://en.wikipedia.org/wiki/EDonkey_network)  is a decentralized, mostly server-based, peer-to-peer file sharing network best suited to share big files among users, and to provide long term availability of files
+
 ### GNUnet
 
 [GNUnet](https://gnunet.org/) is GNU's framework for secure peer-to-peer networking that does not use any centralized or otherwise trusted services.
@@ -22,9 +25,28 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [Grimwire](http://blog.grimwire.com/#2013-04-04-grimwire.md) is a browser OS which uses Web Workers for process isolation, and WebRTC for peer-to-peer communication.
 
+### I2P
+
+[I2P](http://www.i2p2.de/) is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.
+
+### Kademlia
+
+[Kademlia](http://en.wikipedia.org/wiki/Kademlia) is a distributed hash table for decentralized peer-to-peer computer networks
+
 ### Nightweb
 
 [Nightweb](https://nightweb.net/) connects your Android device or PC to an anonymous, peer-to-peer social network. You can write posts and share photos, and your followers will retrieve them using BitTorrent running over the I2P anonymous network. It is still experimental.
+
+### Osiris
+[Osiris](http://www.osiris-sps.org/) is software for decentralized portal, managed and shared via P2P between members.
+
+### PeerCDN
+
+[PeerCDN](https://peercdn.com/) automatically serves a site's static resources (images, videos, and file downloads) over a peer-to-peer network made up of the visitors currently on the site.
+
+### PeerServer
+
+[PeerServer](http://www.peer-server.com/) is a peer-to-peer client server using WebRTC, where your browser acts as a server for other browsers across WebRTC peer-to-peer data channels.
 
 ### Project Meshnet
 
@@ -39,6 +61,8 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [The Serval Project](http://www.servalproject.org/) lets mobile phones make phone calls to each other peer-to-peer without a base station.
 
+### Syndie
+[Syndie](http://syndie.i2p2.de/)  is an open source system for operating distributed forums offering a secure and consistent interface to various anonymous and non-anonymous content networks.
 
 ### Tavern
 
