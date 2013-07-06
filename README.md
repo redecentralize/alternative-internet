@@ -33,11 +33,16 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [Kademlia](http://en.wikipedia.org/wiki/Kademlia) is a distributed hash table for decentralized peer-to-peer computer networks
 
+### NameCoin
+
+[NameCoin](http://namecoin.info/) is a decentralized naming system based on Bitcoin technology.
+
 ### Nightweb
 
 [Nightweb](https://nightweb.net/) connects your Android device or PC to an anonymous, peer-to-peer social network. You can write posts and share photos, and your followers will retrieve them using BitTorrent running over the I2P anonymous network. It is still experimental.
 
 ### Osiris
+
 [Osiris](http://www.osiris-sps.org/) is software for decentralized portal, managed and shared via P2P between members.
 
 ### PeerCDN
@@ -62,6 +67,7 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 [The Serval Project](http://www.servalproject.org/) lets mobile phones make phone calls to each other peer-to-peer without a base station.
 
 ### Syndie
+
 [Syndie](http://syndie.i2p2.de/)  is an open source system for operating distributed forums offering a secure and consistent interface to various anonymous and non-anonymous content networks.
 
 ### Tavern
@@ -86,3 +92,16 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 ### Vole
 
 [Vole](http://vole.cc/) is a web-based social network that you use in your browser, without a central server. It's built on the power of Bittorrent, Go and Ember.js. Uses bittorrent sync.
+
+## Currencies
+
+### Bitcoin
+
+[BitCoin](http://bitcoin.org/en/) is a digital currency, a protocol, and a software that enables it. Decentralized crypto-currency
+
+### Litecoin
+
+[LiteCoin](https://litecoin.org/)  is a peer-to-peer Internet currency that enables instant payments to anyone in the world (was based on Bitcoin)
+
+### PeerCoin/PPCoin
+[PeerCoin/PPCoin](http://ppcoin.org/) is the first known cryptocurrency based on an implementation of a combined proof-of-stake/proof-of-work system
