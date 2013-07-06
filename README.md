@@ -26,6 +26,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [Project Meshnet](https://projectmeshnet.org/) aims to build a sustainable decentralized alternative internet. Used by [Hyperboria](http://hyperboria.net/) and built on [CJDNS](http://cjdns.info/).
 
+### Serval Project
+
+[The Serval Project](http://www.servalproject.org/) lets mobile phones make phone calls to each other peer-to-peer without a base station.
+
 ### Tavern
 
 [Tavern](https://tavern.com/) is a distributed, anonymous, unblockable network designed to ensure that no one is silenced, censored, or cut off from the rest of the world
