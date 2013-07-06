@@ -2,13 +2,9 @@
 
 Pull requests VERY welcome!
 
-### Project Meshnet
+### AnoNet
 
-[Project Meshnet](https://projectmeshnet.org/) aims to build a sustainable decentralized alternative internet. Used by [Hyperboria](http://hyperboria.net/)
-
-### Tavern
-
-[Tavern](https://tavern.com/) is a distributed, anonymous, unblockable network designed to ensure that no one is silenced, censored, or cut off from the rest of the world
+[AnoNet](is a decentralized friend-to-friend network built using VPNs and software BGP routers. anoNet works by making it difficult to learn the identities of others on the network allowing them to anonymously host IPv4 and IPv6 services)
 
 ### BitMessage
 
@@ -18,7 +14,29 @@ Pull requests VERY welcome!
 
 The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data store. It's an open, federated and decentralised system where the identity of users and provenance of data is ensured by cryptographically signing digital assets.
 
+### Nightweb
+
+[Nightweb](https://nightweb.net/) connects your Android device or PC to an anonymous, peer-to-peer social network. You can write posts and share photos, and your followers will retrieve them using BitTorrent running over the I2P anonymous network. It is still experimental.
+
+### Project Meshnet
+
+[Project Meshnet](https://projectmeshnet.org/) aims to build a sustainable decentralized alternative internet. Used by [Hyperboria](http://hyperboria.net/) and built on [CJDNS](http://cjdns.info/).
+
+### Tavern
+
+[Tavern](https://tavern.com/) is a distributed, anonymous, unblockable network designed to ensure that no one is silenced, censored, or cut off from the rest of the world
+
+
 ### Tox
 
-[Tox](https://github.com/irungentoo/ProjectTox-Core/blob/master/docs/WHY.txt)  The goal of this project is to create a configuration free p2p skype 
-replacement.
+[Tox](https://github.com/irungentoo/ProjectTox-Core/blob/master/docs/WHY.txt)  The goal of this project is to create a configuration free p2p skype replacement.
+
+
+### Unhosted 
+
+[Unhosted](https://unhosted.org/) - also known as "serverless", "client-side", or "static" web apps, unhosted web apps do not send your user data to their server. Either you connect your own server at runtime, or your data stays within the browser.
+
+
+### Vole
+
+[Vole](http://vole.cc/) is a web-based social network that you use in your browser, without a central server. It's built on the power of Bittorrent, Go and Ember.js. Uses bittorrent sync.
