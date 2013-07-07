@@ -79,6 +79,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [Telehash](http://telehash.org/) a new encrypted P2P JSON-based protocol enabling developers to quickly build apps that are distributed and private (see [v2](https://github.com/quartzjer/TeleHash/blob/master/org/v2.md) of the spec)
 
+### Tonika
+
+[Tonika](http://pdos.csail.mit.edu/~petar/5ttt.org/) is a  (digital) social network, which (by design) restricts direct communication to pairs of users who are friends, possesses many of the security properties (privacy, anonymity, deniability, resilience to denial-of-service attacks, etc.) that human sociaties implement organically in daily life.
+
 ### Tox
 
 [Tox](https://github.com/irungentoo/ProjectTox-Core/blob/master/docs/WHY.txt)  The goal of this project is to create a configuration free p2p skype replacement.
@@ -167,7 +171,7 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [RuCoin](https://www.rucoin.org/) Знакомьтесь: rucoin (RUC, рукоин, "рукошки", "руки") - крипто-валюта, пиринговая сеть с открытым исходным кодом, основанная на алгоритмах BitCoin.
 
-[translation?]  crypto-currency, peer-to-open-source-based algorithms BitCoin. Micro payments to support sites for free software developers, and for other beneficial endeavors - that is what RuCoin ideal. 
+[translation?]  crypto-currency, peer-to-open-source-based algorithms BitCoin. Micro payments to support sites for free software developers, and for other beneficial endeavors - that is what RuCoin ideal.
 
 ### Terracoin
 
