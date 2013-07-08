@@ -29,6 +29,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [Grimwire](http://blog.grimwire.com/#2013-04-04-grimwire.md) is a browser OS which uses Web Workers for process isolation, and WebRTC for peer-to-peer communication.
 
+### Guifi
+
+[Guifi](http://guifi.net/) is a european (especially spanish) large network with over 22000 active nodes. Uses wifi in both infrastructure and mesh mode. Over 25km of fiber as well so far.
+
 ### I2P
 
 [I2P](http://www.i2p2.de/) is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.
@@ -61,6 +65,9 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [Project Meshnet](https://projectmeshnet.org/) aims to build a sustainable decentralized alternative internet. Used by [Hyperboria](http://hyperboria.net/) and built on [CJDNS](http://cjdns.info/).
 
+### Quick mesh project
+
+[Quick mesh project](http://qmp.cat/) is an openwrt based mesh networking firmware. Can be installed on any openwrt supported system. Auto configures any needed connections, auto detects internet connections and aunounces them. Native IPv6 support with IPv4 tunnels for current networking support.
 
 ### Retroshare
 
@@ -82,6 +89,9 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 ### Telehash
 
 [Telehash](http://telehash.org/) a new encrypted P2P JSON-based protocol enabling developers to quickly build apps that are distributed and private (see [v2](https://github.com/quartzjer/TeleHash/blob/master/org/v2.md) of the spec)
+
+### The FNF
+[The FNF](http://thefnf.org/) is the free network foundation: teaching how to build wireless community networks.
 
 ### Tonika
 
