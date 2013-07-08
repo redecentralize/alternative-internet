@@ -6,6 +6,10 @@ Pull requests VERY welcome!
 
 [AnoNet](http://wiki.ucis.nl/Anonet) is a decentralized friend-to-friend network built using VPNs and software BGP routers. anoNet works by making it difficult to learn the identities of others on the network allowing them to anonymously host IPv4 and IPv6 services)
 
+### BitPhone
+
+[BitPhone](http://www.gullicksonlaboratories.com/projects/bitphone/) is a mobile communications device with the features of a modern smartphone built on top of decentralized BitCoin-style proof-of-work networking.
+
 ### BitMessage
 
 [BitMessage](https://bitmessage.org/wiki/Main_Page) is a P2P communications protocol used to send encrypted messages to another person or to many subscribers. It is decentralized and trustless, meaning that you need-not inherently trust any entities like root certificate authorities. See [whitepaper](https://bitmessage.org/bitmessage.pdf)
