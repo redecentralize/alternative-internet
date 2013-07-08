@@ -221,3 +221,9 @@ I have moved most of the currencies to this section until I can determine there 
 ### YACoin
 
 [YACoin](http://yacoin.org/)  is the first Internet crypto currency to guarantee long-term protection against GPU and ASIC mining. This enables all peers to participate equally in the network, regardless of their financial backing. Whether you have a few Intel i7's or a ATI Radeon 5790 GPU, you can share in mining profitability.
+
+## Alternative Internet Apps - all services & data running / stored on locally meshed servers
+
+### Tidepools
+
+[Tidepools](http://tidepools.co) is being developed within the [Red Hook Mesh Network](http://oti.newamerica.net/blogposts/2013/case_study_red_hook_initiative_wifi_tidepools-78575), for addressing local, social incentives for mesh use. An Open Source, Collaborative, Mobile Mapping & Social Hub, Reflecting Community Needs & Culture through Custom Apps, Time-based Maps, & Data Feeds.
