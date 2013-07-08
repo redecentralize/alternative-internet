@@ -10,6 +10,10 @@ Pull requests VERY welcome!
 
 [BitMessage](https://bitmessage.org/wiki/Main_Page) is a P2P communications protocol used to send encrypted messages to another person or to many subscribers. It is decentralized and trustless, meaning that you need-not inherently trust any entities like root certificate authorities. See [whitepaper](https://bitmessage.org/bitmessage.pdf)
 
+### Commotion Wireless
+
+[Commotion Wireless](http://oti.newamerica.net/commotion_wireless_0) is an open-source communication tool that uses mobile phones, computers, and other wireless devices to create decentralized mesh networks.
+
 ### Drogulus
 
 The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data store. It's an open, federated and decentralised system where the identity of users and provenance of data is ensured by cryptographically signing digital assets.
