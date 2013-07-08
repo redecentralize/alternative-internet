@@ -113,6 +113,20 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 ## Currencies
 
+### Bitcoin
+
+[BitCoin](http://bitcoin.org/en/) is a digital currency, a protocol, and a software that enables it. Decentralized crypto-currency
+
+### Litecoin
+
+[LiteCoin](https://litecoin.org/)  is a peer-to-peer Internet currency that enables instant payments to anyone in the world (was based on Bitcoin)
+
+### See Namecoin above
+
+## Currency Clones/Derivatives
+
+I have moved most of the currencies to this section until I can determine there is an actual economy in existence around them and that they are not just forks/clones or what have you of the currencies above.
+
 ### BBQCoin
 
 [BBQCoin](http://bbqcoin.org/) often abbreviated to BBQ or BQC is a scrypt based blockchain fork of the original bitcoin source code, very similar to litecoin and launched only a short while after Litecoin.
@@ -120,10 +134,6 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 ### BitBar
 
 [BitBar](http://bitbar.biz/)  is a compilation of two projects by two groups: RareCoin project, and FairNova project [both abandoned]
-
-### Bitcoin
-
-[BitCoin](http://bitcoin.org/en/) is a digital currency, a protocol, and a software that enables it. Decentralized crypto-currency
 
 ### Chncoin
 
@@ -153,9 +163,6 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [Junkcoin](http://junkcoin.org/) JunkCoin (JKC), the newest altcoin which is Litecoin-based has arrived!
 
-### Litecoin
-
-[LiteCoin](https://litecoin.org/)  is a peer-to-peer Internet currency that enables instant payments to anyone in the world (was based on Bitcoin)
 
 ### MinCoin
 
