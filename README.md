@@ -14,6 +14,10 @@ Pull requests VERY welcome!
 
 [Commotion Wireless](http://oti.newamerica.net/commotion_wireless_0) is an open-source communication tool that uses mobile phones, computers, and other wireless devices to create decentralized mesh networks.
 
+### Cryptosphere
+
+[The Cryptosphere](https://github.com/cryptosphere/cryptosphere) is an openly federated and fully decentralized encrypted cloud storage and application platform based on the Git data model
+
 ### Drogulus
 
 The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data store. It's an open, federated and decentralised system where the identity of users and provenance of data is ensured by cryptographically signing digital assets.
