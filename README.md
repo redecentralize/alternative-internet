@@ -76,6 +76,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [PeerServer](http://www.peer-server.com/) is a peer-to-peer client server using WebRTC, where your browser acts as a server for other browsers across WebRTC peer-to-peer data channels.
 
+### Project Byzantium
+
+[Project Byzantium](http://project-byzantium.org/) - Ad-hoc wireless mesh networking for the zombie apocalypse. The goal of Project Byzantium is to develop a communication system by which users can connect to each other and share information in the absence of convenient access to the Internet.  This is done by setting up an ad-hoc wireless mesh network that offers services which replace popular websites often used for this purpose, such as Twitter and IRC.
+
 ### Project Meshnet
 
 [Project Meshnet](https://projectmeshnet.org/) aims to build a sustainable decentralized alternative internet. Used by [Hyperboria](http://hyperboria.net/) and built on [CJDNS](http://cjdns.info/).
