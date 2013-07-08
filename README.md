@@ -146,87 +146,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 ### See Namecoin above
 
-## Currency Clones/Derivatives
-
-I have moved most of the currencies to this section until I can determine there is an actual economy in existence around them and that they are not just forks/clones or what have you of the currencies above.
-
-There's some concern expressed that some/all or these may be scams/not-serious/incomplete.  You may want to avoid these.
-
-### BBQCoin
-
-[BBQCoin](http://bbqcoin.org/) often abbreviated to BBQ or BQC is a scrypt based blockchain fork of the original bitcoin source code, very similar to litecoin and launched only a short while after Litecoin.
-
-### BitBar
-
-[BitBar](http://bitbar.biz/)  is a compilation of two projects by two groups: RareCoin project, and FairNova project [both abandoned]
-
-### Chncoin
-
-[Chncoin](http://chncoin.org/) 基于Litecoin的新型货币 [A new coin based on Litecoin]
-
-### Devcoin
-
-[Devcoin](http://devcoin.org/) is an ethically inspired project based on the BitCoin crypto-currency and created to help fund open source projects created by programmers, hardware developers, writers, musicians, painters, graphic artists and filmmakers.
-
-### Feathercoin
-
-[Feathercoin](http://feathercoin.com/)  is based on Litecoin, which is safeguarded from the effects of Bitcoin ASIC mining. It has a block reward of 200 coins and will have a total of 336 million coins. This makes it four times that of LiteCoin.
-
-### Frankos
-
-[Frankos](http://frankos.org/)  is a high-value decentralized Internet currency that enables anyone in the world to recieve instant payment for goods and services. Franko is based on the Litecoin protocol but differs from Litecoin in that it is 8x more rare.
-
-### Freicoin
-
-[Freicoin](http://freico.in/) is a peer-to-peer (P2P) currency based on the accounting concept of a proof-of-work block chain used by Satoshi Nakamoto in the creation of Bitcoin. Unlike Bitcoin, Freicoin has a demurrage fee that ensures its circulation and bearers of the currency pay this fee automatically.
-
-### ixcoin
-
-[ixcoin](http://ixcoin.org/) is a peer-to-peer currency based on Bitcoin with a shorter maturity. Peer-to-peer means that no central authority issues new money or tracks transactions. These tasks are managed collectively by the network.
-
-### Junkcoin
-
-[Junkcoin](http://junkcoin.org/) JunkCoin (JKC), the newest altcoin which is Litecoin-based has arrived!
-
-
-### MinCoin
-
-[MinCoin](http://www.min-coin.org/) is a peer-to-peer cryptocurrency using scrypt as a proof-of-work algorithm.
-
-### MultiCoin
-
-[MultiCoin](https://github.com/sacarlson/MultiCoin)  is a branch of Bitcoin a crypto currency client with experimental and advanced features of multi currency and escrow and soon others [last activity 2 years ago]
-
-### Novacoin
-
-[Novacoin](http://novacoin.org/) is a hybrid scrypt Proof-of-Work + Proof-of-Stake based cryptocurrency operating with no central authority via peer-to-peer open source network.  Novacoin has no hard cap except for the 2 billion coin max that has been entered for coding purposes; this can be lifted in the future if needed.
-
 ### PeerCoin/PPCoin
 
 [PeerCoin/PPCoin](http://ppcoin.org/) is the first known cryptocurrency based on an implementation of a combined proof-of-stake/proof-of-work system
 
-### PhenixCoin
+### Others
 
-[PhenixCoin](http://phenixcoin.com/) was developed for use with our various sites. It is currently in use at our crypto coin based poker site PhenixPoker.com. We have a number of project currently under development and planned that will use Phenixcoin as their main currency.
-
-### RoyalCoin
-
-[RoyalCoin](http://royalcoin.net/) is a new scrypt based coin developed by 3 guys based out of Montreal
-
-### RuCoin
-
-[RuCoin](https://www.rucoin.org/) Знакомьтесь: rucoin (RUC, рукоин, "рукошки", "руки") - крипто-валюта, пиринговая сеть с открытым исходным кодом, основанная на алгоритмах BitCoin.
-
-[translation?]  crypto-currency, peer-to-open-source-based algorithms BitCoin. Micro payments to support sites for free software developers, and for other beneficial endeavors - that is what RuCoin ideal.
-
-### Terracoin
-
-[Terracoin](http://terracoin.org/) is a peer to peer decentralized currency based on Bitcoin. Terracoin has no central issuer; instead, the peer-to-peer network regulates Terracoin balances, transactions and issuance according to consensus in network software.
-
-### TimeKoin
-
-[TimeKoin](http://timekoin.org/)  is a long tested form of encrypted digital currency that uses decentralized peer to peer networking to operate with no central controlling authority.
-
-### YACoin
-
-[YACoin](http://yacoin.org/)  is the first Internet crypto currency to guarantee long-term protection against GPU and ASIC mining. This enables all peers to participate equally in the network, regardless of their financial backing. Whether you have a few Intel i7's or a ATI Radeon 5790 GPU, you can share in mining profitability.
+See [bitcointalk](https://bitcointalk.org/index.php?topic=134179.0) for a list of others.
