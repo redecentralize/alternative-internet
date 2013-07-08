@@ -53,6 +53,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [Nightweb](https://nightweb.net/) connects your Android device or PC to an anonymous, peer-to-peer social network. You can write posts and share photos, and your followers will retrieve them using BitTorrent running over the I2P anonymous network. It is still experimental.
 
+### LibreVPN
+
+[LibreVPN](http://librevpn.org.ar) is a virtual mesh network using [tinc](http://tinc-vpn.org) plus configuration scripts that even let you build your own mesh VPN.  It's also IPv6 enabled.
+
 ### OpenNIC
 
 [OpenNIC Project](http://www.opennicproject.org/) is an alternative DNS provider that is open and democratic.
