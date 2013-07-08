@@ -109,6 +109,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [Syndie](http://syndie.i2p2.de/)  is an open source system for operating distributed forums offering a secure and consistent interface to various anonymous and non-anonymous content networks.
 
+### Tahoe-LAFS
+
+[Tahoe-LAFS](https://tahoe-lafs.or) is a Free and Open cloud storage system. It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire filesystem continues to function correctly, preserving your privacy and security.
+
 ### Tavern
 
 [Tavern](https://tavern.com/) is a distributed, anonymous, unblockable network designed to ensure that no one is silenced, censored, or cut off from the rest of the world
