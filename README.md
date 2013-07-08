@@ -19,7 +19,11 @@ Pull requests VERY welcome!
 The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data store. It's an open, federated and decentralised system where the identity of users and provenance of data is ensured by cryptographically signing digital assets.
 
 ### eDonkey network (eD2k)
-[eDonkey network](http://en.wikipedia.org/wiki/EDonkey_network)  is a decentralized, mostly server-based, peer-to-peer file sharing network best suited to share big files among users, and to provide long term availability of files
+[eDonkey network](http://en.wikipedia.org/wiki/EDonkey_network) is a decentralized, mostly server-based, peer-to-peer file sharing network best suited to share big files among users, and to provide long term availability of files
+
+
+### Freenet
+[Freenet](http://freenetproject.org) is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship. Freenet is decentralised to make it less vulnerable to attack, and if used in "darknet" mode, where users only connect to their friends, is very difficult to detect.
 
 ### GNUnet
 
