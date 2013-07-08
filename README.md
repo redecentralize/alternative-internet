@@ -25,6 +25,9 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 ### Freenet
 [Freenet](http://freenetproject.org) is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship. Freenet is decentralised to make it less vulnerable to attack, and if used in "darknet" mode, where users only connect to their friends, is very difficult to detect.
 
+### Freifunk
+[Freifunk](http://en.freifunk.net) is a non-commercial initiative for free decentraliced wireless mesh networks. Technically Freifunk firmwares are based on [OpenWRT](http://www.openwrt.net) and OLSR or B.A.T.M.A.N.
+
 ### GNUnet
 
 [GNUnet](https://gnunet.org/) is GNU's framework for secure peer-to-peer networking that does not use any centralized or otherwise trusted services.
