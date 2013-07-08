@@ -143,6 +143,8 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 I have moved most of the currencies to this section until I can determine there is an actual economy in existence around them and that they are not just forks/clones or what have you of the currencies above.
 
+There's some concern expressed that some/all or these may be scams/not-serious/incomplete.  You may want to avoid these.
+
 ### BBQCoin
 
 [BBQCoin](http://bbqcoin.org/) often abbreviated to BBQ or BQC is a scrypt based blockchain fork of the original bitcoin source code, very similar to litecoin and launched only a short while after Litecoin.
