@@ -109,6 +109,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [Tonika](http://pdos.csail.mit.edu/~petar/5ttt.org/) is a  (digital) social network, which (by design) restricts direct communication to pairs of users who are friends, possesses many of the security properties (privacy, anonymity, deniability, resilience to denial-of-service attacks, etc.) that human sociaties implement organically in daily life.
 
+### Tor
+
+[Tor](https://www.torproject.org/) protects you by bouncing your communications around a distributed network of relays run by volunteers all around the world: it prevents somebody watching your Internet connection from learning what sites you visit, and it prevents the sites you visit from learning your physical location.
+
 ### Tox
 
 [Tox](https://github.com/irungentoo/ProjectTox-Core/blob/master/docs/WHY.txt)  The goal of this project is to create a configuration free p2p skype replacement.
