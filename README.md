@@ -101,6 +101,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [Project Meshnet](https://projectmeshnet.org/) aims to build a sustainable decentralized alternative internet. Used by [Hyperboria](http://hyperboria.net/) and built on [CJDNS](http://cjdns.info/).
 
+### qaul.net
+
+[qaul.net](https://github.com/WachterJud/qaul.net) implements a redundant, open communication principle, in which wireless-enabled computers and mobile devices can directly form a spontaneous network. Chat functions, file sharing and voice chat is possible independent of internet and cellular networks.
+
 ### Quick mesh project
 
 [Quick mesh project](http://qmp.cat/) is an openwrt based mesh networking firmware. Can be installed on any openwrt supported system. Auto configures any needed connections, auto detects internet connections and aunounces them. Native IPv6 support with IPv4 tunnels for current networking support.
@@ -166,10 +170,6 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 ### ZeroTier One
 
 [ZeroTier One](https://www.zerotier.com/) is an open source application that creates huge distributed Ethernet networks. It makes use of supernodes, but these run the same code as ordinary nodes and end-to-end encryption protects all unicast traffic. Semi-commercial with a freemium model.
-
-### qaul.net
-
-[qaul.net](https://github.com/WachterJud/qaul.net) implements a redundant, open communication principle, in which wireless-enabled computers and mobile devices can directly form a spontaneous network. Chat functions, file sharing and voice chat is possible independent of internet and cellular networks.
 
 ## Currencies
 
