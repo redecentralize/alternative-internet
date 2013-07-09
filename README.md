@@ -26,7 +26,7 @@ Pull requests VERY welcome!
 
 The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data store. It's an open, federated and decentralised system where the identity of users and provenance of data is ensured by cryptographically signing digital assets.
 
-### eDonkey network (eD2k)
+### eDonkey network (eD2k)
 [eDonkey network](http://en.wikipedia.org/wiki/EDonkey_network) is a decentralized, mostly server-based, peer-to-peer file sharing network best suited to share big files among users, and to provide long term availability of files
 
 
@@ -115,7 +115,7 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 ### Tahoe-LAFS
 
-[Tahoe-LAFS](https://tahoe-lafs.or) is a Free and Open cloud storage system. It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire filesystem continues to function correctly, preserving your privacy and security.
+[Tahoe-LAFS](https://tahoe-lafs.org) is a Free and Open cloud storage system. It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire filesystem continues to function correctly, preserving your privacy and security.
 
 ### Tavern
 
