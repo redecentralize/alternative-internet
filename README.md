@@ -22,6 +22,10 @@ Pull requests VERY welcome!
 
 [The Cryptosphere](https://github.com/cryptosphere/cryptosphere) is an openly federated and fully decentralized encrypted cloud storage and application platform based on the Git data model
 
+### Diaspora*
+
+[Diaspora*](http://diasporaproject.org/) is a free social network consisting of personal web server that implements a distributed social networking service. Diaspora* is a fun and creative community that puts you in control.
+
 ### Drogulus
 
 The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data store. It's an open, federated and decentralised system where the identity of users and provenance of data is ensured by cryptographically signing digital assets.
