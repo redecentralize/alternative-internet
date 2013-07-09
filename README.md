@@ -14,6 +14,10 @@ Pull requests VERY welcome!
 
 [BitMessage](https://bitmessage.org/wiki/Main_Page) is a P2P communications protocol used to send encrypted messages to another person or to many subscribers. It is decentralized and trustless, meaning that you need-not inherently trust any entities like root certificate authorities. See [whitepaper](https://bitmessage.org/bitmessage.pdf)
 
+### Camlistore
+
+[Camlistore](http://camlistore.org/) is your personal storage system for life. It is an acronym for "Content-Addressable Multi-Layer Indexed Storage" and could be described as "Like git for all content in your life"
+
 ### Commotion Wireless
 
 [Commotion Wireless](https://commotionwireless.net) is an open-source communication tool that uses mobile phones, computers, and other wireless devices to create decentralized mesh networks.
@@ -171,6 +175,11 @@ Tent is a protocol, not a platform. Like email, anyone can build Tent apps or ho
 ### Vole
 
 [Vole](http://vole.cc/) is a web-based social network that you use in your browser, without a central server. It's built on the power of Bittorrent, Go and Ember.js. Uses bittorrent sync.
+
+### Webfist
+
+[Webfist](http://webfist.org/) is a fallback for when providers don't support WebFinger natively. It lets you do WebFinger lookups for email addresses even if the owner of the domain name isn't playing along. WebFist works because of a judo move on an existing infrastructure: DKIM.
+
 
 ### ZeroTier One
 
