@@ -16,7 +16,7 @@ Pull requests VERY welcome!
 
 ### Commotion Wireless
 
-[Commotion Wireless](http://oti.newamerica.net/commotion_wireless_0) is an open-source communication tool that uses mobile phones, computers, and other wireless devices to create decentralized mesh networks.
+[Commotion Wireless](https://commotionwireless.net) is an open-source communication tool that uses mobile phones, computers, and other wireless devices to create decentralized mesh networks.
 
 ### Cryptosphere
 
