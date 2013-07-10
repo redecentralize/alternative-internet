@@ -2,19 +2,19 @@
 
 Pull requests VERY welcome!
 
-- [A](#a)
+[A](#a)
 - [B](#b)
 - [C](#c)
 - [D](#d)
 - [E](#e)
 - [F](#f)
 - [G](#g)
-- H
+- [H](#h)
 - [I](#i)
-- J
+- [J](#j)
 - [K](#k)
 - [L](#l)
-- M
+- [M](#m)
 - [N](#n)
 - [O](#o)
 - [P](#p)
@@ -25,8 +25,8 @@ Pull requests VERY welcome!
 - [U](#u)
 - [V](#v)
 - [W](#w)
-- X
-- Y
+- [X](#x)
+- [Y](#y)
 - [Z](#z)
 
 
@@ -101,11 +101,15 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [Guifi](http://guifi.net/) is a european (especially spanish) large network with over 22000 active nodes. Uses wifi in both infrastructure and mesh mode. Over 25km of fiber as well so far.
 
+## H
+
 ## I
 
 ### I2P
 
 [I2P](http://www.i2p2.de/) is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.
+
+## J
 
 ## K
 
@@ -118,6 +122,8 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 ### LibreVPN
 
 [LibreVPN](http://librevpn.org.ar) is a virtual mesh network using [tinc](http://tinc-vpn.org) plus configuration scripts that even let you build your own mesh VPN.  It's also IPv6 enabled.
+
+## M
 
 ## N
 
@@ -175,7 +181,7 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [Quick mesh project](http://qmp.cat/) is an openwrt based mesh networking firmware. Can be installed on any openwrt supported system. Auto configures any needed connections, auto detects internet connections and aunounces them. Native IPv6 support with IPv4 tunnels for current networking support.
 
-##R
+## R
 
 ### Retroshare
 
@@ -252,6 +258,10 @@ Tent is a protocol, not a platform. Like email, anyone can build Tent apps or ho
 ### Webfist
 
 [Webfist](http://webfist.org/) is a fallback for when providers don't support WebFinger natively. It lets you do WebFinger lookups for email addresses even if the owner of the domain name isn't playing along. WebFist works because of a judo move on an existing infrastructure: DKIM.
+
+## X
+
+## Y
 
 ## Z
 
