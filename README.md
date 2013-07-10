@@ -2,9 +2,41 @@
 
 Pull requests VERY welcome!
 
+- [A](#a)
+- [B](#b)
+- [C](#c)
+- [D](#d)
+- [E](#e)
+- [F](#f)
+- [G](#g)
+- H
+- [I](#i)
+- J
+- [K](#k)
+- [L](#l)
+- M
+- [N](#n)
+- [O](#o)
+- [P](#p)
+- [Q](#q)
+- [R](#r)
+- [S](#s)
+- [T](#t)
+- [U](#u)
+- [V](#v)
+- [W](#w)
+- X
+- Y
+- [Z](#z)
+
+
+## A
+
 ### AnoNet
 
 [AnoNet](http://wiki.ucis.nl/Anonet) is a decentralized friend-to-friend network built using VPNs and software BGP routers. anoNet works by making it difficult to learn the identities of others on the network allowing them to anonymously host IPv4 and IPv6 services)
+
+## B
 
 ### BitPhone
 
@@ -13,6 +45,8 @@ Pull requests VERY welcome!
 ### BitMessage
 
 [BitMessage](https://bitmessage.org/wiki/Main_Page) is a P2P communications protocol used to send encrypted messages to another person or to many subscribers. It is decentralized and trustless, meaning that you need-not inherently trust any entities like root certificate authorities. See [whitepaper](https://bitmessage.org/bitmessage.pdf)
+
+## C
 
 ### Camlistore
 
@@ -26,6 +60,8 @@ Pull requests VERY welcome!
 
 [The Cryptosphere](https://github.com/cryptosphere/cryptosphere) is a global peer-to-peer cryptosystem for publishing and securely distributing both data and HTML5/JS applications pseudonymously with no central point of failure. It's built on top of the next-generation [Networking and Cryptography (NaCl) library](http://nacl.cr.yp.to/) and the Git data model.
 
+## D
+
 ### Diaspora*
 
 [Diaspora*](http://diasporaproject.org/) is a free social network consisting of personal web server that implements a distributed social networking service. Diaspora* is a fun and creative community that puts you in control.
@@ -34,8 +70,12 @@ Pull requests VERY welcome!
 
 The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data store. It's an open, federated and decentralised system where the identity of users and provenance of data is ensured by cryptographically signing digital assets.
 
+## E
+
 ### eDonkey network (eD2k)
 [eDonkey network](http://en.wikipedia.org/wiki/EDonkey_network) is a decentralized, mostly server-based, peer-to-peer file sharing network best suited to share big files among users, and to provide long term availability of files
+
+## F
 
 ### Firecloud
 
@@ -46,6 +86,8 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 ### Freifunk
 [Freifunk](http://en.freifunk.net) is a non-commercial initiative for free decentraliced wireless mesh networks. Technically Freifunk firmwares are based on [OpenWRT](http://www.openwrt.net) and OLSR or B.A.T.M.A.N.
+
+## G
 
 ### GNUnet
 
@@ -59,13 +101,25 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [Guifi](http://guifi.net/) is a european (especially spanish) large network with over 22000 active nodes. Uses wifi in both infrastructure and mesh mode. Over 25km of fiber as well so far.
 
+## I
+
 ### I2P
 
 [I2P](http://www.i2p2.de/) is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.
 
+## K
+
 ### Kademlia
 
 [Kademlia](http://en.wikipedia.org/wiki/Kademlia) is a distributed hash table for decentralized peer-to-peer computer networks
+
+## L
+
+### LibreVPN
+
+[LibreVPN](http://librevpn.org.ar) is a virtual mesh network using [tinc](http://tinc-vpn.org) plus configuration scripts that even let you build your own mesh VPN.  It's also IPv6 enabled.
+
+## N
 
 ### NameCoin
 
@@ -75,9 +129,7 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [Nightweb](https://nightweb.net/) connects your Android device or PC to an anonymous, peer-to-peer social network. You can write posts and share photos, and your followers will retrieve them using BitTorrent running over the I2P anonymous network. It is still experimental.
 
-### LibreVPN
-
-[LibreVPN](http://librevpn.org.ar) is a virtual mesh network using [tinc](http://tinc-vpn.org) plus configuration scripts that even let you build your own mesh VPN.  It's also IPv6 enabled.
+## O
 
 ### OpenNIC
 
@@ -86,6 +138,8 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 ### Osiris
 
 [Osiris](http://www.osiris-sps.org/) is software for decentralized portal, managed and shared via P2P between members.
+
+## P
 
 ### PeerCDN
 
@@ -111,6 +165,8 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 ### pubsubhubbub
 [pubsubhubbub](https://code.google.com/p/pubsubhubbub/) is a simple, open, server-to-server webhook-based pubsub (publish/subscribe) protocol for any web accessible resources.
 
+## Q
+
 ### qaul.net
 
 [qaul.net](https://github.com/WachterJud/qaul.net) implements a redundant, open communication principle, in which wireless-enabled computers and mobile devices can directly form a spontaneous network. Chat functions, file sharing and voice chat is possible independent of internet and cellular networks.
@@ -119,9 +175,13 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [Quick mesh project](http://qmp.cat/) is an openwrt based mesh networking firmware. Can be installed on any openwrt supported system. Auto configures any needed connections, auto detects internet connections and aunounces them. Native IPv6 support with IPv4 tunnels for current networking support.
 
+##R
+
 ### Retroshare
 
 [RetroShare](http://retroshare.sourceforge.net/) is an open source, decentralised communication platform. It lets you chat and share with friends and family, with a web-of-trust to authenticate peers.
+
+## S
 
 ### Serval Project
 
@@ -130,6 +190,8 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 ### Syndie
 
 [Syndie](http://syndie.i2p2.de/)  is an open source system for operating distributed forums offering a secure and consistent interface to various anonymous and non-anonymous content networks.
+
+## T
 
 ### Tahoe-LAFS
 
@@ -173,19 +235,25 @@ Tent is a protocol, not a platform. Like email, anyone can build Tent apps or ho
 
 [Tribler](https://github.com/Tribler/tribler/wiki) Aims to create a censorship-free Internet. Already deployed, used and incrementally improved for 8-years. Tribler uses an upcoming IETF Internet Standard for [video streaming](http://datatracker.ietf.org/doc/draft-ietf-ppsp-peer-protocol/) and is backward compatible with Bittorrent. Future aim is using smartphones to even bypass Internet kill switches. An early proof-of-principle [Tribler-mobile](https://play.google.com/store/apps/details?id=org.tribler.mobile) is available on the Android Market. [Key principle](http://www.foxnews.com/tech/2012/02/10/forget-megaupload-researchers-call-new-file-sharing-network-invincible/): 'the only way to take it down is to take The Internet down'. [Overview paper](http://sigmm.org/records/records1201/featured03.html).
 
+## U
+
 ### Unhosted
 
 [Unhosted](https://unhosted.org/) - also known as "serverless", "client-side", or "static" web apps, unhosted web apps do not send your user data to their server. Either you connect your own server at runtime, or your data stays within the browser.
 
+## V
 
 ### Vole
 
 [Vole](http://vole.cc/) is a web-based social network that you use in your browser, without a central server. It's built on the power of Bittorrent, Go and Ember.js. Uses bittorrent sync.
 
+## W
+
 ### Webfist
 
 [Webfist](http://webfist.org/) is a fallback for when providers don't support WebFinger natively. It lets you do WebFinger lookups for email addresses even if the owner of the domain name isn't playing along. WebFist works because of a judo move on an existing infrastructure: DKIM.
 
+## Z
 
 ### ZeroTier One
 
