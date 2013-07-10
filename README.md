@@ -6,20 +6,46 @@ Pull requests VERY welcome!
 
 [AnoNet](http://wiki.ucis.nl/Anonet) is a decentralized friend-to-friend network built using VPNs and software BGP routers. anoNet works by making it difficult to learn the identities of others on the network allowing them to anonymously host IPv4 and IPv6 services)
 
+### BitPhone
+
+[BitPhone](http://www.gullicksonlaboratories.com/projects/bitphone/) is a mobile communications device with the features of a modern smartphone built on top of decentralized BitCoin-style proof-of-work networking.
+
 ### BitMessage
 
 [BitMessage](https://bitmessage.org/wiki/Main_Page) is a P2P communications protocol used to send encrypted messages to another person or to many subscribers. It is decentralized and trustless, meaning that you need-not inherently trust any entities like root certificate authorities. See [whitepaper](https://bitmessage.org/bitmessage.pdf)
 
+### Camlistore
+
+[Camlistore](http://camlistore.org/) is your personal storage system for life. It is an acronym for "Content-Addressable Multi-Layer Indexed Storage" and could be described as "Like git for all content in your life"
+
 ### Commotion Wireless
 
-[Commotion Wireless](http://oti.newamerica.net/commotion_wireless_0) is an open-source communication tool that uses mobile phones, computers, and other wireless devices to create decentralized mesh networks.
+[Commotion Wireless](https://commotionwireless.net) is an open-source communication tool that uses mobile phones, computers, and other wireless devices to create decentralized mesh networks.
+
+### Cryptosphere
+
+[The Cryptosphere](https://github.com/cryptosphere/cryptosphere) is a global peer-to-peer cryptosystem for publishing and securely distributing both data and HTML5/JS applications pseudonymously with no central point of failure. It's built on top of the next-generation [Networking and Cryptography (NaCl) library](http://nacl.cr.yp.to/) and the Git data model.
+
+### Diaspora*
+
+[Diaspora*](http://diasporaproject.org/) is a free social network consisting of personal web server that implements a distributed social networking service. Diaspora* is a fun and creative community that puts you in control.
 
 ### Drogulus
 
 The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data store. It's an open, federated and decentralised system where the identity of users and provenance of data is ensured by cryptographically signing digital assets.
 
 ### eDonkey network (eD2k)
-[eDonkey network](http://en.wikipedia.org/wiki/EDonkey_network)  is a decentralized, mostly server-based, peer-to-peer file sharing network best suited to share big files among users, and to provide long term availability of files
+[eDonkey network](http://en.wikipedia.org/wiki/EDonkey_network) is a decentralized, mostly server-based, peer-to-peer file sharing network best suited to share big files among users, and to provide long term availability of files
+
+### Firecloud
+
+[Firecloud](http://firecloud.co) is a P2P web publishing platform in your using Persona and WebRTC to work its magic. 
+
+### Freenet
+[Freenet](http://freenetproject.org) is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship. Freenet is decentralised to make it less vulnerable to attack, and if used in "darknet" mode, where users only connect to their friends, is very difficult to detect.
+
+### Freifunk
+[Freifunk](http://en.freifunk.net) is a non-commercial initiative for free decentraliced wireless mesh networks. Technically Freifunk firmwares are based on [OpenWRT](http://www.openwrt.net) and OLSR or B.A.T.M.A.N.
 
 ### GNUnet
 
@@ -49,6 +75,14 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [Nightweb](https://nightweb.net/) connects your Android device or PC to an anonymous, peer-to-peer social network. You can write posts and share photos, and your followers will retrieve them using BitTorrent running over the I2P anonymous network. It is still experimental.
 
+### LibreVPN
+
+[LibreVPN](http://librevpn.org.ar) is a virtual mesh network using [tinc](http://tinc-vpn.org) plus configuration scripts that even let you build your own mesh VPN.  It's also IPv6 enabled.
+
+### OpenNIC
+
+[OpenNIC Project](http://www.opennicproject.org/) is an alternative DNS provider that is open and democratic.
+
 ### Osiris
 
 [Osiris](http://www.osiris-sps.org/) is software for decentralized portal, managed and shared via P2P between members.
@@ -61,9 +95,25 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [PeerServer](http://www.peer-server.com/) is a peer-to-peer client server using WebRTC, where your browser acts as a server for other browsers across WebRTC peer-to-peer data channels.
 
+### Phantom
+
+[Phantom](https://code.google.com/p/phantom/) is (was?) a system for generic, decentralized, unstoppable internet anonymity
+
+
+### Project Byzantium
+
+[Project Byzantium](http://project-byzantium.org/) - Ad-hoc wireless mesh networking for the zombie apocalypse. The goal of Project Byzantium is to develop a communication system by which users can connect to each other and share information in the absence of convenient access to the Internet.  This is done by setting up an ad-hoc wireless mesh network that offers services which replace popular websites often used for this purpose, such as Twitter and IRC.
+
 ### Project Meshnet
 
 [Project Meshnet](https://projectmeshnet.org/) aims to build a sustainable decentralized alternative internet. Used by [Hyperboria](http://hyperboria.net/) and built on [CJDNS](http://cjdns.info/).
+
+### pubsubhubbub
+[pubsubhubbub](https://code.google.com/p/pubsubhubbub/) is a simple, open, server-to-server webhook-based pubsub (publish/subscribe) protocol for any web accessible resources.
+
+### qaul.net
+
+[qaul.net](https://github.com/WachterJud/qaul.net) implements a redundant, open communication principle, in which wireless-enabled computers and mobile devices can directly form a spontaneous network. Chat functions, file sharing and voice chat is possible independent of internet and cellular networks.
 
 ### Quick mesh project
 
@@ -81,6 +131,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [Syndie](http://syndie.i2p2.de/)  is an open source system for operating distributed forums offering a secure and consistent interface to various anonymous and non-anonymous content networks.
 
+### Tahoe-LAFS
+
+[Tahoe-LAFS](https://tahoe-lafs.org) is a Free and Open cloud storage system. It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire filesystem continues to function correctly, preserving your privacy and security.
+
 ### Tavern
 
 [Tavern](https://tavern.com/) is a distributed, anonymous, unblockable network designed to ensure that no one is silenced, censored, or cut off from the rest of the world
@@ -90,17 +144,34 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [Telehash](http://telehash.org/) a new encrypted P2P JSON-based protocol enabling developers to quickly build apps that are distributed and private (see [v2](https://github.com/quartzjer/TeleHash/blob/master/org/v2.md) of the spec)
 
+### Tent protocol
+
+[Tent](https://tent.io/) is a protocol that puts users back in control. Users should control the data they create, choose who can access it, and change service providers without losing their social graph.
+Tent is a protocol, not a platform. Like email, anyone can build Tent apps or host Tent servers, all Tent servers can talk to each other, and there is no central authority to restrict users or developers.
+
 ### The FNF
 [The FNF](http://thefnf.org/) is the free network foundation: teaching how to build wireless community networks.
+
+### Tidepools
+
+[Tidepools](http://tidepools.co) is being developed within the [Red Hook Mesh Network](http://oti.newamerica.net/blogposts/2013/case_study_red_hook_initiative_wifi_tidepools-78575), for addressing local, social incentives for mesh use. An Open Source, Collaborative, Mobile Mapping & Social Hub, Reflecting Community Needs & Culture through Custom Apps, Time-based Maps, & Data Feeds.
 
 ### Tonika
 
 [Tonika](http://pdos.csail.mit.edu/~petar/5ttt.org/) is a  (digital) social network, which (by design) restricts direct communication to pairs of users who are friends, possesses many of the security properties (privacy, anonymity, deniability, resilience to denial-of-service attacks, etc.) that human sociaties implement organically in daily life.
 
+### Tor
+
+[Tor](https://www.torproject.org/) protects you by bouncing your communications around a distributed network of relays run by volunteers all around the world: it prevents somebody watching your Internet connection from learning what sites you visit, and it prevents the sites you visit from learning your physical location.
+
 ### Tox
 
 [Tox](https://github.com/irungentoo/ProjectTox-Core/blob/master/docs/WHY.txt)  The goal of this project is to create a configuration free p2p skype replacement.
 
+
+### Tribler
+
+[Tribler](https://github.com/Tribler/tribler/wiki) Aims to create a censorship-free Internet. Already deployed, used and incrementally improved for 8-years. Tribler uses an upcoming IETF Internet Standard for [video streaming](http://datatracker.ietf.org/doc/draft-ietf-ppsp-peer-protocol/) and is backward compatible with Bittorrent. Future aim is using smartphones to even bypass Internet kill switches. An early proof-of-principle [Tribler-mobile](https://play.google.com/store/apps/details?id=org.tribler.mobile) is available on the Android Market. [Key principle](http://www.foxnews.com/tech/2012/02/10/forget-megaupload-researchers-call-new-file-sharing-network-invincible/): 'the only way to take it down is to take The Internet down'. [Overview paper](http://sigmm.org/records/records1201/featured03.html).
 
 ### Unhosted
 
@@ -110,6 +181,15 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 ### Vole
 
 [Vole](http://vole.cc/) is a web-based social network that you use in your browser, without a central server. It's built on the power of Bittorrent, Go and Ember.js. Uses bittorrent sync.
+
+### Webfist
+
+[Webfist](http://webfist.org/) is a fallback for when providers don't support WebFinger natively. It lets you do WebFinger lookups for email addresses even if the owner of the domain name isn't playing along. WebFist works because of a judo move on an existing infrastructure: DKIM.
+
+
+### ZeroTier One
+
+[ZeroTier One](https://www.zerotier.com/) is an open source application that creates huge distributed Ethernet networks. It makes use of supernodes, but these run the same code as ordinary nodes and end-to-end encryption protects all unicast traffic. Semi-commercial with a freemium model.
 
 ## Currencies
 
@@ -123,85 +203,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 ### See Namecoin above
 
-## Currency Clones/Derivatives
-
-I have moved most of the currencies to this section until I can determine there is an actual economy in existence around them and that they are not just forks/clones or what have you of the currencies above.
-
-### BBQCoin
-
-[BBQCoin](http://bbqcoin.org/) often abbreviated to BBQ or BQC is a scrypt based blockchain fork of the original bitcoin source code, very similar to litecoin and launched only a short while after Litecoin.
-
-### BitBar
-
-[BitBar](http://bitbar.biz/)  is a compilation of two projects by two groups: RareCoin project, and FairNova project [both abandoned]
-
-### Chncoin
-
-[Chncoin](http://chncoin.org/) 基于Litecoin的新型货币 [A new coin based on Litecoin]
-
-### Devcoin
-
-[Devcoin](http://devcoin.org/) is an ethically inspired project based on the BitCoin crypto-currency and created to help fund open source projects created by programmers, hardware developers, writers, musicians, painters, graphic artists and filmmakers.
-
-### Feathercoin
-
-[Feathercoin](http://feathercoin.com/)  is based on Litecoin, which is safeguarded from the effects of Bitcoin ASIC mining. It has a block reward of 200 coins and will have a total of 336 million coins. This makes it four times that of LiteCoin.
-
-### Frankos
-
-[Frankos](http://frankos.org/)  is a high-value decentralized Internet currency that enables anyone in the world to recieve instant payment for goods and services. Franko is based on the Litecoin protocol but differs from Litecoin in that it is 8x more rare.
-
-### Freicoin
-
-[Freicoin](http://freico.in/) is a peer-to-peer (P2P) currency based on the accounting concept of a proof-of-work block chain used by Satoshi Nakamoto in the creation of Bitcoin. Unlike Bitcoin, Freicoin has a demurrage fee that ensures its circulation and bearers of the currency pay this fee automatically.
-
-### ixcoin
-
-[ixcoin](http://ixcoin.org/) is a peer-to-peer currency based on Bitcoin with a shorter maturity. Peer-to-peer means that no central authority issues new money or tracks transactions. These tasks are managed collectively by the network.
-
-### Junkcoin
-
-[Junkcoin](http://junkcoin.org/) JunkCoin (JKC), the newest altcoin which is Litecoin-based has arrived!
-
-
-### MinCoin
-
-[MinCoin](http://www.min-coin.org/) is a peer-to-peer cryptocurrency using scrypt as a proof-of-work algorithm.
-
-### MultiCoin
-
-[MultiCoin](https://github.com/sacarlson/MultiCoin)  is a branch of Bitcoin a crypto currency client with experimental and advanced features of multi currency and escrow and soon others [last activity 2 years ago]
-
-### Novacoin
-
-[Novacoin](http://novacoin.org/) is a hybrid scrypt Proof-of-Work + Proof-of-Stake based cryptocurrency operating with no central authority via peer-to-peer open source network.  Novacoin has no hard cap except for the 2 billion coin max that has been entered for coding purposes; this can be lifted in the future if needed.
-
 ### PeerCoin/PPCoin
 
 [PeerCoin/PPCoin](http://ppcoin.org/) is the first known cryptocurrency based on an implementation of a combined proof-of-stake/proof-of-work system
 
-### PhenixCoin
+### Others
 
-[PhenixCoin](http://phenixcoin.com/) was developed for use with our various sites. It is currently in use at our crypto coin based poker site PhenixPoker.com. We have a number of project currently under development and planned that will use Phenixcoin as their main currency.
-
-### RoyalCoin
-
-[RoyalCoin](http://royalcoin.net/) is a new scrypt based coin developed by 3 guys based out of Montreal
-
-### RuCoin
-
-[RuCoin](https://www.rucoin.org/) Знакомьтесь: rucoin (RUC, рукоин, "рукошки", "руки") - крипто-валюта, пиринговая сеть с открытым исходным кодом, основанная на алгоритмах BitCoin.
-
-[translation?]  crypto-currency, peer-to-open-source-based algorithms BitCoin. Micro payments to support sites for free software developers, and for other beneficial endeavors - that is what RuCoin ideal.
-
-### Terracoin
-
-[Terracoin](http://terracoin.org/) is a peer to peer decentralized currency based on Bitcoin. Terracoin has no central issuer; instead, the peer-to-peer network regulates Terracoin balances, transactions and issuance according to consensus in network software.
-
-### TimeKoin
-
-[TimeKoin](http://timekoin.org/)  is a long tested form of encrypted digital currency that uses decentralized peer to peer networking to operate with no central controlling authority.
-
-### YACoin
-
-[YACoin](http://yacoin.org/)  is the first Internet crypto currency to guarantee long-term protection against GPU and ASIC mining. This enables all peers to participate equally in the network, regardless of their financial backing. Whether you have a few Intel i7's or a ATI Radeon 5790 GPU, you can share in mining profitability.
+See [bitcointalk](https://bitcointalk.org/index.php?topic=134179.0) for a list of others.
