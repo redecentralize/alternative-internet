@@ -45,6 +45,10 @@ Pull requests VERY welcome!
 
 [Diaspora*](http://diasporaproject.org/) is a free social network consisting of personal web server that implements a distributed social networking service. Diaspora* is a fun and creative community that puts you in control.
 
+### DeadC
+
+[DeadC](http://deadc.net/) is the most private way to share links on the internet without being tracked.
+
 ### Drogulus
 
 The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data store. It's an open, federated and decentralised system where the identity of users and provenance of data is ensured by cryptographically signing digital assets.
