@@ -21,6 +21,10 @@ Pull requests VERY welcome!
 
 [BitMessage](https://bitmessage.org/wiki/Main_Page) is a P2P communications protocol used to send encrypted messages to another person or to many subscribers. It is decentralized and trustless, meaning that you need-not inherently trust any entities like root certificate authorities. See [whitepaper](https://bitmessage.org/bitmessage.pdf)
 
+### buddycloud
+
+[buddycloud](http://buddycloud.com/) is a set of tools, open source software and protocols to help you build a distributed social network. All the code is on [GitHub](https://github.com/buddycloud).
+
 ## C
 
 ### Camlistore
@@ -92,6 +96,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [Kademlia](http://en.wikipedia.org/wiki/Kademlia) is a distributed hash table for decentralized peer-to-peer computer networks
 
+### Kune
+
+[Kune](http://kune.cc/) is based on Apache Wave and is a free/open source distributed social network focused on collaboration rather than just on communication.[2] That is, it focuses on online real-time collaborative editing, decentralized social networking and web publishing, while focusing on workgroups rather than just on individuals.
+
 ## L
 
 ### LibreVPN
@@ -99,6 +107,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 [LibreVPN](http://librevpn.org.ar) is a virtual mesh network using [tinc](http://tinc-vpn.org) plus configuration scripts that even let you build your own mesh VPN.  It's also IPv6 enabled.
 
 ## M
+
+### Movim
+
+[Movim](http://movim.eu/) is a decentralized open source social network based on XMPP.
 
 ## N
 
@@ -146,6 +158,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 ### pubsubhubbub
 [pubsubhubbub](https://code.google.com/p/pubsubhubbub/) is a simple, open, server-to-server webhook-based pubsub (publish/subscribe) protocol for any web accessible resources.
 
+### pump.io
+
+[pump;io](http://pump.io/) Described as "a stream server that does most of what people really want from a social network". It's a social stream with support for federated comunication.
+
 ## Q
 
 ### qaul.net
@@ -171,6 +187,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 ### Syndie
 
 [Syndie](http://syndie.i2p2.de/)  is an open source system for operating distributed forums offering a secure and consistent interface to various anonymous and non-anonymous content networks.
+
+### StatusNet
+
+[StatusNet](http://status.net/) is an open source microblogging platform that supports federation.
 
 ## T
 
@@ -233,6 +253,10 @@ Tent is a protocol, not a platform. Like email, anyone can build Tent apps or ho
 ### Webfist
 
 [Webfist](http://webfist.org/) is a fallback for when providers don't support WebFinger natively. It lets you do WebFinger lookups for email addresses even if the owner of the domain name isn't playing along. WebFist works because of a judo move on an existing infrastructure: DKIM.
+
+### Wave / Apache Wave
+
+[Wave](http://incubator.apache.org/wave/) is a distributed, near-real-time, rich collaboration platform that allows users to work together in new and exciting ways. Wave allows for flexible modes of communication, blending chat, email and collaborative document editing in to one seamless environment.
 
 ## X
 
