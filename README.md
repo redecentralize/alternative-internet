@@ -43,6 +43,10 @@ Pull requests VERY welcome!
 
 [The Cryptosphere](https://github.com/cryptosphere/cryptosphere) is a global peer-to-peer cryptosystem for publishing and securely distributing both data and HTML5/JS applications pseudonymously with no central point of failure. It's built on top of the next-generation [Networking and Cryptography (NaCl) library](http://nacl.cr.yp.to/) and the Git data model.
 
+### CryptAByte
+
+[CryptAByte](https://cryptabyte.com/) CryptAByte.com is a free online drop box that enables secure (encrypted) message and file sharing over the web using a public-key infrastructure. Messages and files are encrypted using a public key and can only be decrypted using the passphrase entered when your key is created. Your data is never stored in plaintext, and is impossible to decrypt without your passphrase.
+
 ## D
 
 ### Diaspora*
@@ -251,7 +255,7 @@ Tent is a protocol, not a platform. Like email, anyone can build Tent apps or ho
 
 ### TrueCrypt
 
-[TrueCrpyt] (http://www.truecrypt.org/) Free open source disk encryption software for Windows 7/Vista/XP/Mac OSX/ & Linux. Creates a virtual encrypted disk within a file and mounts it as a real disk. Encrypts an entire partition or storage device such as USB flash drive or hard drive. Encrypts a partition or drive where Windows is installed (pre-boot authentication). Encryption is automatic, real-time (on-the-fly) and transparent. Parallelization and pipelining allow data to be read and written as fast as if the drive was not encrypted. Encryption can be hardware-accelerated on modern processors. Provides plausible deniability, in case an adversary forces you to reveal the password: Hidden volume (steganography) and hidden operating system. More informarion on documentation page (http://www.truecrypt.org/docs/) 
+[TrueCrpyt](http://www.truecrypt.org/) Free open source disk encryption software for Windows 7/Vista/XP/Mac OSX/ & Linux. Creates a virtual encrypted disk within a file and mounts it as a real disk. Encrypts an entire partition or storage device such as USB flash drive or hard drive. Encrypts a partition or drive where Windows is installed (pre-boot authentication). Encryption is automatic, real-time (on-the-fly) and transparent. Parallelization and pipelining allow data to be read and written as fast as if the drive was not encrypted. Encryption can be hardware-accelerated on modern processors. Provides plausible deniability, in case an adversary forces you to reveal the password: Hidden volume (steganography) and hidden operating system. More informarion on documentation page (http://www.truecrypt.org/docs/) 
 
 ## U
 
