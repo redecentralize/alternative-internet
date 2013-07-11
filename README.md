@@ -21,6 +21,10 @@ Pull requests VERY welcome!
 
 [BitMessage](https://bitmessage.org/wiki/Main_Page) is a P2P communications protocol used to send encrypted messages to another person or to many subscribers. It is decentralized and trustless, meaning that you need-not inherently trust any entities like root certificate authorities. See [whitepaper](https://bitmessage.org/bitmessage.pdf)
 
++### Books
++[Books](http://en.wikipedia.org/wiki/Books) are a stable, production tested communication protocol suitable for a wide range of information services.
++
+
 ### buddycloud
 
 [buddycloud](http://buddycloud.com/) is a set of tools, open source software and protocols to help you build a distributed social network. All the code is on [GitHub](https://github.com/buddycloud).
