@@ -146,6 +146,11 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 ## P
 
+### P
+[P](http://ozan.io/p/) is a small JavaScript library for creating peer-to-peer applications in browsers. 
+It allows for transitive connections across peers which makes certain network topologies, such mesh networks, 
+easy to establish.
+
 ### PeerCDN
 
 [PeerCDN](https://peercdn.com/) automatically serves a site's static resources (images, videos, and file downloads) over a peer-to-peer network made up of the visitors currently on the site.
