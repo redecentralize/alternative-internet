@@ -23,7 +23,6 @@ Pull requests VERY welcome!
 
 +### Books
 +[Books](http://en.wikipedia.org/wiki/Books) are a stable, production tested communication protocol suitable for a wide range of information services.
-+
 
 ### buddycloud
 
@@ -121,6 +120,12 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 ## M
 [Mixmaster](http://mixmaster.sourceforge.net/) is a remailer network. It represents the second generation of remailers. Mixmaster can be used via a web sites like [Anonymouse](http://anonymouse.org/) or as a stand-alone client.
 
+### Mixmaster
+[Mixmaster](http://mixmaster.sourceforge.net/) is a remailer network. It represents the second generation of remailers. Mixmaster can be used via a web sites like [Anonymouse](http://anonymouse.org/) or as a stand-alone client.
+
+### Mixminion
+[Mixminion](http://mixminion.net/) is a new remailer approach. The so-called type III remailer allows it to receive and send anonymous messages. However the development has stalled and the current software needs improvement.
+
 ### Movim
 
 [Movim](http://movim.eu/) is a decentralized open source social network based on XMPP.
@@ -150,6 +155,11 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 [Osiris](http://www.osiris-sps.org/) is software for decentralized portal, managed and shared via P2P between members.
 
 ## P
+
+### P
+[P](http://ozan.io/p/) is a small JavaScript library for creating peer-to-peer applications in browsers. 
+It allows for transitive connections across peers which makes certain network topologies, such mesh networks, 
+easy to establish.
 
 ### PeerCDN
 
@@ -200,6 +210,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 ### Serval Project
 
 [The Serval Project](http://www.servalproject.org/) lets mobile phones make phone calls to each other peer-to-peer without a base station.
+
+### Sneer
+[Sneer](http://sneer.me) is a free and open source sovereign computing platform. It runs on your Windows, Mac or Linux machine (like Skype or Firefox) using the Java VM. It enables you to create your personal cluster by sharing hardware resources (CPU, disk space, network bandwidth) with your friends, host your own social network, information and media, create sovereign applications and share them with others, download and run sovereign applications created by others.
+You can do all these things directly with your peers, in an autonomous, sovereign way, without depending on online service providers such as email providers, Google, Facebook, etc.
 
 ### Syndie
 
