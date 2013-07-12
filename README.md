@@ -119,6 +119,9 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [Mixmaster](http://mixmaster.sourceforge.net/) is a remailer network. It represents the second generation of remailers. Mixmaster can be used via a web sites like [Anonymouse](http://anonymouse.org/) or as a stand-alone client.
 
+### Mixminion
+[Mixminion](http://mixminion.net/) is a new remailer approach. The so-called type III remailer allows it to receive and send anonymous messages. However the development has stalled and the current software needs improvement.
+
 ### Movim
 
 [Movim](http://movim.eu/) is a decentralized open source social network based on XMPP.
