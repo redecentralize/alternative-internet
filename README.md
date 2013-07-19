@@ -21,6 +21,7 @@ Pull requests VERY welcome!
 
 [BitMessage](https://bitmessage.org/wiki/Main_Page) is a P2P communications protocol used to send encrypted messages to another person or to many subscribers. It is decentralized and trustless, meaning that you need-not inherently trust any entities like root certificate authorities. See [whitepaper](https://bitmessage.org/bitmessage.pdf)
 
+
 ### Books
 [Books](http://en.wikipedia.org/wiki/Books) are a stable, production tested communication protocol suitable for a wide range of information services.
 
@@ -42,6 +43,10 @@ Pull requests VERY welcome!
 
 [The Cryptosphere](https://github.com/cryptosphere/cryptosphere) is a global peer-to-peer cryptosystem for publishing and securely distributing both data and HTML5/JS applications pseudonymously with no central point of failure. It's built on top of the next-generation [Networking and Cryptography (NaCl) library](http://nacl.cr.yp.to/) and the Git data model.
 
+### CryptAByte
+
+[CryptAByte](https://cryptabyte.com/) CryptAByte.com is a free online drop box that enables secure (encrypted) message and file sharing over the web using a public-key infrastructure. Messages and files are encrypted using a public key and can only be decrypted using the passphrase entered when your key is created. Your data is never stored in plaintext, and is impossible to decrypt without your passphrase.
+
 ## D
 
 ### Diaspora*
@@ -50,13 +55,12 @@ Pull requests VERY welcome!
 
 ### DeadC
 
-[DeadC](http://deadc.net/) is the most private way to share links on the internet without being tracked.
+[DeadC](http://deadc.net/) Create a one-click expiring link
 
 ### Drogulus
 
 The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data store. It's an open, federated and decentralised system where the identity of users and provenance of data is ensured by cryptographically signing digital assets.
 [Redecentralise Video interview](http://redecentralize.org/#interviews)
-
 
 ## E
 
@@ -67,7 +71,7 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 ### Firecloud
 
-[Firecloud](http://firecloud.co) is a P2P web publishing platform in your using Persona and WebRTC to work its magic. 
+[Firecloud](http://firecloud.co) is a P2P web publishing platform in your using Persona and WebRTC to work its magic.
 
 ### Freenet
 [Freenet](http://freenetproject.org) is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship. Freenet is decentralised to make it less vulnerable to attack, and if used in "darknet" mode, where users only connect to their friends, is very difficult to detect.
@@ -118,7 +122,6 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 ## M
 
 ### Mixmaster
-
 [Mixmaster](http://mixmaster.sourceforge.net/) is a remailer network. It represents the second generation of remailers. Mixmaster can be used via a web sites like [Anonymouse](http://anonymouse.org/) or as a stand-alone client.
 
 ### Mixminion
@@ -155,8 +158,8 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 ## P
 
 ### P
-[P](http://ozan.io/p/) is a small JavaScript library for creating peer-to-peer applications in browsers. 
-It allows for transitive connections across peers which makes certain network topologies, such mesh networks, 
+[P](http://ozan.io/p/) is a small JavaScript library for creating peer-to-peer applications in browsers.
+It allows for transitive connections across peers which makes certain network topologies, such mesh networks,
 easy to establish.
 
 ### PeerCDN
@@ -267,8 +270,7 @@ Tent is a protocol, not a platform. Like email, anyone can build Tent apps or ho
 
 ### Truecrypt
 
-[TrueCrypt] (http://www.truecrypt.org/) Free open source disk encryption software for Windows 7/Vista/XP/Mac OSX/ & Linux. Creates a virtual encrypted disk within a file and mounts it as a real disk. Encrypts an entire partition or storage device such as USB flash drive or hard drive. Encrypts a partition or drive where Windows is installed (pre-boot authentication). Encryption is automatic, real-time (on-the-fly) and transparent. Parallelization and pipelining allow data to be read and written as fast as if the drive was not encrypted. Encryption can be hardware-accelerated on modern processors. Provides plausible deniability, in case an adversary forces you to reveal the password: Hidden volume (steganography) and hidden operating system. More informartion on [documentation page](http://www.truecrypt.org/docs/) 
-
+[TrueCrypt](http://www.truecrypt.org/) Free open source disk encryption software for Windows 7/Vista/XP/Mac OSX/ & Linux. Creates a virtual encrypted disk within a file and mounts it as a real disk. Encrypts an entire partition or storage device such as USB flash drive or hard drive. Encrypts a partition or drive where Windows is installed (pre-boot authentication). Encryption is automatic, real-time (on-the-fly) and transparent. Parallelization and pipelining allow data to be read and written as fast as if the drive was not encrypted. Encryption can be hardware-accelerated on modern processors. Provides plausible deniability, in case an adversary forces you to reveal the password: Hidden volume (steganography) and hidden operating system. More information on [documentation page](http://www.truecrypt.org/docs/)
 
 ## U
 
