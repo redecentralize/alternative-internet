@@ -73,6 +73,11 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [Firecloud](http://firecloud.co) is a P2P web publishing platform in your using Persona and WebRTC to work its magic.
 
+### FreedomBox
+
+[Freedom Box](http://freedomboxfoundation.org/) is about privacy, control, ease of use and dehierarchicalization. Inspired by Eben Moglen's vision of a small, cheap and simple computer that serves freedom in the home. We are building a Debian based platform for distributed applications.
+
+
 ### Freenet
 [Freenet](http://freenetproject.org) is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship. Freenet is decentralised to make it less vulnerable to attack, and if used in "darknet" mode, where users only connect to their friends, is very difficult to detect.
 
