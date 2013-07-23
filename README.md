@@ -41,7 +41,7 @@ Pull requests VERY welcome!
 
 ### Cryptosphere
 
-[The Cryptosphere](https://github.com/cryptosphere/cryptosphere) is a global peer-to-peer cryptosystem for publishing and securely distributing both data and HTML5/JS applications pseudonymously with no central point of failure. It's built on top of the next-generation [Networking and Cryptography (NaCl) library](http://nacl.cr.yp.to/) and the Git data model.
+[The Cryptosphere](http://cryptosphere.org/) is a global peer-to-peer cryptosystem for publishing and securely distributing both data and HTML5/JS applications pseudonymously with no central point of failure. It's built on top of the next-generation [Networking and Cryptography (NaCl) library](http://nacl.cr.yp.to/) and the Git data model. (Code)[https://github.com/cryptosphere/cryptosphere]
 
 ### CryptAByte
 
