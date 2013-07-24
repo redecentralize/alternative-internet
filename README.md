@@ -313,6 +313,9 @@ Tent is a protocol, not a platform. Like email, anyone can build Tent apps or ho
 
 [ZeroTier One](https://www.zerotier.com/) is an open source application that creates huge distributed Ethernet networks. It makes use of supernodes, but these run the same code as ordinary nodes and end-to-end encryption protects all unicast traffic. Semi-commercial with a freemium model.
 
+### Zero Bin
+[Zero Bin](https://0bin.net/) is an open source alternative for pastebin with burn-after-read function & client side encryption. Source code is also available on github https://github.com/sametmax/0bin
+
 ## Currencies
 
 ### Bitcoin
