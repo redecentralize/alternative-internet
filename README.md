@@ -167,6 +167,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 It allows for transitive connections across peers which makes certain network topologies, such mesh networks,
 easy to establish.
 
+### PageKite
+
+[PageKite](https://pagekite.net/) is a dynamic reverse proxy designed to allow hosting of live (web-)servers on devices that are mobile, stuck behind strict firewalls or otherwise lack public IPs.
+
 ### PeerCDN
 
 [PeerCDN](https://peercdn.com/) automatically serves a site's static resources (images, videos, and file downloads) over a peer-to-peer network made up of the visitors currently on the site.
