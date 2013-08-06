@@ -26,6 +26,9 @@ Pull requests VERY welcome!
 
 [BitMessage](https://bitmessage.org/wiki/Main_Page) is a P2P communications protocol used to send encrypted messages to another person or to many subscribers. It is decentralized and trustless, meaning that you need-not inherently trust any entities like root certificate authorities. See [whitepaper](https://bitmessage.org/bitmessage.pdf)
 
+### Bitlove
+
+[bitlove-ui](http://bitlove.org/) Bitlove creates Torrents for all enclosures of an RSS/ATOM feed and seeds them for podcasts.
 
 ### Books
 [Books](http://en.wikipedia.org/wiki/Books) are a stable, production tested communication protocol suitable for a wide range of information services.
