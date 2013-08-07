@@ -134,6 +134,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 ## M
 
+### MediaGoblin
+> [GNU MediaGoblin](http://mediagoblin.org) GNU MediaGoblin (also shortened to MediaGoblin or GMG) is a free, decentralized Web platform (server software) for hosting and sharing digital media, aimed at providing an extensible, adaptive, and freedom-respectful software alternative to major media publishing services such as Flickr, deviantArt, YouTube, etc.  
+> -- http://en.wikipedia.org/wiki/MediaGoblin
+
 ### Mixmaster
 [Mixmaster](http://mixmaster.sourceforge.net/) is a remailer network. It represents the second generation of remailers. Mixmaster can be used via a web sites like [Anonymouse](http://anonymouse.org/) or as a stand-alone client.
 
