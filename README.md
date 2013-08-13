@@ -299,7 +299,7 @@ Tent is a protocol, not a platform. Like email, anyone can build Tent apps or ho
 
 ### Trovebox
 
-[Trovebox](https://github.com/photo) is an open source photo sharing webapp (like Instagram), which you can self-host. iOS and Android apps also open source. Uses cloud storage for the actual photos, currently. Originally known as OpenPhoto.
+[Trovebox](https://github.com/photo) is an open source photo sharing webapp (like Instagram), which you can self-host. iOS and Android apps also open source. Uses cloud or local storage for the actual photos. Originally known as OpenPhoto; see also [theopenphotoproject.org](http://theopenphotoproject.org).
 
 ### Truecrypt
 
