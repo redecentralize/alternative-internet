@@ -241,6 +241,11 @@ The [Refuge Project](http://refuge.io/) aims to provide a fully decentralized an
 
 [ShareIt!](http://shareit.es), server-less P2P filesharing application in pure Javascript and HTML5 using WebRTC. Winner of the "Most Innovative Project" on the spanish [Free Software Universitary Championship 2013](http://www.concursosoftwarelibre.org/1213/).
 
+### Smallest Federated Wiki
+
+[Smallest Federated Wiki](http://wardcunningham.github.io/) innovates in three ways. It shares through federation, composes by refactoring and wraps data with visualization.
+The project aims to demonstrate that wiki would have been better had it been effectively federated from the beginning, and explore federation policies necessary to sustain an open creative community.
+
 ### Sneer
 [Sneer](http://sneer.me) is a free and open source sovereign computing platform. It runs on your Windows, Mac or Linux machine (like Skype or Firefox) using the Java VM. It enables you to create your personal cluster by sharing hardware resources (CPU, disk space, network bandwidth) with your friends, host your own social network, information and media, create sovereign applications and share them with others, download and run sovereign applications created by others.
 You can do all these things directly with your peers, in an autonomous, sovereign way, without depending on online service providers such as email providers, Google, Facebook, etc.
