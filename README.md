@@ -154,6 +154,11 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [NameCoin](http://namecoin.info/) is a decentralized naming system based on Bitcoin technology.
 
+### Netsukuku
+
+[Netsukuku](http://netsukuku.freaknet.org) is an ad-hoc network system designed to handle massive numbers of nodes with minimal consumption of CPU and memory resources. It can be used to build a world-wide distributed, fault-tolerant, anonymous, and censorship-immune network, fully independent from the Internet.
+
+
 ### Nightweb
 
 [Nightweb](https://nightweb.net/) connects your Android device or PC to an anonymous, peer-to-peer social network. You can write posts and share photos, and your followers will retrieve them using BitTorrent running over the I2P anonymous network. It is still experimental.
@@ -175,6 +180,7 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 ## P
 
 ### P
+
 [P](http://ozan.io/p/) is a small JavaScript library for creating peer-to-peer applications in browsers.
 It allows for transitive connections across peers which makes certain network topologies, such mesh networks,
 easy to establish.
