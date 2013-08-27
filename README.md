@@ -267,6 +267,10 @@ You can do all these things directly with your peers, in an autonomous, sovereig
 
 [StatusNet](http://status.net/) is an open source microblogging platform that supports federation.
 
+### STEED
+
+[STEED](http://g10code.com/steed.html) is a protocol for opportunistic email encryption, featuring automatic key generation and distribution.
+
 ## T
 
 ### Tahoe-LAFS
