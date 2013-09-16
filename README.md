@@ -311,7 +311,7 @@ Tent is a protocol, not a platform. Like email, anyone can build Tent apps or ho
 
 ### Tox
 
-[Tox](https://github.com/irungentoo/ProjectTox-Core/blob/master/docs/WHY.txt)  The goal of this project is to create a configuration free p2p skype replacement.
+[Tox](https://github.com/irungentoo/ProjectTox-Core#why-are-you-doing-this-there-are-already-a-bunch-of-free-skype-alternatives)  The goal of this project is to create a configuration free p2p skype replacement.
 
 
 ### Tribler
