@@ -337,6 +337,10 @@ Tent is a protocol, not a platform. Like email, anyone can build Tent apps or ho
 
 ## V
 
+### Village Telco
+
+[Village Telco](http://villagetelco.org) is a an easy-to-use, scalable, standards-based, wireless, local, DIY, telephone company toolkit.  Their mission is to making voice and data communication affordable and accessible to anyone.  
+
 ### Vole
 
 [Vole](http://vole.cc/) is a web-based social network that you use in your browser, without a central server. It's built on the power of Bittorrent, Go and Ember.js. Uses bittorrent sync.
