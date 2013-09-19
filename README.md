@@ -223,6 +223,10 @@ easy to establish.
 
 [pump;io](http://pump.io/) Described as "a stream server that does most of what people really want from a social network". It's a social stream with support for federated comunication.
 
+### People's Open Network
+
+[People's Open Network](https://sudoroom.org/wiki/Mesh) is a community mesh network in Oakland, California.
+
 ## Q
 
 ### qaul.net
@@ -354,6 +358,10 @@ Tent is a protocol, not a platform. Like email, anyone can build Tent apps or ho
 ### Wave / Apache Wave
 
 [Wave](http://incubator.apache.org/wave/) is a distributed, near-real-time, rich collaboration platform that allows users to work together in new and exciting ways. Wave allows for flexible modes of communication, blending chat, email and collaborative document editing in to one seamless environment.
+
+### wlan slovenija
+
+[wlan slovenija][http://dev.wlan-si.net/] is developing technologies for easy deployment of community wireless mesh networks. The main idea is that power is in numbers so deployment should be so easy that anybody can do it, that anybody can start a new wireless mesh network and create a new community.
 
 ## X
 
