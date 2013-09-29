@@ -221,7 +221,7 @@ easy to establish.
 
 ### pump.io
 
-[pump;io](http://pump.io/) Described as "a stream server that does most of what people really want from a social network". It's a social stream with support for federated comunication.
+[pump.io](http://pump.io/) Described as "a stream server that does most of what people really want from a social network". It's a social stream with support for federated comunication.
 
 ### People's Open Network
 
@@ -361,7 +361,7 @@ Tent is a protocol, not a platform. Like email, anyone can build Tent apps or ho
 
 ### wlan slovenija
 
-[wlan slovenija][http://dev.wlan-si.net/] is developing technologies for easy deployment of community wireless mesh networks. The main idea is that power is in numbers so deployment should be so easy that anybody can do it, that anybody can start a new wireless mesh network and create a new community.
+[wlan slovenija](http://dev.wlan-si.net/) is developing technologies for easy deployment of community wireless mesh networks. The main idea is that power is in numbers so deployment should be so easy that anybody can do it, that anybody can start a new wireless mesh network and create a new community.
 
 ## X
 
