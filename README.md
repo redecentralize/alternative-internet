@@ -221,7 +221,7 @@ easy to establish.
 
 ### pump.io
 
-[pump;io](http://pump.io/) Described as "a stream server that does most of what people really want from a social network". It's a social stream with support for federated comunication.
+[pump.io](http://pump.io/) Described as "a stream server that does most of what people really want from a social network". It's a social stream with support for federated comunication.
 
 ### People's Open Network
 
