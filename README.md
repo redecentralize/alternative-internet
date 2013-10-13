@@ -341,7 +341,7 @@ Tent is a protocol, not a platform. Like email, anyone can build Tent apps or ho
 
 ### Urbit
 
-[Urbit](https://urbit.org/) - an operating function, from Mars.
+[Urbit](http://www.urbit.org/) - an operating function, from Mars.
 
 ## V
 
