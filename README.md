@@ -339,6 +339,10 @@ Tent is a protocol, not a platform. Like email, anyone can build Tent apps or ho
 
 [Unhosted](https://unhosted.org/) - also known as "serverless", "client-side", or "static" web apps, unhosted web apps do not send your user data to their server. Either you connect your own server at runtime, or your data stays within the browser.
 
+### Urbit
+
+[Urbit](https://urbit.org/) - an operating function, from Mars.
+
 ## V
 
 ### Village Telco
