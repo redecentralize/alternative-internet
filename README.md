@@ -18,6 +18,10 @@ Pull requests VERY welcome!
 
 ## B
 
+### Bitcoin by Mobile
+
+[Bitcoin by Mobile](http://www.bitcoinbymobile.com/) allows Bitcoin newcomers to quickly and easily purchase small sums of Bitcoin using their mobile phone to fund the purchase.
+
 ### BitPhone
 
 [BitPhone](http://www.gullicksonlaboratories.com/projects/bitphone/) is a mobile communications device with the features of a modern smartphone built on top of decentralized BitCoin-style proof-of-work networking.
