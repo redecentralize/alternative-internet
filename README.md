@@ -87,6 +87,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 ### eDonkey network (eD2k)
 [eDonkey network](http://en.wikipedia.org/wiki/EDonkey_network) is a decentralized, mostly server-based, peer-to-peer file sharing network best suited to share big files among users, and to provide long term availability of files
 
+### Enigmabox
+
+The [Enigmabox](http://wiki.enigmabox.net/) is a ready to use cjdns appliance. cjdns is a public-key crypto network protocol, the fingerprint is your IPv6 address. This means, your IP is your identity. So we can use it for various useful things, e.g. as an email address or a phone number. We will start preparing existing internet services like email or VoIP to use cjdns in this decentral manner. Our goal is to encrypt the entire internet, make crypto accessible and make secure and decentralized internet services available for the rest of us.
+
 ## F
 
 ### Firecloud
