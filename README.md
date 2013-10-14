@@ -59,6 +59,10 @@ Pull requests VERY welcome!
 
 [Cowbox](http://ideelibre.fr/cowbox/index.php/Main_Page) is a hand-held standalone server, broadcasting its own network and containing web applications for coworking.
 
+### Cozy Cloud
+
+[Cozy](http://cozy.io) is an open personal cloud you can host, hack and delete. It is easy for end users : you deploy the wanted apps in a click in the open "market place" (Cozy is a [pPaaS](http://cozy.io/hack/getting-started/architecture-overview.html), a personal PaaS). It is easy to developp your own apps (node.js for now) : it is not a SDK ! Your services share your data : contacts, agenda, bank account details, history of geolocation... any data can be re used by any apps... no more silos ! This is achieved thanks to the [DataSystem](http://cozy.io/hack/getting-started/architecture-overview.html).
+
 ### Cryptosphere
 
 [The Cryptosphere](http://cryptosphere.org/) is a global peer-to-peer cryptosystem for publishing and securely distributing both data and HTML5/JS applications pseudonymously with no central point of failure. It's built on top of the next-generation [Networking and Cryptography (NaCl) library](http://nacl.cr.yp.to/) and the Git data model. [Code](https://github.com/cryptosphere/cryptosphere)
