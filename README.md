@@ -237,6 +237,11 @@ easy to establish.
 [Phantom](https://code.google.com/p/phantom/) is (was?) a system for generic, decentralized, unstoppable internet anonymity
 
 
+### PirateBox
+
+[PirateBox](http://daviddarts.com/piratebox/) is a self-contained mobile communication and file sharing device. Simply turn it on to transform any space into a free and open communications and file sharing network.
+
+
 ### Project Byzantium
 
 [Project Byzantium](http://project-byzantium.org/) - Ad-hoc wireless mesh networking for the zombie apocalypse. The goal of Project Byzantium is to develop a communication system by which users can connect to each other and share information in the absence of convenient access to the Internet.  This is done by setting up an ad-hoc wireless mesh network that offers services which replace popular websites often used for this purpose, such as Twitter and IRC.
