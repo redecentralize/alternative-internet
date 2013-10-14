@@ -314,6 +314,9 @@ You can do all these things directly with your peers, in an autonomous, sovereig
 ### Sparkleshare
 [Sparkleshare](http://sparkleshare.org/) is a self-hosted file sync service, similar to Dropbox and based on Git.
 
+### StreamRoot
+[StreamRoot](http://www.streamroot.io/) is JavaScript in-browser video player using WebRTC. It creates a real-time peer-to-peer sharing network of users watching the same videos simultaniously, and reduces the origin server's bandwidth usage. 
+
 ### Syndie
 
 [Syndie](http://syndie.i2p2.de/)  is an open source system for operating distributed forums offering a secure and consistent interface to various anonymous and non-anonymous content networks.
