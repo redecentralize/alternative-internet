@@ -143,7 +143,7 @@ The [Enigmabox](http://wiki.enigmabox.net/) is a ready to use cjdns appliance. c
 
 ### Guifi
 
-[Guifi](http://guifi.net/) is a european (especially spanish) large network with over 22000 active nodes. Uses wifi in both infrastructure and mesh mode. Over 25km of fiber as well so far.
+[Guifi](http://guifi.net/) is a european (especially from Catalonia, Spain) large network with over 22000 active nodes. Uses wifi in both infrastructure and mesh mode. Over 25km of fiber as well so far.
 
 ## H
 
