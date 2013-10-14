@@ -55,6 +55,10 @@ Pull requests VERY welcome!
 
 [Commotion Wireless](https://commotionwireless.net) is an open-source communication tool that uses mobile phones, computers, and other wireless devices to create decentralized mesh networks.
 
+### Cowbox
+
+[Cowbox](http://ideelibre.fr/cowbox/index.php/Main_Page) is a hand-held standalone server, broadcasting its own network and containing web applications for coworking.
+
 ### Cryptosphere
 
 [The Cryptosphere](http://cryptosphere.org/) is a global peer-to-peer cryptosystem for publishing and securely distributing both data and HTML5/JS applications pseudonymously with no central point of failure. It's built on top of the next-generation [Networking and Cryptography (NaCl) library](http://nacl.cr.yp.to/) and the Git data model. [Code](https://github.com/cryptosphere/cryptosphere)
@@ -155,6 +159,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 ### Libertree
 
 [Libertree](http://libertreeproject.org/) is free, libre, open-source software which is intended to provide a way for people to create their own social network. Libertree social networks can be free from commercial influence and manifestation, such as behaviour tracking, user profiling, advertising, data mining and analysis, and covert information filtering.
+
+### LibraryBox
+
+[LibraryBox](http://jasongriffey.net/librarybox/)  is an open source, portable digital file distribution tool based on inexpensive hardware that enables delivery of educational, healthcare, and other vital information to individuals off the grid.
 
 ### LibreVPN
 
