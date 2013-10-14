@@ -18,6 +18,11 @@ Pull requests VERY welcome!
 
 ## B
 
+### BipIO
+
+[BipIO](https://bip.io) is an open source personal content and workflow automation platform.  'Bips' are dynamic named graphs which are cheap to create, can auto-expire, and serve or transform public/private content across multiple protocols.
+
+
 ### BitPhone
 
 [BitPhone](http://www.gullicksonlaboratories.com/projects/bitphone/) is a mobile communications device with the features of a modern smartphone built on top of decentralized BitCoin-style proof-of-work networking.
