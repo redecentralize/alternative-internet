@@ -286,7 +286,12 @@ easy to establish.
 
 [Project Meshnet](https://projectmeshnet.org/) aims to build a sustainable decentralized alternative internet. Used by [Hyperboria](http://hyperboria.net/) and built on [CJDNS](http://cjdns.info/).
 
+### Psyced
+
+[Psyced](http://www.psyced.org/) is a scalable multi-protocol multi-casting chat, messaging and social server solution to build decentralized chat networks upon, released as open source.
+
 ### pubsubhubbub
+
 [pubsubhubbub](https://code.google.com/p/pubsubhubbub/) is a simple, open, server-to-server webhook-based pubsub (publish/subscribe) protocol for any web accessible resources.
 
 ### pump.io
