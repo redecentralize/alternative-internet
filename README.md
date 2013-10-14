@@ -152,6 +152,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 ## L
 
+### Libertree
+
+[Libertree](http://libertreeproject.org/) is free, libre, open-source software which is intended to provide a way for people to create their own social network. Libertree social networks can be free from commercial influence and manifestation, such as behaviour tracking, user profiling, advertising, data mining and analysis, and covert information filtering.
+
 ### LibreVPN
 
 [LibreVPN](http://librevpn.org.ar) is a virtual mesh network using [tinc](http://tinc-vpn.org) plus configuration scripts that even let you build your own mesh VPN.  It's also IPv6 enabled.
