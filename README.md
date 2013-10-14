@@ -138,6 +138,11 @@ The [Enigmabox](http://wiki.enigmabox.net/) is a ready to use cjdns appliance. c
 
 ## H
 
+### Hyperboria
+
+[Hyperboria](http://hyperboria.net/) is a global decentralized network of "nodes" running cjdns software. The goal of Hyperboria is to provide an alternative to the internet with the principles of security, scalability and decentralization at the core. Anyone can participate in the network by locating a peer that is already connected.
+
+
 ## I
 
 [Idno](http://idno.co/) is a distributed social publishing platform for companies, groups and individuals, based on [IndieWeb](http://indiewebcamp.com) technologies. All the code is available on [GitHub](https://github.com/idno/idno).
