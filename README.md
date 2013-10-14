@@ -486,3 +486,9 @@ Tent is a protocol, not a platform. Like email, anyone can build Tent apps or ho
 ### Others
 
 See [bitcointalk](https://bitcointalk.org/index.php?topic=134179.0) for a list of others.
+
+## Techniques and ideas
+
+### Decentralized storage of personal information
+
+A proposal for [protection against identity theft](http://codeforcode.com/blog/2013/9/21/how-to-do-online-accounts-better) that works by decentralizing the storage of personal information. Using such a strategy would make websites less enticing targets for hackers and would allow users to be in control of where and how their personal information is stored.
