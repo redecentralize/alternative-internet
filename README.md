@@ -104,6 +104,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 [GNUnet](https://gnunet.org/) is GNU's framework for secure peer-to-peer networking that does not use any centralized or otherwise trusted services.
 
+### G0Bin
+
+[G0Bin](https://github.com/jyap808/g0bin) is a client side encrypted pastebin written in Go. The server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+
 ### Grimwire
 
 [Grimwire](http://blog.grimwire.com/#2013-04-04-grimwire.md) is a browser OS which uses Web Workers for process isolation, and WebRTC for peer-to-peer communication.
