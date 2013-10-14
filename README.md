@@ -154,6 +154,8 @@ The [Enigmabox](http://wiki.enigmabox.net/) is a ready to use cjdns appliance. c
 
 ## I
 
+### Idno
+
 [Idno](http://idno.co/) is a distributed social publishing platform for companies, groups and individuals, based on [IndieWeb](http://indiewebcamp.com) technologies. All the code is available on [GitHub](https://github.com/idno/idno).
 
 ### I2P
