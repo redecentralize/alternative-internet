@@ -240,7 +240,7 @@ easy to establish.
 ## R
 
 ### Red Matrix
-The [Red Matrix](https://github.com/friendica/red) is a decentrliased identity and communications platform which provides internet-wide single-sign-on with nomadic identity, internet-wide access control, communications, content management and personal cloud storage.
+The [Red Matrix](https://github.com/friendica/red) is a decentralised identity and communications platform which provides internet-wide single-sign-on with nomadic identity, internet-wide access control, communications, content management and personal cloud storage.
 
 ### Refuge
 
