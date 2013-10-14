@@ -97,6 +97,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 ## G
 
+### gitsync
+
+[gitsync](https://github.com/raybejjani/gitsync) is a git repository synchronisation and discovery tool. It's goal is to allow developers to coordinate without a central master repository.
+
 ### GNUnet
 
 [GNUnet](https://gnunet.org/) is GNU's framework for secure peer-to-peer networking that does not use any centralized or otherwise trusted services.
