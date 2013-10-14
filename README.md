@@ -22,6 +22,9 @@ Pull requests VERY welcome!
 
 [BipIO](https://bip.io) is an open source personal content and workflow automation platform.  'Bips' are dynamic named graphs which are cheap to create, can auto-expire, and serve or transform public/private content across multiple protocols.
 
+### Bitcoin by Mobile
+
+[Bitcoin by Mobile](http://www.bitcoinbymobile.com/) allows Bitcoin newcomers to quickly and easily purchase small sums of Bitcoin using their mobile phone to fund the purchase.
 
 ### BitPhone
 
@@ -159,7 +162,7 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 [Mailpile](http://www.mailpile.is/) is free software, a web-mail program that you run on your own computer, so your data stays under your control. Because it is free software (a.k.a. open source), you can look under the hood and see how it works, or even modify it to make it better suit your particular needs. Mailpile is designed for speed and vast amounts of e-mail, it is flexible and themeable and has support for strong encryption built in from the very start.
 
 ### MediaGoblin
-> [GNU MediaGoblin](http://mediagoblin.org) GNU MediaGoblin (also shortened to MediaGoblin or GMG) is a free, decentralized Web platform (server software) for hosting and sharing digital media, aimed at providing an extensible, adaptive, and freedom-respectful software alternative to major media publishing services such as Flickr, deviantArt, YouTube, etc.  
+> [GNU MediaGoblin](http://mediagoblin.org) GNU MediaGoblin (also shortened to MediaGoblin or GMG) is a free, decentralized Web platform (server software) for hosting and sharing digital media, aimed at providing an extensible, adaptive, and freedom-respectful software alternative to major media publishing services such as Flickr, deviantArt, YouTube, etc.
 > -- http://en.wikipedia.org/wiki/MediaGoblin
 
 ### Mixmaster
@@ -368,7 +371,7 @@ Tent is a protocol, not a platform. Like email, anyone can build Tent apps or ho
 
 ### Village Telco
 
-[Village Telco](http://villagetelco.org) is a an easy-to-use, scalable, standards-based, wireless, local, DIY, telephone company toolkit.  Their mission is to making voice and data communication affordable and accessible to anyone.  
+[Village Telco](http://villagetelco.org) is a an easy-to-use, scalable, standards-based, wireless, local, DIY, telephone company toolkit.  Their mission is to making voice and data communication affordable and accessible to anyone.
 
 ### Vole
 
