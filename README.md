@@ -63,9 +63,10 @@ Pull requests VERY welcome!
 
 [Cowbox](http://ideelibre.fr/cowbox/index.php/Main_Page) is a hand-held standalone server, broadcasting its own network and containing web applications for coworking.
 
-### Cozy Cloud
+### Cozy
 
-[Cozy](http://cozy.io) is an open personal cloud you can host, hack and delete. It is easy for end users : you deploy the wanted apps in a click in the open "market place" (Cozy is a [pPaaS](http://cozy.io/hack/getting-started/architecture-overview.html), a personal PaaS). It is easy to developp your own apps (node.js for now) : it is not a SDK ! Your services share your data : contacts, agenda, bank account details, history of geolocation... any data can be re used by any apps... no more silos ! This is achieved thanks to the [DataSystem](http://cozy.io/hack/getting-started/architecture-overview.html).
+[Cozy](http://cozy.io) is a personal cloud you can host, hack and delete. With Cozy, you manage your web apps like you were on your smartphone. It provides an open market place from where you can install the web app you made yourself (Cozy is a [personal PaaS](http://cozy.io/hack/getting-started/architecture-overview.html)). Today, the most successful applications are Contact and Calendar managers that you can synchronize with any device. Check the [demo](https://demo.cozycloud.cc) to discover more applications.
+
 
 ### Cryptosphere
 
