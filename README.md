@@ -51,6 +51,10 @@ Pull requests VERY welcome!
 
 [Camlistore](http://camlistore.org/) is your personal storage system for life. It is an acronym for "Content-Addressable Multi-Layer Indexed Storage" and could be described as "Like git for all content in your life"
 
+### cjdns
+
+[cjdns](http://cjdns.info/) - Encrypted networking for regular people. cjdns implements an encrypted IPv6 network using public key cryptography for address allocation and a distributed hash table for routing. This provides near zero-configuration networking without many of the security and robustness issues that regular IPv4 and IPv6 networks have.
+
 ### Commotion Wireless
 
 [Commotion Wireless](https://commotionwireless.net) is an open-source communication tool that uses mobile phones, computers, and other wireless devices to create decentralized mesh networks.
