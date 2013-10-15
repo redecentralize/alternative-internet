@@ -106,6 +106,10 @@ The [Enigmabox](http://wiki.enigmabox.net/) is a ready to use cjdns appliance. c
 
 [Firecloud](http://firecloud.co) is a P2P web publishing platform in your using Persona and WebRTC to work its magic.
 
+### Firestr
+
+[Firestr](http://github.com/mempko/firestr) is a simple decentralized communication and computation platform. Apps are written in Lua and are pushed to peers where they automatically run and connect. All communication is P2P and encrypted.
+
 ### FreedomBox
 
 [Freedom Box](http://freedomboxfoundation.org/) is about privacy, control, ease of use and dehierarchicalization. Inspired by Eben Moglen's vision of a small, cheap and simple computer that serves freedom in the home. We are building a Debian based platform for distributed applications.
