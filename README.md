@@ -331,6 +331,14 @@ The [Refuge Project](http://refuge.io/) aims to provide a fully decentralized an
 
 ## S
 
+### Samizdat
+
+Samizdat is a self-replicating LiveCD which creates an IPSec VPN between each newly-created LiveCD node and the system that created it.  It is thus "rhizomal" in the sense of Serval, but its objectives are more like those of arkOS: each node runs peer-to-peer services intended to replace the centralized services of github, skype, facebook, gmail, etc..  Samizdat provides strong cryptography for authentication of users over the network, and full disk encryption for installed systems, providing novice users fully-automated (zero-learning-curve) access to high-grade security.  Samizdat's installer does not ask any questions of the user except where to install.  The goal of Samizdat is to provide the benefits of public key cryptography to users who do not even understand what public key cryptography is.
+
+(Samizdat is also -- incidentally -- a generic framework for creating and managing LiveCD images for other purposes, such as managing multiple systems on a LAN, or system backup.)
+
+Send mail to samizdat@lists.riseup.net (public mailing list) or samizdat@childrenofmay.org (private email of project founder) for more information.
+
 ### Serval Project
 
 [The Serval Project](http://www.servalproject.org/) lets mobile phones make phone calls to each other peer-to-peer without a base station.
