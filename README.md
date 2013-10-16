@@ -55,6 +55,10 @@ Pull requests VERY welcome!
 
 [cjdns](http://cjdns.info/) - Encrypted networking for regular people. cjdns implements an encrypted IPv6 network using public key cryptography for address allocation and a distributed hash table for routing. This provides near zero-configuration networking without many of the security and robustness issues that regular IPv4 and IPv6 networks have.
 
+### Coinpunk
+
+[Coinpunk](http://coinpunk.org/) is a web application that allows anyone to run their own self-hosted Bitcoin wallet service that is accessible from your web browser anywhere in the world. It's free, open source, and you can install it on your server right now.
+
 ### Commotion Wireless
 
 [Commotion Wireless](https://commotionwireless.net) is an open-source communication tool that uses mobile phones, computers, and other wireless devices to create decentralized mesh networks.
@@ -248,7 +252,7 @@ The [Enigmabox](http://wiki.enigmabox.net/) is a ready to use cjdns appliance. c
 
 [Osiris](http://www.osiris-sps.org/) is software for decentralized portal, managed and shared via P2P between members.
 
-### ownCloud 
+### ownCloud
 
 [ownCloud](http://www.owncloud.org/) is personal cloud software with a focus on ease of use and syncing, mobile clients and a wide range of applications.
 
@@ -360,7 +364,7 @@ You can do all these things directly with your peers, in an autonomous, sovereig
 [Sparkleshare](http://sparkleshare.org/) is a self-hosted file sync service, similar to Dropbox and based on Git.
 
 ### StreamRoot
-[StreamRoot](http://www.streamroot.io/) is JavaScript in-browser video player using WebRTC. It creates a real-time peer-to-peer sharing network of users watching the same videos simultaniously, and reduces the origin server's bandwidth usage. 
+[StreamRoot](http://www.streamroot.io/) is JavaScript in-browser video player using WebRTC. It creates a real-time peer-to-peer sharing network of users watching the same videos simultaniously, and reduces the origin server's bandwidth usage.
 
 ### SubToMe
 [SubToMe](http://subtome.com) is a universal follow button. It decouples the publishing platform and the subscribing platform so that it's as easy to follow someone's RSS/Atom feed than it is to follow them on Twitter or Google+!
