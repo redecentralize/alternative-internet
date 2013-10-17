@@ -459,6 +459,10 @@ Tent is a protocol, not a platform. Like email, anyone can build Tent apps or ho
 
 [Webfist](http://webfist.org/) is a fallback for when providers don't support WebFinger natively. It lets you do WebFinger lookups for email addresses even if the owner of the domain name isn't playing along. WebFist works because of a judo move on an existing infrastructure: DKIM.
 
+### weborganiZm
+
+[weborganiZm] (http://weborganizm.org/) is an Ad-Free NON-indexed network for creating and sharing of the knowledges that follows these principles: Non-Profit, Reproducible, Reinforcing the Digital Commons, Grassroots.
+
 ### Wave / Apache Wave
 
 [Wave](http://incubator.apache.org/wave/) is a distributed, near-real-time, rich collaboration platform that allows users to work together in new and exciting ways. Wave allows for flexible modes of communication, blending chat, email and collaborative document editing in to one seamless environment.
