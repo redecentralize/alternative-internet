@@ -252,6 +252,9 @@ The [Enigmabox](http://wiki.enigmabox.net/) is a ready to use cjdns appliance. c
 
 [Osiris](http://www.osiris-sps.org/) is software for decentralized portal, managed and shared via P2P between members.
 
+### Ostel
+[Ostel](https://ocstel.co) is part of the Open Secure Telephony Network (OSTN) by the [Guardian-Project](https://guardianproject.info/). The goal is promoting free, open protocols, standards and software and to power end-to-end encrypted voice communications on mobile devices and desktop computers. They use standards such as SRTP, ZRTP, and SIP(over TLS). Clients are available for nearly every platform.
+
 ### ownCloud
 
 [ownCloud](http://www.owncloud.org/) is personal cloud software with a focus on ease of use and syncing, mobile clients and a wide range of applications.
