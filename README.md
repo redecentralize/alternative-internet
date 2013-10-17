@@ -225,10 +225,12 @@ The [Enigmabox](http://wiki.enigmabox.net/) is a ready to use cjdns appliance. c
 
 [NameCoin](http://namecoin.info/) is a decentralized naming system based on Bitcoin technology.
 
+### Neocities
+[Neocities](http://neocities.org) is a free webhosting service in the style of [geocities](https://en.wikipedia.org/wiki/GeoCities#History). 10MB, custom domains, no PHP or other languages supported, just plain HTML/CSS/JS.
+
 ### Netsukuku
 
 [Netsukuku](http://netsukuku.freaknet.org) is an ad-hoc network system designed to handle massive numbers of nodes with minimal consumption of CPU and memory resources. It can be used to build a world-wide distributed, fault-tolerant, anonymous, and censorship-immune network, fully independent from the Internet.
-
 
 ### Nightweb
 
@@ -251,6 +253,9 @@ The [Enigmabox](http://wiki.enigmabox.net/) is a ready to use cjdns appliance. c
 ### Osiris
 
 [Osiris](http://www.osiris-sps.org/) is software for decentralized portal, managed and shared via P2P between members.
+
+### Ostel
+[Ostel](https://ostel.co/) is a tool for end-to-end encrypted phone calls developed with the [Guardian Project](https://guardianproject.info/). It uses SRTP/ZRTP and SIP(over TLS). Clients are available for nearly every platform.
 
 ### ownCloud
 
