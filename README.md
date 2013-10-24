@@ -366,7 +366,7 @@ You can do all these things directly with your peers, in an autonomous, sovereig
 ### Sparkleshare
 [Sparkleshare](http://sparkleshare.org/) is a self-hosted file sync service, similar to Dropbox and based on Git.
 
-### Startkit
+### Starkit
 [Starkit](http://www.starkitsystems.com/) is a private cloud plug-n-play secure email server for private communication allowing you the benefits of secure email as soon as you turn it on. Bundled with Web-based interface for anywhere access. Apart from a Secure Mail Server You can use Starkit as your Secure Private Cloud storage to save important documents, photos and videos and access your stuff from anywhere. Requires zero maintenance. 
 
 ### StreamRoot
