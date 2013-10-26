@@ -271,6 +271,10 @@ easy to establish.
 
 [PageKite](https://pagekite.net/) is a dynamic reverse proxy designed to allow hosting of live (web-)servers on devices that are mobile, stuck behind strict firewalls or otherwise lack public IPs.
 
+### Pangaia
+
+[Social-Garden](http://pangaia.sourceforge.net/) is a *complete* information model with a p2p network and 3-d visualization layer to scale to billions and re-make the entire Internet.
+
 ### PeerCDN
 
 [PeerCDN](https://peercdn.com/) automatically serves a site's static resources (images, videos, and file downloads) over a peer-to-peer network made up of the visitors currently on the site.
