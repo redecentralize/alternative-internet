@@ -47,6 +47,10 @@ Pull requests VERY welcome!
 
 ## C
 
+### Cables
+
+[Cables communication](http://dee.su/cables) implements secure and anonymous communication using email-like addresses, pioneered in Liberté Linux. Cables communication is Liberté's pivotal component for enabling anyone to communicate safely and covertly in hostile environments.
+
 ### Camlistore
 
 [Camlistore](http://camlistore.org/) is your personal storage system for life. It is an acronym for "Content-Addressable Multi-Layer Indexed Storage" and could be described as "Like git for all content in your life"
