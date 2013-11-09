@@ -141,6 +141,10 @@ The [Enigmabox](http://wiki.enigmabox.net/) is a ready to use cjdns appliance. c
 
 [GNUnet](https://gnunet.org/) is GNU's framework for secure peer-to-peer networking that does not use any centralized or otherwise trusted services.
 
+### GNU social
+
+[GNU social](https://gnu.org/s/social) is a free software microblogging and privacy-aware social platform that supports OStatus federation, based on [StatusNet](http://status.net/) and Mikael Nordfeldth's Free Social.
+
 ### G0Bin
 
 [G0Bin](https://github.com/jyap808/g0bin) is a client side encrypted pastebin written in Go. The server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
@@ -384,7 +388,7 @@ You can do all these things directly with your peers, in an autonomous, sovereig
 
 ### StatusNet
 
-[StatusNet](http://status.net/) is an open source microblogging platform that supports federation.
+StatusNet became [GNU social](#GNU social).
 
 ### STEED
 
