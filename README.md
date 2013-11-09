@@ -448,6 +448,10 @@ Tent is a protocol, not a platform. Like email, anyone can build Tent apps or ho
 
 [Unhosted](https://unhosted.org/) - also known as "serverless", "client-side", or "static" web apps, unhosted web apps do not send your user data to their server. Either you connect your own server at runtime, or your data stays within the browser.
 
+### unSYSTEM
+
+[unSYSTEM](http://unsystem.net/) is a collective dedicated to creating popular tools that promote privacy, independence, and integrity in contradistinction to those used for mass surveillance and suppression.  Software projects include [Libbitcoin](https://libbitcoin.dyne.org/), [SX](https://sx.dyne.org/), and [Lorea](#Lorea).
+
 ### Urbit
 
 [Urbit](http://www.urbit.org/) - an operating function, from Mars.
@@ -523,7 +527,7 @@ Tent is a protocol, not a platform. Like email, anyone can build Tent apps or ho
 
 ### Others
 
-See [bitcointalk](https://bitcointalk.org/index.php?topic=134179.0) for a list of others.
+See [unSYSTEM](#unSYSTEM) above, and [bitcointalk](https://bitcointalk.org/index.php?topic=134179.0) for a list of others.
 
 ## Techniques and ideas
 
