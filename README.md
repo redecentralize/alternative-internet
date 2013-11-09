@@ -196,6 +196,10 @@ The [Enigmabox](http://wiki.enigmabox.net/) is a ready to use cjdns appliance. c
 
 [LibreVPN](http://librevpn.org.ar) is a virtual mesh network using [tinc](http://tinc-vpn.org) plus configuration scripts that even let you build your own mesh VPN.  It's also IPv6 enabled.
 
+### Lorea
+
+[Lorea](https://lorea.org/) researches free software Internet tools to emancipate your social networks where autonomy, group collaboration, and privacy matter.  Since 2009, Lorea has been _(re-)taking the networks_, with its flagship [N-1](https://n-1.cc/) seed.
+
 ## M
 
 ### Mailpile
