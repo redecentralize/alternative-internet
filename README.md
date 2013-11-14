@@ -437,6 +437,10 @@ Tent is a protocol, not a platform. Like email, anyone can build Tent apps or ho
 
 [Tidepools](http://tidepools.co) is being developed within the [Red Hook Mesh Network](http://oti.newamerica.net/blogposts/2013/case_study_red_hook_initiative_wifi_tidepools-78575), for addressing local, social incentives for mesh use. An Open Source, Collaborative, Mobile Mapping & Social Hub, Reflecting Community Needs & Culture through Custom Apps, Time-based Maps, & Data Feeds.
 
+### Tomb
+
+Dyne's [Tomb](https://tomb.dyne.org/) the crypto-undertaker is free software for easy encryption and backup of personal files, written in a single ZShell script that is easy to review and links commonly shared components (such as cryptsetup), unlike [TrueCrypt](#Truecrypt).  Tomb implements and encourages OPSEC best-practice, and comes with bind and execution hooks, steganography of keys and fast search over filenames and contents, and a graphical user interface.
+
 ### Tonika
 
 [Tonika](http://pdos.csail.mit.edu/~petar/5ttt.org/) is a  (digital) social network, which (by design) restricts direct communication to pairs of users who are friends, possesses many of the security properties (privacy, anonymity, deniability, resilience to denial-of-service attacks, etc.) that human sociaties implement organically in daily life.
