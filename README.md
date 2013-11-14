@@ -520,6 +520,10 @@ Tent is a protocol, not a platform. Like email, anyone can build Tent apps or ho
 
 [Yaler](https://yaler.net/) is a simple, open and scalable relay infrastructure for secure Web and SSH access to embedded systems located behind a firewall, NAT or mobile network router.
 
+### Younity
+
+[Younity](http://getyounity.com/) is a "personal cloud" that lets users share their files between their devices, without uploading them to one centralised server. 
+
 ## Z
 
 ### ZeroTier One
