@@ -1,6 +1,6 @@
 # Resources
 
-Further reading on the movement to redecentralise the internet (or the 'Indie Web' as it is sometimes called). If you'd like to learn more, or get involved, read on.
+Further reading on the movement to redecentralise the internet. (Also called the 'Indie Web'). If you'd like to learn more, or get involved, read on.
 
 ## Online articles
 
