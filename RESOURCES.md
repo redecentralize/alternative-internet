@@ -16,9 +16,9 @@ Online communities connected with these ideas.
 
 Projects representing the idea as a whole, rather than working on a specific software implementation.
 
-* [Redecentralise](http://redecentralize.org/) - a website which publishes video interviews with people working on decentralised internet software.
-* [IndieWebCamp](http://indiewebcamp.com/) - 'a 2-day creator camp focused on growing the independent web'.
 * [Federated Social Web Community Group](http://www.w3.org/community/fedsocweb/) - A community sub-group of the World Wide Web Consortium on the 'Federated Social Web'.
+* [IndieWebCamp](http://indiewebcamp.com/) - 'a 2-day creator camp focused on growing the independent web'.
+* [Redecentralise](http://redecentralize.org/) - a website which publishes video interviews with people working on decentralised internet software.
 
 ### Forums
 
