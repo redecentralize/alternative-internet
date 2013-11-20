@@ -6,7 +6,7 @@ Further reading on the movement to redecentralise the internet. (Also called the
 
 Articles and blog posts.
 
-* [Meet the Hackers Who Want to Jailbreak the Internet](http://www.wired.com/wiredenterprise/2013/08/indie-web/) - an article on wired.com about the 'Indie Web'.
+* [Meet the Hackers Who Want to Jailbreak the Internet](http://www.wired.com/wiredenterprise/2013/08/indie-web/) - an article on wired.com about the Indie Web.
 
 ## Web Communities
 
