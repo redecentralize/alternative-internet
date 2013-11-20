@@ -2,6 +2,10 @@
 
 More general resources on the movement to redecentralise the internet. (Also called the Indie Web movement). If it's not a link to a specific project, it belongs here.
 
+## Techniques and ideas
+
+* A proposal for [protection against identity theft](http://codeforcode.com/blog/2013/9/21/how-to-do-online-accounts-better) that works by decentralizing the storage of personal information. Using such a strategy would make websites less enticing targets for hackers and would allow users to be in control of where and how their personal information is stored.
+
 ## Online articles
 
 Articles and blog posts.
