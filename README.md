@@ -262,6 +262,10 @@ The [Enigmabox](http://wiki.enigmabox.net/) is a ready to use cjdns appliance. c
 
 [Nightweb](https://nightweb.net/) connects your Android device or PC to an anonymous, peer-to-peer social network. You can write posts and share photos, and your followers will retrieve them using BitTorrent running over the I2P anonymous network. It is still experimental.
 
+### NixOS
+
+[NixOS](http://nixos.org/) itself is a GNU/Linux distribution. It consists of several sub projects. Nix is the package manager. It is purely functional, it can rollback to old versions and also allows to have more than one version of a software installed. Hydra and Disnix are build and deployment systems.
+
 ### Nymote
 
 [Nymote](http://nymote.org) is a set of tools and software infrastructure, created from the ground up, to provide end-users with life-long control of their networks and personal data. It starts with fundamental infrastructure to solve the problems around operating systems for the future, identity for users and devices and data-persistence across those devices. Think of it as the toolstack to recapture the original vision of a resilient, decentralised Internet.
