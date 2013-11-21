@@ -202,6 +202,10 @@ The [Enigmabox](http://wiki.enigmabox.net/) is a ready to use cjdns appliance. c
 
 [Kademlia](http://en.wikipedia.org/wiki/Kademlia) is a distributed hash table for decentralized peer-to-peer computer networks
 
+### Keybits
+
+[Keybits](http://keybits.net) makes it easy to run your own personal server. Setup and maintenance is made simple by using Docker and Ansible. (Similar to Sovereign but using Docker to 'containerize' applications.)
+
 ### Kune
 
 [Kune](http://kune.cc/) is based on Apache Wave and is a free/open source distributed social network focused on collaboration rather than just on communication.[2] That is, it focuses on online real-time collaborative editing, decentralized social networking and web publishing, while focusing on workgroups rather than just on individuals.
