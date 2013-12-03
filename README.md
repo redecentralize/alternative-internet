@@ -548,6 +548,10 @@ Dyne's [Tomb](https://tomb.dyne.org/) the crypto-undertaker is free software for
 
 [Younity](http://getyounity.com/) is a "personal cloud" that lets users share their files between their devices, without uploading them to one centralised server. 
 
+### YunoHost
+
+[YunoHost](https://doc.yunohost.org) is a server operating system aiming to make self-hosting accessible to everyone.
+
 ## Z
 
 ### ZeroTier One
