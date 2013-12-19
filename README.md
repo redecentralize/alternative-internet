@@ -406,6 +406,10 @@ The project aims to demonstrate that wiki would have been better had it been eff
 [Sneer](http://sneer.me) is a free and open source sovereign computing platform. It runs on your Windows, Mac or Linux machine (like Skype or Firefox) using the Java VM. It enables you to create your personal cluster by sharing hardware resources (CPU, disk space, network bandwidth) with your friends, host your own social network, information and media, create sovereign applications and share them with others, download and run sovereign applications created by others.
 You can do all these things directly with your peers, in an autonomous, sovereign way, without depending on online service providers such as email providers, Google, Facebook, etc.
 
+### SocietyOfMind
+
+[SocietyOfMind](http://github.com/theProphet/SocietyOfMind) is a *complete* information model to make a p2p network and 3-d visualization layer that can scale to billions, re-make the Internet, and form a meta-mind for the planet.  For the full scope of the project and philosophy see the [wiki](http://pangaia.sourceforge.net/).
+
 ### Sparkleshare
 [Sparkleshare](http://sparkleshare.org/) is a self-hosted file sync service, similar to Dropbox and based on Git.
 
