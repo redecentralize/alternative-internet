@@ -273,7 +273,7 @@ easy to establish.
 
 ### Pangaia
 
-[Social-Garden](http://pangaia.sourceforge.net/) is a *complete* information model with a p2p network and 3-d visualization layer to scale to billions and re-make the entire Internet.
+[SocietyOfMind](http://pangaia.sourceforge.net/) is a *complete* information model forming a meta-mind via a p2p network and 3-d visualization layer to scale to billions, re-make the entire Internet, possibly take over the world.
 
 ### PeerCDN
 
