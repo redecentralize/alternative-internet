@@ -273,7 +273,7 @@ easy to establish.
 
 ### Pangaia (a.k.a. SocietyOfMind)
 
-[SocietyOfMind](http://pangaia.sourceforge.net/) is a *complete* information model forming a meta-mind via a p2p network and 3-d visualization layer to scale to billions, re-make the entire Internet, possibly take over the world.
+[SocietyOfMind](http://pangaia.sourceforge.net/) is a *complete* information model to make a p2p network and 3-d visualization layer that can scale to billions, re-make the Internet, and form a meta-mind for the planet.
 
 ### PeerCDN
 
