@@ -271,7 +271,7 @@ easy to establish.
 
 [PageKite](https://pagekite.net/) is a dynamic reverse proxy designed to allow hosting of live (web-)servers on devices that are mobile, stuck behind strict firewalls or otherwise lack public IPs.
 
-### Pangaia
+### Pangaia (a.k.a. SocietyOfMind)
 
 [SocietyOfMind](http://pangaia.sourceforge.net/) is a *complete* information model forming a meta-mind via a p2p network and 3-d visualization layer to scale to billions, re-make the entire Internet, possibly take over the world.
 
