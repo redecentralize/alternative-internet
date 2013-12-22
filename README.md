@@ -30,8 +30,10 @@ navigational links. BaseParadigm lays the basis for a new paradigm for
 data management that can be done offline as much as is desirable, and
 puts control over data storage, transmission, and processing back in
 the hands of the user. Identity management becomes data management
-rather than what it is today: contract management with third party
-web services.
+rather than what it is today: contract management with third party web
+services. Application interop is simplified from web API support to
+simple graph queries. The user's experience is that all their data is
+available all the time in the places they expect.
 
 ### BipIO
 
