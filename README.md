@@ -18,6 +18,23 @@ Pull requests VERY welcome!
 
 ## B
 
+### BaseParadigm
+
+[BaseParadigm](https://bitbucket.org/travisfw/baseparadigm/) is an
+open source (GPLv3) library for managing a content addressable binary
+semantic graph. Content addressability means enabling a number of data
+exchange protocols (including p2p) for a developer using
+BaseParadigm. Content addressable data is immutable, and so a semantic
+graph is necessary for managing updates, annotations, reputation, and
+navigational links. BaseParadigm lays the basis for a new paradigm for
+data management that can be done offline as much as is desirable, and
+puts control over data storage, transmission, and processing back in
+the hands of the user. Identity management becomes data management
+rather than what it is today: contract management with third party web
+services. Application interop is simplified from web API support to
+simple graph queries. The user's experience is that all their data is
+available all the time in the places they expect.
+
 ### BipIO
 
 [BipIO](https://bip.io) is an open source personal content and workflow automation platform.  'Bips' are dynamic named graphs which are cheap to create, can auto-expire, and serve or transform public/private content across multiple protocols.
