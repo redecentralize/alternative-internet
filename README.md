@@ -439,6 +439,10 @@ You can do all these things directly with your peers, in an autonomous, sovereig
 ### SubToMe
 [SubToMe](http://subtome.com) is a universal follow button. It decouples the publishing platform and the subscribing platform so that it's as easy to follow someone's RSS/Atom feed than it is to follow them on Twitter or Google+!
 
+### Syme
+
+[Syme](https://getsyme.com) is an experimental project that aims at bringing more privacy and security to online communication through end-to-end encryption. Syme's zero-knowledge key infrastructure enables persistent multiparty communication and secure key exchanges on minimally trusted servers and relays.
+
 ### Syndie
 
 [Syndie](http://syndie.i2p2.de/)  is an open source system for operating distributed forums offering a secure and consistent interface to various anonymous and non-anonymous content networks.
