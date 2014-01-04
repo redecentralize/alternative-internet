@@ -5,6 +5,14 @@ More general resources on the movement to redecentralise the internet. (Also cal
 ## Techniques and ideas
 
 * A proposal for [protection against identity theft](http://codeforcode.com/blog/2013/9/21/how-to-do-online-accounts-better) that works by decentralizing the storage of personal information. Using such a strategy would make websites less enticing targets for hackers and would allow users to be in control of where and how their personal information is stored.
+* [DissidentX](https://github.com/bramcohen/DissidentX) is a steganographic framework by Bram Cohen, which can be used to hide messages into common files, with various encoders (for specific filetypes and/or techniques) and a single decoder:
+
+    > The primary use case for DissidentX is encoding messages in files on the web.
+    >
+    > There should be a utility which scans all objects the user's web browser downloads (html files, images, css files, etc.) for messages using all of the keys the user has entered. Someone sending messages to that person provides a web service where users who have widely viewed web sites can upload their files and get back slightly modified version with messages steganographically added.
+    >
+    > The web users should not be able to read what the messages are, and it should be possible for the service doing the encoding to not have to keep messages in plaintext.
+
 
 ## Online articles
 
