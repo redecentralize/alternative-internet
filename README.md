@@ -515,6 +515,9 @@ Dyne's [Tomb](https://tomb.dyne.org/) the crypto-undertaker is free software for
 
 [trsst](http://www.trsst.com/) looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys. Protocol implementation draft is available on [github](https://github.com/TrsstProject/trsst).
 
+### Twister
+[Twister](http://twister.net.co) is a secure and fully-decentralized P2P microblogging platform based on concepts and code from Bitcoin and Libtorrent (as described in [this whitepaper](http://arxiv.org/abs/1312.7152)). Feel free to contribute to its [core service](https://github.com/miguelfreitas/twister-core) or [HTML UI](https://github.com/miguelfreitas/twister-html)!
+
 ## U
 
 ### Unhosted
