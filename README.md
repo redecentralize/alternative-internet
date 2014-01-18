@@ -125,6 +125,10 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 ## E
 
+### edgenet 
+
+[edgenet](http://theedg.es) is a peer-to-peer opportunistic network built over mobile devices (and potentially home routers). It is a concept, with many layers already build (ZeroMQ, Zyre). It uses temporary 'cells' to connect devices and exchange information opportunistically. It's suited to decentralized chat and proximity networking.
+
 ### eDonkey network (eD2k)
 [eDonkey network](http://en.wikipedia.org/wiki/EDonkey_network) is a decentralized, mostly server-based, peer-to-peer file sharing network best suited to share big files among users, and to provide long term availability of files
 
