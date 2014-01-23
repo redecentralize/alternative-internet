@@ -391,6 +391,10 @@ easy to establish.
 
 [Quick mesh project](http://qmp.cat/) is an openwrt based mesh networking firmware. Can be installed on any openwrt supported system. Auto configures any needed connections, auto detects internet connections and aunounces them. Native IPv6 support with IPv4 tunnels for current networking support.
 
+### Quietnet
+
+[Quietnet](https://github.com/Katee/quietnet) is a simple chat program using near ultrasonic frequencies. It works without Wi-Fi or Bluetooth and cannot be eavesdropped using conventional network capturing methods.
+
 ## R
 
 ### Red Matrix
