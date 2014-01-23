@@ -19,6 +19,14 @@ Pull requests VERY welcome!
 
 [arkOS](https://arkos.io) is an operating system and software stack to easily host your own websites, email addresses, cloud services and more. It uses a graphical interface (called Genesis) to do all of this, with a focus on end-user experience and simple design. Presently in active development, it is currently functional on the Raspberry Pi with new services and platforms in the works.
 
+### Askemos
+
+Byzantine fault-tolerant P2P computation and storage.
+
+[Askemos](http://askemos.org) creates an "autonomous virtual execution environment for applications" - designed to be tamper-proof and fault tolerant.  Users share not only static files but dynamic objects too. Code is taken as equivalent to contracts ("smart contracts") and hosts check each others compliance.
+
+It executes the code on several different machines, runtime libraries, compilers, operating systems and so on in parallel and compares/stores signed cryptographic hash for every transaction. Thus, this counters subversion of various components, eleminating the need to trust.
+
 ## B
 
 ### BaseParadigm
