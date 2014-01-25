@@ -21,11 +21,11 @@ Pull requests VERY welcome!
 
 ### Askemos
 
-Byzantine fault-tolerant P2P computation and storage.
+A fast and trustworthy foundation on which to build applications: Byzantine fault-tolerant P2P computation and storage.
 
 [Askemos](http://askemos.org) creates an "autonomous virtual execution environment for applications" - designed to be tamper-proof and fault tolerant.  Users share not only static files but dynamic objects too. Code is taken as equivalent to contracts ("smart contracts") and hosts check each others compliance.
 
-It executes the code on several different machines, runtime libraries, compilers, operating systems and so on in parallel and compares/stores signed cryptographic hash for every transaction. Thus, this counters subversion of various components, eleminating the need to trust.
+It executes the code on several different machines, runtime libraries, compilers, operating systems etc. in parallel. Signed cryptographic hash are compares/stores for every transaction. Thus, this counters subversion of various components, eliminating the need to trust.
 
 ## B
 
