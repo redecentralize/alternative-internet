@@ -25,7 +25,7 @@ A fast and trustworthy foundation on which to build applications: Byzantine faul
 
 [Askemos](http://askemos.org) creates an "autonomous virtual execution environment for applications" - designed to be tamper-proof and fault tolerant.  Users share not only static files but dynamic objects too. Code is taken as equivalent to contracts ("smart contracts") and hosts check each others compliance.
 
-It executes the code on several different machines, runtime libraries, compilers, operating systems etc. in parallel. Signed cryptographic hash are compares/stores for every transaction. Thus, this counters subversion of various components, eliminating the need to trust.
+It executes the code on several different machines, runtime libraries, compilers, operating systems etc. in parallel. Signed cryptographic hash are compared/stored for every transaction. Thus, this counters subversion of various components, eliminating the need to trust.
 
 ## B
 
