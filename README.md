@@ -226,6 +226,9 @@ The [Enigmabox](http://wiki.enigmabox.net/) is a ready to use cjdns appliance. c
 
 [I2P](http://www.i2p2.de/) is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.
 
+### IPOP
+[IPOP (IP-over-P2P)](http://ipop-project.org/) is an open-source user-centric software virtual network allowing end users to define and create their own virtual private networks.
+
 ## J
 
 ### jIO
