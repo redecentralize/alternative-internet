@@ -73,6 +73,10 @@ available all the time in the places they expect.
 ### Books
 [Books](http://en.wikipedia.org/wiki/Books) are a stable, production tested communication protocol suitable for a wide range of information services.
 
+### BriarProject
+
+The [BriarProject](http://briar.sourceforge.net/) is building secure communication tools to enable journalists, activists and civil society groups to communicate safely without fear of government interference. Our open source mobile and desktop apps will provide a secure, easy-to-use alternative to email, blogs and message boards, where users can exchange private messages with their contacts, create their own blogs and message boards, and subscribe to blogs and boards their contacts have shared.
+
 ### buddycloud
 
 [buddycloud](http://buddycloud.com/) is a set of tools, open source software and protocols to help you build a distributed social network. All the code is on [GitHub](https://github.com/buddycloud).
