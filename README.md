@@ -27,6 +27,10 @@ A fast and trustworthy foundation on which to build applications: Byzantine faul
 
 It executes the code on several different machines, runtime libraries, compilers, operating systems etc. in parallel. Signed cryptographic hash are compared/stored for every transaction. Thus, this counters subversion of various components, eliminating the need to trust.
 
+### Avatar
+
+[Avatar](avatar.ai) is a distributed "operating system for the internet" running inside the web browser. It allows for secure messaging (think email, social networks) and distributed data storage, employing a policy of "privacy and data security by default". Building its own encrypted P2P network, it does not rely upon any central authority.
+
 ## B
 
 ### BaseParadigm
