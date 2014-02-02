@@ -29,7 +29,7 @@ It executes the code on several different machines, runtime libraries, compilers
 
 ### Avatar
 
-[Avatar](avatar.ai) is a distributed "operating system for the internet" running inside the web browser. It allows for secure messaging (think email, social networks) and distributed data storage, employing a policy of "privacy and data security by default". Building its own encrypted P2P network, it does not rely upon any central authority.
+[Avatar](http://avatar.ai) is a distributed "operating system for the internet" running inside the web browser. It allows for secure messaging (think email, social networks) and distributed data storage, employing a policy of "privacy and data security by default". Building its own encrypted P2P network, it does not rely upon any central authority.
 
 ## B
 
