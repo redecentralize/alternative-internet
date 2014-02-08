@@ -586,6 +586,11 @@ Dyne's [Tomb](https://tomb.dyne.org/) the crypto-undertaker is free software for
 
 [Webfist](http://webfist.org/) is a fallback for when providers don't support WebFinger natively. It lets you do WebFinger lookups for email addresses even if the owner of the domain name isn't playing along. WebFist works because of a judo move on an existing infrastructure: DKIM.
 
+### Webmentions
+
+[Webmentions](http://indiewebcamp.com/webmention) are an interesting method of notify another site that a *comment* /post on your own site is written in response to a post on their site. The site receiving the webmention notification can then verify the request and gather the message adding into a conversation flow in their post.
+[This project](http://github.com/glennjones/webmentions) is working on a unified API.
+
 ### weborganiZm
 
 [weborganiZm] (http://weborganizm.org/) is an Ad-Free NON-indexed network for creating and sharing of the knowledges that follows these principles: Non-Profit, Reproducible, Reinforcing the Digital Commons, Grassroots.
