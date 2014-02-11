@@ -440,6 +440,10 @@ Send mail to samizdat@lists.riseup.net (public mailing list) or samizdat@childre
 ### Seafile
 [Seafile](http://seafile.com) is a cloud software similar to owncloud, with clients for Windows, Mac, Linux, Android and iOS. Server for Linux and Raspberry Pi.
 
+### Serf
+
+[Serf](http://www.serfdom.io/) is a decentralized solution for service discovery and orchestration that is lightweight, highly available, and fault tolerant.
+
 ### Serval Project
 
 [The Serval Project](http://www.servalproject.org/) lets mobile phones make phone calls to each other peer-to-peer without a base station.
