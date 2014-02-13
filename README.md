@@ -239,7 +239,7 @@ The [Enigmabox](http://wiki.enigmabox.net/) is a ready to use cjdns appliance. c
 [Idno](http://idno.co/) is a distributed social publishing platform for companies, groups and individuals, based on [IndieWeb](http://indiewebcamp.com) technologies. All the code is available on [GitHub](https://github.com/idno/idno).
 
 ### INDX
-[INDX](http://sociam.github.io/indx) is a decentralised Web-based Personal Data Store and app platform from the [SOCIAM](http://sociam.org) EPSRC project in the UK, focused about giving individuals autonomy to effectively consolidate their cloud data into personal databases they control.  The platform is build out of a core of robust open source tools, including Postgres, Twisted, NodeJS, and AngularJS.  [GitHub](https://sociam.github.io/indx).
+[INDX](http://sociam.github.io/indx) is a decentralised Web-based Personal Data Store and app platform from the [SOCIAM](http://sociam.org) EPSRC project in the UK, focused about giving individuals autonomy to effectively consolidate their cloud data into personal databases they control.  The platform is build out of a core of robust open source tools, including Postgres, Twisted, NodeJS, and AngularJS.  The platform is [released under GPLv3 on Github](https://sociam.github.io/indx).
 
 ### IPOP
 [IPOP (IP-over-P2P)](http://ipop-project.org/) is an open-source user-centric software virtual network allowing end users to define and create their own virtual private networks.
