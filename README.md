@@ -330,6 +330,10 @@ The [Enigmabox](http://wiki.enigmabox.net/) is a ready to use cjdns appliance. c
 
 [1TY](https://1ty.me/) is "One Time Self Destructing Links For Sharing Sensitive Information"
 
+### OpenLibernet
+
+[OpenLibernet](http://www.openlibernet.org/) is a project to create a robust decentralized global mesh communication network that regards security and privacy as a priority and makes internet regulation and censorship impossible. OpenLibernet is built around a robust payment system based on Bitcoin that rewards its users for actively joining, expanding and maintaining the network, and creates a traffic economy with perpetually decreasing prices.
+
 ### OpenNIC
 
 [OpenNIC Project](http://www.opennicproject.org/) is an alternative DNS provider that is open and democratic.
