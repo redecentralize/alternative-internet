@@ -342,6 +342,10 @@ The [Enigmabox](http://wiki.enigmabox.net/) is a ready to use cjdns appliance. c
 
 [OpenNIC Project](http://www.opennicproject.org/) is an alternative DNS provider that is open and democratic.
 
+### Ori
+
+[Ori](http://ori.scs.stanford.edu/) is a distributed file system built for offline operation and empowers the user with control over synchronization operations and conflict resolution.  It provides history through light weight snapshots and allows users to verify the history has not been tampered with. Through the use of replication instances it is resilient and can recover damaged data from other nodes.
+
 ### Osiris
 
 [Osiris](http://www.osiris-sps.org/) is software for decentralized portal, managed and shared via P2P between members.
