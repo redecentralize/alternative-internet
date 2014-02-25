@@ -54,6 +54,11 @@ available all the time in the places they expect.
 
 [BipIO](https://bip.io) is an open source personal content and workflow automation platform.  'Bips' are dynamic named graphs which are cheap to create, can auto-expire, and serve or transform public/private content across multiple protocols.
 
+
+### Bitcloud
+
+[Bitcloud](http://http://bitcloudproject.org) is an open source distributed cloud storage system and escrow agent based on Tahoe-LAFS that allows publishers to pay storage nodes for storing encrypted data and sharing that data with others. The decentralized nature of Bitcloud allows anyone to publish large amounts of data in a way that is free from censorship, high costs, and proprietary software.  The first application for bitcloud will be [WeTube](https://github.com/wetube/wetube-web), a platform for viewing and publishing videos, podcasts, ebooks, music, and other forms of media.
+
 ### Bitcoin by Mobile
 
 [Bitcoin by Mobile](http://www.bitcoinbymobile.com/) allows Bitcoin newcomers to quickly and easily purchase small sums of Bitcoin using their mobile phone to fund the purchase.
@@ -145,7 +150,7 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 
 ## E
 
-### edgenet 
+### edgenet
 
 [edgenet](http://theedg.es) is a peer-to-peer opportunistic network built over mobile devices (and potentially home routers). It is a concept, with many layers already build (ZeroMQ, Zyre). It uses temporary 'cells' to connect devices and exchange information opportunistically. It's suited to decentralized chat and proximity networking.
 
@@ -172,7 +177,7 @@ The [Enigmabox](http://wiki.enigmabox.net/) is a ready to use cjdns appliance. c
 
 ### Folpy
 
-[Folpy](https://bitbucket.org/folpy/folpy/) is a friend-to-friend network, also called a Darknet, a network where you only connect to people you trust. On the network you can exchange files with your friend, message them and participate on the global Forum. 
+[Folpy](https://bitbucket.org/folpy/folpy/) is a friend-to-friend network, also called a Darknet, a network where you only connect to people you trust. On the network you can exchange files with your friend, message them and participate on the global Forum.
 
 ### FreedomBox
 
@@ -294,7 +299,7 @@ The [Enigmabox](http://wiki.enigmabox.net/) is a ready to use cjdns appliance. c
 
 ### MaidSafe
 
-[MaidSafe](http://maidsafe.net/) is a fully distributed platform on which application developers can build distributed applications. The network is made up by individual users who contribute storage, computing power and bandwidth to what is a global, public cloud.
+The [MaidSafe](http://maidsafe.net) network is a fully distributed platform on which application developers can build distributed applications. The network is made up by individual users who contribute storage, computing power and bandwidth to what is a global, public cloud.
 
 ### Mailpile
 [Mailpile](http://www.mailpile.is/) is free software, a web-mail program that you run on your own computer, so your data stays under your control. Because it is free software (a.k.a. open source), you can look under the hood and see how it works, or even modify it to make it better suit your particular needs. Mailpile is designed for speed and vast amounts of e-mail, it is flexible and themeable and has support for strong encryption built in from the very start.
@@ -508,6 +513,10 @@ You can do all these things directly with your peers, in an autonomous, sovereig
 
 [Syme](https://getsyme.com) is an experimental project that aims at bringing more privacy and security to online communication through end-to-end encryption. Syme's zero-knowledge key infrastructure enables persistent multiparty communication and secure key exchanges on minimally trusted servers and relays.
 
+### SyncNet
+
+[SyncNet](http://jack.minardi.org/software/syncnet-a-decentralized-web-browser/) is a decentralized web browser built on top of BitTorrent Sync and (soon) Colored Coins for name resolution. Every time you access a site, you store all of its contents on your machine. The next user to request the site can get the contents from both your machine and the original server. As more people access a page, it becomes available from more machines, reducing the load on the original server.
+
 ### Syndie
 
 [Syndie](http://syndie.i2p2.de/)  is an open source system for operating distributed forums offering a secure and consistent interface to various anonymous and non-anonymous content networks.
@@ -648,7 +657,7 @@ Dyne's [Tomb](https://tomb.dyne.org/) the crypto-undertaker is free software for
 
 ### Younity
 
-[Younity](http://getyounity.com/) is a "personal cloud" that lets users share their files between their devices, without uploading them to one centralised server. 
+[Younity](http://getyounity.com/) is a "personal cloud" that lets users share their files between their devices, without uploading them to one centralised server.
 
 ### YunoHost
 
