@@ -260,6 +260,10 @@ The [Enigmabox](http://wiki.enigmabox.net/) is a ready to use cjdns appliance. c
 
 [Kademlia](http://en.wikipedia.org/wiki/Kademlia) is a distributed hash table for decentralized peer-to-peer computer networks
 
+### KA Lite
+
+[KA Lite](https://github.com/learningequality/ka-lite) is an open-source, lightweight, pure-Python web server and web app for serving Khan Academy content (videos and exercises) -- including progress tracking, coach reports, and gamification -- without needing persistent internet connectivity.
+
 ### Keybits
 
 [Keybits](http://keybits.net) makes it easy to run your own personal server. Setup and maintenance is made simple by using Docker and Ansible. (Similar to Sovereign but using Docker to 'containerize' applications.)
