@@ -393,6 +393,10 @@ easy to establish.
 
 [PeerServer](http://www.peer-server.com/) is a peer-to-peer client server using WebRTC, where your browser acts as a server for other browsers across WebRTC peer-to-peer data channels.
 
+### Peersm
+
+[Peerm](http://www.peersm.com/) Anonymous P2P inside browsers, no installation, encrypted and secure. The browsers are talking the Tor protocol extended to P2P and are connecting to the nodes using WebSockets, multi-sources and streaming are supported. The final goal is to build a complete serverless P2P where anonymizer nodes are inside the browsers too relaying the traffic, using WebRTC.
+
 ### Phantom
 
 [Phantom](https://code.google.com/p/phantom/) is (was?) a system for generic, decentralized, unstoppable internet anonymity
