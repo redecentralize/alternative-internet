@@ -189,7 +189,7 @@ def write_to_table(projects):
     """
     class OhlohValue:
         """
-        Class used to abstract complex data and make it sortable and writable for the SortableMarkdownTable
+        Abstracts complex data and make it sortable and writable for the SortableMarkdownTable
         """
         def __init__(self, obj, value):
             if 'ohloh' in obj.keys() and value in obj['ohloh'].keys():
