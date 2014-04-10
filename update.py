@@ -254,13 +254,15 @@ def write_to_table(projects):
     table.add_column('LOC', sortable=True, width=2, align='R', suffix='LOC', reverse=True)
     table.add_column('Age', sortable=True, width=2, align='R', suffix='AGE')
     table.add_column('Description', width=11)
+    table.add_column('Main Language',width=11, sortable=True, suffix="LANG")
 
     for project in projects.values():
         table.add_row([project['name'],
                        OhlohNumber(project, 'total_commit_count'),
                        OhlohNumber(project, 'total_code_lines'),
                        OhlohDate(project, 'min_month'),
-                       project['description']])
+                       project['description'],
+                       OhlohValue(project,'main_language').value])
 
     table.write_files(table_file)
 
