@@ -1,0 +1,31 @@
+{
+    "ohloh": {
+        "main_language": "PHP", 
+        "max_month": "2014-04-01T00:00:00Z", 
+        "description": "MOVIM (My Open Virtual Identity Manager) is a XMPP based social network software project. It is Free Software under AGPLv3 license and decentralised. End users may either join the network from a remote node or install their own Movim node.", 
+        "tags": [
+            "socialnetworking", 
+            "xmpp", 
+            "socialnetwork", 
+            "decentral"
+        ], 
+        "total_code_lines": 21211, 
+        "total_contributor_count": 21, 
+        "twelve_month_contributor_count": 10, 
+        "updated_at": "2014-04-09T08:36:54Z", 
+        "analysis": "19878020", 
+        "min_month": "2010-11-01T00:00:00Z", 
+        "factoids": [
+            "Increasing Y-O-Y development activity", 
+            "Large, active development team", 
+            "Well-established codebase", 
+            "Few source code comments"
+        ], 
+        "twelve_month_commit_count": 679, 
+        "total_commit_count": 1455, 
+        "id": "535966", 
+        "name": "MOVIM"
+    }, 
+    "description": "[Movim](http://movim.eu/) is a decentralized open source social network based on XMPP.", 
+    "name": "Movim"
+}

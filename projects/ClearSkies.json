@@ -1,0 +1,30 @@
+{
+    "ohloh": {
+        "main_language": "C", 
+        "max_month": "2014-04-01T00:00:00Z", 
+        "description": "Open source btsync clone", 
+        "tags": [
+            "files", 
+            "filesynchronization", 
+            "filesync", 
+            "sync"
+        ], 
+        "total_code_lines": 240856, 
+        "total_contributor_count": 17, 
+        "twelve_month_contributor_count": 17, 
+        "updated_at": "2014-04-09T16:34:06Z", 
+        "analysis": "19829037", 
+        "min_month": "2013-09-01T00:00:00Z", 
+        "factoids": [
+            "Large, active development team", 
+            "Well-commented source code", 
+            "Short source control history"
+        ], 
+        "twelve_month_commit_count": 730, 
+        "total_commit_count": 730, 
+        "id": "714242", 
+        "name": "clearskies"
+    }, 
+    "description": "[ClearSkies](https://github.com/jewel/clearskies) is a peer-to-peer file sync program.  It is inspired by BitTorrent Sync, but has an open and fully-documented protocol.", 
+    "name": "ClearSkies"
+}

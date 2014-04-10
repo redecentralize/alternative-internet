@@ -1,0 +1,35 @@
+{
+    "ohloh": {
+        "main_language": "JavaScript", 
+        "max_month": "2014-03-01T00:00:00Z", 
+        "description": "Email and telecommunications that protects privacy and resists eavesdropping\nA publishing platform that resists oppression and censorship.\nAn organizing tool for democratic activists in hostile regimes.\nAn emergency communication network in times of crisis.", 
+        "tags": [
+            "communication", 
+            "security", 
+            "f2f", 
+            "p2p", 
+            "secure", 
+            "private", 
+            "message", 
+            "freedombox"
+        ], 
+        "total_code_lines": 10758, 
+        "total_contributor_count": 19, 
+        "twelve_month_contributor_count": 11, 
+        "updated_at": "2014-04-09T06:00:45Z", 
+        "analysis": "19532179", 
+        "min_month": "2011-02-01T00:00:00Z", 
+        "factoids": [
+            "Large, active development team", 
+            "Well-established codebase", 
+            "Average number of code comments", 
+            "Decreasing Y-O-Y development activity"
+        ], 
+        "twelve_month_commit_count": 188, 
+        "total_commit_count": 737, 
+        "id": "597590", 
+        "name": "FreedomBox"
+    }, 
+    "description": "[Freedom Box](http://freedomboxfoundation.org/) is about privacy, control, ease of use and dehierarchicalization. Inspired by Eben Moglen's vision of a small, cheap and simple computer that serves freedom in the home. We are building a Debian based platform for distributed applications.", 
+    "name": "FreedomBox"
+}

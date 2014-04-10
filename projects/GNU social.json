@@ -1,0 +1,32 @@
+{
+    "description": "[GNU social](https://gnu.org/s/social) is a free software microblogging and privacy-aware social platform that supports OStatus federation, based on [StatusNet](http://status.net/) and Mikael Nordfeldth's Free Social.", 
+    "name": "GNU social", 
+    "ohloh": {
+        "main_language": "PHP", 
+        "max_month": "2014-04-01T00:00:00Z", 
+        "description": "GNU social is free software that runs decentralized social networks.", 
+        "total_contributor_count": 112, 
+        "total_code_lines": 264012, 
+        "tags": [
+            "ostatus", 
+            "federated", 
+            "statusnet", 
+            "socialnetwork", 
+            "gnusocial"
+        ], 
+        "twelve_month_contributor_count": 11, 
+        "updated_at": "2014-04-09T12:47:57Z", 
+        "analysis": "19852377", 
+        "min_month": "2008-05-01T00:00:00Z", 
+        "factoids": [
+            "Mature, well-established codebase", 
+            "Increasing Y-O-Y development activity", 
+            "Large, active development team", 
+            "Well-commented source code"
+        ], 
+        "twelve_month_commit_count": 520, 
+        "total_commit_count": 15476, 
+        "id": "488827", 
+        "name": "GNU social"
+    }
+}

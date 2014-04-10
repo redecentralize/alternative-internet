@@ -1,0 +1,31 @@
+{
+    "ohloh": {
+        "main_language": "JavaScript", 
+        "max_month": "2012-08-01T00:00:00Z", 
+        "description": "Unhosted is an open web standard for decentralizing user data. On the unhosted web, data is stored per-user, wherever the user decides", 
+        "tags": [
+            "web", 
+            "unhosted", 
+            "javascript", 
+            "protocol"
+        ], 
+        "total_code_lines": 6488, 
+        "total_contributor_count": 2, 
+        "twelve_month_contributor_count": 0, 
+        "updated_at": "2014-04-08T14:22:30Z", 
+        "analysis": "19787665", 
+        "min_month": "2011-11-01T00:00:00Z", 
+        "factoids": [
+            "Short source control history", 
+            "Decreasing Y-O-Y development activity", 
+            "Very few source code comments", 
+            "No recent development activity"
+        ], 
+        "twelve_month_commit_count": 0, 
+        "total_commit_count": 28, 
+        "id": "585684", 
+        "name": "Unhosted"
+    }, 
+    "description": "[Unhosted](https://unhosted.org/) - also known as \"serverless\", \"client-side\", or \"static\" web apps, unhosted web apps do not send your user data to their server. Either you connect your own server at runtime, or your data stays within the browser.", 
+    "name": "Unhosted"
+}

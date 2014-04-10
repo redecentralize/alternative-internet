@@ -1,0 +1,26 @@
+{
+    "ohloh": {
+        "main_language": "JavaScript", 
+        "max_month": "2014-02-01T00:00:00Z", 
+        "description": "INDX Server", 
+        "tags": [], 
+        "total_code_lines": 143883, 
+        "total_contributor_count": 19, 
+        "twelve_month_contributor_count": 14, 
+        "updated_at": "2014-04-09T04:45:02Z", 
+        "analysis": "19538741", 
+        "min_month": "2012-02-01T00:00:00Z", 
+        "factoids": [
+            "Increasing Y-O-Y development activity", 
+            "Large, active development team", 
+            "Well-commented source code", 
+            "Young, but established codebase"
+        ], 
+        "twelve_month_commit_count": 1899, 
+        "total_commit_count": 2581, 
+        "id": "706692", 
+        "name": "indx"
+    }, 
+    "description": "[INDX](http://sociam.github.io/indx) is a decentralised Web-based Personal Data Store and app platform from the [SOCIAM](http://sociam.org) EPSRC project in the UK, focused about giving individuals autonomy to effectively consolidate their cloud data into personal databases they control.  The platform is build out of a core of robust open source tools, including Postgres, Twisted, NodeJS, and AngularJS.  The platform is [released under GPLv3 on Github](https://sociam.github.io/indx).", 
+    "name": "INDX"
+}

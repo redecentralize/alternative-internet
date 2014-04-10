@@ -1,0 +1,26 @@
+{
+    "ohloh": {
+        "main_language": "Java", 
+        "max_month": "2013-10-01T00:00:00Z", 
+        "description": "A Kademlia-based DHT and JSON protocol for application meshing and eventing", 
+        "tags": [], 
+        "total_code_lines": 9120, 
+        "total_contributor_count": 15, 
+        "twelve_month_contributor_count": 5, 
+        "updated_at": "2014-04-09T18:41:29Z", 
+        "analysis": "19824934", 
+        "min_month": "2010-01-01T00:00:00Z", 
+        "factoids": [
+            "Very well-commented source code", 
+            "Increasing Y-O-Y development activity", 
+            "Average size development team", 
+            "Well-established codebase"
+        ], 
+        "twelve_month_commit_count": 58, 
+        "total_commit_count": 259, 
+        "id": "491069", 
+        "name": "TeleHash"
+    }, 
+    "description": "[Telehash](http://telehash.org/) a new encrypted P2P JSON-based protocol enabling developers to quickly build apps that are distributed and private (see [v2](https://github.com/quartzjer/TeleHash/blob/master/org/v2.md) of the spec)", 
+    "name": "Telehash"
+}

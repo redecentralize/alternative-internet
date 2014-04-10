@@ -1,0 +1,33 @@
+{
+    "ohloh": {
+        "main_language": "Python", 
+        "max_month": "2014-04-01T00:00:00Z", 
+        "description": "SlapOS allows one to turn any application into SaaS (Service as a System), PaaS (Platform as a Service) or IaaS (Infrastructure as a Service) without loosing your freedom.", 
+        "tags": [
+            "saas", 
+            "paas", 
+            "python", 
+            "iaas", 
+            "cloud", 
+            "buildout"
+        ], 
+        "total_code_lines": 588643, 
+        "total_contributor_count": 93, 
+        "twelve_month_contributor_count": 25, 
+        "updated_at": "2014-04-09T07:05:28Z", 
+        "analysis": "19877460", 
+        "min_month": "2006-05-01T00:00:00Z", 
+        "factoids": [
+            "Mature, well-established codebase", 
+            "Large, active development team", 
+            "Average number of code comments", 
+            "Decreasing Y-O-Y development activity"
+        ], 
+        "twelve_month_commit_count": 1925, 
+        "total_commit_count": 14097, 
+        "id": "585577", 
+        "name": "SlapOS"
+    }, 
+    "description": "[SlapOS](http://community.slapos.org) is a decentralized Cloud Computing technology. It can automate the deployment and configuration of applications in a heterogeneous environment, either in datacenters or self-hosted. SlapOS is a Free Software (GPL).", 
+    "name": "SlapOS"
+}

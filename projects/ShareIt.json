@@ -1,0 +1,26 @@
+{
+    "description": "[ShareIt!](http://shareit.es), server-less P2P filesharing application in pure Javascript and HTML5 using WebRTC. Winner of the \"Most Innovative Project\" on the spanish [Free Software Universitary Championship 2013](http://www.concursosoftwarelibre.org/1213/).", 
+    "name": "ShareIt!", 
+    "ohloh": {
+        "main_language": "JavaScript", 
+        "max_month": "2013-10-01T00:00:00Z", 
+        "description": "", 
+        "tags": [], 
+        "total_code_lines": 8170, 
+        "total_contributor_count": 10, 
+        "twelve_month_contributor_count": 3, 
+        "updated_at": "2014-04-08T20:52:46Z", 
+        "analysis": "19400828", 
+        "min_month": "2012-01-01T00:00:00Z", 
+        "factoids": [
+            "Young, but established codebase", 
+            "Small development team", 
+            "Average number of code comments", 
+            "Decreasing Y-O-Y development activity"
+        ], 
+        "twelve_month_commit_count": 296, 
+        "total_commit_count": 1886, 
+        "id": "713917", 
+        "name": "ShareIt! project"
+    }
+}

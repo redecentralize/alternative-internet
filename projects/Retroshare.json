@@ -1,0 +1,46 @@
+{
+    "ohloh": {
+        "main_language": "C++", 
+        "max_month": "2013-08-01T00:00:00Z", 
+        "description": "RetroShare is a cross-platform private P2P sharing program. It lets you share securely your friends, using a web-of-trust to authenticate peers and OpenSSL to encrypt all communication. RetroShare provides filesharing, chat, messages and channels.", 
+        "tags": [
+            "gpg", 
+            "encryption", 
+            "f2f", 
+            "messenger", 
+            "file_transfer_protocol", 
+            "peer", 
+            "p2p", 
+            "file_management", 
+            "file_sharing", 
+            "filesystems", 
+            "instant_messaging", 
+            "irc", 
+            "file_transfer_protocol_(ftp)", 
+            "serverless", 
+            "chat", 
+            "filemanager", 
+            "chatting", 
+            "pgp", 
+            "retroshare"
+        ], 
+        "total_code_lines": 726104, 
+        "total_contributor_count": 25, 
+        "twelve_month_contributor_count": 6, 
+        "updated_at": "2014-02-24T19:29:32Z", 
+        "analysis": "19171921", 
+        "min_month": "2007-11-01T00:00:00Z", 
+        "factoids": [
+            "Mature, well-established codebase", 
+            "Average size development team", 
+            "Average number of code comments", 
+            "Decreasing Y-O-Y development activity"
+        ], 
+        "twelve_month_commit_count": 807, 
+        "total_commit_count": 5287, 
+        "id": "5035", 
+        "name": "RetroShare"
+    }, 
+    "description": "[RetroShare](http://retroshare.sourceforge.net/) is an open source, decentralised communication platform. It lets you chat and share with friends and family, with a web-of-trust to authenticate peers.", 
+    "name": "Retroshare"
+}

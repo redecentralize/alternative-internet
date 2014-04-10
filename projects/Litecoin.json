@@ -1,0 +1,29 @@
+{
+    "ohloh": {
+        "main_language": "C++", 
+        "max_month": "2014-04-01T00:00:00Z", 
+        "description": "Litecoin is a peer-to-peer Internet currency that enables instant payments to anyone in the world. It differs from its parent Bitcoin in that can be efficiently mined with consumer-grade hardware. Litecoin provides faster confirmations (targeted at every 2.5 minutes on average) and uses memory-hard, scrypt-based mining to target the CPUs and GPUs most people already have. The Litecoin network is scheduled to produce four times as many currency units as Bitcoin.\n\nOne of the aims of Litecoin was to provide a mining algorithm that could run at the same time, on the same hardware used to mine bitcoins. With the rise of specialized ASICs for Bitcoin, Litecoin continues to satisfy these goals. It is unlikely for FPGA or ASIC mining to take over Litecoin until the currency is widely used.", 
+        "tags": [
+            "bitcoin", 
+            "currency"
+        ], 
+        "total_code_lines": 207498, 
+        "total_contributor_count": 193, 
+        "twelve_month_contributor_count": 50, 
+        "updated_at": "2014-04-10T13:25:17Z", 
+        "analysis": "19836015", 
+        "min_month": "2009-08-01T00:00:00Z", 
+        "factoids": [
+            "Very large, active development team", 
+            "Well-established codebase", 
+            "Few source code comments", 
+            "Decreasing Y-O-Y development activity"
+        ], 
+        "twelve_month_commit_count": 383, 
+        "total_commit_count": 4198, 
+        "id": "640786", 
+        "name": "litecoin"
+    }, 
+    "description": "[LiteCoin](https://litecoin.org/)  is a peer-to-peer Internet currency that enables instant payments to anyone in the world (was based on Bitcoin)", 
+    "name": "Litecoin"
+}

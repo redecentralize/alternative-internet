@@ -1,0 +1,25 @@
+{
+    "ohloh": {
+        "main_language": "C++", 
+        "max_month": "2014-04-01T00:00:00Z", 
+        "description": "Simple platform for distributed communication and computation.", 
+        "tags": [], 
+        "total_code_lines": 35683, 
+        "total_contributor_count": 3, 
+        "twelve_month_contributor_count": 1, 
+        "updated_at": "2014-04-10T15:15:26Z", 
+        "analysis": "19839516", 
+        "min_month": "2012-07-01T00:00:00Z", 
+        "factoids": [
+            "Young, but established codebase", 
+            "Few source code comments", 
+            "Only a single active developer"
+        ], 
+        "twelve_month_commit_count": 237, 
+        "total_commit_count": 471, 
+        "id": "669862", 
+        "name": "firestr"
+    }, 
+    "description": "[Firestr](http://github.com/mempko/firestr) is a simple decentralized communication and computation platform. Apps are written in Lua and are pushed to peers where they automatically run and connect. All communication is P2P and encrypted.", 
+    "name": "Firestr"
+}

@@ -1,0 +1,34 @@
+{
+    "ohloh": {
+        "main_language": "C++", 
+        "max_month": "2014-04-01T00:00:00Z", 
+        "description": "Bitcoin is a decentralized P2P electronic cash system without a central server or trusted parties. Users hold the crypto keys to their own money and transact directly with each other, with the help of the network to check for double-spending.", 
+        "tags": [
+            "currency", 
+            "currencies", 
+            "p2pprotocols", 
+            "p2p", 
+            "virtual", 
+            "p2psystem", 
+            "bitcoin"
+        ], 
+        "total_code_lines": 478619, 
+        "total_contributor_count": 242, 
+        "twelve_month_contributor_count": 110, 
+        "updated_at": "2014-04-07T18:08:08Z", 
+        "analysis": "19852533", 
+        "min_month": "2009-08-01T00:00:00Z", 
+        "factoids": [
+            "Very large, active development team", 
+            "Well-established codebase", 
+            "Few source code comments", 
+            "Decreasing Y-O-Y development activity"
+        ], 
+        "twelve_month_commit_count": 1801, 
+        "total_commit_count": 8551, 
+        "id": "332874", 
+        "name": "Bitcoin"
+    }, 
+    "description": "[BitCoin](http://bitcoin.org/en/) is a digital currency, a protocol, and a software that enables it. Decentralized crypto-currency", 
+    "name": "Bitcoin"
+}

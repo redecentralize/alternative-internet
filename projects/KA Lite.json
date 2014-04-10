@@ -1,0 +1,25 @@
+{
+    "ohloh": {
+        "main_language": "Python", 
+        "max_month": "2014-03-01T00:00:00Z", 
+        "description": "Khan Academy Lite: lightweight web server for serving core Khan Academy content (videos and exercises) without needing internet connectivity", 
+        "tags": [], 
+        "total_code_lines": 376517, 
+        "total_contributor_count": 29, 
+        "twelve_month_contributor_count": 22, 
+        "updated_at": "2014-04-08T09:13:35Z", 
+        "analysis": "19430771", 
+        "min_month": "2012-09-01T00:00:00Z", 
+        "factoids": [
+            "Large, active development team", 
+            "Young, but established codebase", 
+            "Average number of code comments"
+        ], 
+        "twelve_month_commit_count": 3490, 
+        "total_commit_count": 4405, 
+        "id": "631721", 
+        "name": "ka-lite"
+    }, 
+    "description": "[KA Lite](https://github.com/learningequality/ka-lite) is an open-source, lightweight, pure-Python web server and web app for serving Khan Academy content (videos and exercises) -- including progress tracking, coach reports, and gamification -- without needing persistent internet connectivity.", 
+    "name": "KA Lite"
+}

@@ -1,0 +1,24 @@
+{
+    "ohloh": {
+        "main_language": null, 
+        "max_month": "2009-06-01T00:00:00Z", 
+        "description": "Freifunk Projekt in Bonn\n\nGeneral stuff (to be filled in)", 
+        "tags": [
+            "freifunk", 
+            "evolvis"
+        ], 
+        "total_code_lines": 0, 
+        "total_contributor_count": 1, 
+        "twelve_month_contributor_count": 0, 
+        "updated_at": "2012-03-23T02:27:46Z", 
+        "analysis": "7072015", 
+        "min_month": "2009-06-01T00:00:00Z", 
+        "factoids": [], 
+        "twelve_month_commit_count": null, 
+        "total_commit_count": 1, 
+        "id": "347014", 
+        "name": "Freifunk-Bonn"
+    }, 
+    "description": "[Freifunk](http://en.freifunk.net) is a non-commercial initiative for free decentraliced wireless mesh networks. Technically Freifunk firmwares are based on [OpenWRT](http://www.openwrt.net) and OLSR or B.A.T.M.A.N.", 
+    "name": "Freifunk"
+}

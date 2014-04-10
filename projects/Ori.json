@@ -1,0 +1,30 @@
+{
+    "description": "[Ori](http://ori.scs.stanford.edu/) is a distributed file system built for offline operation and empowers the user with control over synchronization operations and conflict resolution.  It provides history through light weight snapshots and allows users to verify the history has not been tampered with. Through the use of replication instances it is resilient and can recover damaged data from other nodes.", 
+    "name": "Ori", 
+    "ohloh": {
+        "main_language": "C++", 
+        "max_month": "2014-01-01T00:00:00Z", 
+        "description": "Ori is a distributed file system built for offline operation and empowers the user with control over synchronization operations and conflict resolution. We provide history through light weight snapshots and allow users to verify the history has not been tampered with. Through the use of replication instances can be resilient and recover damaged data from other nodes.", 
+        "total_contributor_count": 5, 
+        "total_code_lines": 40439, 
+        "tags": [
+            "offline", 
+            "system", 
+            "file", 
+            "distributed"
+        ], 
+        "twelve_month_contributor_count": 3, 
+        "updated_at": "2014-04-09T17:42:10Z", 
+        "analysis": "19818132", 
+        "min_month": "2012-05-01T00:00:00Z", 
+        "factoids": [
+            "Young, but established codebase", 
+            "Average number of code comments", 
+            "Small development team"
+        ], 
+        "twelve_month_commit_count": 207, 
+        "total_commit_count": 930, 
+        "id": "715260", 
+        "name": "Ori Distributed Personal File System"
+    }
+}

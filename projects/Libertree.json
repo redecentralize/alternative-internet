@@ -1,0 +1,26 @@
+{
+    "description": "[Libertree](http://libertreeproject.org/) is free, libre, open-source software which is intended to provide a way for people to create their own social network. Libertree social networks can be free from commercial influence and manifestation, such as behaviour tracking, user profiling, advertising, data mining and analysis, and covert information filtering.", 
+    "name": "Libertree", 
+    "ohloh": {
+        "main_language": "Ruby", 
+        "max_month": "2014-04-01T00:00:00Z", 
+        "description": "Libertree is free, libre, open-source software for creating your own distributed social network.", 
+        "total_contributor_count": 5, 
+        "total_code_lines": 10392, 
+        "tags": [], 
+        "twelve_month_contributor_count": 2, 
+        "updated_at": "2014-04-09T09:50:34Z", 
+        "analysis": "19847465", 
+        "min_month": "2012-03-01T00:00:00Z", 
+        "factoids": [
+            "Young, but established codebase", 
+            "Small development team", 
+            "Decreasing Y-O-Y development activity", 
+            "Very few source code comments"
+        ], 
+        "twelve_month_commit_count": 721, 
+        "total_commit_count": 1806, 
+        "id": "599927", 
+        "name": "libertree"
+    }
+}
