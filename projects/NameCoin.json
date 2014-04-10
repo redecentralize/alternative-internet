@@ -1,0 +1,35 @@
+{
+    "ohloh": {
+        "main_language": "C++", 
+        "max_month": "2014-03-01T00:00:00Z", 
+        "description": "Namecoin is a peer-to-peer generic name/value datastore system based on Bitcoin technology (a decentralized cryptocurrency).", 
+        "tags": [
+            "currencies", 
+            "decentralized", 
+            "dns", 
+            "bitcoin", 
+            "money", 
+            "currency", 
+            "p2psystem", 
+            "p2p"
+        ], 
+        "total_code_lines": 37182, 
+        "total_contributor_count": 76, 
+        "twelve_month_contributor_count": 4, 
+        "updated_at": "2014-04-09T01:30:17Z", 
+        "analysis": "19497603", 
+        "min_month": "2009-08-01T00:00:00Z", 
+        "factoids": [
+            "Increasing Y-O-Y development activity", 
+            "Average size development team", 
+            "Well-established codebase", 
+            "Few source code comments"
+        ], 
+        "twelve_month_commit_count": 30, 
+        "total_commit_count": 905, 
+        "id": "632496", 
+        "name": "Namecoin"
+    }, 
+    "description": "[NameCoin](http://namecoin.info/) is a decentralized naming system based on Bitcoin technology.", 
+    "name": "NameCoin"
+}

@@ -1,0 +1,41 @@
+{
+    "ohloh": {
+        "main_language": "C", 
+        "max_month": "2014-04-01T00:00:00Z", 
+        "description": "The Serval Project is a small team of academics, contracted engineers and students in the Resilient Networks Lab of Flinders University in South Australia, developing revolutionary, free, open-source software for mobile telephones.", 
+        "tags": [
+            "serval", 
+            "disasterresponse", 
+            "mobile", 
+            "meshpotato", 
+            "villagetelco", 
+            "mesh", 
+            "asterisk", 
+            "wifi", 
+            "networking", 
+            "meshnetwork", 
+            "mobilephone", 
+            "disaster", 
+            "disasterrecovery", 
+            "sip"
+        ], 
+        "total_code_lines": 514975, 
+        "total_contributor_count": 119, 
+        "twelve_month_contributor_count": 7, 
+        "updated_at": "2014-04-10T12:04:23Z", 
+        "analysis": "19851682", 
+        "min_month": "2004-09-01T00:00:00Z", 
+        "factoids": [
+            "Mature, well-established codebase", 
+            "Large, active development team", 
+            "Very well-commented source code", 
+            "Decreasing Y-O-Y development activity"
+        ], 
+        "twelve_month_commit_count": 915, 
+        "total_commit_count": 9500, 
+        "id": "488903", 
+        "name": "Serval Project"
+    }, 
+    "description": "[The Serval Project](http://www.servalproject.org/) lets mobile phones make phone calls to each other peer-to-peer without a base station.", 
+    "name": "Serval Project"
+}

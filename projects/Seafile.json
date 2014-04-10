@@ -1,0 +1,30 @@
+{
+    "ohloh": {
+        "main_language": "C", 
+        "max_month": "2014-04-01T00:00:00Z", 
+        "description": "Seafile -- Private cloud for Group file sharing and collaboration.", 
+        "tags": [
+            "cloudfiles", 
+            "cloudstorage", 
+            "teamwork", 
+            "filesync"
+        ], 
+        "total_code_lines": 83862, 
+        "total_contributor_count": 29, 
+        "twelve_month_contributor_count": 23, 
+        "updated_at": "2014-04-08T09:24:54Z", 
+        "analysis": "19864551", 
+        "min_month": "2012-07-01T00:00:00Z", 
+        "factoids": [
+            "Large, active development team", 
+            "Young, but established codebase", 
+            "Very few source code comments"
+        ], 
+        "twelve_month_commit_count": 427, 
+        "total_commit_count": 895, 
+        "id": "617046", 
+        "name": "seafile"
+    }, 
+    "description": "[Seafile](http://seafile.com) is a cloud software similar to owncloud, with clients for Windows, Mac, Linux, Android and iOS. Server for Linux and Raspberry Pi.", 
+    "name": "Seafile"
+}

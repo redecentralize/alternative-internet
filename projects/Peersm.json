@@ -1,0 +1,4 @@
+{
+    "name": "Peersm", 
+    "description": "[Peerm](http://www.peersm.com/) Anonymous P2P inside browsers, no installation, encrypted and secure. The browsers are talking the Tor protocol extended to P2P and are connecting to the nodes using WebSockets, multi-sources and streaming are supported. The final goal is to build a complete serverless P2P where anonymizer nodes are inside the browsers too relaying the traffic, using WebRTC."
+}

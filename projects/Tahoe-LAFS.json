@@ -1,0 +1,32 @@
+{
+    "ohloh": {
+        "main_language": "Python", 
+        "max_month": "2014-03-01T00:00:00Z", 
+        "description": "The Tahoe Least-Authority Filesystem is a secure, decentralized, fault-tolerant filesystem.", 
+        "tags": [
+            "fault_tolerant", 
+            "filesystem", 
+            "decentralized", 
+            "storage", 
+            "secure"
+        ], 
+        "total_code_lines": 158489, 
+        "total_contributor_count": 54, 
+        "twelve_month_contributor_count": 12, 
+        "updated_at": "2014-04-09T16:34:21Z", 
+        "analysis": "19778476", 
+        "min_month": "2006-10-01T00:00:00Z", 
+        "factoids": [
+            "Mature, well-established codebase", 
+            "Large, active development team", 
+            "Average number of code comments", 
+            "Decreasing Y-O-Y development activity"
+        ], 
+        "twelve_month_commit_count": 177, 
+        "total_commit_count": 11569, 
+        "id": "128738", 
+        "name": "Tahoe-LAFS"
+    }, 
+    "description": "[Tahoe-LAFS](https://tahoe-lafs.org) is a Free and Open cloud storage system. It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire filesystem continues to function correctly, preserving your privacy and security.", 
+    "name": "Tahoe-LAFS"
+}

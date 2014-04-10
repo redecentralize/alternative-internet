@@ -1,0 +1,26 @@
+{
+    "ohloh": {
+        "main_language": "Go", 
+        "max_month": "2014-04-01T00:00:00Z", 
+        "description": "", 
+        "tags": [], 
+        "total_code_lines": 232702, 
+        "total_contributor_count": 63, 
+        "twelve_month_contributor_count": 42, 
+        "updated_at": "2014-04-09T21:10:59Z", 
+        "analysis": "19881615", 
+        "min_month": "2010-06-01T00:00:00Z", 
+        "factoids": [
+            "Very large, active development team", 
+            "Increasing Y-O-Y development activity", 
+            "Well-established codebase", 
+            "Well-commented source code"
+        ], 
+        "twelve_month_commit_count": 1978, 
+        "total_commit_count": 4341, 
+        "id": "487862", 
+        "name": "Camlistore"
+    }, 
+    "description": "[Camlistore](http://camlistore.org/) is your personal storage system for life. It is an acronym for \"Content-Addressable Multi-Layer Indexed Storage\" and could be described as \"Like git for all content in your life\"", 
+    "name": "Camlistore"
+}

@@ -1,0 +1,30 @@
+{
+    "ohloh": {
+        "main_language": null, 
+        "max_month": "2008-01-01T00:00:00Z", 
+        "description": "Syndie is an open source system for operating distributed forums , offering a secure and consistent interface to various anonymous and non-anonymous content networks.", 
+        "tags": [
+            "java", 
+            "i2p", 
+            "forum", 
+            "anonymous"
+        ], 
+        "total_code_lines": 0, 
+        "total_contributor_count": 1, 
+        "twelve_month_contributor_count": 0, 
+        "updated_at": "2014-04-08T05:37:20Z", 
+        "analysis": "19553985", 
+        "min_month": "2008-01-01T00:00:00Z", 
+        "factoids": [
+            "Short source control history", 
+            "Stable Y-O-Y development activity", 
+            "No recent development activity"
+        ], 
+        "twelve_month_commit_count": 0, 
+        "total_commit_count": 1, 
+        "id": "76104", 
+        "name": "syndie"
+    }, 
+    "description": "[Syndie](http://syndie.i2p2.de/)  is an open source system for operating distributed forums offering a secure and consistent interface to various anonymous and non-anonymous content networks.", 
+    "name": "Syndie"
+}

@@ -1,0 +1,30 @@
+{
+    "ohloh": {
+        "main_language": "JavaScript", 
+        "max_month": "2014-01-01T00:00:00Z", 
+        "description": "Our new wiki innovates three ways. It shares through federation, composes by refactoring and wraps data with visualization.", 
+        "tags": [
+            "federated", 
+            "wiki", 
+            "jquery"
+        ], 
+        "total_code_lines": 30675, 
+        "total_contributor_count": 47, 
+        "twelve_month_contributor_count": 8, 
+        "updated_at": "2014-04-09T04:41:22Z", 
+        "analysis": "19408228", 
+        "min_month": "2011-06-01T00:00:00Z", 
+        "factoids": [
+            "Large, active development team", 
+            "Young, but established codebase", 
+            "Few source code comments", 
+            "Decreasing Y-O-Y development activity"
+        ], 
+        "twelve_month_commit_count": 112, 
+        "total_commit_count": 1517, 
+        "id": "585912", 
+        "name": "Smallest Federated Wiki"
+    }, 
+    "description": "[Smallest Federated Wiki](http://wardcunningham.github.io/) innovates in three ways. It shares through federation, composes by refactoring and wraps data with visualization.The project aims to demonstrate that wiki would have been better had it been effectively federated from the beginning, and explore federation policies necessary to sustain an open creative community.", 
+    "name": "Smallest Federated Wiki"
+}

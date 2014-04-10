@@ -1,0 +1,7 @@
+{
+    "ohloh": {
+        "skip": true
+    }, 
+    "description": "[Trovebox](https://github.com/photo) is an open source photo sharing webapp (like Instagram), which you can self-host. iOS and Android apps also open source. Uses cloud or local storage for the actual photos. Originally known as OpenPhoto; see also [theopenphotoproject.org](http://theopenphotoproject.org).", 
+    "name": "Trovebox"
+}

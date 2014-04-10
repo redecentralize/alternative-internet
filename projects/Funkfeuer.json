@@ -1,0 +1,7 @@
+{
+    "ohloh": {
+        "skip": true
+    }, 
+    "description": "[Funkfeuer](http://funkfeuer.at/) is, just like Freifunk, a non commercial initiative for free wireless mesh networks. Funkfeuer is based in Austria and uses [OpenWRT](http://www.openwrt.net) as the firmware for the Routers.", 
+    "name": "Funkfeuer"
+}

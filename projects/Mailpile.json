@@ -1,0 +1,30 @@
+{
+    "ohloh": {
+        "main_language": "Python", 
+        "max_month": "2014-04-01T00:00:00Z", 
+        "description": "A modern, fast web-mail client with user-friendly encryption and privacy features.", 
+        "tags": [
+            "python", 
+            "email", 
+            "webmail"
+        ], 
+        "total_code_lines": 19630, 
+        "total_contributor_count": 75, 
+        "twelve_month_contributor_count": 74, 
+        "updated_at": "2014-04-10T12:36:13Z", 
+        "analysis": "19881821", 
+        "min_month": "2011-10-01T00:00:00Z", 
+        "factoids": [
+            "Very large, active development team", 
+            "Increasing Y-O-Y development activity", 
+            "Young, but established codebase", 
+            "Few source code comments"
+        ], 
+        "twelve_month_commit_count": 1842, 
+        "total_commit_count": 2061, 
+        "id": "652017", 
+        "name": "Mailpile"
+    }, 
+    "description": "[Mailpile](http://www.mailpile.is/) is free software, a web-mail program that you run on your own computer, so your data stays under your control. Because it is free software (a.k.a. open source), you can look under the hood and see how it works, or even modify it to make it better suit your particular needs. Mailpile is designed for speed and vast amounts of e-mail, it is flexible and themeable and has support for strong encryption built in from the very start.", 
+    "name": "Mailpile"
+}

@@ -1,0 +1,28 @@
+{
+    "ohloh": {
+        "main_language": "JavaScript", 
+        "max_month": "2014-03-01T00:00:00Z", 
+        "description": "Open source, self-hosted DIY Bitcoin wallet service", 
+        "tags": [
+            "bitcoin", 
+            "html5"
+        ], 
+        "total_code_lines": 578449, 
+        "total_contributor_count": 12, 
+        "twelve_month_contributor_count": 12, 
+        "updated_at": "2014-04-09T13:18:43Z", 
+        "analysis": "19777918", 
+        "min_month": "2013-05-01T00:00:00Z", 
+        "factoids": [
+            "Large, active development team", 
+            "Average number of code comments", 
+            "Short source control history"
+        ], 
+        "twelve_month_commit_count": 396, 
+        "total_commit_count": 396, 
+        "id": "654517", 
+        "name": "coinpunk"
+    }, 
+    "description": "[Coinpunk](http://coinpunk.org/) is a web application that allows anyone to run their own self-hosted Bitcoin wallet service that is accessible from your web browser anywhere in the world. It's free, open source, and you can install it on your server right now.", 
+    "name": "Coinpunk"
+}
