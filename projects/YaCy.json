@@ -21,10 +21,10 @@
             "java", 
             "solr"
         ], 
-        "total_code_lines": 241573, 
+        "total_code_lines": 241771, 
         "total_contributor_count": 64, 
         "twelve_month_contributor_count": 16, 
-        "updated_at": "2014-04-07T18:04:40Z", 
+        "updated_at": "2014-04-10T19:25:35Z", 
         "analysis": "19851925", 
         "min_month": "2005-04-01T00:00:00Z", 
         "factoids": [
@@ -33,8 +33,8 @@
             "Average number of code comments", 
             "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 1275, 
-        "total_commit_count": 10703, 
+        "twelve_month_commit_count": 1277, 
+        "total_commit_count": 10709, 
         "id": "5149", 
         "name": "YaCy"
     }, 

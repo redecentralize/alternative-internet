@@ -13,7 +13,7 @@
             "torrent"
         ], 
         "twelve_month_contributor_count": 66, 
-        "updated_at": "2014-04-09T04:29:51Z", 
+        "updated_at": "2014-04-10T19:16:27Z", 
         "analysis": "19875627", 
         "min_month": "2009-08-01T00:00:00Z", 
         "factoids": [
@@ -22,8 +22,8 @@
             "Average number of code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 849, 
-        "total_commit_count": 4710, 
+        "twelve_month_commit_count": 836, 
+        "total_commit_count": 4712, 
         "id": "713796", 
         "name": "twister-core"
     }
