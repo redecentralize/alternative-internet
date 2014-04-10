@@ -254,6 +254,7 @@ def write_to_table(projects):
     table.add_column('Main Language',width=11, sortable=True, suffix='LANG', reverse=True)
     table.add_column('Commits', sortable=True, width=6, align='R', suffix='COMMITS', reverse=True)
     table.add_column('LOC', sortable=True, width=2, align='R', suffix='LOC', reverse=True)
+    table.add_column('Total Contributors', sortable=True, width=2, align='R', suffix='CONTRIB', reverse=True)
     table.add_column('Age', sortable=True, width=2, align='R', suffix='AGE')
 
 
@@ -263,6 +264,7 @@ def write_to_table(projects):
                        OhlohValue(project,'main_language').value,
                        OhlohNumber(project, 'total_commit_count'),
                        OhlohNumber(project, 'total_code_lines'),
+                       OhlohNumber(project, 'total_contributor_count'),
                        OhlohDate(project, 'min_month')
                        ])
 
