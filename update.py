@@ -86,27 +86,61 @@ text_footer = ""
 
 
 class SortableMarkdownTable:
+    """
+    Generates markdown files that represent a sortable table
+    """
 
     def __init__(self):
         self.columns = []
         self.rows = []
 
     def add_column(self, title, sortable=False, suffix='', align='', width=3, reverse=False):
+        """
+        Adds a column to the table
+
+        Keyword arguments:
+        title -- The column's visible title
+        sortable -- Whether this column is sortable (and should therefor generate a file)
+        suffix -- The file suffix to write to
+        align -- The column alignment
+        width -- The column width
+        reverse -- Whether the sorting should happen in reverse (useful for numbers)
+        """
         if suffix != '':
             suffix = '_' + suffix
         self.columns.append({'title': title, 'sortable': sortable, 'reverse': reverse, 'suffix': suffix, 'align': align,
                              'width': width})
 
     def add_row(self, data):
+        """
+        Adds a row to the table
+
+        Keyword arguments:
+        data -- A list of data, the order of the data determines the column it ends up in
+        """
         assert len(data) == len(self.columns)
         self.rows.append(data)
 
     def write_files(self, filename='README'):
+        """
+        Writes the table to markdown files
+
+        Keyword arguments:
+        filename -- The file to write to (without the .md extension)
+        """
         for idx, column in enumerate(self.columns):
             if column['sortable']:
                 self.write_file(filename, idx, column['reverse'])
 
     def write_file(self, filename, column_idx, reverse):
+        """
+        Writes a single file for a column index
+
+        Keyword arguments:
+        filename -- The file to write to
+        column_idx -- The index of the column to sort on
+        reverse -- Whether the sorting should happen in reverse
+        """
         with codecs.open('%s%s.md' % (filename, self.columns[column_idx]['suffix']), 'w', 'utf8') as f:
 
             # Sort data according to column index
@@ -154,6 +188,9 @@ def write_to_table(projects):
     projects -- The list of projects to store
     """
     class OhlohValue:
+        """
+        Class used to abstract complex data and make it sortable and writable for the SortableMarkdownTable
+        """
         def __init__(self, obj, value):
             if 'ohloh' in obj.keys() and value in obj['ohloh'].keys():
                 self.value = obj['ohloh'][value]
@@ -163,6 +200,9 @@ def write_to_table(projects):
             return cmp(self.value, other.value)
 
     class OhlohNumber(OhlohValue):
+        """
+        OhlohValue implementation for numeric data with a pretty unicode function for numbers that are very large
+        """
         def __unicode__(self):
             try:
                 value = int(self.value)
@@ -176,6 +216,9 @@ def write_to_table(projects):
                 return '-'
 
     class OhlohDate(OhlohValue):
+        """
+        OhlohValue implementation for dates with a pretty unicode function that shows the time difference
+        """
         def __unicode__(self):
             td = datetime.datetime.now() - self.dateobj()
             if td.days < 0:
@@ -233,9 +276,6 @@ def save_project(project, file_path):
     project -- The project to store
     filename -- The filename to store the project in
     """
-    # for key in project.keys():
-    #     if key != 'name' and key != 'description':
-    #         del project[key]
     json.dump(project, codecs.open(file_path, 'w', 'utf8'), indent=4)
 
 
