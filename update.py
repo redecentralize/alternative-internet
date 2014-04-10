@@ -80,7 +80,7 @@ api_key = None
 json_directory = 'projects'
 table_file = 'README'
 text_header = "# Alternative Internet\n" \
-              "Pull requests VERY welcome!\n\n" \
+              "[Pull requests VERY welcome!](CONTRIBUTING.md)\n\n" \
               "Project statistics fetched from [Ohloh](https://www.ohloh.net).\n\n"
 text_footer = ""
 
