@@ -1,0 +1,4 @@
+{
+    "description": "[KadNode](http://github.com/mwarning/KadNode) delegates DNS requests (*.p2p) from any application and tries to resolve it using the BitTorrent Mainline DHT. Own addresses can be announced and combined with public/secret keys. KadNode can be used as a decentralized DynDNS system, but also covers many other use cases.",
+	"name": "KadNode"
+}
