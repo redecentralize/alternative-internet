@@ -1,13 +1,13 @@
 {
     "ohloh": {
         "main_language": "JavaScript", 
-        "max_month": "2014-04-01T00:00:00Z", 
+        "max_month": "2014-06-01T00:00:00Z", 
         "description": "Javascript Input/Output", 
         "tags": [], 
-        "total_code_lines": 49231, 
+        "total_code_lines": 51167, 
         "total_contributor_count": 8, 
-        "twelve_month_contributor_count": 8, 
-        "updated_at": "2014-04-09T21:18:56Z", 
+        "twelve_month_contributor_count": 7, 
+        "updated_at": "2014-06-06T05:59:29Z", 
         "analysis": "19881637", 
         "min_month": "2012-09-01T00:00:00Z", 
         "factoids": [
@@ -15,8 +15,8 @@
             "Young, but established codebase", 
             "Average number of code comments"
         ], 
-        "twelve_month_commit_count": 834, 
-        "total_commit_count": 1183, 
+        "twelve_month_commit_count": 806, 
+        "total_commit_count": 1206, 
         "id": "665639", 
         "name": "jio"
     }, 

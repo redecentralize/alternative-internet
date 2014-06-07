@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "JavaScript", 
-        "max_month": "2014-02-01T00:00:00Z", 
+        "max_month": "2014-05-01T00:00:00Z", 
         "description": "A simple, high-performance engine for distributing social activities.", 
         "tags": [
             "feed", 
@@ -11,10 +11,10 @@
             "nodejs", 
             "activitystream"
         ], 
-        "total_code_lines": 87328, 
+        "total_code_lines": 87334, 
         "total_contributor_count": 11, 
-        "twelve_month_contributor_count": 9, 
-        "updated_at": "2014-04-08T07:44:40Z", 
+        "twelve_month_contributor_count": 8, 
+        "updated_at": "2014-06-05T11:30:33Z", 
         "analysis": "19774786", 
         "min_month": "2011-09-01T00:00:00Z", 
         "factoids": [
@@ -23,8 +23,8 @@
             "Few source code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 1066, 
-        "total_commit_count": 3744, 
+        "twelve_month_commit_count": 586, 
+        "total_commit_count": 3746, 
         "id": "587826", 
         "name": "pump.io"
     }, 

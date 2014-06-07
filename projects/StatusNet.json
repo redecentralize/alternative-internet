@@ -20,16 +20,16 @@
         "total_code_lines": 230115, 
         "total_contributor_count": 92, 
         "twelve_month_contributor_count": 3, 
-        "updated_at": "2014-04-08T04:07:56Z", 
+        "updated_at": "2014-06-07T01:17:09Z", 
         "analysis": "19720073", 
         "min_month": "2008-05-01T00:00:00Z", 
         "factoids": [
             "Mature, well-established codebase", 
             "Well-commented source code", 
             "Small development team", 
-            "Decreasing Y-O-Y development activity"
+            "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 104, 
+        "twelve_month_commit_count": 94, 
         "total_commit_count": 14877, 
         "id": "15451", 
         "name": "StatusNet"

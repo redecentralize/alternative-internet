@@ -9,7 +9,7 @@
             "serverless"
         ], 
         "twelve_month_contributor_count": 2, 
-        "updated_at": "2014-04-09T07:27:14Z", 
+        "updated_at": "2014-06-05T11:36:44Z", 
         "analysis": "19529366", 
         "min_month": "2010-12-01T00:00:00Z", 
         "factoids": [
@@ -18,7 +18,7 @@
             "Well-established codebase", 
             "Small development team"
         ], 
-        "twelve_month_commit_count": 69, 
+        "twelve_month_commit_count": 68, 
         "total_commit_count": 371, 
         "id": "622974", 
         "name": "Osiris - Serverless Portal System"

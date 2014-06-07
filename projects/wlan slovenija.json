@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "JavaScript", 
-        "max_month": "2014-04-01T00:00:00Z", 
+        "max_month": "2014-06-01T00:00:00Z", 
         "description": "Started in beginning of 2009 the wlan slovenija open wireless network of Slovenia aims to connect Slovenia's public, artistic and cultural, production, educational, research and all other interested spaces and individuals into an autonomous and independent wireless network above Slovenia, in which there is enough space, freedom and possibilities for new content, interaction and communication, research, data exchange, services and alternative access to Internet content and services.\n\nFor use in this and similar wireless networks we develop different open source software, centered mostly around nodewatcher, monitoring and deployment system for mesh networks.", 
         "tags": [
             "slovenia", 
@@ -24,10 +24,10 @@
             "network", 
             "openwrt"
         ], 
-        "total_code_lines": 70144, 
+        "total_code_lines": 70302, 
         "total_contributor_count": 27, 
-        "twelve_month_contributor_count": 13, 
-        "updated_at": "2014-04-08T02:00:07Z", 
+        "twelve_month_contributor_count": 11, 
+        "updated_at": "2014-06-07T18:38:38Z", 
         "analysis": "19856104", 
         "min_month": "2008-07-01T00:00:00Z", 
         "factoids": [
@@ -36,8 +36,8 @@
             "Average number of code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 521, 
-        "total_commit_count": 2643, 
+        "twelve_month_commit_count": 544, 
+        "total_commit_count": 2699, 
         "id": "482224", 
         "name": "wlan slovenija"
     }, 

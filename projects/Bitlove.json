@@ -1,13 +1,13 @@
 {
     "ohloh": {
         "main_language": "Haskell", 
-        "max_month": "2014-01-01T00:00:00Z", 
+        "max_month": "2014-04-01T00:00:00Z", 
         "description": "Bitlove.org on Yesod", 
         "tags": [], 
-        "total_code_lines": 9136, 
+        "total_code_lines": 9148, 
         "total_contributor_count": 4, 
         "twelve_month_contributor_count": 1, 
-        "updated_at": "2014-04-07T23:09:21Z", 
+        "updated_at": "2014-06-05T14:40:22Z", 
         "analysis": "19395584", 
         "min_month": "2012-06-01T00:00:00Z", 
         "factoids": [
@@ -15,8 +15,8 @@
             "Only a single active developer", 
             "Very few source code comments"
         ], 
-        "twelve_month_commit_count": 30, 
-        "total_commit_count": 283, 
+        "twelve_month_commit_count": 11, 
+        "total_commit_count": 287, 
         "id": "681884", 
         "name": "bitlove-ui"
     }, 

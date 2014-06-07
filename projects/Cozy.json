@@ -3,13 +3,13 @@
     "name": "Cozy", 
     "ohloh": {
         "main_language": "CoffeeScript", 
-        "max_month": "2014-04-01T00:00:00Z", 
+        "max_month": "2014-05-01T00:00:00Z", 
         "description": "Data Layer for Cozy Cloud platform", 
         "total_contributor_count": 11, 
-        "total_code_lines": 6617, 
+        "total_code_lines": 6689, 
         "tags": [], 
         "twelve_month_contributor_count": 8, 
-        "updated_at": "2014-04-07T19:24:08Z", 
+        "updated_at": "2014-06-05T23:35:01Z", 
         "analysis": "19840629", 
         "min_month": "2012-07-01T00:00:00Z", 
         "factoids": [
@@ -17,8 +17,8 @@
             "Young, but established codebase", 
             "Few source code comments"
         ], 
-        "twelve_month_commit_count": 405, 
-        "total_commit_count": 631, 
+        "twelve_month_commit_count": 361, 
+        "total_commit_count": 644, 
         "id": "703533", 
         "name": "cozy-data-system"
     }

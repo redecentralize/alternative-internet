@@ -10,8 +10,8 @@
         ], 
         "total_code_lines": 873431, 
         "total_contributor_count": 96, 
-        "twelve_month_contributor_count": 19, 
-        "updated_at": "2014-04-09T09:29:56Z", 
+        "twelve_month_contributor_count": 15, 
+        "updated_at": "2014-06-07T07:16:36Z", 
         "analysis": "19551378", 
         "min_month": "2008-02-01T00:00:00Z", 
         "factoids": [
@@ -20,7 +20,7 @@
             "Average number of code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 396, 
+        "twelve_month_commit_count": 277, 
         "total_commit_count": 11066, 
         "id": "485870", 
         "name": "Lorea"

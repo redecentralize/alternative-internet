@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "C", 
-        "max_month": "2014-04-01T00:00:00Z", 
+        "max_month": "2014-05-01T00:00:00Z", 
         "description": "Open source btsync clone", 
         "tags": [
             "files", 
@@ -9,10 +9,10 @@
             "filesync", 
             "sync"
         ], 
-        "total_code_lines": 240856, 
+        "total_code_lines": 241266, 
         "total_contributor_count": 17, 
         "twelve_month_contributor_count": 17, 
-        "updated_at": "2014-04-09T16:34:06Z", 
+        "updated_at": "2014-06-04T21:49:32Z", 
         "analysis": "19829037", 
         "min_month": "2013-09-01T00:00:00Z", 
         "factoids": [
@@ -20,8 +20,8 @@
             "Well-commented source code", 
             "Short source control history"
         ], 
-        "twelve_month_commit_count": 730, 
-        "total_commit_count": 730, 
+        "twelve_month_commit_count": 846, 
+        "total_commit_count": 846, 
         "id": "714242", 
         "name": "clearskies"
     }, 

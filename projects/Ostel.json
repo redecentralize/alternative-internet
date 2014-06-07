@@ -1,23 +1,23 @@
 {
     "ohloh": {
         "main_language": "JavaScript", 
-        "max_month": "2014-01-01T00:00:00Z", 
+        "max_month": "2014-04-01T00:00:00Z", 
         "description": "Open Secure Telephony", 
         "tags": [], 
-        "total_code_lines": 11754, 
-        "total_contributor_count": 5, 
-        "twelve_month_contributor_count": 2, 
-        "updated_at": "2014-04-09T09:51:55Z", 
+        "total_code_lines": 11763, 
+        "total_contributor_count": 6, 
+        "twelve_month_contributor_count": 3, 
+        "updated_at": "2014-06-07T14:16:21Z", 
         "analysis": "19425848", 
         "min_month": "2012-03-01T00:00:00Z", 
         "factoids": [
-            "Increasing Y-O-Y development activity", 
             "Young, but established codebase", 
             "Small development team", 
+            "Decreasing Y-O-Y development activity", 
             "Very few source code comments"
         ], 
-        "twelve_month_commit_count": 183, 
-        "total_commit_count": 277, 
+        "twelve_month_commit_count": 73, 
+        "total_commit_count": 284, 
         "id": "626224", 
         "name": "OSTel"
     }, 

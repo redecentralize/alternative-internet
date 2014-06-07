@@ -14,15 +14,16 @@
             "distributed"
         ], 
         "twelve_month_contributor_count": 3, 
-        "updated_at": "2014-04-09T17:42:10Z", 
+        "updated_at": "2014-06-04T19:56:13Z", 
         "analysis": "19818132", 
         "min_month": "2012-05-01T00:00:00Z", 
         "factoids": [
             "Young, but established codebase", 
+            "Small development team", 
             "Average number of code comments", 
-            "Small development team"
+            "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 207, 
+        "twelve_month_commit_count": 203, 
         "total_commit_count": 930, 
         "id": "715260", 
         "name": "Ori Distributed Personal File System"

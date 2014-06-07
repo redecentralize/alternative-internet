@@ -1,13 +1,13 @@
 {
     "ohloh": {
         "main_language": "Go", 
-        "max_month": "2014-04-01T00:00:00Z", 
+        "max_month": "2014-06-01T00:00:00Z", 
         "description": "", 
         "tags": [], 
-        "total_code_lines": 232702, 
-        "total_contributor_count": 63, 
-        "twelve_month_contributor_count": 42, 
-        "updated_at": "2014-04-09T21:10:59Z", 
+        "total_code_lines": 253493, 
+        "total_contributor_count": 67, 
+        "twelve_month_contributor_count": 45, 
+        "updated_at": "2014-06-06T20:42:10Z", 
         "analysis": "19881615", 
         "min_month": "2010-06-01T00:00:00Z", 
         "factoids": [
@@ -16,8 +16,8 @@
             "Well-established codebase", 
             "Well-commented source code"
         ], 
-        "twelve_month_commit_count": 1978, 
-        "total_commit_count": 4341, 
+        "twelve_month_commit_count": 2091, 
+        "total_commit_count": 4505, 
         "id": "487862", 
         "name": "Camlistore"
     }, 

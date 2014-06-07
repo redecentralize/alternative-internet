@@ -20,8 +20,8 @@
         ], 
         "total_code_lines": 69649, 
         "total_contributor_count": 51, 
-        "twelve_month_contributor_count": 9, 
-        "updated_at": "2014-04-08T18:41:40Z", 
+        "twelve_month_contributor_count": 7, 
+        "updated_at": "2014-06-07T18:27:09Z", 
         "analysis": "19513205", 
         "min_month": "2005-04-01T00:00:00Z", 
         "factoids": [
@@ -30,7 +30,7 @@
             "Decreasing Y-O-Y development activity", 
             "Very few source code comments"
         ], 
-        "twelve_month_commit_count": 123, 
+        "twelve_month_commit_count": 105, 
         "total_commit_count": 8347, 
         "id": "139248", 
         "name": "Sneer - The Sovereign Computing Platform"

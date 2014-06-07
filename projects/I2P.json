@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "Java", 
-        "max_month": "2014-04-01T00:00:00Z", 
+        "max_month": "2014-06-01T00:00:00Z", 
         "description": "I2P is an anonymous network, exposing a simple layer that applications can use to anonymously and securely send messages to each other. The network itself is strictly message based (ala IP), but there is a library available to allow reliable streaming communication on top of it (ala TCP). All communication is end to end encrypted (in total there are four layers of encryption used when sending a message), and even the end points (\"destinations\") are cryptographic identifiers (essentially a pair of public keys).", 
         "tags": [
             "eepsite", 
@@ -25,10 +25,10 @@
             "censorship", 
             "darknet"
         ], 
-        "total_code_lines": 208443, 
+        "total_code_lines": 211025, 
         "total_contributor_count": 51, 
-        "twelve_month_contributor_count": 10, 
-        "updated_at": "2014-04-10T20:36:34Z", 
+        "twelve_month_contributor_count": 9, 
+        "updated_at": "2014-06-06T10:15:33Z", 
         "analysis": "19848554", 
         "min_month": "2004-04-01T00:00:00Z", 
         "factoids": [
@@ -37,8 +37,8 @@
             "Average number of code comments", 
             "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 1100, 
-        "total_commit_count": 9858, 
+        "twelve_month_commit_count": 1028, 
+        "total_commit_count": 10006, 
         "id": "10228", 
         "name": "I2P"
     }, 

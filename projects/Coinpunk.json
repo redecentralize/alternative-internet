@@ -1,25 +1,25 @@
 {
     "ohloh": {
         "main_language": "JavaScript", 
-        "max_month": "2014-03-01T00:00:00Z", 
+        "max_month": "2014-05-01T00:00:00Z", 
         "description": "Open source, self-hosted DIY Bitcoin wallet service", 
         "tags": [
             "bitcoin", 
             "html5"
         ], 
-        "total_code_lines": 578449, 
-        "total_contributor_count": 12, 
-        "twelve_month_contributor_count": 12, 
-        "updated_at": "2014-04-09T13:18:43Z", 
+        "total_code_lines": 586753, 
+        "total_contributor_count": 17, 
+        "twelve_month_contributor_count": 17, 
+        "updated_at": "2014-06-06T00:33:59Z", 
         "analysis": "19777918", 
         "min_month": "2013-05-01T00:00:00Z", 
         "factoids": [
             "Large, active development team", 
-            "Average number of code comments", 
-            "Short source control history"
+            "Young, but established codebase", 
+            "Average number of code comments"
         ], 
-        "twelve_month_commit_count": 396, 
-        "total_commit_count": 396, 
+        "twelve_month_commit_count": 444, 
+        "total_commit_count": 444, 
         "id": "654517", 
         "name": "coinpunk"
     }, 

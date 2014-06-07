@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "JavaScript", 
-        "max_month": "2014-03-01T00:00:00Z", 
+        "max_month": "2014-05-01T00:00:00Z", 
         "description": "Email and telecommunications that protects privacy and resists eavesdropping\nA publishing platform that resists oppression and censorship.\nAn organizing tool for democratic activists in hostile regimes.\nAn emergency communication network in times of crisis.", 
         "tags": [
             "communication", 
@@ -13,10 +13,10 @@
             "message", 
             "freedombox"
         ], 
-        "total_code_lines": 10758, 
-        "total_contributor_count": 19, 
+        "total_code_lines": 10766, 
+        "total_contributor_count": 20, 
         "twelve_month_contributor_count": 11, 
-        "updated_at": "2014-04-09T06:00:45Z", 
+        "updated_at": "2014-06-07T02:48:48Z", 
         "analysis": "19532179", 
         "min_month": "2011-02-01T00:00:00Z", 
         "factoids": [
@@ -25,8 +25,8 @@
             "Average number of code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 188, 
-        "total_commit_count": 737, 
+        "twelve_month_commit_count": 167, 
+        "total_commit_count": 746, 
         "id": "597590", 
         "name": "FreedomBox"
     }, 

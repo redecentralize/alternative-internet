@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "Java", 
-        "max_month": "2014-04-01T00:00:00Z", 
+        "max_month": "2014-06-01T00:00:00Z", 
         "description": "buddycloud is built for people who care about their privacy.\n\nWe are building the future of social networks. A future founded on openness. A future built using open standards.\n\nWe are making the future happen now, by building a massively scaled and fully distributed social network. buddycloud is leading a quiet revolution to replace the closed retweet and Like incumbents.", 
         "tags": [
             "android", 
@@ -12,20 +12,20 @@
             "xmpp", 
             "socialnetworking"
         ], 
-        "total_code_lines": 297594, 
+        "total_code_lines": 298965, 
         "total_contributor_count": 38, 
-        "twelve_month_contributor_count": 18, 
-        "updated_at": "2014-04-09T21:22:24Z", 
+        "twelve_month_contributor_count": 17, 
+        "updated_at": "2014-06-05T18:02:43Z", 
         "analysis": "19881646", 
         "min_month": "2009-12-01T00:00:00Z", 
         "factoids": [
             "Large, active development team", 
             "Well-established codebase", 
             "Average number of code comments", 
-            "Stable Y-O-Y development activity"
+            "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 1475, 
-        "total_commit_count": 4375, 
+        "twelve_month_commit_count": 1275, 
+        "total_commit_count": 4473, 
         "id": "535958", 
         "name": "buddycloud"
     }, 

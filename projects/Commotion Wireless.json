@@ -6,16 +6,16 @@
         "tags": [], 
         "total_code_lines": 6238, 
         "total_contributor_count": 2, 
-        "twelve_month_contributor_count": 2, 
-        "updated_at": "2014-04-08T16:15:59Z", 
+        "twelve_month_contributor_count": 1, 
+        "updated_at": "2014-06-07T01:15:21Z", 
         "analysis": "19699269", 
         "min_month": "2013-02-01T00:00:00Z", 
         "factoids": [
-            "Well-commented source code", 
-            "Small development team", 
-            "Short source control history"
+            "Very well-commented source code", 
+            "Short source control history", 
+            "Only a single active developer"
         ], 
-        "twelve_month_commit_count": 3, 
+        "twelve_month_commit_count": 1, 
         "total_commit_count": 38, 
         "id": "666764", 
         "name": "commotion-meshbook"

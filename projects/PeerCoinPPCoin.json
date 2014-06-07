@@ -1,16 +1,16 @@
 {
     "ohloh": {
         "main_language": "C++", 
-        "max_month": "2014-04-01T00:00:00Z", 
+        "max_month": "2014-05-01T00:00:00Z", 
         "description": "Peercoin (abbreviated PPC), also known as PPCoin and Peer-to-Peer Coin is the first cryptocurrency design introducing proof-of-stake consensus as a security model, with a combined proof-of-stake/proof-of-work minting system. Peercoin is based on Bitcoin, while introducing many important innovations to cryptocurrency field including new security model, energy efficiency, better minting model and more adaptive response to rapid change in network computation power.", 
         "tags": [
             "currency", 
             "p2p"
         ], 
         "total_code_lines": 100676, 
-        "total_contributor_count": 127, 
-        "twelve_month_contributor_count": 5, 
-        "updated_at": "2014-04-10T14:42:08Z", 
+        "total_contributor_count": 128, 
+        "twelve_month_contributor_count": 4, 
+        "updated_at": "2014-06-07T01:21:06Z", 
         "analysis": "19451702", 
         "min_month": "2011-11-01T00:00:00Z", 
         "factoids": [
@@ -19,8 +19,8 @@
             "Few source code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 41, 
-        "total_commit_count": 2869, 
+        "twelve_month_commit_count": 26, 
+        "total_commit_count": 2872, 
         "id": "713949", 
         "name": "Peercoin"
     }, 

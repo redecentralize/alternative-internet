@@ -6,20 +6,20 @@
         "max_month": "2014-04-01T00:00:00Z", 
         "description": "Libertree is free, libre, open-source software for creating your own distributed social network.", 
         "total_contributor_count": 5, 
-        "total_code_lines": 10392, 
+        "total_code_lines": 10396, 
         "tags": [], 
         "twelve_month_contributor_count": 2, 
-        "updated_at": "2014-04-09T09:50:34Z", 
+        "updated_at": "2014-06-05T13:13:43Z", 
         "analysis": "19847465", 
         "min_month": "2012-03-01T00:00:00Z", 
         "factoids": [
             "Young, but established codebase", 
             "Small development team", 
-            "Decreasing Y-O-Y development activity", 
+            "Stable Y-O-Y development activity", 
             "Very few source code comments"
         ], 
-        "twelve_month_commit_count": 721, 
-        "total_commit_count": 1806, 
+        "twelve_month_commit_count": 652, 
+        "total_commit_count": 1810, 
         "id": "599927", 
         "name": "libertree"
     }
