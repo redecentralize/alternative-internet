@@ -279,6 +279,7 @@ def get_projects():
     for file_name in listdir(json_directory):
         file_path = join(json_directory, file_name)
         if isfile(file_path) and file_path.endswith('.json'):
+            print 'Loading', file_path
             projects[file_path] = json.load(open(file_path, 'r'), object_pairs_hook=OrderedDict)
     return projects
 

@@ -1,8 +1,9 @@
 {
+    "name": "Buddycloud", 
+    "description": "[Buddycloud](http://buddycloud.com) is built for people who care about their privacy.\nWe are building the future of social networks. A future founded on openness. A future built using open standards.\nWe are making the future happen now, by building a massively scaled and fully distributed social network. Buddycloud is leading a quiet revolution to replace the closed retweet and like incumbents.", 
     "ohloh": {
-        "main_language": "Java", 
-        "max_month": "2014-06-01T00:00:00Z", 
-        "description": "buddycloud is built for people who care about their privacy.\n\nWe are building the future of social networks. A future founded on openness. A future built using open standards.\n\nWe are making the future happen now, by building a massively scaled and fully distributed social network. buddycloud is leading a quiet revolution to replace the closed retweet and Like incumbents.", 
+        "id": "535958", 
+        "description": "Buddycloud is built for people who care about their privacy.\n\nWe are building the future of social networks. A future founded on openness. A future built using open standards.\n\nWe are making the future happen now, by building a massively scaled and fully distributed social network. Buddycloud is leading a quiet revolution to replace the closed retweet and Like incumbents.", 
         "tags": [
             "android", 
             "backbone", 
@@ -12,23 +13,22 @@
             "xmpp", 
             "socialnetworking"
         ], 
-        "total_code_lines": 298965, 
-        "total_contributor_count": 38, 
-        "twelve_month_contributor_count": 17, 
-        "updated_at": "2014-06-05T18:02:43Z", 
-        "analysis": "19881646", 
+        "analysis": "20843962", 
+        "name": "Buddycloud", 
+        "main_language": "Java", 
         "min_month": "2009-12-01T00:00:00Z", 
+        "max_month": "2014-06-01T00:00:00Z", 
+        "twelve_month_contributor_count": 17, 
+        "total_contributor_count": 38, 
+        "twelve_month_commit_count": 1267, 
+        "total_code_lines": 299041, 
+        "total_commit_count": 4474, 
+        "updated_at": "2014-06-08T19:06:50Z", 
         "factoids": [
             "Large, active development team", 
             "Well-established codebase", 
             "Average number of code comments", 
             "Decreasing Y-O-Y development activity"
-        ], 
-        "twelve_month_commit_count": 1275, 
-        "total_commit_count": 4473, 
-        "id": "535958", 
-        "name": "buddycloud"
-    }, 
-    "description": "[buddycloud](http://buddycloud.com/) is a set of tools, open source software and protocols to help you build a distributed social network. All the code is on [GitHub](https://github.com/buddycloud).", 
-    "name": "buddycloud"
+        ]
+    }
 }

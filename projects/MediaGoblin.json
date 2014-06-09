@@ -23,7 +23,7 @@
         "total_code_lines": 50972, 
         "total_contributor_count": 84, 
         "twelve_month_contributor_count": 21, 
-        "updated_at": "2014-06-06T10:34:58Z", 
+        "updated_at": "2014-06-08T12:08:48Z", 
         "analysis": "19851091", 
         "min_month": "2010-07-01T00:00:00Z", 
         "factoids": [
@@ -32,8 +32,8 @@
             "Well-commented source code", 
             "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 1112, 
-        "total_commit_count": 4642, 
+        "twelve_month_commit_count": 1110, 
+        "total_commit_count": 4643, 
         "id": "512069", 
         "name": "GNU MediaGoblin"
     }, 

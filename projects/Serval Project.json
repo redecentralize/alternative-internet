@@ -19,20 +19,20 @@
             "disasterrecovery", 
             "sip"
         ], 
-        "total_code_lines": 517483, 
+        "total_code_lines": 517753, 
         "total_contributor_count": 119, 
-        "twelve_month_contributor_count": 7, 
-        "updated_at": "2014-06-04T21:38:20Z", 
+        "twelve_month_contributor_count": 6, 
+        "updated_at": "2014-06-08T00:52:59Z", 
         "analysis": "19851682", 
         "min_month": "2004-09-01T00:00:00Z", 
         "factoids": [
             "Mature, well-established codebase", 
-            "Large, active development team", 
             "Very well-commented source code", 
+            "Average size development team", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 878, 
-        "total_commit_count": 9600, 
+        "twelve_month_commit_count": 875, 
+        "total_commit_count": 9611, 
         "id": "488903", 
         "name": "Serval Project"
     }, 

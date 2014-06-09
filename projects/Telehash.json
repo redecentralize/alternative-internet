@@ -7,7 +7,7 @@
         "total_code_lines": 113674, 
         "total_contributor_count": 32, 
         "twelve_month_contributor_count": 21, 
-        "updated_at": "2014-06-07T18:29:18Z", 
+        "updated_at": "2014-06-08T13:24:16Z", 
         "analysis": "19824934", 
         "min_month": "2010-01-01T00:00:00Z", 
         "factoids": [
@@ -16,8 +16,8 @@
             "Well-established codebase", 
             "Very few source code comments"
         ], 
-        "twelve_month_commit_count": 1096, 
-        "total_commit_count": 1366, 
+        "twelve_month_commit_count": 1098, 
+        "total_commit_count": 1368, 
         "id": "491069", 
         "name": "TeleHash"
     }, 

@@ -27,7 +27,7 @@
         "total_code_lines": 776053, 
         "total_contributor_count": 25, 
         "twelve_month_contributor_count": 6, 
-        "updated_at": "2014-06-06T14:59:14Z", 
+        "updated_at": "2014-06-09T06:05:57Z", 
         "analysis": "19171921", 
         "min_month": "2007-11-01T00:00:00Z", 
         "factoids": [
@@ -36,8 +36,8 @@
             "Average number of code comments", 
             "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 803, 
-        "total_commit_count": 5910, 
+        "twelve_month_commit_count": 798, 
+        "total_commit_count": 5911, 
         "id": "5035", 
         "name": "RetroShare"
     }, 

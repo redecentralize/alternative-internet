@@ -6,7 +6,7 @@
         "max_month": "2014-06-01T00:00:00Z", 
         "description": "Free and secure distributed Skype replacement.", 
         "total_contributor_count": 341, 
-        "total_code_lines": 157447, 
+        "total_code_lines": 157480, 
         "tags": [
             "communication", 
             "voicechat", 
@@ -27,7 +27,7 @@
             "skype"
         ], 
         "twelve_month_contributor_count": 341, 
-        "updated_at": "2014-06-06T22:17:37Z", 
+        "updated_at": "2014-06-08T12:45:58Z", 
         "analysis": "19881652", 
         "min_month": "2013-06-01T00:00:00Z", 
         "factoids": [
@@ -35,8 +35,8 @@
             "Young, but established codebase", 
             "Average number of code comments"
         ], 
-        "twelve_month_commit_count": 6617, 
-        "total_commit_count": 6617, 
+        "twelve_month_commit_count": 6629, 
+        "total_commit_count": 6629, 
         "id": "643458", 
         "name": "Project Tox"
     }
