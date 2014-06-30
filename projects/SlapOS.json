@@ -11,10 +11,10 @@
             "cloud", 
             "buildout"
         ], 
-        "total_code_lines": 589479, 
-        "total_contributor_count": 93, 
-        "twelve_month_contributor_count": 22, 
-        "updated_at": "2014-06-07T17:08:50Z", 
+        "total_code_lines": 589695, 
+        "total_contributor_count": 94, 
+        "twelve_month_contributor_count": 23, 
+        "updated_at": "2014-06-29T08:10:19Z", 
         "analysis": "19877460", 
         "min_month": "2006-05-01T00:00:00Z", 
         "factoids": [
@@ -23,8 +23,8 @@
             "Average number of code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 1747, 
-        "total_commit_count": 14415, 
+        "twelve_month_commit_count": 1734, 
+        "total_commit_count": 14455, 
         "id": "585577", 
         "name": "SlapOS"
     }, 

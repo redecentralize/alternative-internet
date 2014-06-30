@@ -9,8 +9,8 @@
         ], 
         "total_code_lines": 586753, 
         "total_contributor_count": 17, 
-        "twelve_month_contributor_count": 17, 
-        "updated_at": "2014-06-09T00:55:16Z", 
+        "twelve_month_contributor_count": 16, 
+        "updated_at": "2014-06-28T09:59:46Z", 
         "analysis": "19777918", 
         "min_month": "2013-05-01T00:00:00Z", 
         "factoids": [
@@ -18,7 +18,7 @@
             "Young, but established codebase", 
             "Average number of code comments"
         ], 
-        "twelve_month_commit_count": 444, 
+        "twelve_month_commit_count": 361, 
         "total_commit_count": 444, 
         "id": "654517", 
         "name": "coinpunk"

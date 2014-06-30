@@ -19,10 +19,10 @@
             "streams", 
             "matrix"
         ], 
-        "total_code_lines": 431208, 
-        "total_contributor_count": 85, 
-        "twelve_month_contributor_count": 42, 
-        "updated_at": "2014-06-09T06:32:27Z", 
+        "total_code_lines": 468535, 
+        "total_contributor_count": 88, 
+        "twelve_month_contributor_count": 46, 
+        "updated_at": "2014-06-29T23:35:42Z", 
         "analysis": "19863714", 
         "min_month": "2010-07-01T00:00:00Z", 
         "factoids": [
@@ -31,8 +31,8 @@
             "Well-established codebase", 
             "Average number of code comments"
         ], 
-        "twelve_month_commit_count": 3185, 
-        "total_commit_count": 10713, 
+        "twelve_month_commit_count": 3342, 
+        "total_commit_count": 10950, 
         "id": "623130", 
         "name": "Red Matrix"
     }, 

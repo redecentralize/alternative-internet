@@ -20,10 +20,10 @@
             "privacy", 
             "censorship"
         ], 
-        "total_code_lines": 448584, 
+        "total_code_lines": 452183, 
         "total_contributor_count": 38, 
         "twelve_month_contributor_count": 26, 
-        "updated_at": "2014-06-08T18:10:35Z", 
+        "updated_at": "2014-06-29T01:18:47Z", 
         "analysis": "19852673", 
         "min_month": "2006-06-01T00:00:00Z", 
         "factoids": [
@@ -32,8 +32,8 @@
             "Very well-commented source code", 
             "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 5534, 
-        "total_commit_count": 22314, 
+        "twelve_month_commit_count": 5557, 
+        "total_commit_count": 22582, 
         "id": "10246", 
         "name": "GNUnet"
     }, 

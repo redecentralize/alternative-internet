@@ -27,7 +27,7 @@
         "total_code_lines": 70302, 
         "total_contributor_count": 27, 
         "twelve_month_contributor_count": 11, 
-        "updated_at": "2014-06-08T13:36:24Z", 
+        "updated_at": "2014-06-29T14:15:56Z", 
         "analysis": "19856104", 
         "min_month": "2008-07-01T00:00:00Z", 
         "factoids": [
@@ -36,8 +36,8 @@
             "Average number of code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 545, 
-        "total_commit_count": 2700, 
+        "twelve_month_commit_count": 549, 
+        "total_commit_count": 2712, 
         "id": "482224", 
         "name": "wlan slovenija"
     }, 

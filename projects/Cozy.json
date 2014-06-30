@@ -9,7 +9,7 @@
         "total_code_lines": 6689, 
         "tags": [], 
         "twelve_month_contributor_count": 8, 
-        "updated_at": "2014-06-09T01:21:41Z", 
+        "updated_at": "2014-06-28T18:39:06Z", 
         "analysis": "19840629", 
         "min_month": "2012-07-01T00:00:00Z", 
         "factoids": [
@@ -17,7 +17,7 @@
             "Young, but established codebase", 
             "Few source code comments"
         ], 
-        "twelve_month_commit_count": 361, 
+        "twelve_month_commit_count": 314, 
         "total_commit_count": 644, 
         "id": "703533", 
         "name": "cozy-data-system"

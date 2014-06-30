@@ -8,10 +8,10 @@
             "email", 
             "webmail"
         ], 
-        "total_code_lines": 33645, 
-        "total_contributor_count": 79, 
-        "twelve_month_contributor_count": 78, 
-        "updated_at": "2014-06-07T22:35:27Z", 
+        "total_code_lines": 41277, 
+        "total_contributor_count": 81, 
+        "twelve_month_contributor_count": 80, 
+        "updated_at": "2014-06-30T05:39:25Z", 
         "analysis": "19881821", 
         "min_month": "2011-10-01T00:00:00Z", 
         "factoids": [
@@ -20,8 +20,8 @@
             "Young, but established codebase", 
             "Few source code comments"
         ], 
-        "twelve_month_commit_count": 2327, 
-        "total_commit_count": 2556, 
+        "twelve_month_commit_count": 2390, 
+        "total_commit_count": 2740, 
         "id": "652017", 
         "name": "Mailpile"
     }, 

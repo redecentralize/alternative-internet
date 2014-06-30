@@ -24,10 +24,10 @@
             "pgp", 
             "retroshare"
         ], 
-        "total_code_lines": 776053, 
+        "total_code_lines": 776390, 
         "total_contributor_count": 25, 
         "twelve_month_contributor_count": 6, 
-        "updated_at": "2014-06-09T06:05:57Z", 
+        "updated_at": "2014-06-30T17:29:43Z", 
         "analysis": "19171921", 
         "min_month": "2007-11-01T00:00:00Z", 
         "factoids": [
@@ -36,8 +36,8 @@
             "Average number of code comments", 
             "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 798, 
-        "total_commit_count": 5911, 
+        "twelve_month_commit_count": 758, 
+        "total_commit_count": 5921, 
         "id": "5035", 
         "name": "RetroShare"
     }, 

@@ -26,9 +26,9 @@
             "steganography"
         ], 
         "total_code_lines": 3179, 
-        "total_contributor_count": 15, 
-        "twelve_month_contributor_count": 5, 
-        "updated_at": "2014-06-08T00:55:46Z", 
+        "total_contributor_count": 16, 
+        "twelve_month_contributor_count": 6, 
+        "updated_at": "2014-06-30T00:02:00Z", 
         "analysis": "19837278", 
         "min_month": "2010-08-01T00:00:00Z", 
         "factoids": [
@@ -37,8 +37,8 @@
             "Few source code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 58, 
-        "total_commit_count": 448, 
+        "twelve_month_commit_count": 63, 
+        "total_commit_count": 455, 
         "id": "642136", 
         "name": "Tomb, the Crypto Undertaker"
     }, 

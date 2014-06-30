@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "Python", 
-        "max_month": "2014-05-01T00:00:00Z", 
+        "max_month": "2014-06-01T00:00:00Z", 
         "description": "The Tahoe Least-Authority Filesystem is a secure, decentralized, fault-tolerant filesystem.", 
         "tags": [
             "fault_tolerant", 
@@ -10,10 +10,10 @@
             "storage", 
             "secure"
         ], 
-        "total_code_lines": 180285, 
+        "total_code_lines": 180350, 
         "total_contributor_count": 54, 
         "twelve_month_contributor_count": 11, 
-        "updated_at": "2014-06-08T13:24:08Z", 
+        "updated_at": "2014-06-28T18:51:50Z", 
         "analysis": "19778476", 
         "min_month": "2006-10-01T00:00:00Z", 
         "factoids": [
@@ -22,8 +22,8 @@
             "Average number of code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 159, 
-        "total_commit_count": 11663, 
+        "twelve_month_commit_count": 146, 
+        "total_commit_count": 11676, 
         "id": "128738", 
         "name": "Tahoe-LAFS"
     }, 

@@ -24,7 +24,7 @@
             "waveinabox"
         ], 
         "twelve_month_contributor_count": 3, 
-        "updated_at": "2014-06-07T10:19:19Z", 
+        "updated_at": "2014-06-29T09:57:18Z", 
         "analysis": "19874641", 
         "min_month": "2011-02-01T00:00:00Z", 
         "factoids": [
@@ -33,7 +33,7 @@
             "Average number of code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 48, 
+        "twelve_month_commit_count": 18, 
         "total_commit_count": 184, 
         "id": "587053", 
         "name": "Apache Wave (Incubating)"

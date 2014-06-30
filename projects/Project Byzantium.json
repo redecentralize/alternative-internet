@@ -1,13 +1,13 @@
 {
     "ohloh": {
         "main_language": "JavaScript", 
-        "max_month": "2014-05-01T00:00:00Z", 
+        "max_month": "2014-06-01T00:00:00Z", 
         "description": "Configs and code for Project Byzantium.", 
         "tags": [], 
-        "total_code_lines": 62789, 
+        "total_code_lines": 62796, 
         "total_contributor_count": 16, 
         "twelve_month_contributor_count": 5, 
-        "updated_at": "2014-06-07T23:29:32Z", 
+        "updated_at": "2014-06-28T03:59:56Z", 
         "analysis": "19526167", 
         "min_month": "2011-02-01T00:00:00Z", 
         "factoids": [
@@ -16,8 +16,8 @@
             "Average number of code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 142, 
-        "total_commit_count": 1370, 
+        "twelve_month_commit_count": 131, 
+        "total_commit_count": 1372, 
         "id": "598905", 
         "name": "Byzantium"
     }, 

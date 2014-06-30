@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "C", 
-        "max_month": "2014-05-01T00:00:00Z", 
+        "max_month": "2014-06-01T00:00:00Z", 
         "description": "The Serval Project is a small team of academics, contracted engineers and students in the Resilient Networks Lab of Flinders University in South Australia, developing revolutionary, free, open-source software for mobile telephones.", 
         "tags": [
             "serval", 
@@ -19,10 +19,10 @@
             "disasterrecovery", 
             "sip"
         ], 
-        "total_code_lines": 517753, 
+        "total_code_lines": 520298, 
         "total_contributor_count": 119, 
         "twelve_month_contributor_count": 6, 
-        "updated_at": "2014-06-08T00:52:59Z", 
+        "updated_at": "2014-06-28T07:11:04Z", 
         "analysis": "19851682", 
         "min_month": "2004-09-01T00:00:00Z", 
         "factoids": [
@@ -31,8 +31,8 @@
             "Average size development team", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 875, 
-        "total_commit_count": 9611, 
+        "twelve_month_commit_count": 873, 
+        "total_commit_count": 9662, 
         "id": "488903", 
         "name": "Serval Project"
     }, 

@@ -1,22 +1,22 @@
 {
     "ohloh": {
         "main_language": "Python", 
-        "max_month": "2012-10-01T00:00:00Z", 
+        "max_month": "2014-06-01T00:00:00Z", 
         "description": "YunoHost CLI", 
         "tags": [], 
-        "total_code_lines": 282, 
-        "total_contributor_count": 3, 
-        "twelve_month_contributor_count": 0, 
-        "updated_at": "2014-06-08T21:41:25Z", 
+        "total_code_lines": 1786, 
+        "total_contributor_count": 21, 
+        "twelve_month_contributor_count": 17, 
+        "updated_at": "2014-06-28T00:19:17Z", 
         "analysis": "19499775", 
         "min_month": "2012-10-01T00:00:00Z", 
         "factoids": [
-            "Short source control history", 
-            "Average number of code comments", 
-            "No recent development activity"
+            "Large, active development team", 
+            "Well-commented source code", 
+            "Young, but established codebase"
         ], 
-        "twelve_month_commit_count": 0, 
-        "total_commit_count": 19, 
+        "twelve_month_commit_count": 455, 
+        "total_commit_count": 861, 
         "id": "616399", 
         "name": "YunoHost's CLI"
     }, 

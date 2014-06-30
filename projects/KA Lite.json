@@ -7,7 +7,7 @@
         "total_code_lines": 376517, 
         "total_contributor_count": 29, 
         "twelve_month_contributor_count": 22, 
-        "updated_at": "2014-06-07T23:08:15Z", 
+        "updated_at": "2014-06-27T23:39:12Z", 
         "analysis": "19430771", 
         "min_month": "2012-09-01T00:00:00Z", 
         "factoids": [
@@ -15,7 +15,7 @@
             "Young, but established codebase", 
             "Average number of code comments"
         ], 
-        "twelve_month_commit_count": 3376, 
+        "twelve_month_commit_count": 3023, 
         "total_commit_count": 4405, 
         "id": "631721", 
         "name": "ka-lite"

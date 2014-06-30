@@ -6,7 +6,7 @@
         "max_month": "2014-06-01T00:00:00Z", 
         "description": "GNU social is free software that runs decentralized social networks.", 
         "total_contributor_count": 114, 
-        "total_code_lines": 258897, 
+        "total_code_lines": 259284, 
         "tags": [
             "ostatus", 
             "federated", 
@@ -15,7 +15,7 @@
             "gnusocial"
         ], 
         "twelve_month_contributor_count": 14, 
-        "updated_at": "2014-06-09T06:50:53Z", 
+        "updated_at": "2014-06-30T15:56:32Z", 
         "analysis": "19852377", 
         "min_month": "2008-05-01T00:00:00Z", 
         "factoids": [
@@ -24,8 +24,8 @@
             "Large, active development team", 
             "Well-commented source code"
         ], 
-        "twelve_month_commit_count": 667, 
-        "total_commit_count": 15685, 
+        "twelve_month_commit_count": 675, 
+        "total_commit_count": 15724, 
         "id": "488827", 
         "name": "GNU social"
     }

@@ -7,7 +7,7 @@
         "total_code_lines": 143883, 
         "total_contributor_count": 19, 
         "twelve_month_contributor_count": 13, 
-        "updated_at": "2014-06-08T03:34:11Z", 
+        "updated_at": "2014-06-29T18:16:20Z", 
         "analysis": "19538741", 
         "min_month": "2012-02-01T00:00:00Z", 
         "factoids": [
@@ -16,7 +16,7 @@
             "Young, but established codebase", 
             "Average number of code comments"
         ], 
-        "twelve_month_commit_count": 1744, 
+        "twelve_month_commit_count": 1721, 
         "total_commit_count": 2581, 
         "id": "706692", 
         "name": "indx"
