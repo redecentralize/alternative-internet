@@ -11,4 +11,5 @@ after_success:
   - git push github master > /dev/null
 env:
   global:
-  - secure:
+  - secure: "YV9V73qvd45uDhvkCi0YrAQvdf8Kd2Nrvlc+PGI9JmAFgmeHEe7HDUyQ06Vzor8vGPvJhTkWVee+QABOIIk0PnoJFXRks+jRA9kzeMlujFUAW6NQ4ct9yaiPXcWhbAPIVBAbgkFBvhniAyWybmuGLa46955LF45J02ewecybk0o="
+  - secure: "HEVy7n5qQ+3HX7H8CFDXikeqZ2r8IvXNvyG9UmvOkrMJzZFgBmWRhhJXRIF/+x3GlxccZIGUcxX/SnFLK6lTGwXmHQF6VmHpsPqsv7InJGjbY93oPsmEAzza3atz78Hsvd2jvHWh7GPtL9iY0SYoxZM0AGYY6iFFsHj11URFnvQ="
