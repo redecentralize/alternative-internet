@@ -1,15 +1,15 @@
 script:
-  - python update.py -a ${OHLOH_KEY}
+- python update.py -a ${OHLOH_KEY}
 after_success:
-  - if [ "master" != $TRAVIS_BRANCH ]; then exit 0; fi; 
-  - git config --global user.email "deploy@travis-ci.org"
-  - git config --global user.name "Travis deploy"
-  - git remote add github "https://${GH_TOKEN}@github.com/redecentralize/alternative-internet.git" > /dev/null
-  - git config credential.helper "store --file=.git/credentials"
-  - echo "https://${GH_TOKEN}@github.com" > .git/credentials
-  - git commit -a -m "Updating README.md with new project details"
-  - git push github master > /dev/null
+- if [ "master" != $TRAVIS_BRANCH ]; then exit 0; fi;
+- git config --global user.email "deploy@travis-ci.org"
+- git config --global user.name "Travis deploy"
+- git remote add github "https://${GH_TOKEN}@github.com/redecentralize/alternative-internet.git"
+  > /dev/null
+- git config credential.helper "store --file=.git/credentials"
+- echo "https://${GH_TOKEN}@github.com" > .git/credentials
+- git commit -a -m "Updating README.md with new project details"
+- git push github master > /dev/null
 env:
   global:
-  - secure: "YV9V73qvd45uDhvkCi0YrAQvdf8Kd2Nrvlc+PGI9JmAFgmeHEe7HDUyQ06Vzor8vGPvJhTkWVee+QABOIIk0PnoJFXRks+jRA9kzeMlujFUAW6NQ4ct9yaiPXcWhbAPIVBAbgkFBvhniAyWybmuGLa46955LF45J02ewecybk0o="
-  - secure: "HEVy7n5qQ+3HX7H8CFDXikeqZ2r8IvXNvyG9UmvOkrMJzZFgBmWRhhJXRIF/+x3GlxccZIGUcxX/SnFLK6lTGwXmHQF6VmHpsPqsv7InJGjbY93oPsmEAzza3atz78Hsvd2jvHWh7GPtL9iY0SYoxZM0AGYY6iFFsHj11URFnvQ="
+    secure: "B0lrYAYfxgd0ku97K94xjjLOm+EhfSqnEVldwpMwex8TghWiD0u+Omns25H4xlSR9HDBM/84scgWA/GAbXAnvh7SFLlBu2Vfc/2V67UbrPuGvJRr9PpxEvOUCaSXguOWC1/C95Qww7YoFptPRxz8PXARf6eY5XYAX1cwX0DWT/s="
