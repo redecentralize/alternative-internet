@@ -21,6 +21,6 @@
         "id": "491069", 
         "name": "TeleHash"
     }, 
-    "description": "[Telehash](http://telehash.org/) a new encrypted P2P JSON-based protocol enabling developers to quickly build apps that are distributed and private (see [v2](https://github.com/quartzjer/TeleHash/blob/master/org/v2.md) of the spec)", 
+    "description": "[Telehash](http://telehash.org/) a new encrypted P2P JSON-based protocol enabling developers to quickly build apps that are distributed and private (see the [protocol](https://github.com/telehash/telehash.org/blob/master/protocol.md) spec)", 
     "name": "Telehash"
 }
