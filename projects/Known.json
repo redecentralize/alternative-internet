@@ -24,19 +24,19 @@
         ], 
         "analysis": "20835044", 
         "name": "Known", 
-        "main_language": "JavaScript", 
+        "main_language": "PHP", 
         "min_month": "2013-01-01T00:00:00Z", 
-        "max_month": "2014-06-01T00:00:00Z", 
-        "twelve_month_contributor_count": 9, 
-        "total_contributor_count": 10, 
-        "twelve_month_commit_count": 831, 
-        "total_code_lines": 31808, 
-        "total_commit_count": 1145, 
-        "updated_at": "2014-06-30T08:15:10Z", 
+        "max_month": "2014-09-01T00:00:00Z", 
+        "twelve_month_contributor_count": 13, 
+        "total_contributor_count": 16, 
+        "twelve_month_commit_count": 1219, 
+        "total_code_lines": 40012, 
+        "total_commit_count": 1613, 
+        "updated_at": "2014-09-02T18:55:01Z", 
         "factoids": [
             "Large, active development team", 
             "Young, but established codebase", 
-            "Few source code comments"
+            "Average number of code comments"
         ]
     }, 
     "description": "[Known](http://withknown.com/) is a simple way to share your story with a variety of media, from any device. Aligned with the indie web movement, Known sites can be installed on your own server, and each one will operate as a node in a global social network, together with other indie web platforms. Known is fully extensible and supports microblogging, photos, articles, events, location check-ins and bookmarks out of the box. It is a responsive web platform that works on anything with a web browser.", 

@@ -6,16 +6,16 @@
         "tags": [], 
         "total_code_lines": 1125, 
         "total_contributor_count": 2, 
-        "twelve_month_contributor_count": 2, 
-        "updated_at": "2014-06-30T04:08:35Z", 
+        "twelve_month_contributor_count": 0, 
+        "updated_at": "2014-09-01T20:18:58Z", 
         "analysis": "19499211", 
         "min_month": "2013-06-01T00:00:00Z", 
         "factoids": [
             "Well-commented source code", 
-            "Small development team", 
-            "Short source control history"
+            "Short source control history", 
+            "No recent development activity"
         ], 
-        "twelve_month_commit_count": 102, 
+        "twelve_month_commit_count": 0, 
         "total_commit_count": 102, 
         "id": "653497", 
         "name": "webfist"

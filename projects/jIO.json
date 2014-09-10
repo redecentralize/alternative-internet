@@ -7,15 +7,16 @@
         "total_code_lines": 51167, 
         "total_contributor_count": 8, 
         "twelve_month_contributor_count": 7, 
-        "updated_at": "2014-06-30T14:48:54Z", 
+        "updated_at": "2014-09-04T04:21:11Z", 
         "analysis": "19881637", 
         "min_month": "2012-09-01T00:00:00Z", 
         "factoids": [
             "Large, active development team", 
             "Young, but established codebase", 
-            "Average number of code comments"
+            "Average number of code comments", 
+            "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 806, 
+        "twelve_month_commit_count": 448, 
         "total_commit_count": 1206, 
         "id": "665639", 
         "name": "jio"

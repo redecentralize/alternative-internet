@@ -3,10 +3,10 @@
     "name": "GNU social", 
     "ohloh": {
         "main_language": "PHP", 
-        "max_month": "2014-06-01T00:00:00Z", 
+        "max_month": "2014-08-01T00:00:00Z", 
         "description": "GNU social is free software that runs decentralized social networks.", 
-        "total_contributor_count": 114, 
-        "total_code_lines": 259284, 
+        "total_contributor_count": 117, 
+        "total_code_lines": 259931, 
         "tags": [
             "ostatus", 
             "federated", 
@@ -14,8 +14,8 @@
             "socialnetwork", 
             "gnusocial"
         ], 
-        "twelve_month_contributor_count": 14, 
-        "updated_at": "2014-06-30T15:56:32Z", 
+        "twelve_month_contributor_count": 15, 
+        "updated_at": "2014-08-29T15:10:22Z", 
         "analysis": "19852377", 
         "min_month": "2008-05-01T00:00:00Z", 
         "factoids": [
@@ -24,8 +24,8 @@
             "Large, active development team", 
             "Well-commented source code"
         ], 
-        "twelve_month_commit_count": 675, 
-        "total_commit_count": 15724, 
+        "twelve_month_commit_count": 732, 
+        "total_commit_count": 15840, 
         "id": "488827", 
         "name": "GNU social"
     }

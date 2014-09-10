@@ -7,7 +7,7 @@
         "total_code_lines": 3620, 
         "total_contributor_count": 14, 
         "twelve_month_contributor_count": 4, 
-        "updated_at": "2014-06-29T16:38:30Z", 
+        "updated_at": "2014-08-29T02:56:42Z", 
         "analysis": "19494189", 
         "min_month": "2012-04-01T00:00:00Z", 
         "factoids": [
@@ -16,7 +16,7 @@
             "Average number of code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 10, 
+        "twelve_month_commit_count": 9, 
         "total_commit_count": 67, 
         "id": "622601", 
         "name": "ZeroBin"

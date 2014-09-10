@@ -1,17 +1,17 @@
 {
     "ohloh": {
         "main_language": "Python", 
-        "max_month": "2014-06-01T00:00:00Z", 
+        "max_month": "2014-09-01T00:00:00Z", 
         "description": "A modern, fast web-mail client with user-friendly encryption and privacy features.", 
         "tags": [
             "python", 
             "email", 
             "webmail"
         ], 
-        "total_code_lines": 41277, 
-        "total_contributor_count": 81, 
-        "twelve_month_contributor_count": 80, 
-        "updated_at": "2014-06-30T05:39:25Z", 
+        "total_code_lines": 50310, 
+        "total_contributor_count": 85, 
+        "twelve_month_contributor_count": 76, 
+        "updated_at": "2014-09-03T17:52:02Z", 
         "analysis": "19881821", 
         "min_month": "2011-10-01T00:00:00Z", 
         "factoids": [
@@ -20,8 +20,8 @@
             "Young, but established codebase", 
             "Few source code comments"
         ], 
-        "twelve_month_commit_count": 2390, 
-        "total_commit_count": 2740, 
+        "twelve_month_commit_count": 3014, 
+        "total_commit_count": 3518, 
         "id": "652017", 
         "name": "Mailpile"
     }, 

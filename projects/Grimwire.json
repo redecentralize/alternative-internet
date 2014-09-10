@@ -7,7 +7,7 @@
         "total_code_lines": 15563, 
         "total_contributor_count": 3, 
         "twelve_month_contributor_count": 3, 
-        "updated_at": "2014-06-30T15:22:16Z", 
+        "updated_at": "2014-09-01T17:35:17Z", 
         "analysis": "19877966", 
         "min_month": "2013-08-01T00:00:00Z", 
         "factoids": [
@@ -15,7 +15,7 @@
             "Average number of code comments", 
             "Small development team"
         ], 
-        "twelve_month_commit_count": 161, 
+        "twelve_month_commit_count": 158, 
         "total_commit_count": 161, 
         "id": "667086", 
         "name": "grimwire"

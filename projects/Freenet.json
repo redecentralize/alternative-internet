@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "Java", 
-        "max_month": "2014-06-01T00:00:00Z", 
+        "max_month": "2014-07-01T00:00:00Z", 
         "description": "Freenet is a peer-to-peer network designed to allow the distribution of information over the Internet in an efficient manner, without fear of censorship. It is completely decentralized (there is no person or computer essential to its operation), meaning that Freenet cannot be attacked like centralized peer-to-peer systems such as Napster. Freenet also employs intelligent routing and caching to learn to route requests more efficiently, automatically mirror popular data, make network flooding almost impossible, and move data to where it is in greatest demand.", 
         "tags": [
             "darknet", 
@@ -27,10 +27,10 @@
             "security", 
             "technology"
         ], 
-        "total_code_lines": 440884, 
+        "total_code_lines": 436849, 
         "total_contributor_count": 189, 
-        "twelve_month_contributor_count": 22, 
-        "updated_at": "2014-06-28T03:18:43Z", 
+        "twelve_month_contributor_count": 19, 
+        "updated_at": "2014-07-19T18:44:16Z", 
         "analysis": "19778439", 
         "min_month": "2000-10-01T00:00:00Z", 
         "factoids": [
@@ -39,8 +39,8 @@
             "Few source code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 721, 
-        "total_commit_count": 32104, 
+        "twelve_month_commit_count": 614, 
+        "total_commit_count": 32145, 
         "id": "123", 
         "name": "The Freenet Project"
     }, 

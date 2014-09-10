@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "C", 
-        "max_month": "2014-06-01T00:00:00Z", 
+        "max_month": "2014-08-01T00:00:00Z", 
         "description": "Tor is a toolset for a wide range of organizations and people that want to improve their safety and security on the Internet. Using Tor can help you anonymize web browsing and publishing, instant messaging, IRC, SSH, and other applications that use the TCP protocol. Tor also provides a platform on which software developers can build new applications with built-in anonymity, safety, and privacy features.\n\nTor aims to defend against traffic analysis, a form of network surveillance that threatens personal anonymity and privacy, confidential business activities and relationships, and state security. Communications are bounced around a distributed network of servers called onion routers, protecting you from websites that build profiles of your interests, local eavesdroppers that read your data", 
         "tags": [
             "anonymous", 
@@ -20,10 +20,10 @@
             "privacy", 
             "censorship"
         ], 
-        "total_code_lines": 339555, 
+        "total_code_lines": 338563, 
         "total_contributor_count": 194, 
-        "twelve_month_contributor_count": 45, 
-        "updated_at": "2014-06-29T11:23:26Z", 
+        "twelve_month_contributor_count": 48, 
+        "updated_at": "2014-08-28T14:53:23Z", 
         "analysis": "19851945", 
         "min_month": "2002-06-01T00:00:00Z", 
         "factoids": [
@@ -32,8 +32,8 @@
             "Average number of code comments", 
             "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 3256, 
-        "total_commit_count": 30692, 
+        "twelve_month_commit_count": 3185, 
+        "total_commit_count": 31047, 
         "id": "5675", 
         "name": "Tor"
     }, 

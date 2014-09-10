@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "C++", 
-        "max_month": "2014-06-01T00:00:00Z", 
+        "max_month": "2014-09-01T00:00:00Z", 
         "description": "Bitcoin is a decentralized P2P electronic cash system without a central server or trusted parties. Users hold the crypto keys to their own money and transact directly with each other, with the help of the network to check for double-spending.", 
         "tags": [
             "currency", 
@@ -12,20 +12,20 @@
             "p2psystem", 
             "bitcoin"
         ], 
-        "total_code_lines": 432363, 
-        "total_contributor_count": 270, 
-        "twelve_month_contributor_count": 125, 
-        "updated_at": "2014-06-29T12:33:55Z", 
+        "total_code_lines": 204977, 
+        "total_contributor_count": 297, 
+        "twelve_month_contributor_count": 140, 
+        "updated_at": "2014-09-03T18:55:44Z", 
         "analysis": "19852533", 
         "min_month": "2009-08-01T00:00:00Z", 
         "factoids": [
+            "Mature, well-established codebase", 
             "Very large, active development team", 
-            "Well-established codebase", 
-            "Few source code comments", 
-            "Stable Y-O-Y development activity"
+            "Increasing Y-O-Y development activity", 
+            "Few source code comments"
         ], 
-        "twelve_month_commit_count": 1961, 
-        "total_commit_count": 9079, 
+        "twelve_month_commit_count": 2305, 
+        "total_commit_count": 9645, 
         "id": "332874", 
         "name": "Bitcoin"
     }, 

@@ -3,22 +3,22 @@
     "name": "Syncthing!", 
     "ohloh": {
         "main_language": "Go", 
-        "max_month": "2014-06-01T00:00:00Z", 
+        "max_month": "2014-08-01T00:00:00Z", 
         "description": "Open Source Continuous Replication / Cluster Synchronization Thing", 
         "tags": [], 
-        "total_code_lines": 58413, 
-        "total_contributor_count": 14, 
-        "twelve_month_contributor_count": 14, 
-        "updated_at": "2014-06-30T15:27:56Z", 
+        "total_code_lines": 61390, 
+        "total_contributor_count": 45, 
+        "twelve_month_contributor_count": 45, 
+        "updated_at": "2014-08-28T17:28:45Z", 
         "analysis": "19881745", 
         "min_month": "2013-12-01T00:00:00Z", 
         "factoids": [
-            "Large, active development team", 
+            "Very large, active development team", 
             "Average number of code comments", 
             "Short source control history"
         ], 
-        "twelve_month_commit_count": 619, 
-        "total_commit_count": 619, 
+        "twelve_month_commit_count": 1295, 
+        "total_commit_count": 1295, 
         "id": "715050", 
         "name": "Syncthing"
     }

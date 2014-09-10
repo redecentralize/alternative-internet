@@ -9,8 +9,8 @@
         ], 
         "total_code_lines": 207799, 
         "total_contributor_count": 199, 
-        "twelve_month_contributor_count": 43, 
-        "updated_at": "2014-06-27T22:32:53Z", 
+        "twelve_month_contributor_count": 35, 
+        "updated_at": "2014-09-02T10:43:01Z", 
         "analysis": "19836015", 
         "min_month": "2009-08-01T00:00:00Z", 
         "factoids": [
@@ -19,7 +19,7 @@
             "Few source code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 191, 
+        "twelve_month_commit_count": 145, 
         "total_commit_count": 4250, 
         "id": "640786", 
         "name": "litecoin"

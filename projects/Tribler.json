@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "Python", 
-        "max_month": "2014-06-01T00:00:00Z", 
+        "max_month": "2014-09-01T00:00:00Z", 
         "description": "Tribler is a social community that facilitates filesharing and a/v streaming through a peer-to-peer (p2p) network.", 
         "tags": [
             "p2p", 
@@ -10,20 +10,20 @@
             "streaming", 
             "social"
         ], 
-        "total_code_lines": 157343, 
-        "total_contributor_count": 55, 
+        "total_code_lines": 158233, 
+        "total_contributor_count": 56, 
         "twelve_month_contributor_count": 23, 
-        "updated_at": "2014-06-30T17:59:11Z", 
+        "updated_at": "2014-09-03T17:25:04Z", 
         "analysis": "19864272", 
         "min_month": "2005-09-01T00:00:00Z", 
         "factoids": [
             "Mature, well-established codebase", 
-            "Increasing Y-O-Y development activity", 
             "Large, active development team", 
-            "Average number of code comments"
+            "Average number of code comments", 
+            "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 4155, 
-        "total_commit_count": 12671, 
+        "twelve_month_commit_count": 4310, 
+        "total_commit_count": 13548, 
         "id": "7015", 
         "name": "Tribler"
     }, 

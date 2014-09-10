@@ -1,22 +1,23 @@
 {
     "ohloh": {
         "main_language": "Python", 
-        "max_month": "2014-03-01T00:00:00Z", 
+        "max_month": "2014-07-01T00:00:00Z", 
         "description": "Khan Academy Lite: lightweight web server for serving core Khan Academy content (videos and exercises) without needing internet connectivity", 
         "tags": [], 
-        "total_code_lines": 376517, 
-        "total_contributor_count": 29, 
-        "twelve_month_contributor_count": 22, 
-        "updated_at": "2014-06-27T23:39:12Z", 
+        "total_code_lines": 410590, 
+        "total_contributor_count": 38, 
+        "twelve_month_contributor_count": 27, 
+        "updated_at": "2014-09-02T14:24:12Z", 
         "analysis": "19430771", 
         "min_month": "2012-09-01T00:00:00Z", 
         "factoids": [
             "Large, active development team", 
             "Young, but established codebase", 
-            "Average number of code comments"
+            "Average number of code comments", 
+            "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 3023, 
-        "total_commit_count": 4405, 
+        "twelve_month_commit_count": 3510, 
+        "total_commit_count": 6384, 
         "id": "631721", 
         "name": "ka-lite"
     }, 

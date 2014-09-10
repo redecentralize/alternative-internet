@@ -1,22 +1,23 @@
 {
     "ohloh": {
         "main_language": "C", 
-        "max_month": "2014-06-01T00:00:00Z", 
+        "max_month": "2014-07-01T00:00:00Z", 
         "description": "tools for the next revolution", 
         "tags": [], 
-        "total_code_lines": 2037906, 
-        "total_contributor_count": 8, 
-        "twelve_month_contributor_count": 4, 
-        "updated_at": "2014-06-30T00:58:51Z", 
+        "total_code_lines": 1497117, 
+        "total_contributor_count": 9, 
+        "twelve_month_contributor_count": 5, 
+        "updated_at": "2014-09-02T15:01:27Z", 
         "analysis": "19534210", 
         "min_month": "2012-07-01T00:00:00Z", 
         "factoids": [
             "Well-commented source code", 
             "Average size development team", 
-            "Young, but established codebase"
+            "Young, but established codebase", 
+            "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 123, 
-        "total_commit_count": 446, 
+        "twelve_month_commit_count": 134, 
+        "total_commit_count": 465, 
         "id": "681160", 
         "name": "qaul.net"
     }, 

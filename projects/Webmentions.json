@@ -1,22 +1,22 @@
 {
     "ohloh": {
         "main_language": "PHP", 
-        "max_month": "2014-05-01T00:00:00Z", 
+        "max_month": "2014-08-01T00:00:00Z", 
         "description": "Client library for sending webmention and pingback notifications", 
         "tags": [], 
-        "total_code_lines": 386, 
-        "total_contributor_count": 2, 
-        "twelve_month_contributor_count": 2, 
-        "updated_at": "2014-06-29T12:45:01Z", 
+        "total_code_lines": 396, 
+        "total_contributor_count": 5, 
+        "twelve_month_contributor_count": 4, 
+        "updated_at": "2014-08-29T13:26:40Z", 
         "analysis": "19839590", 
         "min_month": "2013-03-01T00:00:00Z", 
         "factoids": [
+            "Average size development team", 
             "Young, but established codebase", 
-            "Small development team", 
             "Very few source code comments"
         ], 
-        "twelve_month_commit_count": 23, 
-        "total_commit_count": 26, 
+        "twelve_month_commit_count": 16, 
+        "total_commit_count": 33, 
         "id": "662577", 
         "name": "mention-client"
     }, 

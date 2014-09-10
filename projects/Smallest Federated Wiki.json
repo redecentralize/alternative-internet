@@ -8,10 +8,10 @@
             "wiki", 
             "jquery"
         ], 
-        "total_code_lines": 30675, 
+        "total_code_lines": 30463, 
         "total_contributor_count": 48, 
-        "twelve_month_contributor_count": 6, 
-        "updated_at": "2014-06-28T00:30:09Z", 
+        "twelve_month_contributor_count": 4, 
+        "updated_at": "2014-09-05T04:41:12Z", 
         "analysis": "19408228", 
         "min_month": "2011-06-01T00:00:00Z", 
         "factoids": [
@@ -20,7 +20,7 @@
             "Few source code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 48, 
+        "twelve_month_commit_count": 30, 
         "total_commit_count": 1520, 
         "id": "585912", 
         "name": "Smallest Federated Wiki"

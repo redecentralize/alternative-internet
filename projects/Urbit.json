@@ -6,17 +6,17 @@
         "tags": [], 
         "total_code_lines": 531932, 
         "total_contributor_count": 11, 
-        "twelve_month_contributor_count": 5, 
-        "updated_at": "2014-06-28T05:27:41Z", 
+        "twelve_month_contributor_count": 3, 
+        "updated_at": "2014-09-09T08:01:36Z", 
         "analysis": "19816113", 
         "min_month": "2010-01-01T00:00:00Z", 
         "factoids": [
             "Well-established codebase", 
-            "Average size development team", 
+            "Small development team", 
             "Few source code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 154, 
+        "twelve_month_commit_count": 15, 
         "total_commit_count": 1156, 
         "id": "503174", 
         "name": "cgyarvin's urbit"
