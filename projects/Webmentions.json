@@ -7,7 +7,7 @@
         "total_code_lines": 396, 
         "total_contributor_count": 5, 
         "twelve_month_contributor_count": 4, 
-        "updated_at": "2014-08-29T13:26:40Z", 
+        "updated_at": "2014-09-20T04:13:45Z", 
         "analysis": "19839590", 
         "min_month": "2013-03-01T00:00:00Z", 
         "factoids": [
@@ -15,7 +15,7 @@
             "Young, but established codebase", 
             "Very few source code comments"
         ], 
-        "twelve_month_commit_count": 16, 
+        "twelve_month_commit_count": 11, 
         "total_commit_count": 33, 
         "id": "662577", 
         "name": "mention-client"

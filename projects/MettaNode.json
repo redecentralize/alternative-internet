@@ -16,14 +16,14 @@
         ], 
         "total_code_lines": 92270, 
         "total_contributor_count": 2, 
-        "twelve_month_contributor_count": 2, 
-        "updated_at": "2012-12-03T00:09:18Z", 
+        "twelve_month_contributor_count": 0, 
+        "updated_at": "2014-09-18T03:57:29Z", 
         "analysis": "11500412", 
         "min_month": "2012-10-01T00:00:00Z", 
         "factoids": [
-            "Small development team", 
+            "Short source control history", 
             "Average number of code comments", 
-            "Short source control history"
+            "No recent development activity"
         ], 
         "twelve_month_commit_count": 154, 
         "total_commit_count": 154, 

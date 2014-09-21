@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "C", 
-        "max_month": "2014-08-01T00:00:00Z", 
+        "max_month": "2014-09-01T00:00:00Z", 
         "description": "Seafile -- Private cloud for Group file sharing and collaboration.", 
         "tags": [
             "cloudfiles", 
@@ -10,9 +10,9 @@
             "filesync"
         ], 
         "total_code_lines": 86247, 
-        "total_contributor_count": 44, 
-        "twelve_month_contributor_count": 30, 
-        "updated_at": "2014-09-02T12:06:08Z", 
+        "total_contributor_count": 45, 
+        "twelve_month_contributor_count": 29, 
+        "updated_at": "2014-09-16T08:05:03Z", 
         "analysis": "19864551", 
         "min_month": "2012-07-01T00:00:00Z", 
         "factoids": [
@@ -21,8 +21,8 @@
             "Decreasing Y-O-Y development activity", 
             "Very few source code comments"
         ], 
-        "twelve_month_commit_count": 419, 
-        "total_commit_count": 1089, 
+        "twelve_month_commit_count": 411, 
+        "total_commit_count": 1095, 
         "id": "617046", 
         "name": "seafile"
     }, 

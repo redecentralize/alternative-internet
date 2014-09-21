@@ -21,10 +21,10 @@
             "friendica", 
             "forum"
         ], 
-        "total_code_lines": 579689, 
+        "total_code_lines": 574999, 
         "total_contributor_count": 73, 
-        "twelve_month_contributor_count": 22, 
-        "updated_at": "2014-09-02T18:45:05Z", 
+        "twelve_month_contributor_count": 20, 
+        "updated_at": "2014-09-16T16:10:09Z", 
         "analysis": "19854396", 
         "min_month": "2010-07-01T00:00:00Z", 
         "factoids": [
@@ -33,8 +33,8 @@
             "Average number of code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 967, 
-        "total_commit_count": 10146, 
+        "twelve_month_commit_count": 1106, 
+        "total_commit_count": 10317, 
         "id": "488052", 
         "name": "Friendica"
     }, 

@@ -10,11 +10,15 @@
         "total_code_lines": 0, 
         "total_contributor_count": 1, 
         "twelve_month_contributor_count": 0, 
-        "updated_at": "2012-03-23T02:27:46Z", 
+        "updated_at": "2014-09-19T04:32:37Z", 
         "analysis": "7072015", 
         "min_month": "2009-06-01T00:00:00Z", 
-        "factoids": [], 
-        "twelve_month_commit_count": null, 
+        "factoids": [
+            "Short source control history", 
+            "Stable Y-O-Y development activity", 
+            "No recent development activity"
+        ], 
+        "twelve_month_commit_count": 0, 
         "total_commit_count": 1, 
         "id": "347014", 
         "name": "Freifunk-Bonn"

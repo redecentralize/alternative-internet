@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "C++", 
-        "max_month": "2014-08-01T00:00:00Z", 
+        "max_month": "2014-09-01T00:00:00Z", 
         "description": "RetroShare is a cross-platform private P2P sharing program. It lets you share securely your friends, using a web-of-trust to authenticate peers and OpenSSL to encrypt all communication. RetroShare provides filesharing, chat, messages and channels.", 
         "tags": [
             "gpg", 
@@ -27,17 +27,17 @@
         "total_code_lines": 778105, 
         "total_contributor_count": 25, 
         "twelve_month_contributor_count": 6, 
-        "updated_at": "2014-08-28T16:35:21Z", 
+        "updated_at": "2014-09-17T16:48:52Z", 
         "analysis": "19171921", 
         "min_month": "2007-11-01T00:00:00Z", 
         "factoids": [
             "Mature, well-established codebase", 
             "Average size development team", 
             "Average number of code comments", 
-            "Stable Y-O-Y development activity"
+            "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 663, 
-        "total_commit_count": 5989, 
+        "twelve_month_commit_count": 609, 
+        "total_commit_count": 6034, 
         "id": "5035", 
         "name": "RetroShare"
     }, 

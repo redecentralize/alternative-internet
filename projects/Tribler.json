@@ -10,20 +10,20 @@
             "streaming", 
             "social"
         ], 
-        "total_code_lines": 158233, 
+        "total_code_lines": 158349, 
         "total_contributor_count": 56, 
         "twelve_month_contributor_count": 23, 
-        "updated_at": "2014-09-03T17:25:04Z", 
+        "updated_at": "2014-09-15T14:13:12Z", 
         "analysis": "19864272", 
         "min_month": "2005-09-01T00:00:00Z", 
         "factoids": [
             "Mature, well-established codebase", 
+            "Increasing Y-O-Y development activity", 
             "Large, active development team", 
-            "Average number of code comments", 
-            "Stable Y-O-Y development activity"
+            "Average number of code comments"
         ], 
-        "twelve_month_commit_count": 4310, 
-        "total_commit_count": 13548, 
+        "twelve_month_commit_count": 4309, 
+        "total_commit_count": 13604, 
         "id": "7015", 
         "name": "Tribler"
     }, 

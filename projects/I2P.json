@@ -25,10 +25,10 @@
             "censorship", 
             "darknet"
         ], 
-        "total_code_lines": 218174, 
+        "total_code_lines": 218280, 
         "total_contributor_count": 51, 
         "twelve_month_contributor_count": 8, 
-        "updated_at": "2014-09-05T04:31:21Z", 
+        "updated_at": "2014-09-16T22:56:49Z", 
         "analysis": "19848554", 
         "min_month": "2004-04-01T00:00:00Z", 
         "factoids": [
@@ -37,8 +37,8 @@
             "Average number of code comments", 
             "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 1059, 
-        "total_commit_count": 10270, 
+        "twelve_month_commit_count": 1038, 
+        "total_commit_count": 10281, 
         "id": "10228", 
         "name": "I2P"
     }, 

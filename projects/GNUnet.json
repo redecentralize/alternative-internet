@@ -23,7 +23,7 @@
         "total_code_lines": 467110, 
         "total_contributor_count": 38, 
         "twelve_month_contributor_count": 25, 
-        "updated_at": "2014-09-03T18:48:36Z", 
+        "updated_at": "2014-09-15T01:42:19Z", 
         "analysis": "19852673", 
         "min_month": "2006-06-01T00:00:00Z", 
         "factoids": [
@@ -32,8 +32,8 @@
             "Very well-commented source code", 
             "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 4914, 
-        "total_commit_count": 22971, 
+        "twelve_month_commit_count": 4643, 
+        "total_commit_count": 22994, 
         "id": "10246", 
         "name": "GNUnet"
     }, 

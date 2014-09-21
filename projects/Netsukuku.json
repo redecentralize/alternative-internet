@@ -7,11 +7,16 @@
         "total_code_lines": 169283, 
         "total_contributor_count": 14, 
         "twelve_month_contributor_count": 0, 
-        "updated_at": "2012-04-29T05:50:27Z", 
+        "updated_at": "2014-09-18T03:01:53Z", 
         "analysis": "7900737", 
         "min_month": "2004-04-01T00:00:00Z", 
-        "factoids": [], 
-        "twelve_month_commit_count": null, 
+        "factoids": [
+            "Mature, well-established codebase", 
+            "Average number of code comments", 
+            "Stable Y-O-Y development activity", 
+            "No recent development activity"
+        ], 
+        "twelve_month_commit_count": 0, 
         "total_commit_count": 5685, 
         "id": "9678", 
         "name": "Netsukuku"

@@ -9,7 +9,7 @@
         "total_code_lines": 8170, 
         "total_contributor_count": 10, 
         "twelve_month_contributor_count": 1, 
-        "updated_at": "2014-09-02T17:52:00Z", 
+        "updated_at": "2014-09-20T02:34:49Z", 
         "analysis": "19400828", 
         "min_month": "2012-01-01T00:00:00Z", 
         "factoids": [
@@ -18,7 +18,7 @@
             "Only a single active developer", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 5, 
+        "twelve_month_commit_count": 4, 
         "total_commit_count": 1889, 
         "id": "713917", 
         "name": "ShareIt! project"

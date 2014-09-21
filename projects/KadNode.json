@@ -14,7 +14,7 @@
         "total_code_lines": 8321, 
         "total_contributor_count": 2, 
         "twelve_month_contributor_count": 2, 
-        "updated_at": "2014-08-28T16:25:59Z", 
+        "updated_at": "2014-09-17T05:31:03Z", 
         "analysis": "21846082", 
         "min_month": "2013-06-01T00:00:00Z", 
         "factoids": [
@@ -22,7 +22,7 @@
             "Few source code comments", 
             "Small development team"
         ], 
-        "twelve_month_commit_count": 435, 
+        "twelve_month_commit_count": 389, 
         "total_commit_count": 509, 
         "id": "716585", 
         "name": "KadNode"

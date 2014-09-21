@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "C", 
-        "max_month": "2012-08-01T00:00:00Z", 
+        "max_month": "2014-04-01T00:00:00Z", 
         "description": "", 
         "tags": [
             "s2s", 
@@ -18,20 +18,20 @@
             "xmpp", 
             "psyc"
         ], 
-        "total_code_lines": 41671, 
-        "total_contributor_count": 4, 
-        "twelve_month_contributor_count": 1, 
-        "updated_at": "2013-01-06T02:51:40Z", 
+        "total_code_lines": 41724, 
+        "total_contributor_count": 5, 
+        "twelve_month_contributor_count": 2, 
+        "updated_at": "2014-09-20T19:38:16Z", 
         "analysis": "11986583", 
         "min_month": "2009-01-01T00:00:00Z", 
         "factoids": [
-            "Well-established codebase", 
-            "Average number of code comments", 
-            "Decreasing Y-O-Y development activity", 
-            "Only a single active developer"
+            "Mature, well-established codebase", 
+            "Increasing Y-O-Y development activity", 
+            "Small development team", 
+            "Average number of code comments"
         ], 
-        "twelve_month_commit_count": 5, 
-        "total_commit_count": 346, 
+        "twelve_month_commit_count": 10, 
+        "total_commit_count": 356, 
         "id": "485620", 
         "name": "psyced"
     }, 

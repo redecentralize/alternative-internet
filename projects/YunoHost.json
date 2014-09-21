@@ -1,13 +1,13 @@
 {
     "ohloh": {
         "main_language": "JavaScript", 
-        "max_month": "2014-08-01T00:00:00Z", 
+        "max_month": "2014-09-01T00:00:00Z", 
         "description": "YunoHost CLI", 
         "tags": [], 
-        "total_code_lines": 114092, 
+        "total_code_lines": 114193, 
         "total_contributor_count": 32, 
         "twelve_month_contributor_count": 21, 
-        "updated_at": "2014-09-02T14:51:57Z", 
+        "updated_at": "2014-09-15T02:11:50Z", 
         "analysis": "19499775", 
         "min_month": "2012-05-01T00:00:00Z", 
         "factoids": [
@@ -16,8 +16,8 @@
             "Average number of code comments", 
             "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 1348, 
-        "total_commit_count": 2275, 
+        "twelve_month_commit_count": 1350, 
+        "total_commit_count": 2281, 
         "id": "616399", 
         "name": "YunoHost's CLI"
     }, 

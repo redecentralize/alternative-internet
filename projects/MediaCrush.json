@@ -4,10 +4,10 @@
         "max_month": "2014-09-01T00:00:00Z", 
         "description": "A website for serving media super fast", 
         "tags": [], 
-        "total_code_lines": 20261, 
+        "total_code_lines": 20260, 
         "total_contributor_count": 24, 
         "twelve_month_contributor_count": 20, 
-        "updated_at": "2014-09-02T14:17:32Z", 
+        "updated_at": "2014-09-15T11:29:18Z", 
         "analysis": "19851817", 
         "min_month": "2013-07-01T00:00:00Z", 
         "factoids": [
@@ -15,8 +15,8 @@
             "Well-commented source code", 
             "Young, but established codebase"
         ], 
-        "twelve_month_commit_count": 1508, 
-        "total_commit_count": 1896, 
+        "twelve_month_commit_count": 1512, 
+        "total_commit_count": 1901, 
         "id": "651113", 
         "name": "MediaCrush"
     }, 

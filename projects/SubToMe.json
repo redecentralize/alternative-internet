@@ -6,8 +6,8 @@
         "tags": [], 
         "total_code_lines": 137972, 
         "total_contributor_count": 17, 
-        "twelve_month_contributor_count": 8, 
-        "updated_at": "2014-08-29T13:21:09Z", 
+        "twelve_month_contributor_count": 7, 
+        "updated_at": "2014-09-20T04:28:38Z", 
         "analysis": "19830982", 
         "min_month": "2012-12-01T00:00:00Z", 
         "factoids": [
@@ -15,7 +15,7 @@
             "Young, but established codebase", 
             "Average number of code comments"
         ], 
-        "twelve_month_commit_count": 124, 
+        "twelve_month_commit_count": 103, 
         "total_commit_count": 332, 
         "id": "678069", 
         "name": "subtome"

@@ -5,11 +5,11 @@
         "main_language": "CoffeeScript", 
         "max_month": "2014-09-01T00:00:00Z", 
         "description": "Data Layer for Cozy Cloud platform", 
-        "total_contributor_count": 11, 
-        "total_code_lines": 6663, 
+        "total_contributor_count": 12, 
+        "total_code_lines": 6687, 
         "tags": [], 
-        "twelve_month_contributor_count": 8, 
-        "updated_at": "2014-09-02T16:40:53Z", 
+        "twelve_month_contributor_count": 9, 
+        "updated_at": "2014-09-15T17:11:46Z", 
         "analysis": "19840629", 
         "min_month": "2012-07-01T00:00:00Z", 
         "factoids": [
@@ -18,8 +18,8 @@
             "Young, but established codebase", 
             "Average number of code comments"
         ], 
-        "twelve_month_commit_count": 354, 
-        "total_commit_count": 703, 
+        "twelve_month_commit_count": 359, 
+        "total_commit_count": 708, 
         "id": "703533", 
         "name": "cozy-data-system"
     }

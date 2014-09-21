@@ -4,10 +4,10 @@
         "max_month": "2014-09-01T00:00:00Z", 
         "description": "", 
         "tags": [], 
-        "total_code_lines": 290079, 
-        "total_contributor_count": 74, 
-        "twelve_month_contributor_count": 44, 
-        "updated_at": "2014-09-02T13:15:00Z", 
+        "total_code_lines": 291378, 
+        "total_contributor_count": 75, 
+        "twelve_month_contributor_count": 46, 
+        "updated_at": "2014-09-15T12:16:15Z", 
         "analysis": "19881615", 
         "min_month": "2010-06-01T00:00:00Z", 
         "factoids": [
@@ -16,8 +16,8 @@
             "Well-established codebase", 
             "Well-commented source code"
         ], 
-        "twelve_month_commit_count": 2031, 
-        "total_commit_count": 4974, 
+        "twelve_month_commit_count": 2020, 
+        "total_commit_count": 5009, 
         "id": "487862", 
         "name": "Camlistore"
     }, 
