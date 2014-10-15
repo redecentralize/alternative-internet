@@ -7,10 +7,10 @@
             "bitcoin", 
             "currency"
         ], 
-        "total_code_lines": 207796, 
-        "total_contributor_count": 199, 
-        "twelve_month_contributor_count": 33, 
-        "updated_at": "2014-09-15T13:49:43Z", 
+        "total_code_lines": 207797, 
+        "total_contributor_count": 198, 
+        "twelve_month_contributor_count": 31, 
+        "updated_at": "2014-10-09T10:14:38Z", 
         "analysis": "19836015", 
         "min_month": "2009-08-01T00:00:00Z", 
         "factoids": [
@@ -19,8 +19,8 @@
             "Few source code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 132, 
-        "total_commit_count": 4263, 
+        "twelve_month_commit_count": 124, 
+        "total_commit_count": 4265, 
         "id": "640786", 
         "name": "litecoin"
     }, 

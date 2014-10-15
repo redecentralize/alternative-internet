@@ -6,8 +6,8 @@
         "tags": [], 
         "total_code_lines": 410590, 
         "total_contributor_count": 38, 
-        "twelve_month_contributor_count": 27, 
-        "updated_at": "2014-09-15T17:51:04Z", 
+        "twelve_month_contributor_count": 24, 
+        "updated_at": "2014-10-10T13:30:43Z", 
         "analysis": "19430771", 
         "min_month": "2012-09-01T00:00:00Z", 
         "factoids": [
@@ -16,7 +16,7 @@
             "Average number of code comments", 
             "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 3510, 
+        "twelve_month_commit_count": 3068, 
         "total_commit_count": 6384, 
         "id": "631721", 
         "name": "ka-lite"

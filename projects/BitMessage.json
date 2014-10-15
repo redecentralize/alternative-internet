@@ -10,8 +10,8 @@
         ], 
         "total_code_lines": 38542, 
         "total_contributor_count": 92, 
-        "twelve_month_contributor_count": 41, 
-        "updated_at": "2014-09-15T11:25:12Z", 
+        "twelve_month_contributor_count": 33, 
+        "updated_at": "2014-10-13T04:19:09Z", 
         "analysis": "19860061", 
         "min_month": "2012-11-01T00:00:00Z", 
         "factoids": [
@@ -19,7 +19,7 @@
             "Young, but established codebase", 
             "Few source code comments"
         ], 
-        "twelve_month_commit_count": 318, 
+        "twelve_month_commit_count": 258, 
         "total_commit_count": 1375, 
         "id": "632497", 
         "name": "Bitmessage"

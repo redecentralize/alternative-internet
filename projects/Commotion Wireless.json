@@ -7,11 +7,11 @@
         "total_code_lines": 6238, 
         "total_contributor_count": 2, 
         "twelve_month_contributor_count": 1, 
-        "updated_at": "2014-09-15T14:17:30Z", 
+        "updated_at": "2014-10-13T12:41:54Z", 
         "analysis": "19699269", 
         "min_month": "2013-02-01T00:00:00Z", 
         "factoids": [
-            "Well-commented source code", 
+            "Very well-commented source code", 
             "Short source control history", 
             "Only a single active developer"
         ], 

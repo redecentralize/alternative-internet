@@ -46,17 +46,17 @@
         ], 
         "total_code_lines": 325852, 
         "total_contributor_count": 10, 
-        "twelve_month_contributor_count": 4, 
-        "updated_at": "2014-09-02T15:02:26Z", 
+        "twelve_month_contributor_count": 3, 
+        "updated_at": "2014-10-13T08:18:51Z", 
         "analysis": "17767964", 
         "min_month": "2007-03-01T00:00:00Z", 
         "factoids": [
             "Mature, well-established codebase", 
-            "Average size development team", 
             "Well-commented source code", 
+            "Small development team", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 272, 
+        "twelve_month_commit_count": 265, 
         "total_commit_count": 4398, 
         "id": "25895", 
         "name": "Kune"

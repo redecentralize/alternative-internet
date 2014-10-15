@@ -3,13 +3,13 @@
     "name": "Libertree", 
     "ohloh": {
         "main_language": "Ruby", 
-        "max_month": "2014-09-01T00:00:00Z", 
+        "max_month": "2014-10-01T00:00:00Z", 
         "description": "Libertree is free, libre, open-source software for creating your own distributed social network.", 
         "total_contributor_count": 5, 
-        "total_code_lines": 18907, 
+        "total_code_lines": 19002, 
         "tags": [], 
         "twelve_month_contributor_count": 2, 
-        "updated_at": "2014-09-16T07:05:57Z", 
+        "updated_at": "2014-10-10T07:34:46Z", 
         "analysis": "19847465", 
         "min_month": "2012-03-01T00:00:00Z", 
         "factoids": [
@@ -18,8 +18,8 @@
             "Stable Y-O-Y development activity", 
             "Very few source code comments"
         ], 
-        "twelve_month_commit_count": 508, 
-        "total_commit_count": 1898, 
+        "twelve_month_commit_count": 541, 
+        "total_commit_count": 1939, 
         "id": "599927", 
         "name": "libertree"
     }

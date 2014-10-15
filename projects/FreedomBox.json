@@ -15,8 +15,8 @@
         ], 
         "total_code_lines": 11197, 
         "total_contributor_count": 23, 
-        "twelve_month_contributor_count": 11, 
-        "updated_at": "2014-09-15T06:55:07Z", 
+        "twelve_month_contributor_count": 8, 
+        "updated_at": "2014-10-06T18:35:26Z", 
         "analysis": "19532179", 
         "min_month": "2011-02-01T00:00:00Z", 
         "factoids": [
@@ -25,7 +25,7 @@
             "Well-established codebase", 
             "Well-commented source code"
         ], 
-        "twelve_month_commit_count": 1480, 
+        "twelve_month_commit_count": 1203, 
         "total_commit_count": 2289, 
         "id": "597590", 
         "name": "FreedomBox"

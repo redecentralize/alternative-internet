@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "JavaScript", 
-        "max_month": "2014-09-01T00:00:00Z", 
+        "max_month": "2014-10-01T00:00:00Z", 
         "description": "ownCloud is an open-source web application for data synchronization, file sharing, and cloud storage.", 
         "tags": [
             "storage", 
@@ -18,10 +18,10 @@
             "owncloud", 
             "apps"
         ], 
-        "total_code_lines": 1932138, 
-        "total_contributor_count": 619, 
-        "twelve_month_contributor_count": 326, 
-        "updated_at": "2014-09-17T19:24:05Z", 
+        "total_code_lines": 1921415, 
+        "total_contributor_count": 628, 
+        "twelve_month_contributor_count": 331, 
+        "updated_at": "2014-10-04T23:21:21Z", 
         "analysis": "19853788", 
         "min_month": "2008-02-01T00:00:00Z", 
         "factoids": [
@@ -30,8 +30,8 @@
             "Average number of code comments", 
             "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 21917, 
-        "total_commit_count": 60915, 
+        "twelve_month_commit_count": 22311, 
+        "total_commit_count": 62373, 
         "id": "481964", 
         "name": "ownCloud"
     }, 

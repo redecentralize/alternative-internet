@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "Python", 
-        "max_month": "2014-09-01T00:00:00Z", 
+        "max_month": "2014-10-01T00:00:00Z", 
         "description": "SlapOS allows one to turn any application into SaaS (Service as a System), PaaS (Platform as a Service) or IaaS (Infrastructure as a Service) without loosing your freedom.", 
         "tags": [
             "saas", 
@@ -11,10 +11,10 @@
             "cloud", 
             "buildout"
         ], 
-        "total_code_lines": 619879, 
-        "total_contributor_count": 101, 
-        "twelve_month_contributor_count": 18, 
-        "updated_at": "2014-09-17T16:28:01Z", 
+        "total_code_lines": 620187, 
+        "total_contributor_count": 103, 
+        "twelve_month_contributor_count": 19, 
+        "updated_at": "2014-10-08T05:11:00Z", 
         "analysis": "19877460", 
         "min_month": "2006-05-01T00:00:00Z", 
         "factoids": [
@@ -23,8 +23,8 @@
             "Average number of code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 1723, 
-        "total_commit_count": 15149, 
+        "twelve_month_commit_count": 1678, 
+        "total_commit_count": 15206, 
         "id": "585577", 
         "name": "SlapOS"
     }, 

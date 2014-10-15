@@ -3,7 +3,7 @@
     "description": "[Piwik](http://piwik.org) is the leading open web analytics platform currently used by individuals, companies and governments all over the world. With Piwik, your data will always be yours. Piwik is an alternative to Google Universal Analytics.", 
     "ohloh": {
         "main_language": "PHP", 
-        "max_month": "2014-09-01T00:00:00Z", 
+        "max_month": "2014-10-01T00:00:00Z", 
         "description": "Piwik is an open source (GPL license) web analytics software. It gives interesting reports on your website visitors, your popular pages, the search engines keywords they used, the language they speak\u2026 and so much more.\n\nPiwik aims to be an open source alternative to Google Analytics.\n\nThe software is used by more than 50,000 active users, is translated in 40+ languages and is actively growing. Check it out!", 
         "tags": [
             "mysql", 
@@ -21,10 +21,10 @@
             "stats", 
             "monitor"
         ], 
-        "total_code_lines": 347284, 
-        "total_contributor_count": 119, 
-        "twelve_month_contributor_count": 81, 
-        "updated_at": "2014-09-17T15:41:31Z", 
+        "total_code_lines": 352665, 
+        "total_contributor_count": 126, 
+        "twelve_month_contributor_count": 85, 
+        "updated_at": "2014-10-12T04:14:31Z", 
         "analysis": "20836099", 
         "min_month": "2007-07-01T00:00:00Z", 
         "factoids": [
@@ -33,8 +33,8 @@
             "Increasing Y-O-Y development activity", 
             "Average number of code comments"
         ], 
-        "twelve_month_commit_count": 6659, 
-        "total_commit_count": 16254, 
+        "twelve_month_commit_count": 6470, 
+        "total_commit_count": 16676, 
         "id": "10720", 
         "name": "Piwik"
     }

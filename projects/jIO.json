@@ -1,13 +1,13 @@
 {
     "ohloh": {
         "main_language": "JavaScript", 
-        "max_month": "2014-06-01T00:00:00Z", 
+        "max_month": "2014-09-01T00:00:00Z", 
         "description": "Javascript Input/Output", 
         "tags": [], 
-        "total_code_lines": 51167, 
-        "total_contributor_count": 8, 
-        "twelve_month_contributor_count": 7, 
-        "updated_at": "2014-09-15T10:28:07Z", 
+        "total_code_lines": 52511, 
+        "total_contributor_count": 9, 
+        "twelve_month_contributor_count": 8, 
+        "updated_at": "2014-10-13T13:24:34Z", 
         "analysis": "19881637", 
         "min_month": "2012-09-01T00:00:00Z", 
         "factoids": [
@@ -16,8 +16,8 @@
             "Average number of code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 448, 
-        "total_commit_count": 1206, 
+        "twelve_month_commit_count": 387, 
+        "total_commit_count": 1229, 
         "id": "665639", 
         "name": "jio"
     }, 
