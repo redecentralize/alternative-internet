@@ -1,0 +1,7 @@
+{
+    "ohloh": {
+        "id": "719790",
+    },
+    "description": "[FreedomBone](https://github.com/bashrc/freedombone) Designed primarily for the Beaglebone Black, but also capable of running on any system with Debian Jessie installed, the FreedomBone allows you to self-host a variety of useful web services with a reasonable degree of security and privacy.",
+    "name": "FreedomBone"
+}
