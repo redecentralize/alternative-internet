@@ -18,10 +18,10 @@
             "owncloud", 
             "apps"
         ], 
-        "total_code_lines": 1921415, 
-        "total_contributor_count": 628, 
-        "twelve_month_contributor_count": 331, 
-        "updated_at": "2014-10-04T23:21:21Z", 
+        "total_code_lines": 2087653, 
+        "total_contributor_count": 642, 
+        "twelve_month_contributor_count": 327, 
+        "updated_at": "2014-10-29T15:06:34Z", 
         "analysis": "19853788", 
         "min_month": "2008-02-01T00:00:00Z", 
         "factoids": [
@@ -30,8 +30,8 @@
             "Average number of code comments", 
             "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 22311, 
-        "total_commit_count": 62373, 
+        "twelve_month_commit_count": 22740, 
+        "total_commit_count": 64076, 
         "id": "481964", 
         "name": "ownCloud"
     }, 

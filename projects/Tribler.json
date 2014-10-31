@@ -13,16 +13,16 @@
         "total_code_lines": 158351, 
         "total_contributor_count": 56, 
         "twelve_month_contributor_count": 23, 
-        "updated_at": "2014-10-11T21:07:51Z", 
+        "updated_at": "2014-10-26T07:03:57Z", 
         "analysis": "19864272", 
         "min_month": "2005-09-01T00:00:00Z", 
         "factoids": [
             "Mature, well-established codebase", 
-            "Increasing Y-O-Y development activity", 
             "Large, active development team", 
-            "Average number of code comments"
+            "Average number of code comments", 
+            "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 4269, 
+        "twelve_month_commit_count": 4073, 
         "total_commit_count": 13607, 
         "id": "7015", 
         "name": "Tribler"

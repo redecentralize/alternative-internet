@@ -7,7 +7,7 @@
         "total_code_lines": 137983, 
         "total_contributor_count": 17, 
         "twelve_month_contributor_count": 7, 
-        "updated_at": "2014-10-07T00:07:27Z", 
+        "updated_at": "2014-10-27T15:44:03Z", 
         "analysis": "19830982", 
         "min_month": "2012-12-01T00:00:00Z", 
         "factoids": [
@@ -15,7 +15,7 @@
             "Young, but established codebase", 
             "Average number of code comments"
         ], 
-        "twelve_month_commit_count": 102, 
+        "twelve_month_commit_count": 81, 
         "total_commit_count": 333, 
         "id": "678069", 
         "name": "subtome"

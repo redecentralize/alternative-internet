@@ -21,7 +21,7 @@
         "total_code_lines": 41724, 
         "total_contributor_count": 5, 
         "twelve_month_contributor_count": 2, 
-        "updated_at": "2014-10-12T01:20:45Z", 
+        "updated_at": "2014-10-24T05:27:54Z", 
         "analysis": "11986583", 
         "min_month": "2009-01-01T00:00:00Z", 
         "factoids": [
@@ -30,7 +30,7 @@
             "Small development team", 
             "Average number of code comments"
         ], 
-        "twelve_month_commit_count": 10, 
+        "twelve_month_commit_count": 6, 
         "total_commit_count": 356, 
         "id": "485620", 
         "name": "psyced"

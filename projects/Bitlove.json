@@ -7,7 +7,7 @@
         "total_code_lines": 9148, 
         "total_contributor_count": 4, 
         "twelve_month_contributor_count": 1, 
-        "updated_at": "2014-10-11T18:38:34Z", 
+        "updated_at": "2014-10-26T19:17:14Z", 
         "analysis": "19395584", 
         "min_month": "2012-06-01T00:00:00Z", 
         "factoids": [
@@ -16,7 +16,7 @@
             "Decreasing Y-O-Y development activity", 
             "Very few source code comments"
         ], 
-        "twelve_month_commit_count": 8, 
+        "twelve_month_commit_count": 5, 
         "total_commit_count": 287, 
         "id": "681884", 
         "name": "bitlove-ui"

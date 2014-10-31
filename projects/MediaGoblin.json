@@ -20,10 +20,10 @@
             "photography", 
             "social"
         ], 
-        "total_code_lines": 53724, 
-        "total_contributor_count": 93, 
+        "total_code_lines": 53777, 
+        "total_contributor_count": 94, 
         "twelve_month_contributor_count": 25, 
-        "updated_at": "2014-10-11T03:24:37Z", 
+        "updated_at": "2014-10-30T13:56:41Z", 
         "analysis": "19851091", 
         "min_month": "2010-07-01T00:00:00Z", 
         "factoids": [
@@ -32,8 +32,8 @@
             "Well-commented source code", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 717, 
-        "total_commit_count": 4965, 
+        "twelve_month_commit_count": 721, 
+        "total_commit_count": 4975, 
         "id": "512069", 
         "name": "GNU MediaGoblin"
     }, 

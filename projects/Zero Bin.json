@@ -6,17 +6,17 @@
         "tags": [], 
         "total_code_lines": 3620, 
         "total_contributor_count": 14, 
-        "twelve_month_contributor_count": 4, 
-        "updated_at": "2014-10-12T17:35:07Z", 
+        "twelve_month_contributor_count": 3, 
+        "updated_at": "2014-10-30T03:09:19Z", 
         "analysis": "19494189", 
         "min_month": "2012-04-01T00:00:00Z", 
         "factoids": [
-            "Average size development team", 
             "Young, but established codebase", 
+            "Small development team", 
             "Average number of code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 8, 
+        "twelve_month_commit_count": 7, 
         "total_commit_count": 67, 
         "id": "622601", 
         "name": "ZeroBin"

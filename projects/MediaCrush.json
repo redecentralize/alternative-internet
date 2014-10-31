@@ -7,7 +7,7 @@
         "total_code_lines": 20278, 
         "total_contributor_count": 26, 
         "twelve_month_contributor_count": 21, 
-        "updated_at": "2014-10-12T21:06:29Z", 
+        "updated_at": "2014-10-30T05:45:35Z", 
         "analysis": "19851817", 
         "min_month": "2013-07-01T00:00:00Z", 
         "factoids": [
@@ -15,8 +15,8 @@
             "Well-commented source code", 
             "Young, but established codebase"
         ], 
-        "twelve_month_commit_count": 1330, 
-        "total_commit_count": 1915, 
+        "twelve_month_commit_count": 1176, 
+        "total_commit_count": 1916, 
         "id": "651113", 
         "name": "MediaCrush"
     }, 

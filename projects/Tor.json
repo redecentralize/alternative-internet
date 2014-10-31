@@ -20,10 +20,10 @@
             "privacy", 
             "censorship"
         ], 
-        "total_code_lines": 347383, 
+        "total_code_lines": 349393, 
         "total_contributor_count": 200, 
         "twelve_month_contributor_count": 48, 
-        "updated_at": "2014-10-11T12:05:01Z", 
+        "updated_at": "2014-10-27T23:11:52Z", 
         "analysis": "19851945", 
         "min_month": "2002-06-01T00:00:00Z", 
         "factoids": [
@@ -32,8 +32,8 @@
             "Average number of code comments", 
             "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 3236, 
-        "total_commit_count": 31416, 
+        "twelve_month_commit_count": 3153, 
+        "total_commit_count": 31529, 
         "id": "5675", 
         "name": "Tor"
     }, 

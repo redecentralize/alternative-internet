@@ -6,8 +6,8 @@
         "tags": [], 
         "total_code_lines": 52511, 
         "total_contributor_count": 9, 
-        "twelve_month_contributor_count": 8, 
-        "updated_at": "2014-10-13T13:24:34Z", 
+        "twelve_month_contributor_count": 7, 
+        "updated_at": "2014-10-29T12:04:27Z", 
         "analysis": "19881637", 
         "min_month": "2012-09-01T00:00:00Z", 
         "factoids": [
@@ -16,7 +16,7 @@
             "Average number of code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 387, 
+        "twelve_month_commit_count": 332, 
         "total_commit_count": 1229, 
         "id": "665639", 
         "name": "jio"

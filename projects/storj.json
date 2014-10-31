@@ -6,10 +6,10 @@
         "max_month": "2014-10-01T00:00:00Z", 
         "description": "", 
         "tags": [], 
-        "total_code_lines": 5347, 
-        "total_contributor_count": 14, 
-        "twelve_month_contributor_count": 14, 
-        "updated_at": "2014-10-08T03:28:16Z", 
+        "total_code_lines": 5840, 
+        "total_contributor_count": 15, 
+        "twelve_month_contributor_count": 15, 
+        "updated_at": "2014-10-26T17:52:45Z", 
         "analysis": "22723592", 
         "min_month": "2014-01-01T00:00:00Z", 
         "factoids": [
@@ -17,8 +17,8 @@
             "Average number of code comments", 
             "Short source control history"
         ], 
-        "twelve_month_commit_count": 491, 
-        "total_commit_count": 491, 
+        "twelve_month_commit_count": 601, 
+        "total_commit_count": 601, 
         "id": "719376", 
         "name": "Storj"
     }

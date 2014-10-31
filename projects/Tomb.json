@@ -28,7 +28,7 @@
         "total_code_lines": 3212, 
         "total_contributor_count": 19, 
         "twelve_month_contributor_count": 9, 
-        "updated_at": "2014-10-13T12:18:43Z", 
+        "updated_at": "2014-10-30T10:35:56Z", 
         "analysis": "19837278", 
         "min_month": "2010-08-01T00:00:00Z", 
         "factoids": [
@@ -37,8 +37,8 @@
             "Few source code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 105, 
-        "total_commit_count": 526, 
+        "twelve_month_commit_count": 111, 
+        "total_commit_count": 532, 
         "id": "642136", 
         "name": "Tomb, the Crypto Undertaker"
     }, 

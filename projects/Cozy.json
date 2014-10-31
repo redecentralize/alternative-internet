@@ -6,10 +6,10 @@
         "max_month": "2014-10-01T00:00:00Z", 
         "description": "Data Layer for Cozy Cloud platform", 
         "total_contributor_count": 12, 
-        "total_code_lines": 6711, 
+        "total_code_lines": 6824, 
         "tags": [], 
         "twelve_month_contributor_count": 9, 
-        "updated_at": "2014-10-12T06:43:59Z", 
+        "updated_at": "2014-10-27T21:50:18Z", 
         "analysis": "19840629", 
         "min_month": "2012-07-01T00:00:00Z", 
         "factoids": [
@@ -18,8 +18,8 @@
             "Young, but established codebase", 
             "Average number of code comments"
         ], 
-        "twelve_month_commit_count": 275, 
-        "total_commit_count": 720, 
+        "twelve_month_commit_count": 293, 
+        "total_commit_count": 754, 
         "id": "703533", 
         "name": "cozy-data-system"
     }

@@ -6,17 +6,17 @@
         "tags": [], 
         "total_code_lines": 143883, 
         "total_contributor_count": 19, 
-        "twelve_month_contributor_count": 10, 
-        "updated_at": "2014-10-06T18:14:32Z", 
+        "twelve_month_contributor_count": 9, 
+        "updated_at": "2014-10-26T04:42:21Z", 
         "analysis": "19538741", 
         "min_month": "2012-02-01T00:00:00Z", 
         "factoids": [
-            "Increasing Y-O-Y development activity", 
             "Large, active development team", 
             "Young, but established codebase", 
-            "Average number of code comments"
+            "Average number of code comments", 
+            "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 1309, 
+        "twelve_month_commit_count": 1087, 
         "total_commit_count": 2581, 
         "id": "706692", 
         "name": "indx"

@@ -13,17 +13,17 @@
         ], 
         "total_code_lines": 87334, 
         "total_contributor_count": 12, 
-        "twelve_month_contributor_count": 4, 
-        "updated_at": "2014-10-02T20:22:12Z", 
+        "twelve_month_contributor_count": 3, 
+        "updated_at": "2014-10-30T17:43:27Z", 
         "analysis": "19774786", 
         "min_month": "2011-09-01T00:00:00Z", 
         "factoids": [
-            "Average size development team", 
             "Young, but established codebase", 
+            "Small development team", 
             "Few source code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 45, 
+        "twelve_month_commit_count": 26, 
         "total_commit_count": 3751, 
         "id": "587826", 
         "name": "pump.io"

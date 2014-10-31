@@ -9,10 +9,10 @@
             "socialnetwork", 
             "decentral"
         ], 
-        "total_code_lines": 23947, 
+        "total_code_lines": 24201, 
         "total_contributor_count": 17, 
-        "twelve_month_contributor_count": 6, 
-        "updated_at": "2014-10-11T05:48:08Z", 
+        "twelve_month_contributor_count": 5, 
+        "updated_at": "2014-10-22T19:06:40Z", 
         "analysis": "19878020", 
         "min_month": "2010-11-01T00:00:00Z", 
         "factoids": [
@@ -21,8 +21,8 @@
             "Stable Y-O-Y development activity", 
             "Very few source code comments"
         ], 
-        "twelve_month_commit_count": 567, 
-        "total_commit_count": 1659, 
+        "twelve_month_commit_count": 568, 
+        "total_commit_count": 1678, 
         "id": "535966", 
         "name": "MOVIM"
     }, 
