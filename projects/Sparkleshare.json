@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "C#", 
-        "max_month": "2014-09-01T00:00:00Z", 
+        "max_month": "2014-11-01T00:00:00Z", 
         "description": "SparkleShare is a file sharing and collaboration tool. more\u2026\n\nSparkleShare isn\u2019t just a piece of software, it\u2019s part of your workflow. It\u2019s designed to make sharing documents and collaboration easier, and to make peers aware of what you are doing. It allows you to instantly sync with any Git repository you have access to. The user interface and features are made to support this goal. Though SparkleShare is not made to be a graphical frontend for git or a backup tool, it may be useful for other kinds of purposes as well, like backing up small files or monitoring your favourite project", 
         "tags": [
             "owncloud", 
@@ -12,10 +12,10 @@
             "mono", 
             "sparkleshare"
         ], 
-        "total_code_lines": 15019, 
+        "total_code_lines": 15692, 
         "total_contributor_count": 174, 
-        "twelve_month_contributor_count": 12, 
-        "updated_at": "2014-10-27T07:03:19Z", 
+        "twelve_month_contributor_count": 11, 
+        "updated_at": "2014-11-07T20:52:49Z", 
         "analysis": "19848132", 
         "min_month": "2010-04-01T00:00:00Z", 
         "factoids": [
@@ -24,8 +24,8 @@
             "Few source code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 155, 
-        "total_commit_count": 3953, 
+        "twelve_month_commit_count": 137, 
+        "total_commit_count": 4015, 
         "id": "483521", 
         "name": "SparkleShare"
     }, 

@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "Java", 
-        "max_month": "2014-07-01T00:00:00Z", 
+        "max_month": "2014-10-01T00:00:00Z", 
         "description": "Kune is a free/libre distributed collaborative social network focused on: the collaborative edition in real time of free contents, thinking on the collaborative work of collectives and organizations; its publishing on the web; and the communication in social network among social movements, academic groups and social initiatives. Besides, it stresses the CC licenses of contents and usability for humans. Many buzzwords, but we try to take it seriously :)", 
         "tags": [
             "nonprofit", 
@@ -44,20 +44,20 @@
             "webpublishing", 
             "non-profit"
         ], 
-        "total_code_lines": 325852, 
-        "total_contributor_count": 10, 
-        "twelve_month_contributor_count": 3, 
-        "updated_at": "2014-10-24T14:26:02Z", 
+        "total_code_lines": 325639, 
+        "total_contributor_count": 11, 
+        "twelve_month_contributor_count": 4, 
+        "updated_at": "2014-11-08T10:07:56Z", 
         "analysis": "17767964", 
         "min_month": "2007-03-01T00:00:00Z", 
         "factoids": [
             "Mature, well-established codebase", 
+            "Average size development team", 
             "Well-commented source code", 
-            "Small development team", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 265, 
-        "total_commit_count": 4398, 
+        "twelve_month_commit_count": 195, 
+        "total_commit_count": 4403, 
         "id": "25895", 
         "name": "Kune"
     }, 

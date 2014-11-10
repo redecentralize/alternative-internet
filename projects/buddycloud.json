@@ -21,9 +21,9 @@
         "twelve_month_contributor_count": 17, 
         "total_contributor_count": 41, 
         "twelve_month_commit_count": 1184, 
-        "total_code_lines": 295981, 
-        "total_commit_count": 4933, 
-        "updated_at": "2014-10-27T19:43:27Z", 
+        "total_code_lines": 295629, 
+        "total_commit_count": 4945, 
+        "updated_at": "2014-11-08T12:06:23Z", 
         "factoids": [
             "Large, active development team", 
             "Well-established codebase", 

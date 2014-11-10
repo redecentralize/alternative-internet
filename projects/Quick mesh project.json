@@ -1,23 +1,23 @@
 {
     "ohloh": {
         "main_language": "shell script", 
-        "max_month": "2014-10-01T00:00:00Z", 
+        "max_month": "2014-11-01T00:00:00Z", 
         "description": "The main purpose of QMP (Quick Mesh Project) is to provide an open and free software solution for the quick deployment of a WiFi network based on Mesh/MANET technology. It is focused to be useful mainly in the wireless community network. It is based on OpenWRT Linux and it is completely OpenSource.", 
         "tags": [], 
-        "total_code_lines": 18391, 
+        "total_code_lines": 18408, 
         "total_contributor_count": 19, 
-        "twelve_month_contributor_count": 7, 
-        "updated_at": "2014-10-29T14:31:03Z", 
+        "twelve_month_contributor_count": 5, 
+        "updated_at": "2014-11-06T15:30:54Z", 
         "analysis": "8058743", 
         "min_month": "2011-03-01T00:00:00Z", 
         "factoids": [
-            "Large, active development team", 
             "Well-established codebase", 
+            "Average size development team", 
             "Average number of code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 330, 
-        "total_commit_count": 2233, 
+        "twelve_month_commit_count": 296, 
+        "total_commit_count": 2242, 
         "id": "598203", 
         "name": "qMp"
     }, 

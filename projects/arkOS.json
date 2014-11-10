@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "Python", 
-        "max_month": "2014-10-01T00:00:00Z", 
+        "max_month": "2014-11-01T00:00:00Z", 
         "description": "arkOS is an open-source platform for securely self-hosting your online life. It is designed to help its users take control of their personal data, and to make running a server as easy as using a desktop computer.", 
         "tags": [
             "distribution", 
@@ -17,10 +17,10 @@
             "python", 
             "selfhosting"
         ], 
-        "total_code_lines": 28882, 
+        "total_code_lines": 28883, 
         "total_contributor_count": 56, 
         "twelve_month_contributor_count": 17, 
-        "updated_at": "2014-10-29T16:02:40Z", 
+        "updated_at": "2014-11-08T05:31:48Z", 
         "analysis": "19838066", 
         "min_month": "2010-03-01T00:00:00Z", 
         "factoids": [
@@ -29,8 +29,8 @@
             "Well-established codebase", 
             "Few source code comments"
         ], 
-        "twelve_month_commit_count": 662, 
-        "total_commit_count": 2021, 
+        "twelve_month_commit_count": 660, 
+        "total_commit_count": 2023, 
         "id": "665997", 
         "name": "arkOS"
     }, 

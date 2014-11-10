@@ -1,4 +1,30 @@
 {
-  "name": "VirtKick",
-  "description": "[VirtKick](https://www.virtkick.io/) is your self-hosted DigitalOcean. Take cloud back to your computer, home network or a dedicated server. Manage virtual machines, Docker containers and create 1-click apps."
+    "name": "VirtKick", 
+    "description": "[VirtKick](https://www.virtkick.io/) is your self-hosted DigitalOcean. Take cloud back to your computer, home network or a dedicated server. Manage virtual machines, Docker containers and create 1-click apps.", 
+    "ohloh": {
+        "description": "Take Cloud Back - Your self-hosted VPS panel, similar to DigitalOcean.", 
+        "tags": [
+            "privacy", 
+            "self_hosted", 
+            "virtualization", 
+            "freebsd", 
+            "virtualbox", 
+            "amazon", 
+            "opensource", 
+            "bhyve", 
+            "provisioning", 
+            "hosting", 
+            "xen", 
+            "openvz", 
+            "linux", 
+            "ruby", 
+            "rails", 
+            "kvm", 
+            "docker", 
+            "libvirt"
+        ], 
+        "id": "720362", 
+        "analysis": "", 
+        "name": "VirtKick"
+    }
 }

@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "PHP", 
-        "max_month": "2014-10-01T00:00:00Z", 
+        "max_month": "2014-11-01T00:00:00Z", 
         "description": "The Red Matrix is a decentrliased identity and communications platform which provides internet-wide single-sign-on with nomadic identity, internet-wide access control, communications, content management and personal cloud storage.", 
         "tags": [
             "red", 
@@ -19,10 +19,10 @@
             "streams", 
             "matrix"
         ], 
-        "total_code_lines": 504962, 
-        "total_contributor_count": 93, 
-        "twelve_month_contributor_count": 49, 
-        "updated_at": "2014-10-22T18:25:02Z", 
+        "total_code_lines": 510277, 
+        "total_contributor_count": 94, 
+        "twelve_month_contributor_count": 48, 
+        "updated_at": "2014-11-08T13:29:38Z", 
         "analysis": "19863714", 
         "min_month": "2010-07-01T00:00:00Z", 
         "factoids": [
@@ -31,8 +31,8 @@
             "Well-established codebase", 
             "Average number of code comments"
         ], 
-        "twelve_month_commit_count": 3621, 
-        "total_commit_count": 12109, 
+        "twelve_month_commit_count": 3668, 
+        "total_commit_count": 12256, 
         "id": "623130", 
         "name": "Red Matrix"
     }, 

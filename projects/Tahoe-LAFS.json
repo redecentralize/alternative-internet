@@ -10,10 +10,10 @@
             "storage", 
             "secure"
         ], 
-        "total_code_lines": 180367, 
+        "total_code_lines": 180388, 
         "total_contributor_count": 61, 
         "twelve_month_contributor_count": 15, 
-        "updated_at": "2014-10-26T19:00:36Z", 
+        "updated_at": "2014-11-10T14:36:50Z", 
         "analysis": "19778476", 
         "min_month": "2006-10-01T00:00:00Z", 
         "factoids": [
@@ -22,8 +22,8 @@
             "Average number of code comments", 
             "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 260, 
-        "total_commit_count": 11881, 
+        "twelve_month_commit_count": 264, 
+        "total_commit_count": 11886, 
         "id": "128738", 
         "name": "Tahoe-LAFS"
     }, 

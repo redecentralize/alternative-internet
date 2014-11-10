@@ -24,20 +24,20 @@
             "network", 
             "openwrt"
         ], 
-        "total_code_lines": 70755, 
-        "total_contributor_count": 28, 
-        "twelve_month_contributor_count": 9, 
-        "updated_at": "2014-10-27T15:54:32Z", 
+        "total_code_lines": 70796, 
+        "total_contributor_count": 30, 
+        "twelve_month_contributor_count": 12, 
+        "updated_at": "2014-11-06T00:56:21Z", 
         "analysis": "19856104", 
         "min_month": "2008-07-01T00:00:00Z", 
         "factoids": [
             "Mature, well-established codebase", 
-            "Increasing Y-O-Y development activity", 
             "Large, active development team", 
-            "Average number of code comments"
+            "Average number of code comments", 
+            "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 464, 
-        "total_commit_count": 2797, 
+        "twelve_month_commit_count": 467, 
+        "total_commit_count": 2821, 
         "id": "482224", 
         "name": "wlan slovenija"
     }, 

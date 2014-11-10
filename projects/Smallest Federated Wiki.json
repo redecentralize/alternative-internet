@@ -11,7 +11,7 @@
         "total_code_lines": 30463, 
         "total_contributor_count": 48, 
         "twelve_month_contributor_count": 3, 
-        "updated_at": "2014-10-29T18:57:52Z", 
+        "updated_at": "2014-11-06T23:37:08Z", 
         "analysis": "19408228", 
         "min_month": "2011-06-01T00:00:00Z", 
         "factoids": [
@@ -20,7 +20,7 @@
             "Few source code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 24, 
+        "twelve_month_commit_count": 22, 
         "total_commit_count": 1520, 
         "id": "585912", 
         "name": "Smallest Federated Wiki"
