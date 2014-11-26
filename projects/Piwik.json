@@ -21,10 +21,10 @@
             "stats", 
             "monitor"
         ], 
-        "total_code_lines": 355069, 
-        "total_contributor_count": 129, 
-        "twelve_month_contributor_count": 86, 
-        "updated_at": "2014-11-06T13:59:32Z", 
+        "total_code_lines": 355575, 
+        "total_contributor_count": 130, 
+        "twelve_month_contributor_count": 87, 
+        "updated_at": "2014-11-12T06:33:22Z", 
         "analysis": "20836099", 
         "min_month": "2007-07-01T00:00:00Z", 
         "factoids": [
@@ -33,8 +33,8 @@
             "Increasing Y-O-Y development activity", 
             "Average number of code comments"
         ], 
-        "twelve_month_commit_count": 6228, 
-        "total_commit_count": 17151, 
+        "twelve_month_commit_count": 6165, 
+        "total_commit_count": 17236, 
         "id": "10720", 
         "name": "Piwik"
     }

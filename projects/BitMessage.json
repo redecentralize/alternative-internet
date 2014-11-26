@@ -1,26 +1,27 @@
 {
     "ohloh": {
         "main_language": "Python", 
-        "max_month": "2014-10-01T00:00:00Z", 
+        "max_month": "2014-11-01T00:00:00Z", 
         "description": "Bitmessage is a P2P communications protocol used to send encrypted messages to another person or to many subscribers. It is decentralized and trustless, meaning that you need-not inherently trust any entities like root certificate authorities. It also aims to hide \"non-content\" data, like the sender and receiver of messages, from eavesdroppers.", 
         "tags": [
             "bitcoin", 
             "message", 
             "p2p"
         ], 
-        "total_code_lines": 38749, 
-        "total_contributor_count": 93, 
-        "twelve_month_contributor_count": 33, 
-        "updated_at": "2014-11-08T20:38:56Z", 
+        "total_code_lines": 38748, 
+        "total_contributor_count": 94, 
+        "twelve_month_contributor_count": 32, 
+        "updated_at": "2014-11-16T21:09:11Z", 
         "analysis": "19860061", 
         "min_month": "2012-11-01T00:00:00Z", 
         "factoids": [
             "Very large, active development team", 
             "Young, but established codebase", 
-            "Few source code comments"
+            "Few source code comments", 
+            "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 267, 
-        "total_commit_count": 1392, 
+        "twelve_month_commit_count": 233, 
+        "total_commit_count": 1396, 
         "id": "632497", 
         "name": "Bitmessage"
     }, 

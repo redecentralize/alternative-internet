@@ -1,13 +1,13 @@
 {
     "ohloh": {
         "main_language": "JavaScript", 
-        "max_month": "2014-10-01T00:00:00Z", 
+        "max_month": "2014-11-01T00:00:00Z", 
         "description": "A website for serving media super fast", 
         "tags": [], 
         "total_code_lines": 20280, 
         "total_contributor_count": 26, 
         "twelve_month_contributor_count": 21, 
-        "updated_at": "2014-11-07T05:59:02Z", 
+        "updated_at": "2014-11-16T20:40:22Z", 
         "analysis": "19851817", 
         "min_month": "2013-07-01T00:00:00Z", 
         "factoids": [
@@ -15,8 +15,8 @@
             "Well-commented source code", 
             "Young, but established codebase"
         ], 
-        "twelve_month_commit_count": 1130, 
-        "total_commit_count": 1919, 
+        "twelve_month_commit_count": 1076, 
+        "total_commit_count": 1922, 
         "id": "651113", 
         "name": "MediaCrush"
     }, 

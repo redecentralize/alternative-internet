@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "Python", 
-        "max_month": "2014-10-01T00:00:00Z", 
+        "max_month": "2014-11-01T00:00:00Z", 
         "description": "Tomb is a system to make strong encryption easy for everyday use. A tomb is like a locked folder that can be safely transported and hidden in a filesystem. Its keys can be kept separate; for example, you can keep the tomb on your computer and its key on a USB stick or a remote SSH shell.\nTomb is written in code that is easy to review and links shared components: it consists of a ZShell script and desktop integration apps; it uses standard GNU tools and the cryptographic API of the Linux kernel (dm-crypt) via cryptsetup.", 
         "tags": [
             "search", 
@@ -25,20 +25,20 @@
             "usable", 
             "steganography"
         ], 
-        "total_code_lines": 3212, 
-        "total_contributor_count": 19, 
-        "twelve_month_contributor_count": 9, 
-        "updated_at": "2014-11-08T17:33:50Z", 
+        "total_code_lines": 3447, 
+        "total_contributor_count": 20, 
+        "twelve_month_contributor_count": 10, 
+        "updated_at": "2014-11-17T10:20:03Z", 
         "analysis": "19837278", 
         "min_month": "2010-08-01T00:00:00Z", 
         "factoids": [
             "Large, active development team", 
             "Well-established codebase", 
             "Few source code comments", 
-            "Decreasing Y-O-Y development activity"
+            "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 111, 
-        "total_commit_count": 532, 
+        "twelve_month_commit_count": 176, 
+        "total_commit_count": 597, 
         "id": "642136", 
         "name": "Tomb, the Crypto Undertaker"
     }, 

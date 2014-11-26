@@ -4,10 +4,10 @@
         "max_month": "2014-11-01T00:00:00Z", 
         "description": "A Kademlia-based DHT and JSON protocol for application meshing and eventing", 
         "tags": [], 
-        "total_code_lines": 112039, 
-        "total_contributor_count": 35, 
-        "twelve_month_contributor_count": 21, 
-        "updated_at": "2014-11-07T22:26:37Z", 
+        "total_code_lines": 111885, 
+        "total_contributor_count": 36, 
+        "twelve_month_contributor_count": 22, 
+        "updated_at": "2014-11-14T08:05:40Z", 
         "analysis": "19824934", 
         "min_month": "2010-01-01T00:00:00Z", 
         "factoids": [
@@ -16,8 +16,8 @@
             "Well-established codebase", 
             "Very few source code comments"
         ], 
-        "twelve_month_commit_count": 1469, 
-        "total_commit_count": 1892, 
+        "twelve_month_commit_count": 1481, 
+        "total_commit_count": 1922, 
         "id": "491069", 
         "name": "TeleHash"
     }, 

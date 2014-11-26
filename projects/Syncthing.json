@@ -6,10 +6,10 @@
         "max_month": "2014-11-01T00:00:00Z", 
         "description": "Open Source Continuous Replication / Cluster Synchronization Thing", 
         "tags": [], 
-        "total_code_lines": 69936, 
-        "total_contributor_count": 57, 
-        "twelve_month_contributor_count": 57, 
-        "updated_at": "2014-11-08T03:51:03Z", 
+        "total_code_lines": 71243, 
+        "total_contributor_count": 59, 
+        "twelve_month_contributor_count": 59, 
+        "updated_at": "2014-11-13T07:31:09Z", 
         "analysis": "19881745", 
         "min_month": "2013-12-01T00:00:00Z", 
         "factoids": [
@@ -17,8 +17,8 @@
             "Average number of code comments", 
             "Short source control history"
         ], 
-        "twelve_month_commit_count": 1872, 
-        "total_commit_count": 1872, 
+        "twelve_month_commit_count": 1886, 
+        "total_commit_count": 1886, 
         "id": "715050", 
         "name": "Syncthing"
     }

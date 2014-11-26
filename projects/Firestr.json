@@ -4,10 +4,10 @@
         "max_month": "2014-11-01T00:00:00Z", 
         "description": "Simple platform for distributed communication and computation.", 
         "tags": [], 
-        "total_code_lines": 42533, 
+        "total_code_lines": 42719, 
         "total_contributor_count": 4, 
         "twelve_month_contributor_count": 3, 
-        "updated_at": "2014-11-07T20:18:50Z", 
+        "updated_at": "2014-11-13T02:03:12Z", 
         "analysis": "19839516", 
         "min_month": "2012-07-01T00:00:00Z", 
         "factoids": [
@@ -16,8 +16,8 @@
             "Small development team", 
             "Average number of code comments"
         ], 
-        "twelve_month_commit_count": 371, 
-        "total_commit_count": 684, 
+        "twelve_month_commit_count": 373, 
+        "total_commit_count": 695, 
         "id": "669862", 
         "name": "firestr"
     }, 

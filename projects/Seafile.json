@@ -9,10 +9,10 @@
             "teamwork", 
             "filesync"
         ], 
-        "total_code_lines": 85545, 
-        "total_contributor_count": 47, 
+        "total_code_lines": 88924, 
+        "total_contributor_count": 48, 
         "twelve_month_contributor_count": 28, 
-        "updated_at": "2014-11-04T18:01:50Z", 
+        "updated_at": "2014-11-11T07:44:10Z", 
         "analysis": "19864551", 
         "min_month": "2012-07-01T00:00:00Z", 
         "factoids": [
@@ -21,8 +21,8 @@
             "Decreasing Y-O-Y development activity", 
             "Very few source code comments"
         ], 
-        "twelve_month_commit_count": 348, 
-        "total_commit_count": 1108, 
+        "twelve_month_commit_count": 382, 
+        "total_commit_count": 1162, 
         "id": "617046", 
         "name": "seafile"
     }, 

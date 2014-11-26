@@ -12,10 +12,10 @@
             "p2psystem", 
             "bitcoin"
         ], 
-        "total_code_lines": 206732, 
-        "total_contributor_count": 318, 
-        "twelve_month_contributor_count": 156, 
-        "updated_at": "2014-11-10T11:51:08Z", 
+        "total_code_lines": 206698, 
+        "total_contributor_count": 319, 
+        "twelve_month_contributor_count": 157, 
+        "updated_at": "2014-11-14T10:34:40Z", 
         "analysis": "19852533", 
         "min_month": "2009-08-01T00:00:00Z", 
         "factoids": [
@@ -24,8 +24,8 @@
             "Increasing Y-O-Y development activity", 
             "Few source code comments"
         ], 
-        "twelve_month_commit_count": 2489, 
-        "total_commit_count": 10216, 
+        "twelve_month_commit_count": 2477, 
+        "total_commit_count": 10242, 
         "id": "332874", 
         "name": "Bitcoin"
     }, 

@@ -21,14 +21,14 @@
         "total_code_lines": 41724, 
         "total_contributor_count": 5, 
         "twelve_month_contributor_count": 2, 
-        "updated_at": "2014-11-05T22:33:58Z", 
+        "updated_at": "2014-11-25T20:46:50Z", 
         "analysis": "11986583", 
         "min_month": "2009-01-01T00:00:00Z", 
         "factoids": [
             "Mature, well-established codebase", 
-            "Increasing Y-O-Y development activity", 
             "Small development team", 
-            "Average number of code comments"
+            "Average number of code comments", 
+            "Stable Y-O-Y development activity"
         ], 
         "twelve_month_commit_count": 6, 
         "total_commit_count": 356, 
