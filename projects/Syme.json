@@ -1,0 +1,7 @@
+{
+    "ohloh": {
+        "skip": true
+    }, 
+    "description": "[Syme](https://getsyme.com) is an experimental project that aims at bringing more privacy and security to online communication through end-to-end encryption. Syme's zero-knowledge key infrastructure enables persistent multiparty communication and secure key exchanges on minimally trusted servers and relays.", 
+    "name": "Syme"
+}

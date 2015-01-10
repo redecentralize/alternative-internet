@@ -1,0 +1,46 @@
+{
+    "ohloh": {
+        "id": "719790", 
+        "description": "Designed primarily for the Beaglebone Black, but also capable of running on any system with Debian Jessie installed, the FreedomBone allows you to self-host a variety of useful web services with a reasonable degree of security and privacy.\n\nServices include encrypted email, social networking via Red Matrix, Owncloud, encrypted IRC, wiki and blog.", 
+        "tags": [
+            "wiki", 
+            "emailserver", 
+            "decentralization", 
+            "privacy", 
+            "bashscript", 
+            "redmatrix", 
+            "arm7", 
+            "blogging", 
+            "ircserver", 
+            "socialnetworking", 
+            "selfhosting", 
+            "owncloud", 
+            "xmpp", 
+            "servers", 
+            "beaglebone", 
+            "encrypted", 
+            "cloud", 
+            "privateserver", 
+            "indieweb", 
+            "gpg"
+        ], 
+        "analysis": "22748238", 
+        "name": "FreedomBone", 
+        "main_language": "shell script", 
+        "min_month": "2014-01-01T00:00:00Z", 
+        "max_month": "2014-11-01T00:00:00Z", 
+        "twelve_month_contributor_count": 1, 
+        "total_contributor_count": 1, 
+        "twelve_month_commit_count": 926, 
+        "total_code_lines": 7782, 
+        "total_commit_count": 926, 
+        "updated_at": "2014-11-12T06:14:48Z", 
+        "factoids": [
+            "Short source control history", 
+            "Few source code comments", 
+            "Only a single active developer"
+        ]
+    }, 
+    "description": "[FreedomBone](https://github.com/bashrc/freedombone) Designed primarily for the Beaglebone Black, but also capable of running on any system with Debian Jessie installed, the FreedomBone allows you to self-host a variety of useful web services with a reasonable degree of security and privacy.", 
+    "name": "FreedomBone"
+}

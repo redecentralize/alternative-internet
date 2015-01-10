@@ -1,0 +1,33 @@
+{
+    "ohloh": {
+        "main_language": "Ruby", 
+        "max_month": "2014-11-01T00:00:00Z", 
+        "description": "The privacy aware, personally controlled, do-it-all, open source social network.", 
+        "tags": [
+            "backbone", 
+            "socialnetworking", 
+            "socialnetwork", 
+            "decentralized", 
+            "rubyonrails", 
+            "distributed"
+        ], 
+        "total_code_lines": 50731, 
+        "total_contributor_count": 400, 
+        "twelve_month_contributor_count": 59, 
+        "updated_at": "2014-11-08T16:20:31Z", 
+        "analysis": "19849333", 
+        "min_month": "2010-06-01T00:00:00Z", 
+        "factoids": [
+            "Very large, active development team", 
+            "Well-established codebase", 
+            "Few source code comments", 
+            "Stable Y-O-Y development activity"
+        ], 
+        "twelve_month_commit_count": 1111, 
+        "total_commit_count": 15001, 
+        "id": "485371", 
+        "name": "Diaspora"
+    }, 
+    "description": "[Diaspora*](http://diasporaproject.org/) is a free social network consisting of personal web server that implements a distributed social networking service. Diaspora* is a fun and creative community that puts you in control.", 
+    "name": "Diaspora*"
+}

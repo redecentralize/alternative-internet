@@ -1,0 +1,4 @@
+{
+    "name": "PeerCDN", 
+    "description": "[PeerCDN](https://peercdn.com/) automatically serves a site's static resources (images, videos, and file downloads) over a peer-to-peer network made up of the visitors currently on the site."
+}

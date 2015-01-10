@@ -1,0 +1,7 @@
+{
+    "ohloh": {
+        "skip": true
+    }, 
+    "description": "[P](http://ozan.io/p/) is a small JavaScript library for creating peer-to-peer applications in browsers.It allows for transitive connections across peers which makes certain network topologies, such mesh networks,easy to establish.", 
+    "name": "P"
+}

@@ -1,0 +1,26 @@
+{
+    "description": "[Phoenix](https://github.com/pfraze/phoenix) is a distributed social network. It uses crytographic keypairs to create feeds and publish unforgeable entries which can spread across the network. Relay servers optionally aggregate and redistribute the feeds.", 
+    "name": "Phoenix", 
+    "ohloh": {
+        "main_language": "C++", 
+        "max_month": "2012-11-01T00:00:00Z", 
+        "description": "The Phoenix Project develops two open source, feature rich third-party viewers for accessing Second Life and other virtual world grids. These are our Phoenix Viewer (based on the original Linden Lab 1.5 snowglobe viewer) and our Firestorm Viewer (based off the Linden Lab viewer 2 code base.)", 
+        "tags": [], 
+        "total_code_lines": 1206181, 
+        "total_contributor_count": 32, 
+        "twelve_month_contributor_count": 0, 
+        "updated_at": "2014-11-16T18:52:34Z", 
+        "analysis": "22356239", 
+        "min_month": "2010-08-01T00:00:00Z", 
+        "factoids": [
+            "Young, but established codebase", 
+            "Average number of code comments", 
+            "Decreasing Y-O-Y development activity", 
+            "No recent development activity"
+        ], 
+        "twelve_month_commit_count": 0, 
+        "total_commit_count": 1697, 
+        "id": "598239", 
+        "name": "Phoenix Viewer"
+    }
+}

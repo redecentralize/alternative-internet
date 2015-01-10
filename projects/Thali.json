@@ -1,0 +1,7 @@
+{
+    "name": "Thali", 
+    "description": "[Thali](http://thali.codeplex.com) is an open source personal data store that syncs across one or more of your devices, and (selectively, via one or more apps) to one or more more trusted peers. Data store: Couchbase Lite (open source, NoSQL, multi-master sync). Trust model: public key exchange, mutual SSL authentication. Network transport: HTTPS. P2P mechanisms: local/ad-hoc, or Tor (using hidden services).", 
+    "ohloh": {
+        "skip": true
+    }
+}

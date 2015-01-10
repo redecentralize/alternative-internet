@@ -1,0 +1,7 @@
+{
+    "name": "Scramble", 
+    "description": "[Scramble](https://dcposch.github.io/scramble/) is easy-to-use, open source encrypted email. Scramble server has no knowledge of the message contents, since encryption is always performed end-to-end on the clients. Public keys are verified using a fedetared trust model based on multiple independent notaries.", 
+    "ohloh": {
+        "skip": true
+    }
+}

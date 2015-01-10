@@ -1,0 +1,11 @@
+{
+    "ohloh": {
+        "description": "SyncNET is a .NET application that will all users of the software to sync their files accross machines and platforms.  e.g. A user developing websites can sync their website files onto their laptop and then sync the modified files back to the server.  The", 
+        "tags": [], 
+        "id": "258770", 
+        "analysis": "", 
+        "name": "SyncNET"
+    }, 
+    "description": "[SyncNet](http://jack.minardi.org/software/syncnet-a-decentralized-web-browser/) is a decentralized web browser built on top of BitTorrent Sync and (soon) Colored Coins for name resolution. Every time you access a site, you store all of its contents on your machine. The next user to request the site can get the contents from both your machine and the original server. As more people access a page, it becomes available from more machines, reducing the load on the original server.", 
+    "name": "SyncNet"
+}

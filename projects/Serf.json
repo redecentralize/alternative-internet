@@ -1,0 +1,7 @@
+{
+    "ohloh": {
+        "skip": true
+    }, 
+    "description": "[Serf](http://www.serfdom.io/) is a decentralized solution for service discovery and orchestration that is lightweight, highly available, and fault tolerant.", 
+    "name": "Serf"
+}
