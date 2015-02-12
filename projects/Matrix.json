@@ -1,0 +1,7 @@
+{
+    "name": "Matrix",
+    "description": "[Matrix](http://matrix.org/)  is an open standard for decentralised communication, providing simple HTTP APIs and open source reference implementations for securely distributing and persisting JSON over an open federation of servers. [Synapse](https://github.com/matrix-org/synapse) is the reference implenetation of a homeserver in Python.",
+    "ohloh": {
+        "skip": true
+    }
+}
