@@ -11,8 +11,8 @@
         "analysis": "19540897", 
         "min_month": "2013-04-01T00:00:00Z", 
         "factoids": [
-            "Short source control history", 
-            "Small development team"
+            "Small development team", 
+            "Short source control history"
         ], 
         "twelve_month_commit_count": 4, 
         "total_commit_count": 18, 

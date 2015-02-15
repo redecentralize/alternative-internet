@@ -1,23 +1,23 @@
 {
     "ohloh": {
         "main_language": "PHP", 
-        "max_month": "2014-11-01T00:00:00Z", 
+        "max_month": "2014-12-01T00:00:00Z", 
         "description": "Main Drupal module for the Guifi.Net website used to manage telecommunication networks.", 
         "tags": [], 
-        "total_code_lines": 62186, 
+        "total_code_lines": 62198, 
         "total_contributor_count": 16, 
         "twelve_month_contributor_count": 4, 
-        "updated_at": "2014-11-16T21:54:36Z", 
+        "updated_at": "2015-01-18T11:37:08Z", 
         "analysis": "19475104", 
         "min_month": "2010-08-01T00:00:00Z", 
         "factoids": [
             "Increasing Y-O-Y development activity", 
-            "Average size development team", 
             "Well-established codebase", 
+            "Average size development team", 
             "Few source code comments"
         ], 
-        "twelve_month_commit_count": 89, 
-        "total_commit_count": 450, 
+        "twelve_month_commit_count": 71, 
+        "total_commit_count": 452, 
         "id": "484708", 
         "name": "Guifi.net Drupal Module"
     }, 

@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "JavaScript", 
-        "max_month": "2014-06-01T00:00:00Z", 
+        "max_month": "2014-12-01T00:00:00Z", 
         "description": "Our new wiki innovates three ways. It shares through federation, composes by refactoring and wraps data with visualization.", 
         "tags": [
             "federated", 
@@ -9,19 +9,19 @@
             "jquery"
         ], 
         "total_code_lines": 30463, 
-        "total_contributor_count": 48, 
+        "total_contributor_count": 49, 
         "twelve_month_contributor_count": 3, 
-        "updated_at": "2014-11-16T18:09:29Z", 
+        "updated_at": "2015-01-30T07:15:38Z", 
         "analysis": "19408228", 
         "min_month": "2011-06-01T00:00:00Z", 
         "factoids": [
             "Well-established codebase", 
-            "Small development team", 
             "Few source code comments", 
+            "Small development team", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 22, 
-        "total_commit_count": 1520, 
+        "twelve_month_commit_count": 8, 
+        "total_commit_count": 1523, 
         "id": "585912", 
         "name": "Smallest Federated Wiki"
     }, 

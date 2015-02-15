@@ -19,11 +19,11 @@
         "min_month": "2011-09-01T00:00:00Z", 
         "factoids": [
             "Young, but established codebase", 
-            "Small development team", 
             "Few source code comments", 
+            "Small development team", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 26, 
+        "twelve_month_commit_count": 25, 
         "total_commit_count": 3751, 
         "id": "587826", 
         "name": "pump.io"

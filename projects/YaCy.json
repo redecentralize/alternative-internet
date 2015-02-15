@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "Java", 
-        "max_month": "2014-11-01T00:00:00Z", 
+        "max_month": "2015-01-01T00:00:00Z", 
         "description": "YaCy is a P2P search engine for the WWW including a crawler and HTTP proxy", 
         "tags": [
             "macosx", 
@@ -21,20 +21,20 @@
             "java", 
             "solr"
         ], 
-        "total_code_lines": 243678, 
-        "total_contributor_count": 65, 
-        "twelve_month_contributor_count": 11, 
-        "updated_at": "2014-11-17T07:36:29Z", 
+        "total_code_lines": 246078, 
+        "total_contributor_count": 67, 
+        "twelve_month_contributor_count": 13, 
+        "updated_at": "2015-01-05T18:57:31Z", 
         "analysis": "19851925", 
         "min_month": "2005-04-01T00:00:00Z", 
         "factoids": [
             "Mature, well-established codebase", 
-            "Increasing Y-O-Y development activity", 
             "Large, active development team", 
-            "Average number of code comments"
+            "Average number of code comments", 
+            "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 1258, 
-        "total_commit_count": 11351, 
+        "twelve_month_commit_count": 1287, 
+        "total_commit_count": 11538, 
         "id": "5149", 
         "name": "YaCy"
     }, 

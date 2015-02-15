@@ -1,23 +1,23 @@
 {
     "ohloh": {
         "main_language": "C++", 
-        "max_month": "2014-11-01T00:00:00Z", 
+        "max_month": "2015-01-01T00:00:00Z", 
         "description": "Simple platform for distributed communication and computation.", 
         "tags": [], 
-        "total_code_lines": 42719, 
+        "total_code_lines": 43910, 
         "total_contributor_count": 4, 
         "twelve_month_contributor_count": 3, 
-        "updated_at": "2014-11-13T02:03:12Z", 
+        "updated_at": "2015-01-13T02:30:12Z", 
         "analysis": "19839516", 
         "min_month": "2012-07-01T00:00:00Z", 
         "factoids": [
             "Increasing Y-O-Y development activity", 
             "Young, but established codebase", 
-            "Small development team", 
-            "Average number of code comments"
+            "Average number of code comments", 
+            "Small development team"
         ], 
-        "twelve_month_commit_count": 373, 
-        "total_commit_count": 695, 
+        "twelve_month_commit_count": 383, 
+        "total_commit_count": 740, 
         "id": "669862", 
         "name": "firestr"
     }, 

@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "PHP", 
-        "max_month": "2014-11-01T00:00:00Z", 
+        "max_month": "2015-01-01T00:00:00Z", 
         "description": "Friendica is what a social network should be. \n\nFriendica is distributed, open source, secure, private, modular, extensible, federated, and of course Friendica is free.\n\nYou want more reasons?\n\nJoin the new social web alliance and dump that old social network. You know - the one with all the privacy issues. \n\nThe world has changed.", 
         "tags": [
             "platform", 
@@ -21,20 +21,20 @@
             "friendica", 
             "forum"
         ], 
-        "total_code_lines": 575420, 
-        "total_contributor_count": 75, 
-        "twelve_month_contributor_count": 19, 
-        "updated_at": "2014-11-12T22:15:20Z", 
+        "total_code_lines": 578487, 
+        "total_contributor_count": 76, 
+        "twelve_month_contributor_count": 20, 
+        "updated_at": "2015-01-17T21:17:10Z", 
         "analysis": "19854396", 
         "min_month": "2010-07-01T00:00:00Z", 
         "factoids": [
             "Large, active development team", 
             "Well-established codebase", 
             "Average number of code comments", 
-            "Decreasing Y-O-Y development activity"
+            "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 1083, 
-        "total_commit_count": 10440, 
+        "twelve_month_commit_count": 992, 
+        "total_commit_count": 10507, 
         "id": "488052", 
         "name": "Friendica"
     }, 

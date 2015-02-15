@@ -7,12 +7,12 @@
         "total_code_lines": 5587, 
         "total_contributor_count": 9, 
         "twelve_month_contributor_count": 0, 
-        "updated_at": "2014-11-25T15:33:04Z", 
+        "updated_at": "2015-02-03T14:07:32Z", 
         "analysis": "19727477", 
         "min_month": "2012-10-01T00:00:00Z", 
         "factoids": [
-            "Short source control history", 
             "Average number of code comments", 
+            "Short source control history", 
             "Decreasing Y-O-Y development activity", 
             "No recent development activity"
         ], 

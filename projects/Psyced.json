@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "C", 
-        "max_month": "2014-04-01T00:00:00Z", 
+        "max_month": "2015-01-01T00:00:00Z", 
         "description": "", 
         "tags": [
             "s2s", 
@@ -20,18 +20,18 @@
         ], 
         "total_code_lines": 41724, 
         "total_contributor_count": 5, 
-        "twelve_month_contributor_count": 2, 
-        "updated_at": "2014-11-25T20:46:50Z", 
+        "twelve_month_contributor_count": 1, 
+        "updated_at": "2015-01-26T12:55:56Z", 
         "analysis": "11986583", 
         "min_month": "2009-01-01T00:00:00Z", 
         "factoids": [
             "Mature, well-established codebase", 
-            "Small development team", 
             "Average number of code comments", 
-            "Stable Y-O-Y development activity"
+            "Only a single active developer", 
+            "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 6, 
-        "total_commit_count": 356, 
+        "twelve_month_commit_count": 2, 
+        "total_commit_count": 357, 
         "id": "485620", 
         "name": "psyced"
     }, 

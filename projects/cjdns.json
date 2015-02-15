@@ -13,10 +13,10 @@
         "factoids": [
             "Very large, active development team", 
             "Well-established codebase", 
-            "Stable Y-O-Y development activity", 
-            "Very few source code comments"
+            "Very few source code comments", 
+            "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 1030, 
+        "twelve_month_commit_count": 1019, 
         "total_commit_count": 3123, 
         "id": "633020", 
         "name": "CJDNS"

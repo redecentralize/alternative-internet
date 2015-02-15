@@ -20,11 +20,11 @@
         "min_month": "2008-05-01T00:00:00Z", 
         "factoids": [
             "Mature, well-established codebase", 
-            "Increasing Y-O-Y development activity", 
             "Large, active development team", 
+            "Increasing Y-O-Y development activity", 
             "Well-commented source code"
         ], 
-        "twelve_month_commit_count": 586, 
+        "twelve_month_commit_count": 531, 
         "total_commit_count": 15877, 
         "id": "488827", 
         "name": "GNU social"

@@ -6,16 +6,17 @@
         "tags": [], 
         "total_code_lines": 137983, 
         "total_contributor_count": 17, 
-        "twelve_month_contributor_count": 7, 
-        "updated_at": "2014-11-13T05:09:15Z", 
+        "twelve_month_contributor_count": 5, 
+        "updated_at": "2015-01-19T03:31:07Z", 
         "analysis": "19830982", 
         "min_month": "2012-12-01T00:00:00Z", 
         "factoids": [
-            "Large, active development team", 
+            "Average size development team", 
             "Young, but established codebase", 
-            "Average number of code comments"
+            "Average number of code comments", 
+            "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 81, 
+        "twelve_month_commit_count": 57, 
         "total_commit_count": 333, 
         "id": "678069", 
         "name": "subtome"

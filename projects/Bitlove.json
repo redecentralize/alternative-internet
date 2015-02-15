@@ -7,14 +7,14 @@
         "total_code_lines": 9148, 
         "total_contributor_count": 4, 
         "twelve_month_contributor_count": 1, 
-        "updated_at": "2014-11-21T23:32:24Z", 
+        "updated_at": "2015-01-03T13:22:00Z", 
         "analysis": "19395584", 
         "min_month": "2012-06-01T00:00:00Z", 
         "factoids": [
             "Young, but established codebase", 
-            "Only a single active developer", 
+            "Very few source code comments", 
             "Decreasing Y-O-Y development activity", 
-            "Very few source code comments"
+            "Only a single active developer"
         ], 
         "twelve_month_commit_count": 5, 
         "total_commit_count": 287, 

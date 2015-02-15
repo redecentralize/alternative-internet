@@ -28,16 +28,16 @@
         "name": "FreedomBone", 
         "main_language": "shell script", 
         "min_month": "2014-01-01T00:00:00Z", 
-        "max_month": "2014-11-01T00:00:00Z", 
+        "max_month": "2015-01-01T00:00:00Z", 
         "twelve_month_contributor_count": 1, 
         "total_contributor_count": 1, 
-        "twelve_month_commit_count": 926, 
-        "total_code_lines": 7782, 
-        "total_commit_count": 926, 
-        "updated_at": "2014-11-12T06:14:48Z", 
+        "twelve_month_commit_count": 1125, 
+        "total_code_lines": 9872, 
+        "total_commit_count": 1130, 
+        "updated_at": "2015-01-05T12:36:44Z", 
         "factoids": [
-            "Short source control history", 
-            "Few source code comments", 
+            "Young, but established codebase", 
+            "Very few source code comments", 
             "Only a single active developer"
         ]
     }, 

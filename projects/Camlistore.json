@@ -13,8 +13,8 @@
         "factoids": [
             "Very large, active development team", 
             "Increasing Y-O-Y development activity", 
-            "Well-established codebase", 
-            "Well-commented source code"
+            "Well-commented source code", 
+            "Well-established codebase"
         ], 
         "twelve_month_commit_count": 1984, 
         "total_commit_count": 5171, 

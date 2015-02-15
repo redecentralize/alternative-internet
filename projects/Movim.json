@@ -16,12 +16,12 @@
         "analysis": "19878020", 
         "min_month": "2010-11-01T00:00:00Z", 
         "factoids": [
-            "Well-established codebase", 
             "Average size development team", 
-            "Stable Y-O-Y development activity", 
-            "Very few source code comments"
+            "Well-established codebase", 
+            "Very few source code comments", 
+            "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 568, 
+        "twelve_month_commit_count": 553, 
         "total_commit_count": 1678, 
         "id": "535966", 
         "name": "MOVIM"

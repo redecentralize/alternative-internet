@@ -3,10 +3,10 @@
     "name": "Wave / Apache Wave", 
     "ohloh": {
         "main_language": "Java", 
-        "max_month": "2014-09-01T00:00:00Z", 
+        "max_month": "2014-12-01T00:00:00Z", 
         "description": "Wave is a rich, distributed, near-real-time collaboration platform, which allows users to work together in new and exciting ways. The main sub project of Apache Wave is \"Wave in a Box\", a stand alone wave server and rich web client that can serve as a Wave reference implementation. As the project grows we hope to expand to offer other Wave related goodies as well.", 
         "total_contributor_count": 15, 
-        "total_code_lines": 500161, 
+        "total_code_lines": 500172, 
         "tags": [
             "wiab", 
             "federation", 
@@ -24,7 +24,7 @@
             "waveinabox"
         ], 
         "twelve_month_contributor_count": 11, 
-        "updated_at": "2014-11-26T18:05:49Z", 
+        "updated_at": "2015-01-30T02:16:44Z", 
         "analysis": "19874641", 
         "min_month": "2011-02-01T00:00:00Z", 
         "factoids": [
@@ -33,8 +33,8 @@
             "Average number of code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 105, 
-        "total_commit_count": 507, 
+        "twelve_month_commit_count": 97, 
+        "total_commit_count": 508, 
         "id": "587053", 
         "name": "Apache Wave (Incubating)"
     }

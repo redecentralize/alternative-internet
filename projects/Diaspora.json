@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "Ruby", 
-        "max_month": "2014-11-01T00:00:00Z", 
+        "max_month": "2015-01-01T00:00:00Z", 
         "description": "The privacy aware, personally controlled, do-it-all, open source social network.", 
         "tags": [
             "backbone", 
@@ -11,10 +11,10 @@
             "rubyonrails", 
             "distributed"
         ], 
-        "total_code_lines": 50731, 
-        "total_contributor_count": 400, 
-        "twelve_month_contributor_count": 59, 
-        "updated_at": "2014-11-08T16:20:31Z", 
+        "total_code_lines": 51286, 
+        "total_contributor_count": 411, 
+        "twelve_month_contributor_count": 66, 
+        "updated_at": "2015-01-06T16:31:41Z", 
         "analysis": "19849333", 
         "min_month": "2010-06-01T00:00:00Z", 
         "factoids": [
@@ -23,8 +23,8 @@
             "Few source code comments", 
             "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 1111, 
-        "total_commit_count": 15001, 
+        "twelve_month_commit_count": 1187, 
+        "total_commit_count": 15222, 
         "id": "485371", 
         "name": "Diaspora"
     }, 

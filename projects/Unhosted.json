@@ -17,8 +17,8 @@
         "min_month": "2011-11-01T00:00:00Z", 
         "factoids": [
             "Short source control history", 
-            "Stable Y-O-Y development activity", 
             "Very few source code comments", 
+            "Stable Y-O-Y development activity", 
             "No recent development activity"
         ], 
         "twelve_month_commit_count": 0, 

@@ -3,27 +3,27 @@
     "name": "Twister", 
     "ohloh": {
         "main_language": "C++", 
-        "max_month": "2014-11-01T00:00:00Z", 
+        "max_month": "2015-01-01T00:00:00Z", 
         "description": "Twister is an experimental peer-to-peer microblogging software.\n\nUser registration and authentication is provided by a bitcoin-like network, so it is completely distributed (does not depend on any central authority).\n\nPost distribution uses kademlia DHT network and bittorrent-like swarms, both are provided by libtorrent.\n\nBoth Bitcoin and libtorrent versions included here are highly patched and do not interoperate with existing networks (on purpose).", 
-        "total_contributor_count": 218, 
-        "total_code_lines": 343188, 
+        "total_contributor_count": 219, 
+        "total_code_lines": 343623, 
         "tags": [
             "p2p", 
             "bitcoin", 
             "torrent"
         ], 
-        "twelve_month_contributor_count": 42, 
-        "updated_at": "2014-11-12T04:19:22Z", 
+        "twelve_month_contributor_count": 40, 
+        "updated_at": "2015-01-18T20:03:53Z", 
         "analysis": "19875627", 
         "min_month": "2009-08-01T00:00:00Z", 
         "factoids": [
-            "Mature, well-established codebase", 
             "Very large, active development team", 
+            "Mature, well-established codebase", 
             "Average number of code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 417, 
-        "total_commit_count": 4882, 
+        "twelve_month_commit_count": 392, 
+        "total_commit_count": 4924, 
         "id": "713796", 
         "name": "twister-core"
     }

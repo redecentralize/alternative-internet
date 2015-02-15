@@ -17,20 +17,20 @@
             "python", 
             "selfhosting"
         ], 
-        "total_code_lines": 28883, 
-        "total_contributor_count": 56, 
-        "twelve_month_contributor_count": 17, 
-        "updated_at": "2014-11-22T04:22:36Z", 
+        "total_code_lines": 28882, 
+        "total_contributor_count": 57, 
+        "twelve_month_contributor_count": 14, 
+        "updated_at": "2014-12-26T21:24:14Z", 
         "analysis": "19838066", 
         "min_month": "2010-03-01T00:00:00Z", 
         "factoids": [
-            "Increasing Y-O-Y development activity", 
             "Large, active development team", 
+            "Increasing Y-O-Y development activity", 
             "Well-established codebase", 
             "Few source code comments"
         ], 
-        "twelve_month_commit_count": 660, 
-        "total_commit_count": 2023, 
+        "twelve_month_commit_count": 628, 
+        "total_commit_count": 2037, 
         "id": "665997", 
         "name": "arkOS"
     }, 

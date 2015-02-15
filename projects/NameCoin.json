@@ -21,11 +21,11 @@
         "min_month": "2009-08-01T00:00:00Z", 
         "factoids": [
             "Increasing Y-O-Y development activity", 
-            "Average size development team", 
             "Well-established codebase", 
+            "Average size development team", 
             "Few source code comments"
         ], 
-        "twelve_month_commit_count": 30, 
+        "twelve_month_commit_count": 24, 
         "total_commit_count": 905, 
         "id": "632496", 
         "name": "Namecoin"

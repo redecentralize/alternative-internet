@@ -11,11 +11,11 @@
         "analysis": "19877966", 
         "min_month": "2013-08-01T00:00:00Z", 
         "factoids": [
-            "Short source control history", 
+            "Small development team", 
             "Average number of code comments", 
-            "Small development team"
+            "Short source control history"
         ], 
-        "twelve_month_commit_count": 91, 
+        "twelve_month_commit_count": 50, 
         "total_commit_count": 161, 
         "id": "667086", 
         "name": "grimwire"

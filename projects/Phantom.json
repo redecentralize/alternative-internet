@@ -9,13 +9,13 @@
             "anonymity"
         ], 
         "twelve_month_contributor_count": 0, 
-        "updated_at": "2014-11-08T16:39:47Z", 
+        "updated_at": "2015-02-01T13:40:45Z", 
         "analysis": "19450716", 
         "min_month": "2008-05-01T00:00:00Z", 
         "factoids": [
             "Well-established codebase", 
-            "Stable Y-O-Y development activity", 
             "Very few source code comments", 
+            "Stable Y-O-Y development activity", 
             "No recent development activity"
         ], 
         "twelve_month_commit_count": 0, 

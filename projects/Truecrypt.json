@@ -20,8 +20,8 @@
         "analysis": "19520059", 
         "min_month": "2011-11-01T00:00:00Z", 
         "factoids": [
-            "Short source control history", 
             "Few source code comments", 
+            "Short source control history", 
             "Stable Y-O-Y development activity", 
             "No recent development activity"
         ], 
