@@ -7,12 +7,13 @@
         "total_code_lines": 396, 
         "total_contributor_count": 5, 
         "twelve_month_contributor_count": 4, 
-        "updated_at": "2014-11-13T00:04:43Z", 
+        "updated_at": "2015-04-01T13:35:42Z", 
         "analysis": "19839590", 
         "min_month": "2013-03-01T00:00:00Z", 
         "factoids": [
             "Average size development team", 
             "Young, but established codebase", 
+            "Decreasing Y-O-Y development activity", 
             "Very few source code comments"
         ], 
         "twelve_month_commit_count": 12, 

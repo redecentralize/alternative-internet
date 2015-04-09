@@ -1,7 +1,7 @@
 {
     "ohloh": {
         "main_language": "JavaScript", 
-        "max_month": "2012-08-01T00:00:00Z", 
+        "max_month": "2014-12-01T00:00:00Z", 
         "description": "Unhosted is an open web standard for decentralizing user data. On the unhosted web, data is stored per-user, wherever the user decides", 
         "tags": [
             "web", 
@@ -11,18 +11,18 @@
         ], 
         "total_code_lines": 6488, 
         "total_contributor_count": 2, 
-        "twelve_month_contributor_count": 0, 
-        "updated_at": "2014-11-16T23:15:49Z", 
+        "twelve_month_contributor_count": 1, 
+        "updated_at": "2015-04-07T18:02:53Z", 
         "analysis": "19787665", 
         "min_month": "2011-11-01T00:00:00Z", 
         "factoids": [
-            "Short source control history", 
-            "Very few source code comments", 
+            "Well-established codebase", 
+            "Only a single active developer", 
             "Stable Y-O-Y development activity", 
-            "No recent development activity"
+            "Very few source code comments"
         ], 
-        "twelve_month_commit_count": 0, 
-        "total_commit_count": 28, 
+        "twelve_month_commit_count": 1, 
+        "total_commit_count": 29, 
         "id": "585684", 
         "name": "Unhosted"
     }, 

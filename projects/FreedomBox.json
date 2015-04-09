@@ -13,20 +13,20 @@
             "message", 
             "freedombox"
         ], 
-        "total_code_lines": 8081, 
+        "total_code_lines": 8079, 
         "total_contributor_count": 24, 
         "twelve_month_contributor_count": 9, 
-        "updated_at": "2015-01-05T12:46:44Z", 
+        "updated_at": "2015-02-21T18:54:57Z", 
         "analysis": "19532179", 
         "min_month": "2011-02-01T00:00:00Z", 
         "factoids": [
-            "Large, active development team", 
             "Increasing Y-O-Y development activity", 
-            "Well-commented source code", 
-            "Well-established codebase"
+            "Large, active development team", 
+            "Well-established codebase", 
+            "Well-commented source code"
         ], 
-        "twelve_month_commit_count": 750, 
-        "total_commit_count": 1814, 
+        "twelve_month_commit_count": 751, 
+        "total_commit_count": 1816, 
         "id": "597590", 
         "name": "FreedomBox"
     }, 

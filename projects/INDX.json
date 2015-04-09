@@ -1,23 +1,23 @@
 {
     "ohloh": {
         "main_language": "JavaScript", 
-        "max_month": "2014-02-01T00:00:00Z", 
+        "max_month": "2015-02-01T00:00:00Z", 
         "description": "INDX Server", 
         "tags": [], 
-        "total_code_lines": 143883, 
-        "total_contributor_count": 19, 
-        "twelve_month_contributor_count": 9, 
-        "updated_at": "2014-11-16T18:37:47Z", 
+        "total_code_lines": 101380, 
+        "total_contributor_count": 20, 
+        "twelve_month_contributor_count": 5, 
+        "updated_at": "2015-03-09T22:38:35Z", 
         "analysis": "19538741", 
         "min_month": "2012-02-01T00:00:00Z", 
         "factoids": [
-            "Large, active development team", 
-            "Young, but established codebase", 
+            "Well-established codebase", 
+            "Average size development team", 
             "Average number of code comments", 
-            "Stable Y-O-Y development activity"
+            "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 992, 
-        "total_commit_count": 2581, 
+        "twelve_month_commit_count": 425, 
+        "total_commit_count": 3071, 
         "id": "706692", 
         "name": "indx"
     }, 

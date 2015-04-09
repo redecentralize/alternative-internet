@@ -32,13 +32,13 @@
         "twelve_month_contributor_count": 1, 
         "total_contributor_count": 1, 
         "twelve_month_commit_count": 1125, 
-        "total_code_lines": 9872, 
-        "total_commit_count": 1130, 
-        "updated_at": "2015-01-05T12:36:44Z", 
+        "total_code_lines": 10146, 
+        "total_commit_count": 1136, 
+        "updated_at": "2015-03-29T11:27:50Z", 
         "factoids": [
             "Young, but established codebase", 
-            "Very few source code comments", 
-            "Only a single active developer"
+            "Only a single active developer", 
+            "Very few source code comments"
         ]
     }, 
     "description": "[FreedomBone](https://github.com/bashrc/freedombone) Designed primarily for the Beaglebone Black, but also capable of running on any system with Debian Jessie installed, the FreedomBone allows you to self-host a variety of useful web services with a reasonable degree of security and privacy.", 

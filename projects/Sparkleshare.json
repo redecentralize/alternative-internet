@@ -12,10 +12,10 @@
             "mono", 
             "sparkleshare"
         ], 
-        "total_code_lines": 15876, 
-        "total_contributor_count": 176, 
+        "total_code_lines": 15882, 
+        "total_contributor_count": 177, 
         "twelve_month_contributor_count": 11, 
-        "updated_at": "2015-01-10T13:18:17Z", 
+        "updated_at": "2015-03-31T11:12:13Z", 
         "analysis": "19848132", 
         "min_month": "2010-04-01T00:00:00Z", 
         "factoids": [
@@ -24,8 +24,8 @@
             "Few source code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 150, 
-        "total_commit_count": 4056, 
+        "twelve_month_commit_count": 157, 
+        "total_commit_count": 4063, 
         "id": "483521", 
         "name": "SparkleShare"
     }, 

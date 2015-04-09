@@ -6,15 +6,15 @@
         "tags": [], 
         "total_code_lines": 0, 
         "total_contributor_count": 5, 
-        "twelve_month_contributor_count": 3, 
-        "updated_at": "2014-11-16T22:08:34Z", 
+        "twelve_month_contributor_count": 0, 
+        "updated_at": "2015-04-09T07:25:41Z", 
         "analysis": "19540897", 
         "min_month": "2013-04-01T00:00:00Z", 
         "factoids": [
-            "Small development team", 
-            "Short source control history"
+            "Short source control history", 
+            "No recent development activity"
         ], 
-        "twelve_month_commit_count": 4, 
+        "twelve_month_commit_count": 0, 
         "total_commit_count": 18, 
         "id": "658281", 
         "name": "btsync-keys"

@@ -13,6 +13,20 @@
             "decentralized"
         ], 
         "analysis": "", 
-        "name": "Matrix.org"
+        "name": "Matrix.org", 
+        "main_language": "JavaScript", 
+        "min_month": "2014-08-01T00:00:00Z", 
+        "max_month": "2015-02-01T00:00:00Z", 
+        "twelve_month_contributor_count": 24, 
+        "total_contributor_count": 24, 
+        "twelve_month_commit_count": 4794, 
+        "total_code_lines": 100731, 
+        "total_commit_count": 4794, 
+        "updated_at": "2015-02-19T02:00:05Z", 
+        "factoids": [
+            "Very well-commented source code", 
+            "Large, active development team", 
+            "Short source control history"
+        ]
     }
 }

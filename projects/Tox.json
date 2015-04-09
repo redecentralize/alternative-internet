@@ -3,10 +3,10 @@
     "name": "Tox", 
     "ohloh": {
         "main_language": "C", 
-        "max_month": "2014-08-01T00:00:00Z", 
+        "max_month": "2015-01-01T00:00:00Z", 
         "description": "Free and secure distributed Skype replacement.", 
-        "total_contributor_count": 418, 
-        "total_code_lines": 217592, 
+        "total_contributor_count": 193, 
+        "total_code_lines": 28354, 
         "tags": [
             "communication", 
             "voicechat", 
@@ -26,17 +26,17 @@
             "talk", 
             "skype"
         ], 
-        "twelve_month_contributor_count": 256, 
-        "updated_at": "2014-09-01T02:53:00Z", 
+        "twelve_month_contributor_count": 53, 
+        "updated_at": "2015-03-28T10:15:47Z", 
         "analysis": "19881652", 
         "min_month": "2013-06-01T00:00:00Z", 
         "factoids": [
             "Very large, active development team", 
-            "Young, but established codebase", 
-            "Average number of code comments"
+            "Well-commented source code", 
+            "Young, but established codebase"
         ], 
-        "twelve_month_commit_count": 7484, 
-        "total_commit_count": 9701, 
+        "twelve_month_commit_count": 1252, 
+        "total_commit_count": 3079, 
         "id": "643458", 
         "name": "Project Tox"
     }

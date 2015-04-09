@@ -21,20 +21,20 @@
             "stats", 
             "monitor"
         ], 
-        "total_code_lines": 366355, 
-        "total_contributor_count": 133, 
-        "twelve_month_contributor_count": 84, 
-        "updated_at": "2015-01-05T19:02:34Z", 
+        "total_code_lines": 367335, 
+        "total_contributor_count": 135, 
+        "twelve_month_contributor_count": 72, 
+        "updated_at": "2015-02-21T13:38:12Z", 
         "analysis": "20836099", 
         "min_month": "2007-07-01T00:00:00Z", 
         "factoids": [
-            "Very large, active development team", 
             "Mature, well-established codebase", 
-            "Increasing Y-O-Y development activity", 
-            "Average number of code comments"
+            "Very large, active development team", 
+            "Average number of code comments", 
+            "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 6249, 
-        "total_commit_count": 18105, 
+        "twelve_month_commit_count": 6269, 
+        "total_commit_count": 18248, 
         "id": "10720", 
         "name": "Piwik"
     }
