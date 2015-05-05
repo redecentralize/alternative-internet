@@ -11,7 +11,7 @@ layout: default
 <div class="container-fluid" style="margin-bottom: 20px">
 
   {% for project in site.categories['projects'] %}
-    <div class="col-md-4">
+    <div class="col-md-6" style="table-layout: fixed; margin-bottom: 20px;">
       {{project.name}}
       <div class="post-meta">{{ project.description }}</div>
 
