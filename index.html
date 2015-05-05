@@ -12,9 +12,12 @@ layout: default
 
   {% for project in site.categories['projects'] %}
     <div class="col-md-4">
-      <span>{{project.name}}</span>
+      {{project.name}}
       <div class="post-meta">{{ project.description }}</div>
-      <a target="blank" href="{{project.website}}">{{project.website}}</a>
+
+      <div><span class="post-meta">Language: {{project.language}}</span></div>
+      <div><span class="post-meta">Platform: {{project.platform}}</span></div>
+      <div><span class="post-meta">Website: <a target="blank" href="{{project.website}}">{{project.website}}</a></span></div>
     </div>
   {% endfor %}
 </div>
