@@ -11,16 +11,16 @@
         ], 
         "total_code_lines": 241266, 
         "total_contributor_count": 18, 
-        "twelve_month_contributor_count": 17, 
-        "updated_at": "2015-01-10T19:40:28Z", 
+        "twelve_month_contributor_count": 6, 
+        "updated_at": "2015-04-16T03:51:52Z", 
         "analysis": "19829037", 
         "min_month": "2013-09-01T00:00:00Z", 
         "factoids": [
-            "Large, active development team", 
             "Well-commented source code", 
+            "Average size development team", 
             "Short source control history"
         ], 
-        "twelve_month_commit_count": 552, 
+        "twelve_month_commit_count": 537, 
         "total_commit_count": 849, 
         "id": "714242", 
         "name": "clearskies"

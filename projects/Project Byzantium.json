@@ -6,17 +6,17 @@
         "tags": [], 
         "total_code_lines": 62796, 
         "total_contributor_count": 16, 
-        "twelve_month_contributor_count": 3, 
-        "updated_at": "2015-01-31T21:59:46Z", 
+        "twelve_month_contributor_count": 2, 
+        "updated_at": "2015-04-29T18:00:38Z", 
         "analysis": "19526167", 
         "min_month": "2011-02-01T00:00:00Z", 
         "factoids": [
             "Well-established codebase", 
-            "Average number of code comments", 
             "Small development team", 
+            "Average number of code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 37, 
+        "twelve_month_commit_count": 35, 
         "total_commit_count": 1373, 
         "id": "598905", 
         "name": "Byzantium"

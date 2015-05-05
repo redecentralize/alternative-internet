@@ -1,23 +1,22 @@
 {
     "ohloh": {
-        "main_language": "C++", 
-        "max_month": "2015-01-01T00:00:00Z", 
+        "main_language": "JavaScript", 
+        "max_month": "2015-03-01T00:00:00Z", 
         "description": "A Kademlia-based DHT and JSON protocol for application meshing and eventing", 
         "tags": [], 
-        "total_code_lines": 113348, 
-        "total_contributor_count": 36, 
-        "twelve_month_contributor_count": 20, 
-        "updated_at": "2015-01-06T01:12:18Z", 
+        "total_code_lines": 1825, 
+        "total_contributor_count": 19, 
+        "twelve_month_contributor_count": 14, 
+        "updated_at": "2015-04-30T11:36:41Z", 
         "analysis": "19824934", 
-        "min_month": "2010-01-01T00:00:00Z", 
+        "min_month": "2013-10-01T00:00:00Z", 
         "factoids": [
             "Large, active development team", 
-            "Increasing Y-O-Y development activity", 
-            "Well-established codebase", 
+            "Young, but established codebase", 
             "Very few source code comments"
         ], 
-        "twelve_month_commit_count": 1541, 
-        "total_commit_count": 2184, 
+        "twelve_month_commit_count": 445, 
+        "total_commit_count": 655, 
         "id": "491069", 
         "name": "TeleHash"
     }, 

@@ -1,23 +1,23 @@
 {
     "ohloh": {
         "main_language": "C", 
-        "max_month": "2015-02-01T00:00:00Z", 
+        "max_month": "2015-03-01T00:00:00Z", 
         "description": "Cjdns implements an encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing. This provides near-zero-configuration networking, and prevents many of the security and scalability issues that plague existing networks.", 
         "tags": [], 
-        "total_code_lines": 38883, 
-        "total_contributor_count": 119, 
-        "twelve_month_contributor_count": 42, 
-        "updated_at": "2015-03-28T06:52:36Z", 
+        "total_code_lines": 37973, 
+        "total_contributor_count": 122, 
+        "twelve_month_contributor_count": 43, 
+        "updated_at": "2015-04-30T23:02:38Z", 
         "analysis": "19839214", 
         "min_month": "2011-02-01T00:00:00Z", 
         "factoids": [
             "Very large, active development team", 
             "Well-established codebase", 
             "Well-commented source code", 
-            "Decreasing Y-O-Y development activity"
+            "Stable Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 863, 
-        "total_commit_count": 3351, 
+        "twelve_month_commit_count": 896, 
+        "total_commit_count": 3463, 
         "id": "633020", 
         "name": "CJDNS"
     }, 

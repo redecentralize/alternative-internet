@@ -7,7 +7,7 @@
         "total_code_lines": 101380, 
         "total_contributor_count": 20, 
         "twelve_month_contributor_count": 5, 
-        "updated_at": "2015-03-09T22:38:35Z", 
+        "updated_at": "2015-05-01T02:46:43Z", 
         "analysis": "19538741", 
         "min_month": "2012-02-01T00:00:00Z", 
         "factoids": [
@@ -16,7 +16,7 @@
             "Average number of code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 425, 
+        "twelve_month_commit_count": 358, 
         "total_commit_count": 3071, 
         "id": "706692", 
         "name": "indx"

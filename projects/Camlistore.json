@@ -1,13 +1,13 @@
 {
     "ohloh": {
         "main_language": "Go", 
-        "max_month": "2015-02-01T00:00:00Z", 
+        "max_month": "2015-03-01T00:00:00Z", 
         "description": "", 
         "tags": [], 
-        "total_code_lines": 344876, 
+        "total_code_lines": 344449, 
         "total_contributor_count": 82, 
-        "twelve_month_contributor_count": 35, 
-        "updated_at": "2015-03-21T17:41:18Z", 
+        "twelve_month_contributor_count": 29, 
+        "updated_at": "2015-05-01T00:51:58Z", 
         "analysis": "19881615", 
         "min_month": "2010-06-01T00:00:00Z", 
         "factoids": [
@@ -16,8 +16,8 @@
             "Well-commented source code", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 1274, 
-        "total_commit_count": 5348, 
+        "twelve_month_commit_count": 1083, 
+        "total_commit_count": 5366, 
         "id": "487862", 
         "name": "Camlistore"
     }, 

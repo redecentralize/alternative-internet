@@ -9,17 +9,17 @@
         ], 
         "total_code_lines": 100676, 
         "total_contributor_count": 128, 
-        "twelve_month_contributor_count": 4, 
-        "updated_at": "2015-01-10T11:43:13Z", 
+        "twelve_month_contributor_count": 3, 
+        "updated_at": "2015-04-16T03:11:22Z", 
         "analysis": "19451702", 
         "min_month": "2011-11-01T00:00:00Z", 
         "factoids": [
-            "Average size development team", 
             "Young, but established codebase", 
+            "Small development team", 
             "Few source code comments", 
             "Decreasing Y-O-Y development activity"
         ], 
-        "twelve_month_commit_count": 20, 
+        "twelve_month_commit_count": 18, 
         "total_commit_count": 2873, 
         "id": "713949", 
         "name": "Peercoin"
