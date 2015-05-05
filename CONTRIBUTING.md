@@ -1,5 +1,6 @@
 # Alternative Internet Contributing Guide
 
+
 ## As contributor
 
 The current index reads its projects from the JSON files in `projects/`.
