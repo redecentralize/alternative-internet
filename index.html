@@ -14,7 +14,7 @@ layout: default
   {% for project in projects %}
     <div class="col-md-6" style="table-layout: fixed; margin-bottom: 20px;">
       {{project.name}}
-      <div class="post-meta">{{ project.description }}</div>
+      <div class="post-meta">{{ project.description | markdownify }}</div>
 
       <div><span class="post-meta">Language: {{project.language}}</span></div>
       <div><span class="post-meta">Platform: {{project.platform}}</span></div>
