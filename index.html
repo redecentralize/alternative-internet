@@ -9,8 +9,9 @@ layout: default
 </div>
 
 <div class="container-fluid" style="margin-bottom: 20px">
+  {% assign projects = site.categories['projects'] | sort %}
 
-  {% for project in site.categories['projects'] %}
+  {% for project in projects %}
     <div class="col-md-6" style="table-layout: fixed; margin-bottom: 20px;">
       {{project.name}}
       <div class="post-meta">{{ project.description }}</div>
