@@ -1,4 +1,5 @@
 # Alternative Internet
+An [HTML version of this page](https://redecentralize.github.io/alternative-internet/) is available
 [Pull requests VERY welcome!](CONTRIBUTING.md)
 
 Project statistics fetched from [Ohloh](https://www.ohloh.net).
