@@ -2,34 +2,7 @@
     "description": "[IPFS](https://ipfs.io) is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open. IPFS is an open source project developed by the team at Interplanetary Networks and many contributors from the open source community.", 
     "name": "IPFS", 
     "ohloh": {
-        "main_language": "Java", 
-        "max_month": "2014-12-01T00:00:00Z", 
-        "description": "The Open eHealth Integration Platform (IPF) is an extension of the Apache Camel routing and mediation engine. It has an application programming layer based on the Groovy programming language and comes with comprehensive support for message processing and connecting systems in the healthcare domain. IPF provides a domain-specific language for building integration solutions from Enterprise Integration Patterns.", 
-        "tags": [
-            "camel", 
-            "integration", 
-            "patterns", 
-            "java", 
-            "ipf", 
-            "dsl", 
-            "groovy", 
-            "healthcare"
-        ], 
-        "total_code_lines": 766690, 
-        "total_contributor_count": 26, 
-        "twelve_month_contributor_count": 5, 
-        "updated_at": "2015-01-08T14:30:51Z", 
-        "analysis": "23794130", 
-        "min_month": "2008-11-01T00:00:00Z", 
-        "factoids": [
-            "Mature, well-established codebase", 
-            "Well-commented source code", 
-            "Average size development team", 
-            "Decreasing Y-O-Y development activity"
-        ], 
-        "twelve_month_commit_count": 125, 
-        "total_commit_count": 3961, 
-        "id": "345959", 
-        "name": "Open eHealth Integration Platform"
+        "main_language": "Go", 
+        "skip": true 
     }
 }
