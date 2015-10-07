@@ -189,5 +189,4 @@ Project statistics fetched from [Ohloh](https://www.ohloh.net).
 |unSYSTEM|[unSYSTEM](http://unsystem.net/) is a collective dedicated to creating popular tools that promote privacy, independence, and integrity in contradistinction to those used for mass surveillance and suppression.  Software projects include [Libbitcoin](https://libbitcoin.dyne.org/), [SX](https://sx.dyne.org/), and [Lorea](#Lorea).|-|-|-|-|-|
 |weborganiZm|[weborganiZm] (http://weborganizm.org/) is an Ad-Free NON-indexed network for creating and sharing of the knowledges that follows these principles: Non-Profit, Reproducible, Reinforcing the Digital Commons, Grassroots.|-|-|-|-|-|
 |wlan slovenija|[wlan slovenija](http://dev.wlan-si.net/) is developing technologies for easy deployment of community wireless mesh networks. The main idea is that power is in numbers so deployment should be so easy that anybody can do it, that anybody can start a new wireless mesh network and create a new community.|JavaScript|3 K|69 K|33 |7 year(s)|
-|ZeroNet|[ZeroNet](http://zeronet.io/) is a real-time updated, P2P websites
-using Bitcoin cryptography and the BitTorrent network.|Python|-|-|19 |10 month(s)|
+|ZeroNet|[ZeroNet](http://zeronet.io/) is a real-time updated, P2P websites using Bitcoin cryptography and the BitTorrent network.|Python|-|-|19 |10 month(s)|
