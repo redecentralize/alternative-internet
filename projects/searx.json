@@ -1,6 +1,6 @@
 {
-    "description": "[Searx](http://searx.me) is a privacy-respecting, hackable metasearch engine.",
-    "name": "Searx",
+    "description": "[Searx](http://searx.me) is a privacy-respecting, hackable metasearch engine.", 
+    "name": "Searx", 
     "ohloh": {
         "id": "710261"
     }
