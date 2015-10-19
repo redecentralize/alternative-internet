@@ -1,7 +1,7 @@
 {
-  "name": "Lighthouse",
-  "description": "[Lighthouse](https://www.vinumeris.com/lighthouse) is a peer to peer crowdfunding app that uses Bitcoin.",
-  "ohloh": {
-    "id": "719126"
-  }
+    "name": "Lighthouse", 
+    "description": "[Lighthouse](https://www.vinumeris.com/lighthouse) is a peer to peer crowdfunding app that uses Bitcoin.", 
+    "ohloh": {
+        "id": "719126"
+    }
 }
