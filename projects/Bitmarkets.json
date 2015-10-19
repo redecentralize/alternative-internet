@@ -1,8 +1,8 @@
 {
     "name": "Bitmarkets", 
-    "description": "[OpenBazaar](https://github.com/voluntarynet/bitmarkets) a working decentralized marketplace based on bitcoinj and bitmessage.", 
+    "description": "[Bitmarkets](https://github.com/voluntarynet/bitmarkets) a working decentralized marketplace based on bitcoinj and bitmessage.", 
     "ohloh": {
-        "main_language": "JavaScript", 
+        "main_language": "Objective-C", 
         "max_month": "2014-11-01T00:00:00Z", 
         "description": "Uses Bitmessage's decentralized messaging to post sales, Bitcoin to transfer value without credit cards or banks, and two party escrow transactions (which lock the payment and mutual security deposits so they can only be released with the consent of both parties) safe exchanges can be conducted without middle men.", 
         "tags": [], 
