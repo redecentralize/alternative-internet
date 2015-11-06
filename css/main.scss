@@ -50,3 +50,12 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.project {
+    flex: 0 0 auto;
+}

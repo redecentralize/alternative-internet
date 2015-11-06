@@ -8,11 +8,11 @@ layout: default
   </div>
 </div>
 
-<div class="container-fluid" style="margin-bottom: 20px">
+<div class="container-fluid content" style="margin-bottom: 20px">
   {% assign projects = site.categories['projects'] | sort %}
 
   {% for project in projects %}
-    <div class="col-md-6" style="table-layout: fixed; margin-bottom: 20px;">
+    <div class="col-md-6 project" style="table-layout: fixed; margin-bottom: 20px;">
       {{project.name}}
       <div class="post-meta">{{ project.description | markdownify }}</div>
 
