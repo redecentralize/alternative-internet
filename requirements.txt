@@ -1,1 +1,2 @@
 Flask==0.10.1
+python-slugify==1.2.0
