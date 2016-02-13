@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Alternative Internet</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="An organisation with a mission to make everything decentralized again">
+    <meta name="author" content="Francis Irving">
+
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+    <link href="{{url_for('static', filename='css/master.css')}}" rel="stylesheet">
+
+    <script src="{{url_for('static', filename='vendor/jquery-1.9.1.min.js')}}"></script>
+    <script src="{{url_for('static', filename='vendor/bootstrap/dist/js/bootstrap.min.js')}}"></script>
+
+    <link rel="shortcut icon" href="{{url_for('static', filename='images/favicon.png')}}">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top" role="banner">
+      <div class="container">
+        <div class="navbar-header">
+          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" class="navbar-brand brand"><i class="logo"></i> Alternative Internet</a>
+        </div>
+        <div class="navbar-collapse collapse pull-right" role="navigation">
+          <ul class="nav navbar-nav">
+            <li>
+              <a href="http://redecentralize.org">Visit redecentralize.org</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+  <div class="container">
+    <h1>Alternative Internet<br/>
+    <small>Tools, Networks and Tech working towards and alternative internet</small>
+    </h1>
+
+    {% block content %}
+
+    {% endblock %}
+    </div>
+
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//piwik.redecentralize.net/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//piwik.redecentralize.net/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
+  </body>
+</html>

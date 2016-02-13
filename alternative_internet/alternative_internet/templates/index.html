@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+    <hr/>
+    {% for project_name in project_names %}
+        {% with project = database.get(project_name)%}
+            {% include 'snippets/project_list_item.html' %}
+        {% endwith %}
+    {% endfor %}
+{% endblock %}

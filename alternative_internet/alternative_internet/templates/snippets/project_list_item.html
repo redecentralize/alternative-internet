@@ -1,0 +1,9 @@
+<h2>{{project.name}}</h2>
+<div>
+    <p>{{project.description|markdown}}</p>
+    {% if project.ohloh and project.ohloh.main_language %}
+        <div class="col-md-4"><label>Main language:</label> {{project.ohloh.main_language}}</div>
+    {% endif %}
+    <div class="clearfix"></div>
+</div>
+
