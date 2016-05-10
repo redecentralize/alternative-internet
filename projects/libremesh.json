@@ -1,0 +1,4 @@
+{
+    "name": "Libre-Mesh", 
+    "description": "The [Libre-Mesh project](http://libre-mesh.org) includes the development of several tools used for deploying libre/free mesh networks. The firmware (the main piece) allows simple deployment of auto-configurable, yet versatile, multi-radio mesh networks."
+}
