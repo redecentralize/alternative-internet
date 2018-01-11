@@ -1,0 +1,4 @@
+{
+    "name": "SporeStack",
+    "description": "[SporeStack](https://sporestack.com/) is a platform for launching servers with Bitcoin, without an account or registration. Completely API driven, down to the payments. Focuses on ephemeral servers and design. [Javascript launcher](https://github.com/sporestack/launch.sporestack.com), [Python library/client](https://github.com/sporestack/sporestack-python), and [launch profiles](https://github.com/sporestack/node-profiles) are all released into the public domain."
+}
