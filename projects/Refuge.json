@@ -1,7 +1,0 @@
-{
-    "ohloh": {
-        "skip": true
-    }, 
-    "description": "The [Refuge Project](http://refuge.io/) aims to provide a fully decentralized and opensource data platform. It is built in Erlang and includes [RCouch](https://github.com/refuge/rcouch), a static distribution of couchdb using rebar, and [Coffer](https://github.com/refuge/coffer), a blob server.", 
-    "name": "Refuge"
-}

@@ -1,7 +1,0 @@
-{
-    "name": "ePlug", 
-    "description": "The [ePlug](http://kenCode.de/projects) is a tiny circuit board that resides inside of 'ePlug Certified' electrical outlets. Decentralized Meshnet, distributed computing, 6 gig WiFi. ISP's, CDN's and racks of servers, switches and wire no longer needed.", 
-    "ohloh": {
-        "skip": true
-    }
-}

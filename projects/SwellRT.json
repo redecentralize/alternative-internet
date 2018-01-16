@@ -1,7 +1,0 @@
-{
-    "name": "SwellRT", 
-    "description": "[SwellRT](http://swellrt.org) is a Real-time text editor and collaboration API for HTML/JavaScript and Android. It is the only open source **decentralized-federated** framework to build collaborative applications.", 
-    "ohloh": {
-        "skip": true
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "name": "Sovereign", 
-    "description": "[Sovereign](https://github.com/al3x/sovereign) is a set of Ansible playbooks that you can use to build and maintain your own personal cloud. It\u2019s based entirely on open source software, so you\u2019re in control.", 
-    "ohloh": {
-        "skip": true
-    }
-}

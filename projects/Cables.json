@@ -1,7 +1,0 @@
-{
-    "ohloh": {
-        "skip": true
-    }, 
-    "description": "[Cables communication](http://dee.su/cables) implements secure and anonymous communication using email-like addresses, pioneered in Libert\u00e9 Linux. Cables communication is Libert\u00e9's pivotal component for enabling anyone to communicate safely and covertly in hostile environments.", 
-    "name": "Cables"
-}

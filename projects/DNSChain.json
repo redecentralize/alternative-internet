@@ -1,4 +1,0 @@
-{
-    "name": "DNSChain", 
-    "description": "[DNSChain](https://github.com/okTurtles/dnschain) aims to fix web security by Man-in-the-Middle proofing connections. It's a secure, decentralized PKI (public key infrastructure) that makes blockchain tech (like Namecoin, Blockstore, etc.) usable for arbitrary devices."
-}

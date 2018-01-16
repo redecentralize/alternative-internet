@@ -1,7 +1,0 @@
-{
-    "ohloh": {
-        "skip": true
-    },
-    "description": "[OTRTalk](https://github.com/mnaamani/otrtalk) Is a command line based chat application, uses BitTorrent P2P DHT Network for peer discovery and OTR (Off the Record) for secure messaging.",
-    "name": "OTR Talk"
-}

@@ -1,4 +1,0 @@
-{
-    "name": "dn42", 
-    "description": "[dn42](https://dn42.net/Home) is a big dynamic VPN network, which employs Internet technologies (BGP, whois database, DNS, etc). Participants connect to each other using network tunnels (GRE, OpenVPN, Tinc, IPsec), and exchange routes thanks to the Border Gateway Protocol. Network addresses are assigned in the 172.22.0.0/15 range, and private AS numbers are used: see registry. See the About page for more information."
-}

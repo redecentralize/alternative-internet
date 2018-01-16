@@ -1,7 +1,0 @@
-{
-    "ohloh": {
-        "skip": true
-    }, 
-    "description": "[Shark](http://sharksystem.net/) is an open source framework for building semantic P2P applications in Java. It facilitates building decentralized application based on the notion of ontologies. The name is an acronym for 'Shared Knowledge'.", 
-    "name": "Shark"
-}

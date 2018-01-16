@@ -1,7 +1,0 @@
-{
-    "name": "GitTorrent", 
-    "description": "[GitTorrent](http://gittorrent.org/) is a peer-to-peer network of Git repositories being shared over BitTorrent.", 
-    "ohloh": {
-        "id": "724060"
-    }
-}

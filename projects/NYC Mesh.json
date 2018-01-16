@@ -1,7 +1,0 @@
-{
-    "name": "NYC Mesh", 
-    "description": "[NYC Mesh](https://nycmesh.net/) aims to create a free, resilient, stand-alone communication system that serves both for daily use and also for emergencies\u2014be it power outages or internet disruption\u2014running software that helps our community with hyperlocal maps and events.", 
-    "ohloh": {
-        "skip": true
-    }
-}

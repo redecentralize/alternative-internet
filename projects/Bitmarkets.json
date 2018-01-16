@@ -1,7 +1,0 @@
-{
-    "name": "Bitmarkets", 
-    "description": "[Bitmarkets](https://github.com/voluntarynet/bitmarkets) a working decentralized marketplace based on bitcoinj and bitmessage.", 
-    "ohloh": {
-        "skip": true
-    }
-}
