@@ -4,14 +4,14 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 
 
-- [Cloud](cloud)
-- [Collaboration](collaboration)
-- [General](general)
-- [Hosting](hosting)
-- [Messaging](messaging)
-- [Networking](networking)
-- [Social Networks](social-networks)
-- [Uncategorised](uncategorised)
+- [Cloud](#cloud)
+- [Collaboration](#collaboration)
+- [General](#general)
+- [Hosting](#hosting)
+- [Messaging](#messaging)
+- [Networking](#networking)
+- [Social Networks](#social-networks)
+- [Uncategorised](#uncategorised)
 
 ----
 
