@@ -1,7 +1,0 @@
-{
-    "ohloh": {
-        "skip": true
-    }, 
-    "description": "[STEED](http://g10code.com/steed.html) is a protocol for opportunistic email encryption, featuring automatic key generation and distribution.", 
-    "name": "STEED"
-}

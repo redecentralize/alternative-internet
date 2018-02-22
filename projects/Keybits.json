@@ -1,4 +1,0 @@
-{
-    "name": "Keybits", 
-    "description": "[Keybits](http://keybits.net) makes it easy to run your own personal server. Setup and maintenance is made simple by using Docker and Ansible. (Similar to Sovereign but using Docker to 'containerize' applications.)"
-}

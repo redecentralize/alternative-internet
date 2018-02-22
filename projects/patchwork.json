@@ -1,7 +1,0 @@
-{
-    "description": "[Patchwork](https://github.com/ssbc/patchwork) is a distributed social network. It uses crytographic keypairs to create feeds and publish unforgeable entries which can spread across the network. Relay servers optionally aggregate and redistribute the feeds.", 
-    "name": "Patchwork", 
-    "ohloh": {
-        "skip": true
-    }
-}

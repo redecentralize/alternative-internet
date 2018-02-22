@@ -1,4 +1,0 @@
-{
-    "name": "Tonika", 
-    "description": "[Tonika](http://pdos.csail.mit.edu/~petar/5ttt.org/) is a  (digital) social network, which (by design) restricts direct communication to pairs of users who are friends, possesses many of the security properties (privacy, anonymity, deniability, resilience to denial-of-service attacks, etc.) that human sociaties implement organically in daily life."
-}

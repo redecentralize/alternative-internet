@@ -1,4 +1,0 @@
-{
-    "name": "G0Bin", 
-    "description": "[G0Bin](https://github.com/jyap808/g0bin) is a client side encrypted pastebin written in Go. The server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES."
-}

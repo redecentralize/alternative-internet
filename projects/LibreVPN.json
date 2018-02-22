@@ -1,4 +1,0 @@
-{
-    "name": "LibreVPN", 
-    "description": "[LibreVPN](http://librevpn.org.ar) is a virtual mesh network using [tinc](http://tinc-vpn.org) plus configuration scripts that even let you build your own mesh VPN.  It's also IPv6 enabled."
-}

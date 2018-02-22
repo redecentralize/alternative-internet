@@ -1,7 +1,0 @@
-{
-    "description": "[IPFS](https://ipfs.io) is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open. IPFS is an open source project developed by the team at Interplanetary Networks and many contributors from the open source community.", 
-    "name": "IPFS", 
-    "ohloh": {
-        "skip": true
-    }
-}

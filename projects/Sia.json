@@ -1,4 +1,0 @@
-  {
-    "name": "Sia",
-    "description": "Sia is a decentralized cloud storage platform intending to compete with existing storage solutions, at both the P2P and enterprise level. Instead of using a centralized provider, peers on Sia rent storage from each other. Sia itself stores only the storage contracts formed between parties, using a Bitcoin-style blockchain."
-  }

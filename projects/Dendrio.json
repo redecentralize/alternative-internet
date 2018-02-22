@@ -1,7 +1,0 @@
-{
-    "name": "Dendrio", 
-    "description": "[Dendrio](https://www.dendr.io/) is a video distribution network that leverages the peer to peer WebRTC protocol to transfer website content between browsers.  This allows us to make data downloads faster for users but without any installation requirements.  For website owners, we are trivial to set up, and are transparent to existing CDN setups.  Our technology is geared towards streaming video and we support a multitude of different video formats and players.  ", 
-    "ohloh": {
-        "skip": true
-    }
-}

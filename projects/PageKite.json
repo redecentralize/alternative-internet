@@ -1,7 +1,0 @@
-{
-    "ohloh": {
-        "skip": true
-    }, 
-    "description": "[PageKite](https://pagekite.net/) is a dynamic reverse proxy designed to allow hosting of live (web-)servers on devices that are mobile, stuck behind strict firewalls or otherwise lack public IPs.", 
-    "name": "PageKite"
-}

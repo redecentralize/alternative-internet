@@ -1,7 +1,0 @@
-{
-    "name": "Lemon.email",
-    "description": "[Lemon.email](https://lemon.email/) is encrypted and decentralized e-mail service. It can be totally decentralized (works as a [dApp](https://ipfs.io/ipns/dapp.lemon.email/)) or it can work as a mail service that uses IPFS/Ethereum as a storage for previously encrypted emails. The way encryption works is that the passphrase that is used to unlock emails is not saved anywhere and therefore nobody cannot read user’s emails. Also, third party email services cannot read or decrypt lemon emails, because only notification about incoming email is sent to those services and user must go to external link to read private email.",
-    "ohloh": {
-        "skip": true
-    }
-}

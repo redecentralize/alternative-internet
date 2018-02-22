@@ -1,8 +1,0 @@
-{
-  "name": "MORPHiS",
-  "description": "[MORPHiS](https://morph.is/) is a global encrypted distributed datastore intended to replace the cloud for storage and far more. Free open source peer-to-peer
-high-performance distributed datastore."
-  "ohloh": {
-      "skip": true
-  }
-}
