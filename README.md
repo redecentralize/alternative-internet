@@ -53,6 +53,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 ## Networking
 
+* [OpenDHT](https://github.com/savoirfairelinux/opendht) is a lightweight C++11 Distributed Hash Table implementation offering a clean and powerful distributed map API. It is used by [Ring](https://ring.cx), is able to listen to value changes and adds a cryptography layer.
 
 
 ## Social Networks
