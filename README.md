@@ -34,6 +34,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 - [Books](http://en.wikipedia.org/wiki/Books) are a stable, production tested communication protocol suitable for a wide range of information services.
 - [DeadC](http://deadc.net/) Create a one-click expiring link
+- [Fermat.org](http://fermat.org/) is an framework for developing Internet of People apps.
 
 ## Hosting
 
