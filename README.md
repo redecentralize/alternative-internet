@@ -57,7 +57,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 * [AKASHA](https://akasha.world) AKASHA is a next-generation social media network immune to censorship by design. It is built on top of Ethereum using Smart Contracts and IPFS. 
 
-- [Ampify](http://ampify.net/) is an open source, decentralised, social platform. It is intended as a successor to the Open Web and as a replacement for closed platforms like iOS and Facebook by providing a web application framework to create social apps on top of a secure, decentralised core.
+~~[Ampify](http://ampify.net/) is an open source, decentralised, social platform. It is intended as a successor to the Open Web and as a replacement for closed platforms like iOS and Facebook by providing a web application framework to create social apps on top of a secure, decentralised core.~~ 
 
 - [Mastodon](https://joinmastodon.org/) is “the world’s largest free, open-source, decentralized microblogging network.”
 
