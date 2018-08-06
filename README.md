@@ -7,7 +7,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 - [Cloud](#cloud)
 - [Collaboration](#collaboration)
 - [General](#general)
-- [Hosting](#hosting)
+- [Hosting and media](#hosting)
 - [Messaging](#messaging)
 - [Networking](#networking)
 - [Social Networks](#social-networks)
@@ -36,9 +36,12 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 - [DeadC](http://deadc.net/) Create a one-click expiring link
 - [Fermat.org](http://fermat.org/) is an framework for developing Internet of People apps.
 
-## Hosting
+## Hosting and media
 
 - [AnoNet](http://wiki.ucis.nl/Anonet) is a decentralized friend-to-friend network built using VPNs and software BGP routers. anoNet works by making it difficult to learn the identities of others on the network allowing them to anonymously host IPv4 and IPv6 services)
+
+- [D.Tube](https://about.d.tube/) is the first crypto-decentralized video platform, built on top of the STEEM Blockchain and the IPFS peer-to-peer network."
+
 
 ## Messaging
 
