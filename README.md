@@ -192,8 +192,6 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 * [LiteCoin](https://litecoin.org/)  is a peer-to-peer Internet currency that enables instant payments to anyone in the world (was based on Bitcoin)
 
-* [Lorea](https://lorea.org/) researches free software Internet tools to emancipate your social networks where autonomy, group collaboration, and privacy matter.  Since 2009, Lorea has been _(re-)taking the networks_, with its flagship [N-1](https://n-1.cc/) seed.
-
 * [MORPHiS](https://morph.is/) is a global encrypted distributed datastore intended to replace the cloud for storage and far more. Free open source peer-to-peer high-performance distributed datastore.
 
 * The [MaidSafe](http://maidsafe.net) network is a fully distributed platform on which application developers can build distributed applications. The network is made up by individual users who contribute storage, computing power and bandwidth to what is a global, public cloud.
