@@ -26,7 +26,21 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 
 
-## Collaboration
+## Collaborative Web Editors
+
+
+* [Cryptpad](https://cryptpad.fr/) is an open-source online collaborative editor providing collaborative editing in real-time. It features rich text, pictures, code, and kanban editors. Cryptpad applies the _zero knowledge_ paradigm, whereby only clients see the plain text while servers see only crypted content which they are not able to decrypt.
+
+* [etherpad](http://etherpad.org/) is an open-source online text editor providing collaborative editing in real-time.
+
+* [Kune](http://kune.cc/) is based on Apache Wave and is a free/open source distributed social network focused on collaboration rather than just on communication. That is, it focuses on online real-time collaborative editing, decentralized social networking and web publishing, while focusing on workgroups rather than just on individuals.
+
+* [Tidepools](http://tidepools.co) is being developed within the [Red Hook Mesh Network](http://oti.newamerica.net/blogposts/2013/case_study_red_hook_initiative_wifi_tidepools-78575), for addressing local, social incentives for mesh use. An Open Source, Collaborative, Mobile Mapping & Social Hub, Reflecting Community Needs & Culture through Custom Apps, Time-based Maps, & Data Feeds.
+
+* [SwellRT](http://swellrt.org) is a Real-time text editor and collaboration API for HTML/JavaScript and Android. It is the only open source **decentralized-federated** framework to build collaborative applications.
+
+* [WikiSuite](http://WikiSuite.org/) is the most comprehensive and integrated Free / Libre / Open Source software suite ever developed. WikiSuite is especially suited to knowledge-centric organizations and offers most (80%+) of the data and information management features all organizations need, such as OS and Network, Web and Intranet, Email and Calendar, Files and Sync, BPM and Analytics, Chat and Video Conference, and Commerce. Key components include ClearOS, Openfire Meetings, Tiki Wiki CMS Groupware (aka TikiWiki), Kolab, Syncthing, FusionPBX and FreeSWITCH, Piwik, Elasticsearch and Kibana, Kaltura, Xibo and Kimchi (KVM).
+
 
 
 
@@ -178,8 +192,6 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 * [Known](http://withknown.com/) is a simple way to share your story with a variety of media, from any device. Aligned with the indie web movement, Known sites can be installed on your own server, and each one will operate as a node in a global social network, together with other indie web platforms. Known is fully extensible and supports microblogging, photos, articles, events, location check-ins and bookmarks out of the box. It is a responsive web platform that works on anything with a web browser.
 
-* [Kune](http://kune.cc/) is based on Apache Wave and is a free/open source distributed social network focused on collaboration rather than just on communication.[2] That is, it focuses on online real-time collaborative editing, decentralized social networking and web publishing, while focusing on workgroups rather than just on individuals.
-
 * [Lemon.email](https://lemon.email/) is encrypted and decentralized e-mail service. It can be totally decentralized (works as a [dApp](https://ipfs.io/ipns/dapp.lemon.email/)) or it can work as a mail service that uses IPFS/Ethereum as a storage for previously encrypted emails. The way encryption works is that the passphrase that is used to unlock emails is not saved anywhere and therefore nobody cannot read user’s emails. Also, third party email services cannot read or decrypt lemon emails, because only notification about incoming email is sent to those services and user must go to external link to read private email.
 
 * [Libertree](http://libertreeproject.org/) is free, libre, open-source software which is intended to provide a way for people to create their own social network. Libertree social networks can be free from commercial influence and manifestation, such as behaviour tracking, user profiling, advertising, data mining and analysis, and covert information filtering.
@@ -316,8 +328,6 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 * [SubToMe](http://subtome.com) is a universal follow button. It decouples the publishing platform and the subscribing platform so that it's as easy to follow someone's RSS/Atom feed than it is to follow them on Twitter or Google+!
 
-* [SwellRT](http://swellrt.org) is a Real-time text editor and collaboration API for HTML/JavaScript and Android. It is the only open source **decentralized-federated** framework to build collaborative applications.
-
 * [Syme](https://getsyme.com) is an experimental project that aims at bringing more privacy and security to online communication through end-to-end encryption. Syme's zero-knowledge key infrastructure enables persistent multiparty communication and secure key exchanges on minimally trusted servers and relays.
 
 * [SyncNet](http://jack.minardi.org/software/syncnet-a-decentralized-web-browser/) is a decentralized web browser built on top of BitTorrent Sync and (soon) Colored Coins for name resolution. Every time you access a site, you store all of its contents on your machine. The next user to request the site can get the contents from both your machine and the original server. As more people access a page, it becomes available from more machines, reducing the load on the original server.
@@ -339,10 +349,6 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 * [Thali](http://thali.codeplex.com) is an open source personal data store that syncs across one or more of your devices, and (selectively, via one or more apps) to one or more more trusted peers. Data store: Couchbase Lite (open source, NoSQL, multi-master sync). Trust model: public key exchange, mutual SSL authentication. Network transport: HTTPS. P2P mechanisms: local/ad-hoc, or Tor (using hidden services).
 
 * [The FNF](http://thefnf.org/) is the free network foundation: teaching how to build wireless community networks.
-
-* [Tidepools](http://tidepools.co) is being developed within the [Red Hook Mesh Network](http://oti.newamerica.net/blogposts/2013/case_study_red_hook_initiative_wifi_tidepools-78575), for addressing local, social incentives for mesh use. An Open Source, Collaborative, Mobile Mapping & Social Hub, Reflecting Community Needs & Culture through Custom Apps, Time-based Maps, & Data Feeds.
-
-* [WikiSuite](http://WikiSuite.org/) is the most comprehensive and integrated Free / Libre / Open Source software suite ever developed. WikiSuite is especially suited to knowledge-centric organizations and offers most (80%+) of the data and information management features all organizations need, such as OS and Network, Web and Intranet, Email and Calendar, Files and Sync, BPM and Analytics, Chat and Video Conference, and Commerce. Key components include ClearOS, Openfire Meetings, Tiki Wiki CMS Groupware (aka TikiWiki), Kolab, Syncthing, FusionPBX and FreeSWITCH, Piwik, Elasticsearch and Kibana, Kaltura, Xibo and Kimchi (KVM).
 
 * Dyne's [Tomb](https://tomb.dyne.org/) the crypto-undertaker is free software for easy encryption and backup of personal files, written in a single ZShell script that is easy to review and links commonly shared components (such as cryptsetup), unlike [TrueCrypt](#Truecrypt).  Tomb implements and encourages OPSEC best-practice, and comes with bind and execution hooks, steganography of keys and fast search over filenames and contents, and a graphical user interface.
 
