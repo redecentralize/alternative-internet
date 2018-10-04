@@ -5,7 +5,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 
 - [Cloud](#cloud)
-- [Collaboration](#collaboration)
+- [Collaborative web editors](#collaborative-web-editors)
 - [General](#general)
 - [Hosting and media](#hosting-and-media)
 - [Messaging](#messaging)
