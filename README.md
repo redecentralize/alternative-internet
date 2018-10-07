@@ -68,6 +68,8 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 ## Networking
 
+* [Dat](https://datproject.org) Dat p2p file replication
+
 * [LibreMesh](https://libremesh.org/) includes the development of several tools used for deploying libre/free mesh networks. The firmware (the main piece) allows simple deployment of auto-configurable, yet versatile, multi-radio mesh networks.
 
 * [OpenDHT](https://github.com/savoirfairelinux/opendht) is a lightweight C++11 Distributed Hash Table implementation offering a clean and powerful distributed map API. It is used by [Ring](https://ring.cx), is able to listen to value changes and adds a cryptography layer.
@@ -81,6 +83,8 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 - [Mastodon](https://joinmastodon.org/) is “the world’s largest free, open-source, decentralized microblogging network.”
 
 ## Uncategorised 
+
+* [Beaker Browser](https://www.beakerbrowser.com) p2p browser for the decentralised web
     
 * [Aktie](https://github.com/retsamknaps/aktie) A decentralized and anonymous forum and file sharing app for I2P.
 
