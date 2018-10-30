@@ -368,6 +368,8 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 * [UBOS](http://ubos.net/) is a new Linux distro for personal servers and IoT devices. Installing and maintaining web applications tends to take a lot of time; UBOS aims to make this much simpler.
 
+* [UBOSbox Nextcloud](https://indiecomputing.com/products/) is a ready-to-use home server appliance that does a lot of what Dropbox and Google Calendar do, but locally on hardware controlled by the user. It enables multi-user, multi-device file sharing, group calendaring, contact management, and includes a web mail client, an RSS/news reader, a note-taking app, text and video calls, and task management, provided by the FLOSS web application platform [Nextcloud](https://nextcloud.com/) and a number of Nextcloud apps. It is designed to be used as a home server without attached keyboard or monitor.
+
 * [Unhosted](https://unhosted.org/) - also known as "serverless", "client-side", or "static" web apps, unhosted web apps do not send your user data to their server. Either you connect your own server at runtime, or your data stays within the browser.
 
 * [Urbit](http://www.urbit.org/) - an operating function, from Mars.
