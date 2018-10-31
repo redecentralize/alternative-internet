@@ -18,7 +18,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 ## Cloud
 
 - [Airlock](https://github.com/slothbag/Airlock) A decentralized dropbox / mega upload style app.  Uses a combination of Ethereum and IPFS to index and list content
-- [BitDust](http://bitdust.io) - is decentralized, secure and anonymous on-line storage, where only the owner has access and absolute control over its data. BitDust project is aimed to protect users freedom and provide an alternative way to operate and communicate in the network. 
+- [BitDust](http://bitdust.io) - is decentralized, secure and anonymous on-line storage, where only the owner has access and absolute control over its data. BitDust project is aimed to protect users freedom and provide an alternative way to operate and communicate in the network.
 - [Cloudron](http://cloudron.io/) is a platform to run apps on your server. It includes 1-Click app install, automatic backups, updates, Single Sign-On, DNS setup, SSL provisioning and a secure firewall.
 - [Cozy](http://cozy.io) is a personal cloud you can host, hack and delete. With Cozy, you manage your web apps like you were on your smartphone. It provides an open market place from where you can install the web app you made yourself (Cozy is a [personal PaaS](http://cozy.io/hack/getting-started/architecture-overview.html)).
 - [ClearSkies](https://github.com/jewel/clearskies) is a peer-to-peer file sync program.  It is inspired by BitTorrent Sync, but has an open and fully-documented protocol.
@@ -74,14 +74,19 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 * [ZeroNet](https://zeronet.io) enabled decentralized websites using Bitcoin crypto and the BitTorrent network
 
+* [DAT](https://datproject.org) decentralized file system with live replication
+
+
 ## Social Networks
 
-* [AKASHA](https://akasha.world) AKASHA is a next-generation social media network immune to censorship by design. It is built on top of Ethereum using Smart Contracts and IPFS. 
+* [AKASHA](https://akasha.world) AKASHA is a next-generation social media network immune to censorship by design. It is built on top of Ethereum using Smart Contracts and IPFS.
 
 - [Mastodon](https://joinmastodon.org/) is “the world’s largest free, open-source, decentralized microblogging network.”
 
-## Uncategorised 
-    
+* [Scuttlebot](https://github.com/ssbc/scuttlebot) gossip based p2p social media feeds.
+
+## Uncategorised
+
 * [Aktie](https://github.com/retsamknaps/aktie) A decentralized and anonymous forum and file sharing app for I2P.
 
 * The [Decentralized Library of Alexandria](http://dloa.net/) is an open-source standard in active development to allow users to publish and distribute original content themselves, from music to videos to feature films, 3d printable inventions, recipes, books and just about anything else.
@@ -94,7 +99,8 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 * [BipIO](https://bip.io) is an open source personal content and workflow automation platform.  'Bips' are dynamic named graphs which are cheap to create, can auto-expire, and serve or transform public/private content across multiple protocols.
 
-  ​
+* [Beaker Browser](https://beakerbrowser.org) an experimental browser for exploring the p2p web.
+
 
 * [BitTorrent Sync](http://www.bittorrent.com/sync) by BitTorrent Labs. Easy and effortless file replication between computers (and mobile devices) without using the cloud, so the only limit is available storage. All data transfers are encrypted. Works on Windows, Linux, OSX, Android and iOS. Recently they've [opened up their API](http://www.bittorrent.com/sync/developers/api) to developers.
 
