@@ -89,7 +89,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 * [Aktie](https://github.com/retsamknaps/aktie) A decentralized and anonymous forum and file sharing app for I2P.
 
-* The [Decentralized Library of Alexandria](http://dloa.net/) is an open-source standard in active development to allow users to publish and distribute original content themselves, from music to videos to feature films, 3d printable inventions, recipes, books and just about anything else.
+* The [Decentralized Library of Alexandria](https://www.alexandria.io/) is an open-source standard in active development to allow users to publish and distribute original content themselves, from music to videos to feature films, 3d printable inventions, recipes, books and just about anything else.
 
 * [Askemos](http://askemos.org) creates an "autonomous virtual execution environment for applications" - designed to be tamper-proof and fault tolerant.  Users share not only static files but dynamic objects too. Code is taken as equivalent to contracts ("smart contracts") and hosts check each others compliance.
 
@@ -97,7 +97,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 * [BaseParadigm](https://bitbucket.org/travisfw/baseparadigm/) is an open source (GPLv3) library for managing a content addressable binary  semantic graph. Content addressability means enabling a number of dataexchange protocols (including p2p) for a developer using BaseParadigm.
 
-* [BipIO](https://bip.io) is an open source personal content and workflow automation platform.  'Bips' are dynamic named graphs which are cheap to create, can auto-expire, and serve or transform public/private content across multiple protocols.
+* [BipIO](https://github.com/bipio-server) is an open source personal content and workflow automation platform.  'Bips' are dynamic named graphs which are cheap to create, can auto-expire, and serve or transform public/private content across multiple protocols.
 
 * [Beaker Browser](https://beakerbrowser.org) an experimental browser for exploring the p2p web.
 
@@ -144,9 +144,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 * [Firestr](http://github.com/mempko/firestr) is a simple decentralized communication and computation platform. Apps are written in Lua and are pushed to peers where they automatically run and connect. All communication is P2P and encrypted.
 
-* [Folpy](https://bitbucket.org/folpy/folpy/) is a friend-to-friend network, also called a Darknet, a network where you only connect to people you trust. On the network you can exchange files with your friend, message them and participate on the global Forum.
-
-* [FreedomBone](https://github.com/bashrc/freedombone) Designed primarily for the Beaglebone Black, but also capable of running on any system with Debian Jessie installed, the FreedomBone allows you to self-host a variety of useful web services with a reasonable degree of security and privacy.
+* [FreedomBone](https://freedombone.net/) Designed primarily for the Beaglebone Black, but also capable of running on any system with Debian Jessie installed, the FreedomBone allows you to self-host a variety of useful web services with a reasonable degree of security and privacy.
 
 * [Freedom Box](http://freedomboxfoundation.org/) is about privacy, control, ease of use and dehierarchicalization. Inspired by Eben Moglen's vision of a small, cheap and simple computer that serves freedom in the home. We are building a Debian based platform for distributed applications.
 
