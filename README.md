@@ -79,6 +79,8 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 ## Social Networks
 
+* [Aether](https://getaether.net/) Reddit-like communities run on a p2p network that hides your IP. 
+
 * [AKASHA](https://akasha.world) AKASHA is a next-generation social media network immune to censorship by design. It is built on top of Ethereum using Smart Contracts and IPFS.
 
 - [Mastodon](https://joinmastodon.org/) is “the world’s largest free, open-source, decentralized microblogging network.”
