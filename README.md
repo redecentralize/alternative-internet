@@ -77,6 +77,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 * [DAT](https://datproject.org) decentralized file system with live replication
 
+* [Skywire](https://github.com/skycoin/skywire) Meshnet and VPN
 
 ## Social Networks
 
