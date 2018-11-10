@@ -77,7 +77,8 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 * [DAT](https://datproject.org) decentralized file system with live replication
 
-* [Skywire](https://github.com/skycoin/skywire) Meshnet and VPN
+* [Skywire](https://github.com/skycoin/skywire) Skywire is the Skycoin Project's communication primitive (analogous to MPLS, open-flow, TOX, mesh networking, darknet, i2p) that facilitates networking on the legacy internet, along with with various forms of wifi/radio able to reach a high level of decentralization, fully disconnected from traditional internet service providers. [Skywire Overview](https://medium.com/skycoin/skywire-the-new-internet-for-the-new-world-6d09a8542c50) | [skycoin.net](https://skycoin.net/) 
+
 
 ## Social Networks
 
