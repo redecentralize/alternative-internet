@@ -90,6 +90,8 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 * [Scuttlebot](https://github.com/ssbc/scuttlebot) gossip based p2p social media feeds.
 
+* [Manyverse](https://www.manyver.se/) an implementation of scuttlebutt for mobile devices (android) - carry your social network with you, no internet required
+
 ## Uncategorised
 
 * [Aktie](https://github.com/retsamknaps/aktie) A decentralized and anonymous forum and file sharing app for I2P.
