@@ -66,6 +66,8 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 * [Cables communication](http://dee.su/cables) implements secure and anonymous communication using email-like addresses, pioneered in Liberté Linux. Cables communication is Liberté's pivotal component for enabling anyone to communicate safely and covertly in hostile environments.
 * [Mailpile](http://www.mailpile.is/) is free software, a web-mail program that you run on your own computer, so your data stays under your control. Because it is free software (a.k.a. open source), you can look under the hood and see how it works, or even modify it to make it better suit your particular needs. Mailpile is designed for speed and vast amounts of e-mail, it is flexible and themeable and has support for strong encryption built in from the very start.
 * [Matrix](http://matrix.org/) is an open standard for decentralised communication, providing simple HTTP APIs and open source reference implementations for securely distributing and persisting JSON over an open federation of servers. You can use Matrix for any project where you need a common data fabric to link together fragmented silos of communication.
+* [cabal](http://cabal.chat) is a distributed chat platform built ontop of dat's foundational
+technologies. It's like IRC except you have backscroll when you join, and there are no servers. There is currently a [nodejs library](https://github.com/cabal-club/cabal-core), a [terminal client](https://github.com/cabal-club/cabal), a [desktop client](https://github.com/cabal-club/cabal-desktop), and an experimental [mobile client](https://github.com/cabal-club/cabal-mobile).
 
 ## Networking
 
