@@ -88,7 +88,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 - [Mastodon](https://joinmastodon.org/) is “the world’s largest free, open-source, decentralized microblogging network.”
 
-* [Scuttlebot](https://github.com/ssbc/scuttlebot) gossip based p2p social media feeds.
+* [Scuttlebutt](https://www.scuttlebutt.nz) gossip based p2p community social media, chess, book reviews, gatherings, ... (code [here](https://www.github.com/ssbc))
 
 * [Manyverse](https://www.manyver.se/) an implementation of scuttlebutt for mobile devices (android) - carry your social network with you, no internet required
 
