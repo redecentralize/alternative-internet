@@ -139,6 +139,8 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [DAppStore](http://dappstore.dappcentral.com/) is a fully decentralized App store focussing entirely on decentralized software.  Primarily to index DApps like Bitcoin, BitTorrent etc, but also indexes projects relating to DApps, wether that be a documentary, software library or coffee shop that supports a particular DApp.
 
+* [DAOStack](https://daostack.io/) is a is an operating system for collective intelligence and a new form of human association: the DAO. Decentralized Autonomous Organizations are open, self-organized networks coordinated by crypto-economic incentives and self-executing code. We believe that DAOs will impact every territory of life and will jumpstart the evolution of society toward a more cooperative and sustainable future.
+
 * [DNSChain](https://github.com/okTurtles/dnschain) aims to fix web security by Man-in-the-Middle proofing connections. It's a secure, decentralized PKI (public key infrastructure) that makes blockchain tech (like Namecoin, Blockstore, etc.) usable for arbitrary devices.
 
 * [Dendrio](https://www.dendr.io/) is a video distribution network that leverages the peer to peer WebRTC protocol to transfer website content between browsers.  This allows us to make data downloads faster for users but without any installation requirements.  For website owners, we are trivial to set up, and are transparent to existing CDN setups.  Our technology is geared towards streaming video and we support a multitude of different video formats and players.  
