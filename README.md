@@ -137,9 +137,9 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [The Cryptosphere](http://cryptosphere.org/) is a global peer-to-peer cryptosystem for publishing and securely distributing both data and HTML5/JS applications pseudonymously with no central point of failure. It's built on top of the next-generation [Networking and Cryptography (NaCl) library](http://nacl.cr.yp.to/) and the Git data model. [Code](https://github.com/cryptosphere/cryptosphere)
 
-* [DAppStore](http://dappstore.dappcentral.com/) is a fully decentralized App store focussing entirely on decentralized software.  Primarily to index DApps like Bitcoin, BitTorrent etc, but also indexes projects relating to DApps, wether that be a documentary, software library or coffee shop that supports a particular DApp.
-
 * [DAOStack](https://daostack.io/) is a is an operating system for collective intelligence and a new form of human association: the DAO. Decentralized Autonomous Organizations are open, self-organized networks coordinated by crypto-economic incentives and self-executing code. We believe that DAOs will impact every territory of life and will jumpstart the evolution of society toward a more cooperative and sustainable future.
+
+* [DAppStore](http://dappstore.dappcentral.com/) is a fully decentralized App store focussing entirely on decentralized software.  Primarily to index DApps like Bitcoin, BitTorrent etc, but also indexes projects relating to DApps, wether that be a documentary, software library or coffee shop that supports a particular DApp.
 
 * [DNSChain](https://github.com/okTurtles/dnschain) aims to fix web security by Man-in-the-Middle proofing connections. It's a secure, decentralized PKI (public key infrastructure) that makes blockchain tech (like Namecoin, Blockstore, etc.) usable for arbitrary devices.
 
