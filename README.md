@@ -12,7 +12,10 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 - [Networking](#networking)
 - [Social Networks](#social-networks)
 - [Uncategorised](#uncategorised)
-- [Apparently Dead](#apparently-dead)
+
+
+- [Apparently Dead](#apparently-dead) - links don't resolve
+- [Possibly Dead](#possibly-dead) - very little repo activity
 
 ----
 
@@ -463,3 +466,5 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 * [Avatar](http://avatar.ai) is a distributed "operating system for the internet" running inside the web browser. It allows for secure messaging (think email, social networks) and distributed data storage, employing a policy of "privacy and data security by default". Building its own encrypted P2P network, it does not rely upon any central authority. (Appears to be inactive)
 
 * [Cowbox](http://ideelibre.fr/cowbox/index.php/Main_Page) is a hand-held standalone server, broadcasting its own network and containing web applications for coworking.
+
+## Possibly Dead
