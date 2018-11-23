@@ -12,6 +12,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 - [Networking](#networking)
 - [Social Networks](#social-networks)
 - [Uncategorised](#uncategorised)
+- [Apparently Dead](#apparently-dead)
 
 ----
 
@@ -105,8 +106,6 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [Askemos](http://askemos.org) creates an "autonomous virtual execution environment for applications" - designed to be tamper-proof and fault tolerant.  Users share not only static files but dynamic objects too. Code is taken as equivalent to contracts ("smart contracts") and hosts check each others compliance.
 
-* [Avatar](http://avatar.ai) is a distributed "operating system for the internet" running inside the web browser. It allows for secure messaging (think email, social networks) and distributed data storage, employing a policy of "privacy and data security by default". Building its own encrypted P2P network, it does not rely upon any central authority.
-
 * [BaseParadigm](https://bitbucket.org/travisfw/baseparadigm/) is an open source (GPLv3) library for managing a content addressable binary  semantic graph. Content addressability means enabling a number of dataexchange protocols (including p2p) for a developer using BaseParadigm.
 
 * [BipIO](https://github.com/bipio-server) is an open source personal content and workflow automation platform.  'Bips' are dynamic named graphs which are cheap to create, can auto-expire, and serve or transform public/private content across multiple protocols.
@@ -132,8 +131,6 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 * [Commotion Wireless](https://commotionwireless.net) is an open-source communication tool that uses mobile phones, computers, and other wireless devices to create decentralized mesh networks.
 
 * [Corda.net](https://www.corda.net/) is an open source blockchain platform to record, manage and synchronise agreements and transfer value. It was designed for business from the start. It is promoted and supported by the [Cordite Foundation](http://docs.cordite.foundation/en/latest/)
-
-* [Cowbox](http://ideelibre.fr/cowbox/index.php/Main_Page) is a hand-held standalone server, broadcasting its own network and containing web applications for coworking.
 
 * [CryptAByte](https://cryptabyte.com/) CryptAByte.com is a free online drop box that enables secure (encrypted) message and file sharing over the web using a public-key infrastructure. Messages and files are encrypted using a public key and can only be decrypted using the passphrase entered when your key is created. Your data is never stored in plaintext, and is impossible to decrypt without your passphrase.
 
@@ -461,3 +458,8 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [wlan slovenija](http://dev.wlan-si.net/) is developing technologies for easy deployment of community wireless mesh networks. The main idea is that power is in numbers so deployment should be so easy that anybody can do it, that anybody can start a new wireless mesh network and create a new community.
 
+## Apparently Dead 
+
+* [Avatar](http://avatar.ai) is a distributed "operating system for the internet" running inside the web browser. It allows for secure messaging (think email, social networks) and distributed data storage, employing a policy of "privacy and data security by default". Building its own encrypted P2P network, it does not rely upon any central authority. (Appears to be inactive)
+
+* [Cowbox](http://ideelibre.fr/cowbox/index.php/Main_Page) is a hand-held standalone server, broadcasting its own network and containing web applications for coworking.
