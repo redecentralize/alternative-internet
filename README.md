@@ -112,7 +112,6 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [Beaker Browser](https://beakerbrowser.org) an experimental browser for exploring the p2p web.
 
-
 * [BitTorrent Sync](http://www.bittorrent.com/sync) by BitTorrent Labs. Easy and effortless file replication between computers (and mobile devices) without using the cloud, so the only limit is available storage. All data transfers are encrypted. Works on Windows, Linux, OSX, Android and iOS. Recently they've [opened up their API](http://www.bittorrent.com/sync/developers/api) to developers.
 
 * [Bitcloud](http://bitcloudproject.org) is an open source distributed cloud storage system and escrow agent based on Tahoe-LAFS that allows publishers to pay storage nodes for storing encrypted data and sharing that data with others. The decentralized nature of Bitcloud allows anyone to publish large amounts of data in a way that is free from censorship, high costs, and proprietary software.  The first application for bitcloud will be [WeTube](https://github.com/wetube/wetube-web), a platform for viewing and publishing videos, podcasts, ebooks, music, and other forms of media.
@@ -130,6 +129,8 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 * [Coinpunk](http://coinpunk.org/) is a web application that allows anyone to run their own self-hosted Bitcoin wallet service that is accessible from your web browser anywhere in the world. It's free, open source, and you can install it on your server right now.
 
 * [Commotion Wireless](https://commotionwireless.net) is an open-source communication tool that uses mobile phones, computers, and other wireless devices to create decentralized mesh networks.
+
+* [Corda.net](https://www.corda.net/) is an open source blockchain platform to record, manage and synchronise agreements and transfer value. It was designed for business from the start. It is promoted and supported by the [Cordite Foundation](http://docs.cordite.foundation/en/latest/)
 
 * [Cowbox](http://ideelibre.fr/cowbox/index.php/Main_Page) is a hand-held standalone server, broadcasting its own network and containing web applications for coworking.
 
