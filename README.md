@@ -12,8 +12,6 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 - [Networking](#networking)
 - [Social Networks](#social-networks)
 - [Uncategorised](#uncategorised)
-
-
 - [Apparently Dead](#apparently-dead) - links don't resolve
 - [Possibly Dead](#possibly-dead) - very little repo activity
 
