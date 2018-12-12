@@ -14,6 +14,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 - [Uncategorised](#uncategorised)
 - [Apparently Dead](#apparently-dead) - links don't resolve
 - [Possibly Dead](#possibly-dead) - very little repo activity
+- [Totally Dead](#totally-dead) - abandoned, likely insecure, do not use
 
 ----
 
@@ -285,8 +286,6 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [PrivMX WebMail](https://privmx.com) is an alternative private mail system with independent, decentralized PKI and support for end-to-end encrypted web forms.
 
-* [Project Byzantium](http://project-byzantium.org/) - Ad-hoc wireless mesh networking for the zombie apocalypse. The goal of Project Byzantium is to develop a communication system by which users can connect to each other and share information in the absence of convenient access to the Internet.  This is done by setting up an ad-hoc wireless mesh network that offers services which replace popular websites often used for this purpose, such as Twitter and IRC.
-
 * [Project Meshnet](https://projectmeshnet.org/) aims to build a sustainable decentralized alternative internet. Used by [Hyperboria](http://hyperboria.net/) and built on [CJDNS](http://cjdns.info/).
 
 * [Psyced](http://www.psyced.org/) is a scalable multi-protocol multi-casting chat, messaging and social server solution to build decentralized chat networks upon, released as open source.
@@ -466,3 +465,7 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 * [Cowbox](http://ideelibre.fr/cowbox/index.php/Main_Page) is a hand-held standalone server, broadcasting its own network and containing web applications for coworking.
 
 ## Possibly Dead
+
+## Totally Dead
+
+* [Project Byzantium](http://project-byzantium.org/) - Ad-hoc wireless mesh networking for the zombie apocalypse. The goal of Project Byzantium is to develop a communication system by which users can connect to each other and share information in the absence of convenient access to the Internet.  This is done by setting up an ad-hoc wireless mesh network that offers services which replace popular websites often used for this purpose, such as Twitter and IRC.
