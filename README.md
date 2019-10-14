@@ -112,7 +112,7 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [BipIO](https://github.com/bipio-server) is an open source personal content and workflow automation platform.  'Bips' are dynamic named graphs which are cheap to create, can auto-expire, and serve or transform public/private content across multiple protocols.
 
-* [Beaker Browser](https://beakerbrowser.org) an experimental browser for exploring the p2p web.
+* [Beaker Browser](https://beakerbrowser.com/) an experimental browser for exploring the p2p web.
 
 * [BitTorrent Sync](http://www.bittorrent.com/sync) by BitTorrent Labs. Easy and effortless file replication between computers (and mobile devices) without using the cloud, so the only limit is available storage. All data transfers are encrypted. Works on Windows, Linux, OSX, Android and iOS. Recently they've [opened up their API](http://www.bittorrent.com/sync/developers/api) to developers.
 
