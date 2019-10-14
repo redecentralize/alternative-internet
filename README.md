@@ -258,6 +258,8 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [OpenNIC Project](http://www.opennicproject.org/) is an alternative DNS provider that is open and democratic.
 
+* [OrbitDB](https://github.com/orbitdb/orbit-db) is a serverless, distributed, peer-to-peer database. OrbitDB uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers. It's an eventually consistent database that uses CRDTs for conflict-free database merges making OrbitDB an excellent choice for decentralized apps (dApps), blockchain applications and offline-first web applications.
+
 * [Ori](http://ori.scs.stanford.edu/) is a distributed file system built for offline operation and empowers the user with control over synchronization operations and conflict resolution.  It provides history through light weight snapshots and allows users to verify the history has not been tampered with. Through the use of replication instances it is resilient and can recover damaged data from other nodes.
 
 * [Osiris](http://www.osiris-sps.org/) is software for decentralized portal, managed and shared via P2P between members.
