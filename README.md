@@ -128,33 +128,21 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [Bitsquare](https://bitsquare.io) Bitsquare is a decentralized bitcoin exchange. It supports national currencies (fiat) with a variety of payment methods as well as alternative cryptocurrencie
 
-* [Coinpunk](http://coinpunk.org/) is a web application that allows anyone to run their own self-hosted Bitcoin wallet service that is accessible from your web browser anywhere in the world. It's free, open source, and you can install it on your server right now.
-
 * [Commotion Wireless](https://commotionwireless.net) is an open-source communication tool that uses mobile phones, computers, and other wireless devices to create decentralized mesh networks.
 
 * [Corda.net](https://www.corda.net/) is an open source blockchain platform to record, manage and synchronise agreements and transfer value. It was designed for business from the start. It is promoted and supported by the [Cordite Foundation](http://docs.cordite.foundation/en/latest/)
-
-* [CryptAByte](https://cryptabyte.com/) CryptAByte.com is a free online drop box that enables secure (encrypted) message and file sharing over the web using a public-key infrastructure. Messages and files are encrypted using a public key and can only be decrypted using the passphrase entered when your key is created. Your data is never stored in plaintext, and is impossible to decrypt without your passphrase.
 
 * [The Cryptosphere](http://cryptosphere.org/) is a global peer-to-peer cryptosystem for publishing and securely distributing both data and HTML5/JS applications pseudonymously with no central point of failure. It's built on top of the next-generation [Networking and Cryptography (NaCl) library](http://nacl.cr.yp.to/) and the Git data model. [Code](https://github.com/cryptosphere/cryptosphere)
 
 * [DAOStack](https://daostack.io/) is a community merit-based governance system and a new form of human association: the DAO. Decentralized Autonomous Organizations are open, self-organized networks coordinated by crypto-economic incentives and self-executing code. We believe that DAOs will impact every territory of life and will jumpstart the evolution of society toward a more cooperative and sustainable future.
 
-* [DAppStore](http://dappstore.dappcentral.com/) is a fully decentralized App store focussing entirely on decentralized software.  Primarily to index DApps like Bitcoin, BitTorrent etc, but also indexes projects relating to DApps, wether that be a documentary, software library or coffee shop that supports a particular DApp.
-
 * [DNSChain](https://github.com/okTurtles/dnschain) aims to fix web security by Man-in-the-Middle proofing connections. It's a secure, decentralized PKI (public key infrastructure) that makes blockchain tech (like Namecoin, Blockstore, etc.) usable for arbitrary devices.
-
-* [Dendrio](https://www.dendr.io/) is a video distribution network that leverages the peer to peer WebRTC protocol to transfer website content between browsers.  This allows us to make data downloads faster for users but without any installation requirements.  For website owners, we are trivial to set up, and are transparent to existing CDN setups.  Our technology is geared towards streaming video and we support a multitude of different video formats and players.  
 
 * [Diaspora*](http://diasporaproject.org/) is a free social network consisting of personal web server that implements a distributed social networking service. Diaspora* is a fun and creative community that puts you in control.
 
 * The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data store. It's an open, federated and decentralised system where the identity of users and provenance of data is ensured by cryptographically signing digital assets.[Redecentralise Video interview](http://redecentralize.org/#interviews)
 
-* The [Enigmabox](http://wiki.enigmabox.net/) is a ready to use cjdns appliance. cjdns is a public-key crypto network protocol, the fingerprint is your IPv6 address. This means, your IP is your identity. So we can use it for various useful things, e.g. as an email address or a phone number. We will start preparing existing internet services like email or VoIP to use cjdns in this decentral manner. Our goal is to encrypt the entire internet, make crypto accessible and make secure and decentralized internet services available for the rest of us.
-
 * [Ethereum](https://ethereum.org/) is an enhanced cryptocurrency with support for Next-Generation Generalized Smart Contract and Smart Property.
-
-* [Firecloud](http://firecloud.co) is a P2P web publishing platform in your using Persona and WebRTC to work its magic.
 
 * [Firestr](http://github.com/mempko/firestr) is a simple decentralized communication and computation platform. Apps are written in Lua and are pushed to peers where they automatically run and connect. All communication is P2P and encrypted.
 
@@ -170,8 +158,6 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [Funkfeuer](http://funkfeuer.at/) is, just like Freifunk, a non commercial initiative for free wireless mesh networks. Funkfeuer is based in Austria and uses [OpenWRT](http://www.openwrt.net) as the firmware for the Routers.
 
-* [G0Bin](https://github.com/jyap808/g0bin) is a client side encrypted pastebin written in Go. The server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
-
 * [GNU social](https://gnu.org/s/social) is a free software microblogging and privacy-aware social platform that supports OStatus federation, based on [StatusNet](http://status.net/) and Mikael Nordfeldth's Free Social.
 
 * [GNU/consensus](https://gnu.org/consensus) is a GNU project to coordinate development efforts of free software for social networking. It recommends using the [AGPLv3+ license](https://gnu.org/licenses/agpl) and aims to inform free software developers about interesting projects and perspectives for a decentralized, freedom-respecting, and privacy-respecting online social networking environment. The GNU/consensus promotes convergence towards the use of the extensible [GNUnet Social API](https://gnunet.org/design-social-messaging-system).
@@ -183,8 +169,6 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 * [git-bug](https://github.com/MichaelMure/git-bug) is a distributed, offline-first bug tracker embedded in git.
 
 * [GitTorrent](http://gittorrent.org/) is a peer-to-peer network of Git repositories being shared over BitTorrent.
-
-* [Grand Decentral Station](http://decentralize.it) is a concept for a server OS that enables designers and developers to build beautiful and secure self-hosted applications for everyone.
 
 * [Grimwire](http://blog.grimwire.com/#2013-04-04-grimwire.md) is a browser OS which uses Web Workers for process isolation, and WebRTC for peer-to-peer communication.
 
@@ -210,15 +194,11 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [Known](http://withknown.com/) is a simple way to share your story with a variety of media, from any device. Aligned with the indie web movement, Known sites can be installed on your own server, and each one will operate as a node in a global social network, together with other indie web platforms. Known is fully extensible and supports microblogging, photos, articles, events, location check-ins and bookmarks out of the box. It is a responsive web platform that works on anything with a web browser.
 
-* [Lemon.email](https://lemon.email/) is encrypted and decentralized e-mail service. It can be totally decentralized (works as a [dApp](https://ipfs.io/ipns/dapp.lemon.email/)) or it can work as a mail service that uses IPFS/Ethereum as a storage for previously encrypted emails. The way encryption works is that the passphrase that is used to unlock emails is not saved anywhere and therefore nobody cannot read user’s emails. Also, third party email services cannot read or decrypt lemon emails, because only notification about incoming email is sent to those services and user must go to external link to read private email.
-
 * [Libertree](http://libertreeproject.org/) is free, libre, open-source software which is intended to provide a way for people to create their own social network. Libertree social networks can be free from commercial influence and manifestation, such as behaviour tracking, user profiling, advertising, data mining and analysis, and covert information filtering.
 
 * [LibraryBox](http://jasongriffey.net/librarybox/)  is an open source, portable digital file distribution tool based on inexpensive hardware that enables delivery of educational, healthcare, and other vital information to individuals off the grid.
 
 * [LibreVPN](http://librevpn.org.ar) is a virtual mesh network using [tinc](http://tinc-vpn.org) plus configuration scripts that even let you build your own mesh VPN.  It's also IPv6 enabled.
-
-* [Lighthouse](https://www.vinumeris.com/lighthouse) is a peer to peer crowdfunding app that uses Bitcoin.
 
 * [LiteCoin](https://litecoin.org/)  is a peer-to-peer Internet currency that enables instant payments to anyone in the world (was based on Bitcoin)
 
@@ -248,8 +228,6 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [1TY](https://1ty.me/) is "One Time Self Destructing Links For Sharing Sensitive Information"
 
-* [OpenBazaar](https://github.com/OpenBazaar/OpenBazaar) is a decentralized marketplace proof of concept. It is based off of the POC code by the darkmarket team and is now licensed under the MIT license.
-
 * [OpenLibernet](http://www.openlibernet.org/) is a project to create a robust decentralized global mesh communication network that regards security and privacy as a priority and makes internet regulation and censorship impossible. OpenLibernet is built around a robust payment system based on Bitcoin that rewards its users for actively joining, expanding and maintaining the network, and creates a traffic economy with perpetually decreasing prices.
 
 * [OpenNIC Project](http://www.opennicproject.org/) is an alternative DNS provider that is open and democratic.
@@ -278,7 +256,7 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [Phantom](https://code.google.com/p/phantom/) is (was?) a system for generic, decentralized, unstoppable internet anonymity
 
-* [PirateBox](http://daviddarts.com/piratebox/) is a self-contained mobile communication and file sharing device. Simply turn it on to transform any space into a free and open communications and file sharing network.
+* [PirateBox](https://daviddarts.com/piratebox) is a self-contained mobile communication and file sharing device. Simply turn it on to transform any space into a free and open communications and file sharing network.
 
 * [Piwik](http://piwik.org) is the leading open web analytics platform currently used by individuals, companies and governments all over the world. With Piwik, your data will always be yours. Piwik is an alternative to Google Universal Analytics.
 
@@ -291,8 +269,6 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 * [Quick mesh project](http://qmp.cat/) is an openwrt based mesh networking firmware. Can be installed on any openwrt supported system. Auto configures any needed connections, auto detects internet connections and aunounces them. Native IPv6 support with IPv4 tunnels for current networking support.
 
 * [Quietnet](https://github.com/Katee/quietnet) is a simple chat program using near ultrasonic frequencies. It works without Wi-Fi or Bluetooth and cannot be eavesdropped using conventional network capturing methods.
-
-* The [Refuge Project](http://refuge.io/) aims to provide a fully decentralized and opensource data platform. It is built in Erlang and includes [RCouch](https://github.com/refuge/rcouch), a static distribution of couchdb using rebar, and [Coffer](https://github.com/refuge/coffer), a blob server.
 
 * [RenderJS](http://www.renderjs.org) is a JavaScript library which provides an easy way to define gadgets (aka mashups) in pure HTML5, without requiring any application server. It is suitable for the development of mobile applications, desktop applications.
 
@@ -342,8 +318,6 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [SubToMe](http://subtome.com) is a universal follow button. It decouples the publishing platform and the subscribing platform so that it's as easy to follow someone's RSS/Atom feed than it is to follow them on Twitter or Google+!
 
-* [Syme](https://getsyme.com) is an experimental project that aims at bringing more privacy and security to online communication through end-to-end encryption. Syme's zero-knowledge key infrastructure enables persistent multiparty communication and secure key exchanges on minimally trusted servers and relays.
-
 * [SyncNet](http://jack.minardi.org/software/syncnet-a-decentralized-web-browser/) is a decentralized web browser built on top of BitTorrent Sync and (soon) Colored Coins for name resolution. Every time you access a site, you store all of its contents on your machine. The next user to request the site can get the contents from both your machine and the original server. As more people access a page, it becomes available from more machines, reducing the load on the original server.
 
 * [Syncthing](http://syncthing.net/) replaces Dropbox and BitTorrent Sync with something open, trustworthy and decentralized. Your data is your data alone and you deserve to choose where it is stored, if it is shared with some third party and how it's transmitted over the Internet.
@@ -353,8 +327,6 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 * [Synereo](http://www.synereo.com/) is an open source, decentralized **social network**. It is an **attention economy** that rewards popular content and participation with crypto-currency. Content is promoted or advertised in a way that fairly rewards the content's creator and those who choose to engage with that content. An automatic and transparent **reputation economy** assures that you experience content relevant to you. The privacy of your communications and contacts is baked-in to the structure of the network. Synereo is modeled in [π-calculus](https://en.wikipedia.org/wiki/%CE%A0-calculus) and functionally programmed in Scala.
 
 * [Tahoe-LAFS](https://tahoe-lafs.org) is a Free and Open cloud storage system. It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire filesystem continues to function correctly, preserving your privacy and security.
-
-* [Tavern](https://tavern.com/) is a distributed, anonymous, unblockable network designed to ensure that no one is silenced, censored, or cut off from the rest of the world
 
 * [Telehash](http://telehash.org/) a new encrypted P2P JSON-based protocol enabling developers to quickly build apps that are distributed and private (see the [protocol](https://github.com/telehash/telehash.org/blob/master/protocol.md) spec)
 
@@ -476,10 +448,40 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [DeadC](http://deadc.net/) Create a one-click expiring link (NB: Uses Google Analytics...)
 
+* [G0Bin](https://github.com/jyap808/g0bin) is a client side encrypted pastebin written in Go. The server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+
+* [Grand Decentral Station](http://decentralize.it) is a concept for a server OS that enables designers and developers to build beautiful and secure self-hosted applications for everyone.
+
 * [INDX](http://sociam.github.io/indx) is a decentralised Web-based Personal Data Store and app platform from the [SOCIAM](http://sociam.org) EPSRC project in the UK, focused about giving individuals autonomy to effectively consolidate their cloud data into personal databases they control.  The platform is build out of a core of robust open source tools, including Postgres, Twisted, NodeJS, and AngularJS.  The platform is [released under GPLv3 on Github](https://sociam.github.io/indx).
+
+* [OpenBazaar](https://github.com/OpenBazaar/OpenBazaar) is a decentralized marketplace proof of concept. It is based off of the POC code by the darkmarket team and is now licensed under the MIT license.
+
+* [Syme](https://getsyme.com) is an experimental project that aims at bringing more privacy and security to online communication through end-to-end encryption. Syme's zero-knowledge key infrastructure enables persistent multiparty communication and secure key exchanges on minimally trusted servers and relays.
+
+
 
 ## Totally Dead
 
 * [BitPhone](http://www.gullicksonlaboratories.com/projects/bitphone/) is a mobile communications device with the features of a modern smartphone built on top of decentralized BitCoin-style proof-of-work networking.
 
+* [Coinpunk](http://coinpunk.org/) is a web application that allows anyone to run their own self-hosted Bitcoin wallet service that is accessible from your web browser anywhere in the world. It's free, open source, and you can install it on your server right now.
+
+* [CryptAByte](https://cryptabyte.com/) CryptAByte.com is a free online drop box that enables secure (encrypted) message and file sharing over the web using a public-key infrastructure. Messages and files are encrypted using a public key and can only be decrypted using the passphrase entered when your key is created. Your data is never stored in plaintext, and is impossible to decrypt without your passphrase.
+
+* [DAppStore](http://dappstore.dappcentral.com/) is a fully decentralized App store focussing entirely on decentralized software.  Primarily to index DApps like Bitcoin, BitTorrent etc, but also indexes projects relating to DApps, wether that be a documentary, software library or coffee shop that supports a particular DApp.
+
+* [Dendrio](https://www.dendr.io/) is a video distribution network that leverages the peer to peer WebRTC protocol to transfer website content between browsers.  This allows us to make data downloads faster for users but without any installation requirements.  For website owners, we are trivial to set up, and are transparent to existing CDN setups.  Our technology is geared towards streaming video and we support a multitude of different video formats and players.  
+
+* The [Enigmabox](http://wiki.enigmabox.net/) is a ready to use cjdns appliance. cjdns is a public-key crypto network protocol, the fingerprint is your IPv6 address. This means, your IP is your identity. So we can use it for various useful things, e.g. as an email address or a phone number. We will start preparing existing internet services like email or VoIP to use cjdns in this decentral manner. Our goal is to encrypt the entire internet, make crypto accessible and make secure and decentralized internet services available for the rest of us.
+
+* [Firecloud](http://firecloud.co) is a P2P web publishing platform in your using Persona and WebRTC to work its magic.
+
+* [Lemon.email](https://lemon.email/) is encrypted and decentralized e-mail service. It can be totally decentralized (works as a [dApp](https://ipfs.io/ipns/dapp.lemon.email/)) or it can work as a mail service that uses IPFS/Ethereum as a storage for previously encrypted emails. The way encryption works is that the passphrase that is used to unlock emails is not saved anywhere and therefore nobody cannot read user’s emails. Also, third party email services cannot read or decrypt lemon emails, because only notification about incoming email is sent to those services and user must go to external link to read private email.
+
+* [Lighthouse](https://www.vinumeris.com/lighthouse) is a peer to peer crowdfunding app that uses Bitcoin.
+
 * [Project Byzantium](http://project-byzantium.org/) - Ad-hoc wireless mesh networking for the zombie apocalypse. The goal of Project Byzantium is to develop a communication system by which users can connect to each other and share information in the absence of convenient access to the Internet.  This is done by setting up an ad-hoc wireless mesh network that offers services which replace popular websites often used for this purpose, such as Twitter and IRC.
+
+* The [Refuge Project](http://refuge.io/) aims to provide a fully decentralized and opensource data platform. It is built in Erlang and includes [RCouch](https://github.com/refuge/rcouch), a static distribution of couchdb using rebar, and [Coffer](https://github.com/refuge/coffer), a blob server.
+
+* [Tavern](https://tavern.com/) is a distributed, anonymous, unblockable network designed to ensure that no one is silenced, censored, or cut off from the rest of the world
