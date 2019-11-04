@@ -182,6 +182,8 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [GUN](https://github.com/amark/gun) is an open source, real-time, fully decentralized,  offline-first, graph database that is also simple to setup and use for web development.
 
+* [git-bug](https://github.com/MichaelMure/git-bug) is a distributed, offline-first bug tracker embedded in git.
+
 * [GitTorrent](http://gittorrent.org/) is a peer-to-peer network of Git repositories being shared over BitTorrent.
 
 * [Grand Decentral Station](http://decentralize.it) is a concept for a server OS that enables designers and developers to build beautiful and secure self-hosted applications for everyone.
