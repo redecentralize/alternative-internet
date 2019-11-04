@@ -80,6 +80,8 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [LibreMesh](https://libremesh.org/) includes the development of several tools used for deploying libre/free mesh networks. The firmware (the main piece) allows simple deployment of auto-configurable, yet versatile, multi-radio mesh networks.
 
+* [Loki net](https://loki.network/) is a privacy network which will allow users to transact and communicate privately over the internet, providing a suite of tools to help maintain the maximum amount of anonymity possible while browsing, transacting and communicating online.
+
 * [OpenDHT](https://github.com/savoirfairelinux/opendht) is a lightweight C++11 Distributed Hash Table implementation offering a clean and powerful distributed map API. It is used by [Ring](https://ring.cx), is able to listen to value changes and adds a cryptography layer.
 
 * [ZeroNet](https://zeronet.io) enabled decentralized websites using Bitcoin crypto and the BitTorrent network
