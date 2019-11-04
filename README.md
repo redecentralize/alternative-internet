@@ -60,6 +60,8 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 - [D.Tube](https://about.d.tube/) is the first crypto-decentralized video platform, built on top of the STEEM Blockchain and the IPFS peer-to-peer network."
 
+- [Funkwhale](https://funkwhale.audio/) is a community-driven project that lets you listen and share music and audio within a decentralised, open network.
+
 
 ## Messaging
 
