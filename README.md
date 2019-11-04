@@ -194,8 +194,6 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [I2P](http://www.i2p2.de/) is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.
 
-* [INDX](http://sociam.github.io/indx) is a decentralised Web-based Personal Data Store and app platform from the [SOCIAM](http://sociam.org) EPSRC project in the UK, focused about giving individuals autonomy to effectively consolidate their cloud data into personal databases they control.  The platform is build out of a core of robust open source tools, including Postgres, Twisted, NodeJS, and AngularJS.  The platform is [released under GPLv3 on Github](https://sociam.github.io/indx).
-
 * [IPFS](https://ipfs.io) is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open. IPFS is an open source project developed by the team at Interplanetary Networks and many contributors from the open source community.
 
 * [IPOP (IP-over-P2P)](http://ipop-project.org/) is an open-source user-centric software virtual network allowing end users to define and create their own virtual private networks.
@@ -243,10 +241,6 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 * [NameCoin](http://namecoin.info/) is a decentralized naming system based on Bitcoin technology.
 
 * [Netsukuku](http://netsukuku.freaknet.org) is an ad-hoc network system designed to handle massive numbers of nodes with minimal consumption of CPU and memory resources. It can be used to build a world-wide distributed, fault-tolerant, anonymous, and censorship-immune network, fully independent from the Internet.
-
-* [Nightweb](https://nightweb.net/) connects your Android device or PC to an anonymous, peer-to-peer social network. You can write posts and share photos, and your followers will retrieve them using BitTorrent running over the I2P anonymous network. It is still experimental.
-
-* [Nymote](http://nymote.org) is a set of tools and software infrastructure, created from the ground up, to provide end-users with life-long control of their networks and personal data. It starts with fundamental infrastructure to solve the problems around operating systems for the future, identity for users and devices and data-persistence across those devices. Think of it as the toolstack to recapture the original vision of a resilient, decentralised Internet.
 
 * [OTRTalk](https://github.com/mnaamani/otrtalk) Is a command line based chat application, uses BitTorrent P2P DHT Network for peer discovery and OTR (Off the Record) for secure messaging.
 
@@ -362,7 +356,7 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [Tent](https://tent.io/) is a protocol that puts users back in control. Users should control the data they create, choose who can access it, and change service providers without losing their social graph.Tent is a protocol, not a platform. Like email, anyone can build Tent apps or host Tent servers, all Tent servers can talk to each other, and there is no central authority to restrict users or developers.
 
-* [Thali](http://thali.codeplex.com) is an open source personal data store that syncs across one or more of your devices, and (selectively, via one or more apps) to one or more more trusted peers. Data store: Couchbase Lite (open source, NoSQL, multi-master sync). Trust model: public key exchange, mutual SSL authentication. Network transport: HTTPS. P2P mechanisms: local/ad-hoc, or Tor (using hidden services).
+* [Thali](http://thaliproject.org/) is an open source personal data store that syncs across one or more of your devices, and (selectively, via one or more apps) to one or more more trusted peers. Data store: Couchbase Lite (open source, NoSQL, multi-master sync). Trust model: public key exchange, mutual SSL authentication. Network transport: HTTPS. P2P mechanisms: local/ad-hoc, or Tor (using hidden services).
 
 * [The FNF](http://thefnf.org/) is the free network foundation: teaching how to build wireless community networks.
 
@@ -464,7 +458,13 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [Cowbox](http://ideelibre.fr/cowbox/index.php/Main_Page) is a hand-held standalone server, broadcasting its own network and containing web applications for coworking.
 
+* [Nymote](http://nymote.org) is a set of tools and software infrastructure, created from the ground up, to provide end-users with life-long control of their networks and personal data. It starts with fundamental infrastructure to solve the problems around operating systems for the future, identity for users and devices and data-persistence across those devices. Think of it as the toolstack to recapture the original vision of a resilient, decentralised Internet.
+
+* [Nightweb](https://nightweb.net/) connects your Android device or PC to an anonymous, peer-to-peer social network. You can write posts and share photos, and your followers will retrieve them using BitTorrent running over the I2P anonymous network. It is still experimental.
+
 ## Possibly Dead
+
+* [INDX](http://sociam.github.io/indx) is a decentralised Web-based Personal Data Store and app platform from the [SOCIAM](http://sociam.org) EPSRC project in the UK, focused about giving individuals autonomy to effectively consolidate their cloud data into personal databases they control.  The platform is build out of a core of robust open source tools, including Postgres, Twisted, NodeJS, and AngularJS.  The platform is [released under GPLv3 on Github](https://sociam.github.io/indx).
 
 ## Totally Dead
 
