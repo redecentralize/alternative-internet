@@ -60,6 +60,8 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 - [Bittubers](https://bittubers.com/about) - is a brand new social network for content creators and streamers. Developed by [BitTube](https://bit.tube/), BitTubers emphasizes free speech, fairness and unrestricted monetization across the board. This platform is the successor to bit.tube, launched in mid 2018, building upon its original peer-to-peer fundamentals with greatly improved monetization options, discoverability, interactivity and engagement features.
 
+- [Cactus]
+
 - [D.Tube](https://about.d.tube/) is the first crypto-decentralized video platform, built on top of the STEEM Blockchain and the IPFS peer-to-peer network."
 
 - [Funkwhale](https://funkwhale.audio/) is a community-driven project that lets you listen and share music and audio within a decentralised, open network.
@@ -467,6 +469,8 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 ## Apparently Dead 
 
 * [Avatar](http://avatar.ai) is a distributed "operating system for the internet" running inside the web browser. It allows for secure messaging (think email, social networks) and distributed data storage, employing a policy of "privacy and data security by default". Building its own encrypted P2P network, it does not rely upon any central authority. (Appears to be inactive)
+
+* [Cactus player](https://bitbucket.org/cactusplayer/cactusplayer/src/master/) Decentralized P2P Music Player - main site has gone, but linking to source in case someone wants to know how it worked.
 
 * [Cowbox](http://ideelibre.fr/cowbox/index.php/Main_Page) is a hand-held standalone server, broadcasting its own network and containing web applications for coworking.
 
