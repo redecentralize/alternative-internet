@@ -84,6 +84,8 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [OpenDHT](https://github.com/savoirfairelinux/opendht) is a lightweight C++11 Distributed Hash Table implementation offering a clean and powerful distributed map API. It is used by [Ring](https://ring.cx), is able to listen to value changes and adds a cryptography layer.
 
+* [PJON](https://www.pjon.org/) is an open-source network protocol able to connect devices using most physical layers and media, such as wires (PJDL, Ethernet, Serial and RS485), radio (ASK, FSK, OOK, LoRa or WiFi) and light pulses (PJDLS). It is released in a single portable implementation that can be easily cross-compiled on many systems like ATtiny, ATmega, ESP8266, Teensy, Raspberry Pi, Windows X86, Apple and Android. It is a valid tool to quickly build a network of devices.
+
 * [ZeroNet](https://zeronet.io) enabled decentralized websites using Bitcoin crypto and the BitTorrent network
 
 * [DAT](https://datproject.org) decentralized file system with live replication
