@@ -52,7 +52,6 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 ## General
 
 - [Books](http://en.wikipedia.org/wiki/Books) are a stable, production tested communication protocol suitable for a wide range of information services.
-- [DeadC](http://deadc.net/) Create a one-click expiring link
 - [Fermat.org](http://fermat.org/) is an framework for developing Internet of People apps.
 
 ## Hosting and media
@@ -67,7 +66,6 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 * [aenigma](https://github.com/openspace42/aenigma/): the | state-of-the-art | secure-by-default | one-touch-deployed | XMPP server for everyone. It does for XMPP what Mail-in-a-Box has done for email, Streisand for VPNs, and Easyengine for wordpress.
 The installation takes you on a 15 minute, clearly worded, step-by-step setup and takes care of everything automagically.
 * [BitMessage](https://bitmessage.org/wiki/Main_Page) is a P2P communications protocol used to send encrypted messages to another person or to many subscribers. It is decentralized and trustless, meaning that you need-not inherently trust any entities like root certificate authorities. See [whitepaper](https://bitmessage.org/bitmessage.pdf).
-* [BitPhone](http://www.gullicksonlaboratories.com/projects/bitphone/) is a mobile communications device with the features of a modern smartphone built on top of decentralized BitCoin-style proof-of-work networking.
 * The [BriarProject](http://briar.sourceforge.net/) is building secure communication tools to enable journalists, activists and civil society groups to communicate safely without fear of government interference. Our open source mobile and desktop apps will provide a secure, easy-to-use alternative to email, blogs and message boards, where users can exchange private messages with their contacts, create their own blogs and message boards, and subscribe to blogs and boards their contacts have shared
 * [Cables communication](http://dee.su/cables) implements secure and anonymous communication using email-like addresses, pioneered in Liberté Linux. Cables communication is Liberté's pivotal component for enabling anyone to communicate safely and covertly in hostile environments.
 * [Mailpile](http://www.mailpile.is/) is free software, a web-mail program that you run on your own computer, so your data stays under your control. Because it is free software (a.k.a. open source), you can look under the hood and see how it works, or even modify it to make it better suit your particular needs. Mailpile is designed for speed and vast amounts of e-mail, it is flexible and themeable and has support for strong encryption built in from the very start.
@@ -470,8 +468,12 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 ## Possibly Dead
 
+* [DeadC](http://deadc.net/) Create a one-click expiring link (NB: Uses Google Analytics...)
+
 * [INDX](http://sociam.github.io/indx) is a decentralised Web-based Personal Data Store and app platform from the [SOCIAM](http://sociam.org) EPSRC project in the UK, focused about giving individuals autonomy to effectively consolidate their cloud data into personal databases they control.  The platform is build out of a core of robust open source tools, including Postgres, Twisted, NodeJS, and AngularJS.  The platform is [released under GPLv3 on Github](https://sociam.github.io/indx).
 
 ## Totally Dead
+
+* [BitPhone](http://www.gullicksonlaboratories.com/projects/bitphone/) is a mobile communications device with the features of a modern smartphone built on top of decentralized BitCoin-style proof-of-work networking.
 
 * [Project Byzantium](http://project-byzantium.org/) - Ad-hoc wireless mesh networking for the zombie apocalypse. The goal of Project Byzantium is to develop a communication system by which users can connect to each other and share information in the absence of convenient access to the Internet.  This is done by setting up an ad-hoc wireless mesh network that offers services which replace popular websites often used for this purpose, such as Twitter and IRC.
