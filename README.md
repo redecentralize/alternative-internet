@@ -100,6 +100,8 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [Manyverse](https://www.manyver.se/) an implementation of scuttlebutt for mobile devices (android) - carry your social network with you, no internet required
 
+* [Iris](https://iris.to/) is a social networking application that stores everything on its users' devices which communicate directly with each other — no corporate gatekeepers needed.
+
 ## Uncategorised
 
 * [Aktie](https://github.com/retsamknaps/aktie) A decentralized and anonymous forum and file sharing app for I2P.
