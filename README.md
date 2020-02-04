@@ -171,6 +171,8 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [git-bug](https://github.com/MichaelMure/git-bug) is a distributed, offline-first bug tracker embedded in git.
 
+* [git-dit](https://github.com/neithernut/git-dit) git-dit - the distributed issue tracker for git.
+
 * [GitTorrent](http://gittorrent.org/) is a peer-to-peer network of Git repositories being shared over BitTorrent.
 
 * [Grimwire](http://blog.grimwire.com/#2013-04-04-grimwire.md) is a browser OS which uses Web Workers for process isolation, and WebRTC for peer-to-peer communication.
