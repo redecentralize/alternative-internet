@@ -47,7 +47,6 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 ## General
 
 * [Books](http://en.wikipedia.org/wiki/Books) are a stable, production tested communication protocol suitable for a wide range of information services.
-* [Fermat.org](http://fermat.org/) is an framework for developing Internet of People apps.
 * [Solidproject.org](https://solidproject.org/) Solid is a project lead by Tim Berners Lee that aims to re-decentralized the web. Solid (derived from "social linked data") is a proposed set of conventions and tools for building decentralized Web applications based on Linked Data principles. Solid is modular and extensible. It relies as much as possible on existing W3C standards and protocols. You can find more information also at [Inrupt](https://inrupt.com/solid) and [Solid MIT](https://solid.mit.edu/) webpages
 
 ## Hosting and media
@@ -446,6 +445,8 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [Cowbox](http://ideelibre.fr/cowbox/index.php/Main_Page) is a hand-held standalone server, broadcasting its own network and containing web applications for coworking.
 
+* [Fermat.org](http://fermat.org/) is an framework for developing Internet of People apps.
+
 * [Nymote](http://nymote.org) is a set of tools and software infrastructure, created from the ground up, to provide end-users with life-long control of their networks and personal data. It starts with fundamental infrastructure to solve the problems around operating systems for the future, identity for users and devices and data-persistence across those devices. Think of it as the toolstack to recapture the original vision of a resilient, decentralised Internet.
 
 * [Nightweb](https://nightweb.net/) connects your Android device or PC to an anonymous, peer-to-peer social network. You can write posts and share photos, and your followers will retrieve them using BitTorrent running over the I2P anonymous network. It is still experimental.
@@ -463,6 +464,7 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 * [OpenBazaar](https://github.com/OpenBazaar/OpenBazaar) is a decentralized marketplace proof of concept. It is based off of the POC code by the darkmarket team and is now licensed under the MIT license.
 
 * [Syme](https://getsyme.com) is an experimental project that aims at bringing more privacy and security to online communication through end-to-end encryption. Syme's zero-knowledge key infrastructure enables persistent multiparty communication and secure key exchanges on minimally trusted servers and relays.
+
 
 
 
