@@ -108,6 +108,8 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [Iris](https://iris.to/) is a social networking application that stores everything on its users' devices which communicate directly with each other — no corporate gatekeepers needed.
 
+* [Twt.social](https://twt.social) 📕 is a Self-Hosted, Twitter™-like Decentralised microBlogging platform. No ads, no tracking, your content, your data! (Web and Mobile0 ([twtxt.net](https://twtxt.net)) `Go` `MIT`
+
 ## Uncategorised
 
 * [Aktie](https://github.com/retsamknaps/aktie) A decentralized and anonymous forum and file sharing app for I2P.
