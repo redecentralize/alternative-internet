@@ -100,15 +100,18 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [AKASHA](https://akasha.world) AKASHA is a next-generation social media network immune to censorship by design. It is built on top of Ethereum using Smart Contracts and IPFS.
 
-- [Mastodon](https://joinmastodon.org/) is “the world’s largest free, open-source, decentralized microblogging network.”
+* [Mastodon](https://joinmastodon.org/) is “the world’s largest free, open-source, decentralized microblogging network.”
 
 * [Scuttlebutt](https://www.scuttlebutt.nz) gossip based p2p community social media, chess, book reviews, gatherings, ... (code [here](https://www.github.com/ssbc))
 
 * [Manyverse](https://www.manyver.se/) an implementation of scuttlebutt for mobile devices (android) - carry your social network with you, no internet required
 
+* [Mobilizon](https://joinmobilizon.org/) is a federated tool that helps you find, create and organise events.
+
 * [Iris](https://iris.to/) is a social networking application that stores everything on its users' devices which communicate directly with each other — no corporate gatekeepers needed.
 
 * [Twt.social](https://twt.social) 📕 is a Self-Hosted, Twitter™-like Decentralised microBlogging platform. No ads, no tracking, your content, your data! Web and Mobile [twtxt.net](https://twtxt.net) `Go` `MIT`
+
 
 ## Uncategorised
 
