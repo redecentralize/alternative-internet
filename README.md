@@ -112,7 +112,6 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [Twt.social](https://twt.social) 📕 is a Self-Hosted, Twitter™-like Decentralised microBlogging platform. No ads, no tracking, your content, your data! Web and Mobile [twtxt.net](https://twtxt.net) `Go` `MIT`
 
-
 ## Uncategorised
 
 * [Aktie](https://github.com/retsamknaps/aktie) A decentralized and anonymous forum and file sharing app for I2P.
