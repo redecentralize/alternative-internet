@@ -101,6 +101,9 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [Pleroma](https://pleroma.social) is a free, federated social networking server built on open protocols. It is compatible with [GNU Social](https://gnu.io/social/), [Mastodon](https://joinmastodon.org/), and many other ActivityPub implementations.
 
+* [GNU/consensus](https://gnu.org/consensus) is a GNU project to coordinate development efforts of free software for social networking. It recommends using the [AGPLv3+ license](https://gnu.org/licenses/agpl) and aims to inform free software developers about interesting projects and perspectives for a decentralized, freedom-respecting, and privacy-respecting online social networking environment. The GNU/consensus promotes convergence towards the use of the extensible [GNUnet Social API](https://gnunet.org/design-social-messaging-system).
+
+
 * [Scuttlebutt](https://www.scuttlebutt.nz) gossip based p2p community social media, chess, book reviews, gatherings, ... (code [here](https://www.github.com/ssbc))
 
 * [Manyverse](https://www.manyver.se/) an implementation of scuttlebutt for mobile devices (android) - carry your social network with you, no internet required
@@ -168,10 +171,6 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 * [Friendica](https://github.com/friendica/friendica) is a decentralised network which focuses on federation of social networking sites and projects into a common stream.
 
 * [Funkfeuer](http://funkfeuer.at/) is, just like Freifunk, a non commercial initiative for free wireless mesh networks. Funkfeuer is based in Austria and uses [OpenWRT](http://www.openwrt.net) as the firmware for the Routers.
-
-* [GNU social](https://gnu.org/s/social) is a free software microblogging and privacy-aware social platform that supports OStatus federation, based on [StatusNet](http://status.net/) and Mikael Nordfeldth's Free Social.
-
-* [GNU/consensus](https://gnu.org/consensus) is a GNU project to coordinate development efforts of free software for social networking. It recommends using the [AGPLv3+ license](https://gnu.org/licenses/agpl) and aims to inform free software developers about interesting projects and perspectives for a decentralized, freedom-respecting, and privacy-respecting online social networking environment. The GNU/consensus promotes convergence towards the use of the extensible [GNUnet Social API](https://gnunet.org/design-social-messaging-system).
 
 * [GNUnet](https://gnunet.org/) is GNU's framework for secure peer-to-peer networking that does not use any centralized or otherwise trusted services.
 
