@@ -97,6 +97,10 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 * [Mastodon](https://joinmastodon.org/) is “the world’s largest free, open-source, decentralized microblogging network.”
 
+* [GNU social](https://gnu.io/social/) is a continuation of the StatusNet project. It is social communication software for both public and private communications. It is widely supported and has a large userbase. It is already used by the Free Software Foundation.
+
+* [Pleroma](https://pleroma.social) is a free, federated social networking server built on open protocols. It is compatible with [GNU Social](https://gnu.io/social/), [Mastodon](https://joinmastodon.org/), and many other ActivityPub implementations.
+
 * [Scuttlebutt](https://www.scuttlebutt.nz) gossip based p2p community social media, chess, book reviews, gatherings, ... (code [here](https://www.github.com/ssbc))
 
 * [Manyverse](https://www.manyver.se/) an implementation of scuttlebutt for mobile devices (android) - carry your social network with you, no internet required
