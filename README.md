@@ -4,13 +4,16 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 
 
-- [Cloud](#cloud)
+- [Cloud and Storage](#cloud-and-storage)
 - [Collaborative web editors](#collaborative-web-editors)
+- [Cryptocurrencies and markets](#cryptocurrencies-and-markets)
+- [Developer tools and frameworks](#developer-tools-and-frameworks)
 - [General](#general)
 - [Hosting and media](#hosting-and-media)
 - [Messaging](#messaging)
 - [Networking](#networking)
 - [Social Networks](#social-networks)
+- [Telephony](#telephony)
 - [Uncategorised](#uncategorised)
 - [Apparently Dead](#apparently-dead) - links don't resolve
 - [Possibly Dead](#possibly-dead) - very little repo activity
