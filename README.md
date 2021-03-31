@@ -10,6 +10,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 - [Developer tools and frameworks](#developer-tools-and-frameworks)
 - [General](#general)
 - [Hosting and media](#hosting-and-media)
+- [Identity](#identity)
 - [Messaging](#messaging)
 - [Networking](#networking)
 - [Social Networks](#social-networks)
@@ -87,6 +88,10 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 * [Funkwhale](https://funkwhale.audio/) is a community-driven project that lets you listen and share music and audio within a decentralised, open network.
 * [Peertube](https://joinpeertube.org/) is a distributed and self-hosted video player and platform that uses WebTorrent and ActivityPub.
 * [YunoHost](https://doc.yunohost.org) is a server operating system aiming to make self-hosting accessible to everyone.
+
+## Identity
+
+* [Affinidi](https://www.affinidi.com) provides building blocks to create portable, interoperable, decentralized identity and verifiable claims and credentials
 
 ## Messaging
 
