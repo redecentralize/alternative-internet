@@ -88,6 +88,8 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 * [Funkwhale](https://funkwhale.audio/) is a community-driven project that lets you listen and share music and audio within a decentralised, open network.
 * [Peertube](https://joinpeertube.org/) is a distributed and self-hosted video player and platform that uses WebTorrent and ActivityPub.
 * [YunoHost](https://doc.yunohost.org) is a server operating system aiming to make self-hosting accessible to everyone.
+* [Gemini Space](https://gemini.circumlunar.space/) is heavier than gopher, lighter than the web, will not replace either, strives for maximum power to weight ratio and takes user privacy very seriously. More [Resources / Awsome Gemini](https://github.com/kr1sp1n/awesome-gemini)
+
 
 ## Identity
 
