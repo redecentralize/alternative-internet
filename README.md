@@ -159,6 +159,8 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 * [Twister](http://twister.net.co) is a secure and fully-decentralized P2P microblogging platform based on concepts and code from Bitcoin and Libtorrent (as described in [this whitepaper](http://arxiv.org/abs/1312.7152)). Feel free to contribute to its [core service](https://github.com/miguelfreitas/twister-core) or [HTML UI](https://github.com/miguelfreitas/twister-html)!
 * [Twt.social](https://twt.social) 📕 is a Self-Hosted, Twitter™-like Decentralised microBlogging platform. No ads, no tracking, your content, your data! Web and Mobile [twtxt.net](https://twtxt.net) `Go` `MIT`
 * [Vole](http://vole.cc/) is a web-based social network that you use in your browser, without a central server. It's built on the power of Bittorrent, Go and Ember.js. Uses bittorrent sync.
+* [FoxQL](https://foxql.com) FoxQL is a social network that runs on your browser as peer to peer. It does not require any setup or registration.
+There is no magement stuff for checking the content. Users can decide which topics and content will stay in foxql cycle. [foxql-core](https://github.com/foxql/foxql)
 
 ## Telephony
 
