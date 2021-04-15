@@ -142,6 +142,8 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 * [AKASHA](https://akasha.world) AKASHA is a next-generation social media network immune to censorship by design. It is built on top of Ethereum using Smart Contracts and IPFS.
 * [Buddycloud](http://buddycloud.com) is built for people who care about their privacy. We are building the future of social networks. A future founded on openness. A future built using open standards. We are making the future happen now, by building a massively scaled and fully distributed social network. Buddycloud is leading a quiet revolution to replace the closed retweet and like incumbents.
 * [Diaspora*](http://diasporaproject.org/) is a free social network consisting of personal web server that implements a distributed social networking service. Diaspora* is a fun and creative community that puts you in control.
+* [FoxQL](https://foxql.com) is a social network that runs on your browser as peer to peer. It does not require any setup or registration.
+There is no management stuff for checking the content. Users can decide which topics and content will stay in foxql cycle. [foxql-core](https://github.com/foxql/foxql)
 * [GNU social](https://gnu.io/social/, previously StatusNet) is a continuation of the StatusNet project. It is social communication software for both public and private communications. It is widely supported and has a large userbase. It is already used by the Free Software Foundation.
 * [GNU/consensus](https://gnu.org/consensus) is a GNU project to coordinate development efforts of free software for social networking. It recommends using the [AGPLv3+ license](https://gnu.org/licenses/agpl) and aims to inform free software developers about interesting projects and perspectives for a decentralized, freedom-respecting, and privacy-respecting online social networking environment. The GNU/consensus promotes convergence towards the use of the extensible [GNUnet Social API](https://gnunet.org/design-social-messaging-system).
 * [Iris](https://iris.to/) is a social networking application that stores everything on its users' devices which communicate directly with each other — no corporate gatekeepers needed.
@@ -159,8 +161,6 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 * [Twister](http://twister.net.co) is a secure and fully-decentralized P2P microblogging platform based on concepts and code from Bitcoin and Libtorrent (as described in [this whitepaper](http://arxiv.org/abs/1312.7152)). Feel free to contribute to its [core service](https://github.com/miguelfreitas/twister-core) or [HTML UI](https://github.com/miguelfreitas/twister-html)!
 * [Twt.social](https://twt.social) 📕 is a Self-Hosted, Twitter™-like Decentralised microBlogging platform. No ads, no tracking, your content, your data! Web and Mobile [twtxt.net](https://twtxt.net) `Go` `MIT`
 * [Vole](http://vole.cc/) is a web-based social network that you use in your browser, without a central server. It's built on the power of Bittorrent, Go and Ember.js. Uses bittorrent sync.
-* [FoxQL](https://foxql.com) is a social network that runs on your browser as peer to peer. It does not require any setup or registration.
-There is no magement stuff for checking the content. Users can decide which topics and content will stay in foxql cycle. [foxql-core](https://github.com/foxql/foxql)
 
 ## Telephony
 
