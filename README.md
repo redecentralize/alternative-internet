@@ -116,7 +116,7 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 * [Scramble](https://dcposch.github.io/scramble/) is easy-to-use, open source encrypted email. Scramble server has no knowledge of the message contents, since encryption is always performed end-to-end on the clients. Public keys are verified using a fedetared trust model based on multiple independent notaries.
 * [Starkit](http://www.starkitsystems.com/) is a private cloud plug-n-play secure email server for private communication allowing you the benefits of secure email as soon as you turn it on. Bundled with Web-based interface for anywhere access. Apart from a Secure Mail Server You can use Starkit as your Secure Private Cloud storage to save important documents, photos and videos and access your stuff from anywhere. Requires zero maintenance.
 * [STEED](http://g10code.com/steed.html) is a protocol for opportunistic email encryption, featuring automatic key generation and distribution.
-* [Tox](https://github.com/irungentoo/ProjectTox-Core#why-are-you-doing-this-there-are-already-a-bunch-of-free-skype-alternatives)  The goal of this project is to create a configuration free p2p skype replacement.
+* [Tox](https://tox.chat)  The goal of this project is to create a configuration free p2p skype replacement.
 
 ## Networking
 
