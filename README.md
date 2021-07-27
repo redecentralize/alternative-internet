@@ -90,11 +90,6 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 * [YunoHost](https://doc.yunohost.org) is a server operating system aiming to make self-hosting accessible to everyone.
 * [Gemini Space](https://gemini.circumlunar.space/) is heavier than gopher, lighter than the web, will not replace either, strives for maximum power to weight ratio and takes user privacy very seriously. More [Resources / Awsome Gemini](https://github.com/kr1sp1n/awesome-gemini)
 
-
-## Identity
-
-* [Affinidi](https://www.affinidi.com) provides building blocks to create portable, interoperable, decentralized identity and verifiable claims and credentials
-
 ## Messaging
 
 * [aenigma](https://github.com/openspace42/aenigma/): the | state-of-the-art | secure-by-default | one-touch-deployed | XMPP server for everyone. It does for XMPP what Mail-in-a-Box has done for email, Streisand for VPNs, and Easyengine for wordpress.
