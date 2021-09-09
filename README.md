@@ -13,6 +13,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 - [Identity](#identity)
 - [Messaging](#messaging)
 - [Networking](#networking)
+- [Search Engines](#search-engines)
 - [Social Networks](#social-networks)
 - [Telephony](#telephony)
 - [Uncategorised](#uncategorised)
@@ -61,6 +62,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 * [Bitmarkets](https://github.com/voluntarynet/bitmarkets) a working decentralized marketplace based on bitcoinj and bitmessage.
 * [Bitsquare](https://bitsquare.io) Bitsquare is a decentralized bitcoin exchange. It supports national currencies (fiat) with a variety of payment methods as well as alternative cryptocurrencie
 * [Ethereum](https://ethereum.org/) is an enhanced cryptocurrency with support for Next-Generation Generalized Smart Contract and Smart Property.
+* [LiteCoin](https://litecoin.org/)  is a peer-to-peer Internet currency that enables instant payments to anyone in the world (was based on Bitcoin)
 * [PeerCoin/PPCoin](http://ppcoin.org/) is the first known cryptocurrency based on an implementation of a combined proof-of-stake/proof-of-work system
 
 ## Developer tools and frameworks
@@ -78,7 +80,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 * [Books](http://en.wikipedia.org/wiki/Books) are a stable, production tested communication protocol suitable for a wide range of information services.
 * The [Internet of People](https://developer.iop.technology/) community is developing the IoP Stack™ for gatekeeper-free decentralized identity (DID), verifiable claims and a P2P communication and storage network independent of a single underlay network.
-* [Solidproject.org](https://solidproject.org/) Solid is a project lead by Tim Berners Lee that aims to re-decentralized the web. Solid (derived from "social linked data") is a proposed set of conventions and tools for building decentralized Web applications based on Linked Data principles. Solid is modular and extensible. It relies as much as possible on existing W3C standards and protocols. You can find more information also at [Inrupt](https://inrupt.com/solid) and [Solid MIT](https://solid.mit.edu/) webpages
+* [Solidproject.org](https://solidproject.org/) Solid is a project lead by Tim Berners Lee that aims to re-decentralize the web. Solid (derived from "social linked data") is a proposed set of conventions and tools for building decentralized Web applications based on Linked Data principles. Solid is modular and extensible. It relies as much as possible on existing W3C standards and protocols. You can find more information also at [Inrupt](https://inrupt.com/solid) and [Solid MIT](https://solid.mit.edu/) webpages
 
 ## Hosting and media
 
@@ -135,6 +137,12 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 * [Project Meshnet](https://projectmeshnet.org/) aims to build a sustainable decentralized alternative internet. Used by [Hyperboria](http://hyperboria.net/) and built on [CJDNS](http://cjdns.info/).* [Skywire](https://github.com/skycoin/skywire) is the Skycoin Project's communication primitive (analogous to MPLS, open-flow, TOX, mesh networking, darknet, i2p) that facilitates mesh networking both on traditional internet service provider infrastructure, and on individually owned wifi and radio equipment, allowing for a phased, incentivized approach to decentralization. [Skywire Overview](https://medium.com/skycoin/skywire-the-new-internet-for-the-new-world-6d09a8542c50) | [skycoin.net](https://skycoin.net/) 
 * [Yggdrasil](https://yggdrasil-network.github.io/) is an early-stage implementation of a fully end-to-end encrypted IPv6 network. It is lightweight, self-arranging, supported on multiple platforms and allows pretty much any IPv6-capable application to communicate securely with other Yggdrasil nodes. Yggdrasil does not require you to have IPv6 Internet connectivity - it also works over IPv4.
 * [ZeroNet](https://zeronet.io) enabled decentralized websites using Bitcoin crypto and the BitTorrent network
+
+## Search Engines
+
+* [Searx](http://searx.me) is a privacy-respecting, hackable metasearch engine.
+
+* [YACY](http://www.yacy.net/en/) is a peer-to-peer search that anyone can use to build a search portal for their intranet or to help search the public internet. When contributing to the world-wide peer network, the scale of YaCy is limited only by the number of users in the world and can index billions of web pages. It is fully decentralized, all users of the search engine network are equal, the network does not store user search requests and it is not possible for anyone to censor the content of the shared index.
 
 ## Social Networks
 
@@ -239,8 +247,6 @@ There is no management stuff for checking the content. Users can decide which to
 
 * [LibraryBox](http://jasongriffey.net/librarybox/)  is an open source, portable digital file distribution tool based on inexpensive hardware that enables delivery of educational, healthcare, and other vital information to individuals off the grid.
 
-* [LiteCoin](https://litecoin.org/)  is a peer-to-peer Internet currency that enables instant payments to anyone in the world (was based on Bitcoin)
-
 * [MORPHiS](https://morph.is/) is a global encrypted distributed datastore intended to replace the cloud for storage and far more. Free open source peer-to-peer high-performance distributed datastore.
 
 * The [MaidSafe](http://maidsafe.net) network is a fully distributed platform on which application developers can build distributed applications. The network is made up by individual users who contribute storage, computing power and bandwidth to what is a global, public cloud.
@@ -343,8 +349,6 @@ There is no management stuff for checking the content. Users can decide which to
 
 * [Webmentions](http://indiewebcamp.com/webmention) are an interesting method of notify another site that a *comment* /post on your own site is written in response to a post on their site. The site receiving the webmention notification can then verify the request and gather the message adding into a conversation flow in their post.[This project](http://github.com/glennjones/webmentions) is working on a unified API.
 
-* [YACY](http://www.yacy.net/en/) is a peer-to-peer search that anyone can use to build a search portal for their intranet or to help search the public internet. When contributing to the world-wide peer network, the scale of YaCy is limited only by the number of users in the world and can index billions of web pages. It is fully decentralized, all users of the search engine network are equal, the network does not store user search requests and it is not possible for anyone to censor the content of the shared index.
-
 * [Yaap it !](http://yaap.it/) is another client-side encrypted burn-after-reading sharing service. It's written in JavaScript and you can install it on you own server: https://github.com/SeyZ/yaapit
 
 * [Yaler](https://yaler.net/) is a simple, open and scalable relay infrastructure for secure Web and SSH access to embedded systems located behind a firewall, NAT or mobile network router.
@@ -372,8 +376,6 @@ There is no management stuff for checking the content. Users can decide which to
 * [pump.io](http://pump.io/) Described as "a stream server that does most of what people really want from a social network". It's a social stream with support for federated comunication.
 
 * [qaul.net](https://github.com/WachterJud/qaul.net) implements a redundant, open communication principle, in which wireless-enabled computers and mobile devices can directly form a spontaneous network. Chat functions, file sharing and voice chat is possible independent of internet and cellular networks.
-
-* [Searx](http://searx.me) is a privacy-respecting, hackable metasearch engine.
 
 * [Storj](http://storj.io/) is an open source project actively developing a completely decentralized, secure and efficient cloud storage service that integrates a peer-to-peer protocols based on Bitcoin.
 
