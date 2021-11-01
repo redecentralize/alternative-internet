@@ -51,7 +51,6 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 * [Cryptpad](https://cryptpad.fr/) is an open-source online collaborative editor providing collaborative editing in real-time. It features rich text, pictures, code, and kanban editors. Cryptpad applies the _zero knowledge_ paradigm, whereby only clients see the plain text while servers see only crypted content which they are not able to decrypt.
 * [Etherpad](http://etherpad.org/) is an open-source online text editor providing collaborative editing in real-time.
 * [Kune](http://kune.cc/) is based on Apache Wave and is a free/open source distributed social network focused on collaboration rather than just on communication. That is, it focuses on online real-time collaborative editing, decentralized social networking and web publishing, while focusing on workgroups rather than just on individuals.
-* [Tidepools](http://tidepools.co) is being developed within the [Red Hook Mesh Network](http://oti.newamerica.net/blogposts/2013/case_study_red_hook_initiative_wifi_tidepools-78575), for addressing local, social incentives for mesh use. An Open Source, Collaborative, Mobile Mapping & Social Hub, Reflecting Community Needs & Culture through Custom Apps, Time-based Maps, & Data Feeds.
 * [SwellRT](http://swellrt.org) is a Real-time text editor and collaboration API for HTML/JavaScript and Android. It is the only open source **decentralized-federated** framework to build collaborative applications.
 * [WikiSuite](http://WikiSuite.org/) is the most comprehensive and integrated Free / Libre / Open Source software suite ever developed. WikiSuite is especially suited to knowledge-centric organizations and offers most (80%+) of the data and information management features all organizations need, such as OS and Network, Web and Intranet, Email and Calendar, Files and Sync, BPM and Analytics, Chat and Video Conference, and Commerce. Key components include ClearOS, Openfire Meetings, Tiki Wiki CMS Groupware (aka TikiWiki), Kolab, Syncthing, FusionPBX and FreeSWITCH, Piwik, Elasticsearch and Kibana, Kaltura, Xibo and Kimchi (KVM).
 
@@ -418,8 +417,6 @@ There is no management stuff for checking the content. Users can decide which to
 * [Syme](https://getsyme.com) is an experimental project that aims at bringing more privacy and security to online communication through end-to-end encryption. Syme's zero-knowledge key infrastructure enables persistent multiparty communication and secure key exchanges on minimally trusted servers and relays.
 
 
-
-
 ## Totally Dead
 
 * [BitPhone](http://www.gullicksonlaboratories.com/projects/bitphone/) is a mobile communications device with the features of a modern smartphone built on top of decentralized BitCoin-style proof-of-work networking.
@@ -445,6 +442,9 @@ There is no management stuff for checking the content. Users can decide which to
 * The [Refuge Project](http://refuge.io/) aims to provide a fully decentralized and opensource data platform. It is built in Erlang and includes [RCouch](https://github.com/refuge/rcouch), a static distribution of couchdb using rebar, and [Coffer](https://github.com/refuge/coffer), a blob server.
 
 * [Tavern](https://tavern.com/) is a distributed, anonymous, unblockable network designed to ensure that no one is silenced, censored, or cut off from the rest of the world
+
+* [Tidepools](http://tidepools.co) is being developed within the [Red Hook Mesh Network](http://oti.newamerica.net/blogposts/2013/case_study_red_hook_initiative_wifi_tidepools-78575), for addressing local, social incentives for mesh use. An Open Source, Collaborative, Mobile Mapping & Social Hub, Reflecting Community Needs & Culture through Custom Apps, Time-based Maps, & Data Feeds.
+
 
 * [Younity](http://getyounity.com/) is a "personal cloud" that lets users share their files between their devices, without uploading them to one centralised server.
 
