@@ -396,8 +396,6 @@ There is no management stuff for checking the content. Users can decide which to
 
 * [Fermat.org](http://fermat.org/) is an framework for developing Internet of People apps.
 
-* [GitTorrent](http://gittorrent.org/) is a peer-to-peer network of Git repositories being shared over BitTorrent.
-
 * [Nymote](http://nymote.org) is a set of tools and software infrastructure, created from the ground up, to provide end-users with life-long control of their networks and personal data. It starts with fundamental infrastructure to solve the problems around operating systems for the future, identity for users and devices and data-persistence across those devices. Think of it as the toolstack to recapture the original vision of a resilient, decentralised Internet.
 
 * [Nightweb](https://nightweb.net/) connects your Android device or PC to an anonymous, peer-to-peer social network. You can write posts and share photos, and your followers will retrieve them using BitTorrent running over the I2P anonymous network. It is still experimental.
@@ -407,6 +405,8 @@ There is no management stuff for checking the content. Users can decide which to
 * [DeadC](http://deadc.net/) Create a one-click expiring link (NB: Uses Google Analytics...)
 
 * [G0Bin](https://github.com/jyap808/g0bin) is a client side encrypted pastebin written in Go. The server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+
+* [GitTorrent](https://github.com/cjb/GitTorrent) is a peer-to-peer network of Git repositories being shared over BitTorrent.
 
 * [Grand Decentral Station](http://decentralize.it) is a concept for a server OS that enables designers and developers to build beautiful and secure self-hosted applications for everyone.
 
