@@ -222,8 +222,6 @@ There is no management stuff for checking the content. Users can decide which to
 
 * [git-dit](https://github.com/neithernut/git-dit) git-dit - the distributed issue tracker for git.
 
-* [GitTorrent](http://gittorrent.org/) is a peer-to-peer network of Git repositories being shared over BitTorrent.
-
 * [Grimwire](http://blog.grimwire.com/#2013-04-04-grimwire.md) is a browser OS which uses Web Workers for process isolation, and WebRTC for peer-to-peer communication.
 
 * [Guifi](http://guifi.net/) is a european (especially from Catalonia, Spain) large network with over 22000 active nodes. Uses wifi in both infrastructure and mesh mode. Over 25km of fiber as well so far.
@@ -409,6 +407,8 @@ There is no management stuff for checking the content. Users can decide which to
 * [DeadC](http://deadc.net/) Create a one-click expiring link (NB: Uses Google Analytics...)
 
 * [G0Bin](https://github.com/jyap808/g0bin) is a client side encrypted pastebin written in Go. The server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+
+* [GitTorrent](https://github.com/cjb/GitTorrent) is a peer-to-peer network of Git repositories being shared over BitTorrent.
 
 * [Grand Decentral Station](http://decentralize.it) is a concept for a server OS that enables designers and developers to build beautiful and secure self-hosted applications for everyone.
 
