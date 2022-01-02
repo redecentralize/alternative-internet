@@ -173,7 +173,7 @@ There is no management stuff for checking the content. Users can decide which to
 
 ## Telephony
 
-* [Ostel](https://ostel.co) is part of the Open Secure Telephony Network (OSTN) by the [Guardian-Project](https://guardianproject.info/). The goal is promoting free, open protocols, standards and software and to power end-to-end encrypted voice communications on mobile devices and desktop computers. They use standards such as SRTP, ZRTP, and SIP(over TLS). Clients are available for nearly every platform.
+ 
 * [The Serval Project](http://www.servalproject.org/) lets mobile phones make phone calls to each other peer-to-peer without a base station.
 
 ## Uncategorised
@@ -376,10 +376,6 @@ There is no management stuff for checking the content. Users can decide which to
 
 * [Storj](http://storj.io/) is an open source project actively developing a completely decentralized, secure and efficient cloud storage service that integrates a peer-to-peer protocols based on Bitcoin.
 
-* [unSYSTEM](http://unsystem.net/) is a collective dedicated to creating popular tools that promote privacy, independence, and integrity in contradistinction to those used for mass surveillance and suppression.  Software projects include [Libbitcoin](https://libbitcoin.dyne.org/), [SX](https://sx.dyne.org/), and [Lorea](#Lorea).
-
-* [weborganiZm](http://weborganizm.org/) is an Ad-Free NON-indexed network for creating and sharing of the knowledges that follows these principles: Non-Profit, Reproducible, Reinforcing the Digital Commons, Grassroots.
-
 * [wlan slovenija](http://dev.wlan-si.net/) is developing technologies for easy deployment of community wireless mesh networks. The main idea is that power is in numbers so deployment should be so easy that anybody can do it, that anybody can start a new wireless mesh network and create a new community.
 
 ## Apparently Dead 
@@ -404,17 +400,20 @@ There is no management stuff for checking the content. Users can decide which to
 
 * [G0Bin](https://github.com/jyap808/g0bin) is a client side encrypted pastebin written in Go. The server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 
-* [GitTorrent](https://github.com/cjb/GitTorrent) is a peer-to-peer network of Git repositories being shared over BitTorrent.
-
 * [Grand Decentral Station](http://decentralize.it) is a concept for a server OS that enables designers and developers to build beautiful and secure self-hosted applications for everyone.
 
 * [INDX](http://sociam.github.io/indx) is a decentralised Web-based Personal Data Store and app platform from the [SOCIAM](http://sociam.org) EPSRC project in the UK, focused about giving individuals autonomy to effectively consolidate their cloud data into personal databases they control.  The platform is build out of a core of robust open source tools, including Postgres, Twisted, NodeJS, and AngularJS.  The platform is [released under GPLv3 on Github](https://sociam.github.io/indx).
 
 * [OpenBazaar](https://github.com/OpenBazaar/OpenBazaar) is a decentralized marketplace proof of concept. It is based off of the POC code by the darkmarket team and is now licensed under the MIT license.
 
+* [Ostel](https://ostel.co) is part of the Open Secure Telephony Network (OSTN) by the [Guardian-Project](https://guardianproject.info/). The goal is promoting free, open protocols, standards and software and to power end-to-end encrypted voice communications on mobile devices and desktop computers. They use standards such as SRTP, ZRTP, and SIP(over TLS). Clients are available for nearly every platform.
+
 * [Syme](https://getsyme.com) is an experimental project that aims at bringing more privacy and security to online communication through end-to-end encryption. Syme's zero-knowledge key infrastructure enables persistent multiparty communication and secure key exchanges on minimally trusted servers and relays.
 
 * [Telehash](http://telehash.org/) a new encrypted P2P JSON-based protocol enabling developers to quickly build apps that are distributed and private (see the [protocol](https://github.com/telehash/telehash.org/blob/master/protocol.md) spec)
+
+* [unSYSTEM](http://unsystem.net/) is a collective dedicated to creating popular tools that promote privacy, independence, and integrity in contradistinction to those used for mass surveillance and suppression.  Software projects include [Libbitcoin](https://libbitcoin.dyne.org/), [SX](https://sx.dyne.org/), and [Lorea](#Lorea).
+
 
 ## Totally Dead
 
@@ -440,6 +439,8 @@ They're here for posterity.
 
 * [Firecloud](http://firecloud.co) is a P2P web publishing platform in your using Persona and WebRTC to work its magic.
 
+* [GitTorrent](https://github.com/cjb/GitTorrent) is a peer-to-peer network of Git repositories being shared over BitTorrent.
+
 * [Lemon.email](https://lemon.email/) is encrypted and decentralized e-mail service. It can be totally decentralized (works as a [dApp](https://ipfs.io/ipns/dapp.lemon.email/)) or it can work as a mail service that uses IPFS/Ethereum as a storage for previously encrypted emails. The way encryption works is that the passphrase that is used to unlock emails is not saved anywhere and therefore nobody cannot read user’s emails. Also, third party email services cannot read or decrypt lemon emails, because only notification about incoming email is sent to those services and user must go to external link to read private email.
 
 * [Lighthouse](https://www.vinumeris.com/lighthouse) is a peer to peer crowdfunding app that uses Bitcoin.
@@ -452,6 +453,7 @@ They're here for posterity.
 
 * [Tidepools](http://tidepools.co) is being developed within the [Red Hook Mesh Network](http://oti.newamerica.net/blogposts/2013/case_study_red_hook_initiative_wifi_tidepools-78575), for addressing local, social incentives for mesh use. An Open Source, Collaborative, Mobile Mapping & Social Hub, Reflecting Community Needs & Culture through Custom Apps, Time-based Maps, & Data Feeds.
 
+* [weborganiZm](http://weborganizm.org/) is an Ad-Free NON-indexed network for creating and sharing of the knowledges that follows these principles: Non-Profit, Reproducible, Reinforcing the Digital Commons, Grassroots.
 
 * [Younity](http://getyounity.com/) is a "personal cloud" that lets users share their files between their devices, without uploading them to one centralised server.
 
