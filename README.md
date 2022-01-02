@@ -402,7 +402,7 @@ There is no management stuff for checking the content. Users can decide which to
 
 * [OpenBazaar](https://github.com/OpenBazaar/OpenBazaar) is a decentralized marketplace proof of concept. It is based off of the POC code by the darkmarket team and is now licensed under the MIT license.
 
-* [Ostel](https://ostel.co) is part of the Open Secure Telephony Network (OSTN) by the [Guardian-Project](https://guardianproject.info/). The goal is promoting free, open protocols, standards and software and to power end-to-end encrypted voice communications on mobile devices and desktop computers. They use standards such as SRTP, ZRTP, and SIP(over TLS). Clients are available for nearly every platform.
+* [Ostel](https://ostel.co) is part of the Open Secure Telephony Network (OSTN) by the [Guardian-Project](https://guardianproject.info/). The goal is promoting free, open protocols, standards and software and to power end-to-end encrypted voice communications on mobile devices and desktop computers. They use standards such as SRTP, ZRTP, and SIP(over TLS). Clients are available for nearly every platform; [Now offline](https://guardianproject.info/2017/08/10/ostel.co-is-permanently-offline/)
 
 * [Syme](https://getsyme.com) is an experimental project that aims at bringing more privacy and security to online communication through end-to-end encryption. Syme's zero-knowledge key infrastructure enables persistent multiparty communication and secure key exchanges on minimally trusted servers and relays.
 
