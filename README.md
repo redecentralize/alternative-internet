@@ -206,8 +206,6 @@ There is no management stuff for checking the content. Users can decide which to
 
 * [Firestr](http://github.com/mempko/firestr) is a simple decentralized communication and computation platform. Apps are written in Lua and are pushed to peers where they automatically run and connect. All communication is P2P and encrypted.
 
-* [FreedomBone](https://freedombone.net/) Designed primarily for the Beaglebone Black, but also capable of running on any system with Debian Jessie installed, the FreedomBone allows you to self-host a variety of useful web services with a reasonable degree of security and privacy.
-
 * [Freedom Box](http://freedomboxfoundation.org/) is about privacy, control, ease of use and dehierarchicalization. Inspired by Eben Moglen's vision of a small, cheap and simple computer that serves freedom in the home. We are building a Debian based platform for distributed applications.
 
 * [Freenet](http://freenetproject.org) is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship. Freenet is decentralised to make it less vulnerable to attack, and if used in "darknet" mode, where users only connect to their friends, is very difficult to detect.
@@ -245,6 +243,8 @@ There is no management stuff for checking the content. Users can decide which to
 * [Libertree](http://libertree.org/) is free, libre, open-source software which is intended to provide a way for people to create their own social network. Libertree social networks can be free from commercial influence and manifestation, such as behaviour tracking, user profiling, advertising, data mining and analysis, and covert information filtering.
 
 * [LibraryBox](http://jasongriffey.net/librarybox/)  is an open source, portable digital file distribution tool based on inexpensive hardware that enables delivery of educational, healthcare, and other vital information to individuals off the grid.
+
+* [LibreServer](https://libreserver.org/) is a small server system which enables you to run your own internet services independently. It includes all of the things you'd expect such as email, chat, VoIP, wikis, blogs, social networks, and more. You can run LibreServer on an old laptop or single board computer. You can also run it on an onion address.
 
 * [MORPHiS](https://morph.is/) is a global encrypted distributed datastore intended to replace the cloud for storage and far more. Free open source peer-to-peer high-performance distributed datastore.
 
