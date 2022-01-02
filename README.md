@@ -186,8 +186,6 @@ There is no management stuff for checking the content. Users can decide which to
 
 * [BaseParadigm](https://bitbucket.org/travisfw/baseparadigm/) is an open source (GPLv3) library for managing a content addressable binary  semantic graph. Content addressability means enabling a number of dataexchange protocols (including p2p) for a developer using BaseParadigm.
 
-* [BipIO](https://github.com/bipio-server) is an open source personal content and workflow automation platform.  'Bips' are dynamic named graphs which are cheap to create, can auto-expire, and serve or transform public/private content across multiple protocols.
-
 * [Beaker Browser](https://beakerbrowser.com/) an experimental browser for exploring the p2p web.
 
 * [BitTorrent Sync](http://www.bittorrent.com/sync) by BitTorrent Labs. Easy and effortless file replication between computers (and mobile devices) without using the cloud, so the only limit is available storage. All data transfers are encrypted. Works on Windows, Linux, OSX, Android and iOS. Recently they've [opened up their API](http://www.bittorrent.com/sync/developers/api) to developers.
@@ -388,8 +386,6 @@ There is no management stuff for checking the content. Users can decide which to
 
 * [Airlock](https://github.com/slothbag/Airlock) A decentralized dropbox / mega upload style app.  Uses a combination of Ethereum and IPFS to index and list content
 
-* [Avatar](http://avatar.ai) is a distributed "operating system for the internet" running inside the web browser. It allows for secure messaging (think email, social networks) and distributed data storage, employing a policy of "privacy and data security by default". Building its own encrypted P2P network, it does not rely upon any central authority. (Appears to be inactive)
-
 * [Cactus player](https://bitbucket.org/cactusplayer/cactusplayer/src/master/) Decentralized P2P Music Player - main site has gone, but linking to source in case someone wants to know how it worked.
 
 * [ClearSkies](https://github.com/jewel/clearskies) is a peer-to-peer file sync program.  It is inspired by BitTorrent Sync, but has an open and fully-documented protocol.
@@ -404,7 +400,7 @@ There is no management stuff for checking the content. Users can decide which to
 
 ## Possibly Dead
 
-* [DeadC](http://deadc.net/) Create a one-click expiring link (NB: Uses Google Analytics...)
+* [BipIO](https://github.com/bipio-server) is an open source personal content and workflow automation platform.  'Bips' are dynamic named graphs which are cheap to create, can auto-expire, and serve or transform public/private content across multiple protocols.
 
 * [G0Bin](https://github.com/jyap808/g0bin) is a client side encrypted pastebin written in Go. The server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 
@@ -422,6 +418,12 @@ There is no management stuff for checking the content. Users can decide which to
 
 ## Totally Dead
 
+The following 'things' have broken links, 
+or links that redirect to not-nice-places. 
+They're here for posterity. 
+
+* [Avatar](http://avatar.ai) is a distributed "operating system for the internet" running inside the web browser. It allows for secure messaging (think email, social networks) and distributed data storage, employing a policy of "privacy and data security by default". Building its own encrypted P2P network, it does not rely upon any central authority. (Appears to be inactive)
+
 * [BitPhone](http://www.gullicksonlaboratories.com/projects/bitphone/) is a mobile communications device with the features of a modern smartphone built on top of decentralized BitCoin-style proof-of-work networking.
 
 * [Coinpunk](http://coinpunk.org/) is a web application that allows anyone to run their own self-hosted Bitcoin wallet service that is accessible from your web browser anywhere in the world. It's free, open source, and you can install it on your server right now.
@@ -429,6 +431,8 @@ There is no management stuff for checking the content. Users can decide which to
 * [CryptAByte](https://cryptabyte.com/) CryptAByte.com is a free online drop box that enables secure (encrypted) message and file sharing over the web using a public-key infrastructure. Messages and files are encrypted using a public key and can only be decrypted using the passphrase entered when your key is created. Your data is never stored in plaintext, and is impossible to decrypt without your passphrase.
 
 * [DAppStore](http://dappstore.dappcentral.com/) is a fully decentralized App store focussing entirely on decentralized software.  Primarily to index DApps like Bitcoin, BitTorrent etc, but also indexes projects relating to DApps, wether that be a documentary, software library or coffee shop that supports a particular DApp.
+
+* [DeadC](http://deadc.net/) Create a one-click expiring link (NB: Uses Google Analytics...)
 
 * [Dendrio](https://www.dendr.io/) is a video distribution network that leverages the peer to peer WebRTC protocol to transfer website content between browsers.  This allows us to make data downloads faster for users but without any installation requirements.  For website owners, we are trivial to set up, and are transparent to existing CDN setups.  Our technology is geared towards streaming video and we support a multitude of different video formats and players.  
 
