@@ -17,9 +17,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 - [Social Networks](#social-networks)
 - [Telephony](#telephony)
 - [Uncategorised](#uncategorised)
-- [Apparently Dead](#apparently-dead) - links don't resolve
-- [Possibly Dead](#possibly-dead) - very little repo activity
-- [Totally Dead](#totally-dead) - abandoned, likely insecure, do not use
+- [Dead](#dead) - abandoned, likely insecure, do not use
 
 ----
 
@@ -378,7 +376,7 @@ There is no management stuff for checking the content. Users can decide which to
 
 * [wlan slovenija](http://dev.wlan-si.net/) is developing technologies for easy deployment of community wireless mesh networks. The main idea is that power is in numbers so deployment should be so easy that anybody can do it, that anybody can start a new wireless mesh network and create a new community.
 
-## Apparently Dead 
+## Dead 
 
 * [Airlock](https://github.com/slothbag/Airlock) A decentralized dropbox / mega upload style app.  Uses a combination of Ethereum and IPFS to index and list content
 
@@ -393,8 +391,6 @@ There is no management stuff for checking the content. Users can decide which to
 * [Nymote](http://nymote.org) is a set of tools and software infrastructure, created from the ground up, to provide end-users with life-long control of their networks and personal data. It starts with fundamental infrastructure to solve the problems around operating systems for the future, identity for users and devices and data-persistence across those devices. Think of it as the toolstack to recapture the original vision of a resilient, decentralised Internet.
 
 * [Nightweb](https://nightweb.net/) connects your Android device or PC to an anonymous, peer-to-peer social network. You can write posts and share photos, and your followers will retrieve them using BitTorrent running over the I2P anonymous network. It is still experimental.
-
-## Possibly Dead
 
 * [BipIO](https://github.com/bipio-server) is an open source personal content and workflow automation platform.  'Bips' are dynamic named graphs which are cheap to create, can auto-expire, and serve or transform public/private content across multiple protocols.
 
@@ -413,13 +409,6 @@ There is no management stuff for checking the content. Users can decide which to
 * [Telehash](http://telehash.org/) a new encrypted P2P JSON-based protocol enabling developers to quickly build apps that are distributed and private (see the [protocol](https://github.com/telehash/telehash.org/blob/master/protocol.md) spec)
 
 * [unSYSTEM](http://unsystem.net/) is a collective dedicated to creating popular tools that promote privacy, independence, and integrity in contradistinction to those used for mass surveillance and suppression.  Software projects include [Libbitcoin](https://libbitcoin.dyne.org/), [SX](https://sx.dyne.org/), and [Lorea](#Lorea).
-
-
-## Totally Dead
-
-The following 'things' have broken links, 
-or links that redirect to not-nice-places. 
-They're here for posterity. 
 
 * [Avatar](http://avatar.ai) is a distributed "operating system for the internet" running inside the web browser. It allows for secure messaging (think email, social networks) and distributed data storage, employing a policy of "privacy and data security by default". Building its own encrypted P2P network, it does not rely upon any central authority. (Appears to be inactive)
 
