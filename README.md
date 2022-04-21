@@ -4,7 +4,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 
 
-- [Cloud and Storage](#cloud-and-storage)
+- [Cloud and Storage](cloud_and_storage.md)
 - [Collaborative web editors](#collaborative-web-editors)
 - [Cryptocurrencies and markets](#cryptocurrencies-and-markets)
 - [Developer tools and frameworks](#developer-tools-and-frameworks)
@@ -21,29 +21,6 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 ----
 
-## Cloud and storage
-
-- [Bitcloud](http://bitcloudproject.org) is an open source distributed cloud storage system and escrow agent based on Tahoe-LAFS that allows publishers to pay storage nodes for storing encrypted data and sharing that data with others. The decentralized nature of Bitcloud allows anyone to publish large amounts of data in a way that is free from censorship, high costs, and proprietary software. The first application for bitcloud will be [WeTube](https://github.com/wetube/wetube-web), a platform for viewing and publishing videos, podcasts, ebooks, music, and other forms of media.
-- [BitDust](http://bitdust.io) - is decentralized, secure and anonymous on-line storage, where only the owner has access and absolute control over its data. BitDust project is aimed to protect users freedom and provide an alternative way to operate and communicate in the network.
-- [CloudBank](https://github.com/omgbbqhaxx/cloudbankproject) First ever POWWT (Proof of work with time) consensus algorithm crypto currency with python without fee all miners share constant reward between them.
-- [Cloudron](http://cloudron.io/) is a platform to run apps on your server. It includes 1-Click app install, automatic backups, updates, Single Sign-On, DNS setup, SSL provisioning and a secure firewall.
-- [Cozy](http://cozy.io) is a personal cloud [you can host](https://docs.cozy.io/en/tutorials/selfhost-debian/), hack and delete. With Cozy, you manage your web apps like you were on your smartphone. It provides an open market place from where you can install the web app you made yourself (Cozy is a [personal PaaS](http://cozy.io/hack/getting-started/architecture-overview.html)).
-- [DAT](https://datproject.org) decentralized file system with live replication
-- The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data store. It's an open, federated and decentralised system where the identity of users and provenance of data is ensured by cryptographically signing digital assets.[Redecentralise Video interview](http://redecentralize.org/#interviews)
-- [Filebase](https://filebase.com)  is the first S3-compatible object storage platform that allows you to store data in a secure, redundant, and performant manner across multiple decentralized storage networks. Its unique storage backend connects to multiple decentralized storage networks, enabling global presence and reliability. Filebase currently supports storage on the IPFS, Sia, Skynet and Storj networks.
-- [Golem Network](https://golem.network/) is an accessible, reliable, open access and censorship-resistant protocol, democratizing access to digital resources and connecting users through a flexible, open-source platform. With Golem Network users can connect with ease and pay each other for sharing their unused resources.
-- [IPFS](https://ipfs.io) is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open. IPFS is an open source project developed by the team at Interplanetary Networks and many contributors from the open source community.
-- [Nextcloud](https://nextcloud.com) is a selfhosted, federated alternative to Google Docs/Office365 et all. It syncs and lets you share files but it's over 200 community-contributed apps add chat and audio/video calls, calendar/contact, mail, maps, Tasks, collaborative document editing, Kanban board, password manager, bookmarks, audio player and many more. It is easy to install and manage (as far as servers go...) and extremely secure.
-- [ownCloud](http://www.owncloud.org/) is personal cloud software with a focus on ease of use and syncing, mobile clients and a wide range of applications.
-- [Peergos](https://peergos.org/) is a peer-to-peer and end-to-end encrypted global filesystem with fine-grained access control. Provides a secure and private space online where you can store, share and view your photos, videos, music and documents. Also includes a calendar, news feed, task lists, chat and email client. Open source licensed. Can be self-hosted.  
-- [Perkeep (was Camlistore)](http://perkeep.org/) is your personal storage system for life. It is an acronym for "Content-Addressable Multi-Layer Indexed Storage" and could be described as "Like git for all content in your life"
-- [Seafile](http://seafile.com) is a cloud software similar to owncloud, with clients for Windows, Mac, Linux, Android and iOS. Server for Linux and Raspberry Pi.
-- [Sia](https://sia.tech) is the leading decentralized cloud storage platform. No signups, no servers, no trusted third parties. Sia leverages blockchain technology to create a data storage marketplace that is more robust and more affordable than traditional cloud storage providers. Instead of using a centralized provider, peers on Sia rent storage from each other. Sia itself stores only the storage contracts formed between parties, using a Bitcoin-style blockchain.
-- [Skynet](https://siasky.net) is a decentralized CDN and file sharing platform for devs. Skynet is the storage foundation for a Free Internet!
-- [Swarm](https://swarm.ethereum.org) is a distributed storage platform and content distribution service, a native base layer service of the ethereum web3 stack. It uses the ethereum economy to incentivize P2P storage.
-- [Tahoe-LAFS](https://tahoe-lafs.org) is a Free and Open cloud storage system. It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire filesystem continues to function correctly, preserving your privacy and security.
-- [Thali](http://thaliproject.org/) is an open source personal data store that syncs across one or more of your devices, and (selectively, via one or more apps) to one or more more trusted peers. Data store: Couchbase Lite (open source, NoSQL, multi-master sync). Trust model: public key exchange, mutual SSL authentication. Network transport: HTTPS. P2P mechanisms: local/ad-hoc, or Tor (using hidden services).
-- [VirtKick](https://www.virtkick.io/) is your self-hosted DigitalOcean. Take cloud back to your computer, home network or a dedicated server. Manage virtual machines, Docker containers and create 1-click apps.
 
 ## Collaborative Web Editors
 
