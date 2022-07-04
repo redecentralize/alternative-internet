@@ -35,7 +35,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 - [IPFS](https://ipfs.io) is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open. IPFS is an open source project developed by the team at Interplanetary Networks and many contributors from the open source community.
 - [Nextcloud](https://nextcloud.com) is a selfhosted, federated alternative to Google Docs/Office365 et all. It syncs and lets you share files but it's over 200 community-contributed apps add chat and audio/video calls, calendar/contact, mail, maps, Tasks, collaborative document editing, Kanban board, password manager, bookmarks, audio player and many more. It is easy to install and manage (as far as servers go...) and extremely secure.
 - [ownCloud](http://www.owncloud.org/) is personal cloud software with a focus on ease of use and syncing, mobile clients and a wide range of applications.
-- [Peergos](https://peergos.org/) is a peer-to-peer and end-to-end encrypted global filesystem with fine-grained access control. Provides a secure and private space online where you can store, share and view your photos, videos, music and documents. Also includes a calendar, news feed, task lists, chat and email client. Open source licensed. Can be self-hosted.  
+- [Peergos](https://peergos.org/) is a peer-to-peer and end-to-end encrypted global filesystem with fine-grained access control. Provides a secure and private space online where you can store, share and view your photos, videos, music and documents. Also includes a calendar, news feed, task lists, chat and email client. Open source licensed. Can be self-hosted.
 - [Perkeep (was Camlistore)](http://perkeep.org/) is your personal storage system for life. It is an acronym for "Content-Addressable Multi-Layer Indexed Storage" and could be described as "Like git for all content in your life"
 - [Seafile](http://seafile.com) is a cloud software similar to owncloud, with clients for Windows, Mac, Linux, Android and iOS. Server for Linux and Raspberry Pi.
 - [Sia](https://sia.tech) is the leading decentralized cloud storage platform. No signups, no servers, no trusted third parties. Sia leverages blockchain technology to create a data storage marketplace that is more robust and more affordable than traditional cloud storage providers. Instead of using a centralized provider, peers on Sia rent storage from each other. Sia itself stores only the storage contracts formed between parties, using a Bitcoin-style blockchain.
@@ -47,12 +47,13 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 ## Collaborative Web Editors
 
-* [CodiMD](https://github.com/hackmdio/codimd) is a collaborative Editor based on Markdown. CodiMD is the free software version of HackMD, pads are shared via URL and provide additional functionality like editing permissions based on login status and a presentation mode (with reaveal.js). 
+* [CodiMD](https://github.com/hackmdio/codimd) is a collaborative Editor based on Markdown. CodiMD is the free software version of HackMD, pads are shared via URL and provide additional functionality like editing permissions based on login status and a presentation mode (with reaveal.js).
 * [Cryptpad](https://cryptpad.fr/) is an open-source online collaborative editor providing collaborative editing in real-time. It features rich text, pictures, code, and kanban editors. Cryptpad applies the _zero knowledge_ paradigm, whereby only clients see the plain text while servers see only crypted content which they are not able to decrypt.
 * [Etherpad](http://etherpad.org/) is an open-source online text editor providing collaborative editing in real-time.
 * [Kune](http://kune.cc/) is based on Apache Wave and is a free/open source distributed social network focused on collaboration rather than just on communication. That is, it focuses on online real-time collaborative editing, decentralized social networking and web publishing, while focusing on workgroups rather than just on individuals.
 * [SwellRT](http://swellrt.org) is a Real-time text editor and collaboration API for HTML/JavaScript and Android. It is the only open source **decentralized-federated** framework to build collaborative applications.
-* [WikiSuite](http://WikiSuite.org/) is the most comprehensive and integrated Free / Libre / Open Source software suite ever developed. WikiSuite is especially suited to knowledge-centric organizations and offers most (80%+) of the data and information management features all organizations need, such as OS and Network, Web and Intranet, Email and Calendar, Files and Sync, BPM and Analytics, Chat and Video Conference, and Commerce. Key components include ClearOS, Openfire Meetings, Tiki Wiki CMS Groupware (aka TikiWiki), Kolab, Syncthing, FusionPBX and FreeSWITCH, Piwik, Elasticsearch and Kibana, Kaltura, Xibo and Kimchi (KVM).
+* [WikiSuite](http://WikiSuite.org/) is the most comprehensive and integrated Free / Libre / Open Source enterprise software suite. WikiSuite is especially suited to knowledge-centric organizations and offers most (80%+) of the data and information management features all organizations need, such as OS and Network, Web and Intranet, Email and Calendar, Files and Sync, BPM and Analytics, Chat and Video Conference, and Commerce. Key components include ClearOS, Openfire Meetings, Tiki Wiki CMS Groupware (aka TikiWiki), Cyrus IMAP, Syncthing, FusionPBX (FreeSWITCH), Elasticsearch, Xibo and Kimchi (KVM).
+
 
 ## Cryptocurrencies and markets
 
@@ -134,7 +135,7 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 * [PJON](https://www.pjon.org/) is an open-source network protocol able to connect devices using most physical layers and media, such as wires (PJDL, Ethernet, Serial and RS485), radio (ASK, FSK, OOK, LoRa or WiFi) and light pulses (PJDLS). It is released in a single portable implementation that can be easily cross-compiled on many systems like ATtiny, ATmega, ESP8266, Teensy, Raspberry Pi, Windows X86, Apple and Android. It is a valid tool to quickly build a network of devices.
 * [People's Open Network](https://sudoroom.org/wiki/Mesh) is a community mesh network in Oakland, California.
 * [Project Meshnet](https://projectmeshnet.org/) aims to build a sustainable decentralized alternative internet. Used by [Hyperboria](http://hyperboria.net/) and built on [CJDNS](http://cjdns.info/).
-* [Skywire](https://github.com/skycoin/skywire) is the Skycoin Project's communication primitive (analogous to MPLS, open-flow, TOX, mesh networking, darknet, i2p) that facilitates mesh networking both on traditional internet service provider infrastructure, and on individually owned wifi and radio equipment, allowing for a phased, incentivized approach to decentralization. [Skywire Overview](https://medium.com/skycoin/skywire-the-new-internet-for-the-new-world-6d09a8542c50) | [skycoin.net](https://skycoin.net/) 
+* [Skywire](https://github.com/skycoin/skywire) is the Skycoin Project's communication primitive (analogous to MPLS, open-flow, TOX, mesh networking, darknet, i2p) that facilitates mesh networking both on traditional internet service provider infrastructure, and on individually owned wifi and radio equipment, allowing for a phased, incentivized approach to decentralization. [Skywire Overview](https://medium.com/skycoin/skywire-the-new-internet-for-the-new-world-6d09a8542c50) | [skycoin.net](https://skycoin.net/)
 * [Yggdrasil](https://yggdrasil-network.github.io/) is an early-stage implementation of a fully end-to-end encrypted IPv6 network. It is lightweight, self-arranging, supported on multiple platforms and allows pretty much any IPv6-capable application to communicate securely with other Yggdrasil nodes. Yggdrasil does not require you to have IPv6 Internet connectivity - it also works over IPv4.
 * [ZeroNet](https://zeronet.io) enabled decentralized websites using Bitcoin crypto and the BitTorrent network
 
@@ -146,7 +147,7 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 ## Social Networks
 
-* [Aether](https://getaether.net/) Reddit-like communities run on a p2p network that hides your IP. 
+* [Aether](https://getaether.net/) Reddit-like communities run on a p2p network that hides your IP.
 * [AKASHA](https://akasha.world) AKASHA is a next-generation social media network immune to censorship by design. It is built on top of Ethereum using Smart Contracts and IPFS.
 * [Buddycloud](http://buddycloud.com) is built for people who care about their privacy. We are building the future of social networks. A future founded on openness. A future built using open standards. We are making the future happen now, by building a massively scaled and fully distributed social network. Buddycloud is leading a quiet revolution to replace the closed retweet and like incumbents.
 * [Diaspora*](http://diasporaproject.org/) is a free social network consisting of personal web server that implements a distributed social networking service. Diaspora* is a fun and creative community that puts you in control.
@@ -172,7 +173,7 @@ There is no management stuff for checking the content. Users can decide which to
 
 ## Telephony
 
- 
+
 * [The Serval Project](http://www.servalproject.org/) lets mobile phones make phone calls to each other peer-to-peer without a base station.
 
 ## Uncategorised
@@ -377,7 +378,7 @@ There is no management stuff for checking the content. Users can decide which to
 
 * [wlan slovenija](http://dev.wlan-si.net/) is developing technologies for easy deployment of community wireless mesh networks. The main idea is that power is in numbers so deployment should be so easy that anybody can do it, that anybody can start a new wireless mesh network and create a new community.
 
-## Dead 
+## Dead
 
 * [Airlock](https://github.com/slothbag/Airlock) A decentralized dropbox / mega upload style app.  Uses a combination of Ethereum and IPFS to index and list content
 
@@ -423,7 +424,7 @@ There is no management stuff for checking the content. Users can decide which to
 
 * [DeadC](http://deadc.net/) Create a one-click expiring link (NB: Uses Google Analytics...)
 
-* [Dendrio](https://www.dendr.io/) is a video distribution network that leverages the peer to peer WebRTC protocol to transfer website content between browsers.  This allows us to make data downloads faster for users but without any installation requirements.  For website owners, we are trivial to set up, and are transparent to existing CDN setups.  Our technology is geared towards streaming video and we support a multitude of different video formats and players.  
+* [Dendrio](https://www.dendr.io/) is a video distribution network that leverages the peer to peer WebRTC protocol to transfer website content between browsers.  This allows us to make data downloads faster for users but without any installation requirements.  For website owners, we are trivial to set up, and are transparent to existing CDN setups.  Our technology is geared towards streaming video and we support a multitude of different video formats and players.
 
 * The [Enigmabox](http://wiki.enigmabox.net/) is a ready to use cjdns appliance. cjdns is a public-key crypto network protocol, the fingerprint is your IPv6 address. This means, your IP is your identity. So we can use it for various useful things, e.g. as an email address or a phone number. We will start preparing existing internet services like email or VoIP to use cjdns in this decentral manner. Our goal is to encrypt the entire internet, make crypto accessible and make secure and decentralized internet services available for the rest of us.
 
