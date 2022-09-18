@@ -380,6 +380,8 @@ There is no management stuff for checking the content. Users can decide which to
 
 * [wlan slovenija](http://dev.wlan-si.net/) is developing technologies for easy deployment of community wireless mesh networks. The main idea is that power is in numbers so deployment should be so easy that anybody can do it, that anybody can start a new wireless mesh network and create a new community.
 
+* [Elymus](https://github.com/angrymouse/elymus) is browser and development stack where decentralization is at first place and which is ready to sacrafice every other good for decentralization.
+
 ## Dead
 
 * [Airlock](https://github.com/slothbag/Airlock) A decentralized dropbox / mega upload style app.  Uses a combination of Ethereum and IPFS to index and list content
@@ -449,5 +451,3 @@ There is no management stuff for checking the content. Users can decide which to
 * [weborganiZm](http://weborganizm.org/) is an Ad-Free NON-indexed network for creating and sharing of the knowledges that follows these principles: Non-Profit, Reproducible, Reinforcing the Digital Commons, Grassroots.
 
 * [Younity](http://getyounity.com/) is a "personal cloud" that lets users share their files between their devices, without uploading them to one centralised server.
-
-* [Elymus](https://github.com/angrymouse/elymus) is browser and development stack where decentralization is at first place and which is ready to sacrafice every other good for decentralization.
