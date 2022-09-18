@@ -44,6 +44,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 - [Tahoe-LAFS](https://tahoe-lafs.org) is a Free and Open cloud storage system. It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire filesystem continues to function correctly, preserving your privacy and security.
 - [Thali](http://thaliproject.org/) is an open source personal data store that syncs across one or more of your devices, and (selectively, via one or more apps) to one or more more trusted peers. Data store: Couchbase Lite (open source, NoSQL, multi-master sync). Trust model: public key exchange, mutual SSL authentication. Network transport: HTTPS. P2P mechanisms: local/ad-hoc, or Tor (using hidden services).
 - [VirtKick](https://www.virtkick.io/) is your self-hosted DigitalOcean. Take cloud back to your computer, home network or a dedicated server. Manage virtual machines, Docker containers and create 1-click apps.
+- [Arweave](https://arweave.org/) is permanent and decentralized storage network.
 
 ## Collaborative Web Editors
 
@@ -96,6 +97,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 ## Identity
 
 * [Affinidi](https://www.affinidi.com) provides building blocks to create portable, interoperable, decentralized identity and verifiable claims and credentials
+* [Handshake](https://handshake.org) is network for decentralized naming and certificate authority, which purposes replacement to old and centralized DNS system in fully decentralized way.
 
 ## Messaging
 
@@ -448,3 +450,4 @@ There is no management stuff for checking the content. Users can decide which to
 
 * [Younity](http://getyounity.com/) is a "personal cloud" that lets users share their files between their devices, without uploading them to one centralised server.
 
+* [Elymus](https://github.com/angrymouse/elymus) is browser and development stack where decentralization is at first place and which is ready to sacrafice every other good for decentralization.
