@@ -59,7 +59,6 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 ## Cryptocurrencies and markets
 
 * [BitCoin](http://bitcoin.org/en/) is a digital currency, a protocol, and a software that enables it. Decentralized crypto-currency
-* [Bitcoin by Mobile](http://www.bitcoinbymobile.com/) allows Bitcoin newcomers to quickly and easily purchase small sums of Bitcoin using their mobile phone to fund the purchase.
 * [Bitmarkets](https://github.com/voluntarynet/bitmarkets) a working decentralized marketplace based on bitcoinj and bitmessage.
 * [Bitsquare](https://bitsquare.io) Bitsquare is a decentralized bitcoin exchange. It supports national currencies (fiat) with a variety of payment methods as well as alternative cryptocurrencie
 * [Ethereum](https://ethereum.org/) is an enhanced cryptocurrency with support for Next-Generation Generalized Smart Contract and Smart Property.
@@ -451,3 +450,5 @@ There is no management stuff for checking the content. Users can decide which to
 * [weborganiZm](http://weborganizm.org/) is an Ad-Free NON-indexed network for creating and sharing of the knowledges that follows these principles: Non-Profit, Reproducible, Reinforcing the Digital Commons, Grassroots.
 
 * [Younity](http://getyounity.com/) is a "personal cloud" that lets users share their files between their devices, without uploading them to one centralised server.
+
+* [Bitcoin by Mobile](http://www.bitcoinbymobile.com/) allows Bitcoin newcomers to quickly and easily purchase small sums of Bitcoin using their mobile phone to fund the purchase.
