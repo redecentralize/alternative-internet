@@ -67,6 +67,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 ## Developer tools and frameworks
 
+* [DB3 Network](https://github.com/dbpunk-labs/db3) - DB3 Network is an open-source decentralized firebase firestore alternative to build dapps quickly with minimal engineering effort.
 * [jIO](http://www.j-io.org/) is a client-side JavaScript library to manage documents across multiple storages, in a modular way, such as LocalStorage, WebDAV, Amazon S3, you name it.
 * [Kademlia](http://en.wikipedia.org/wiki/Kademlia) is a distributed hash table for decentralized peer-to-peer computer networks
 * [OpenDHT](https://github.com/savoirfairelinux/opendht) is a lightweight C++11 Distributed Hash Table implementation offering a clean and powerful distributed map API. It is used by [Ring](https://ring.cx), is able to listen to value changes and adds a cryptography layer.
