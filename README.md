@@ -6,6 +6,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 - [Cloud and Storage](#cloud-and-storage)
 - [Collaborative web editors](#collaborative-web-editors)
+- [Compute](#compute)
 - [Cryptocurrencies and markets](#cryptocurrencies-and-markets)
 - [Developer tools and frameworks](#developer-tools-and-frameworks)
 - [General](#general)
@@ -55,6 +56,9 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 * [SwellRT](http://swellrt.org) is a Real-time text editor and collaboration API for HTML/JavaScript and Android. It is the only open source **decentralized-federated** framework to build collaborative applications.
 * [WikiSuite](http://WikiSuite.org/): While Wikipedia is the broadest unified body of knowledge, WikiSuite is the most comprehensive and integrated Open Source enterprise solution. WikiSuite is especially suited to knowledge-centric organizations and offers most (80%+) of the data and information management features all organizations need. Key components include [Virtualmin](https://wikisuite.org/Virtualmin), [Tiki Wiki CMS Groupware (aka TikiWiki)](https://wikisuite.org/Tiki-Wiki-CMS-Groupware), [Jitsi Meet](https://wikisuite.org/Jitsi-Meet), [MeshCentral](https://wikisuite.org/MeshCentral), [Syncthing](https://wikisuite.org/Syncthing) and [Manticore Search](https://wikisuite.org/Manticore-Search).
 
+## Compute
+
+* [Bacalhau](https://www.bacalhau.org/) is a platform for fast, cost efficient, and secure computation by running jobs where the data is generated and stored. With Bacalhau, you can streamline your existing workflows without the need of extensive rewriting by running arbitrary Docker containers and WebAssembly (wasm) images as tasks. This architecture is also referred to as Compute Over Data (or CoD
 
 ## Cryptocurrencies and markets
 
