@@ -386,6 +386,8 @@ There is no management stuff for checking the content. Users can decide which to
 
 * [Cowbox](http://ideelibre.fr/cowbox/index.php/Main_Page) is a hand-held standalone server, broadcasting its own network and containing web applications for coworking.
 
+* [DMOZ](https://en.wikipedia.org/wiki/DMOZ) was a multilingual open-content directory of World Wide Web links.
+
 * [Fermat.org](http://fermat.org/) is an framework for developing Internet of People apps.
 
 * [Nymote](http://nymote.org) is a set of tools and software infrastructure, created from the ground up, to provide end-users with life-long control of their networks and personal data. It starts with fundamental infrastructure to solve the problems around operating systems for the future, identity for users and devices and data-persistence across those devices. Think of it as the toolstack to recapture the original vision of a resilient, decentralised Internet.
