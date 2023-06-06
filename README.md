@@ -46,7 +46,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 ## Collaborative Web Editors
 
 * [CodiMD](https://github.com/hackmdio/codimd) is a collaborative Editor based on Markdown. CodiMD is the free software version of HackMD, pads are shared via URL and provide additional functionality like editing permissions based on login status and a presentation mode (with reaveal.js).
-* [Cryptpad](https://cryptpad.fr/) is an open-source online collaborative editor providing collaborative editing in real-time. It features rich text, pictures, code, and kanban editors. Cryptpad applies the _zero knowledge_ paradigm, whereby only clients see the plain text while servers see only crypted content which they are not able to decrypt.
+* [CryptPad](https://cryptpad.org/) CryptPad is a collaborative office suite that is end-to-end encrypted and open-source. It provides a full-fledged office suite with all the tools necessary for productive collaboration. Applications include: Rich Text, Spreadsheets, Code/Markdown, Kanban, Slides, Whiteboard and Forms.
 * [Etherpad](http://etherpad.org/) is an open-source online text editor providing collaborative editing in real-time.
 * [Kune](http://kune.cc/) is based on Apache Wave and is a free/open source distributed social network focused on collaboration rather than just on communication. That is, it focuses on online real-time collaborative editing, decentralized social networking and web publishing, while focusing on workgroups rather than just on individuals.
 * [SwellRT](http://swellrt.org) is a Real-time text editor and collaboration API for HTML/JavaScript and Android. It is the only open source **decentralized-federated** framework to build collaborative applications.
