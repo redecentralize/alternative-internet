@@ -342,11 +342,7 @@ There is no management stuff for checking the content. Users can decide which to
 
 * [Webmentions](http://indiewebcamp.com/webmention) are an interesting method of notify another site that a *comment* /post on your own site is written in response to a post on their site. The site receiving the webmention notification can then verify the request and gather the message adding into a conversation flow in their post.[This project](http://github.com/glennjones/webmentions) is working on a unified API.
 
-* [Yaap it !](http://yaap.it/) is another client-side encrypted burn-after-reading sharing service. It's written in JavaScript and you can install it on you own server: https://github.com/SeyZ/yaapit
-
 * [Yaler](https://yaler.net/) is a simple, open and scalable relay infrastructure for secure Web and SSH access to embedded systems located behind a firewall, NAT or mobile network router.
-
-* [Zero Bin](http://0bin.net/) is an open source alternative for pastebin with burn-after-read function & client side encryption. Source code is also available on github https://github.com/sametmax/0bin
 
 * [ZeroTier One](https://www.zerotier.com/) is an open source application that creates huge distributed Ethernet networks. It makes use of supernodes, but these run the same code as ordinary nodes and end-to-end encryption protects all unicast traffic. Semi-commercial with a freemium model.
 
@@ -377,6 +373,10 @@ There is no management stuff for checking the content. Users can decide which to
 * [Elymus](https://github.com/angrymouse/elymus) is browser and development stack where decentralization is at first place and which is ready to sacrafice every other good for decentralization.
 
 ## Dead
+
+* [Zero Bin](http://0bin.net/) is an open source alternative for pastebin with burn-after-read function & client side encryption. Source code is also available on github https://github.com/sametmax/0bin
+
+* [Yaap it !](http://yaap.it/) is another client-side encrypted burn-after-reading sharing service. It's written in JavaScript and you can install it on you own server: https://github.com/SeyZ/yaapit
 
 * [Airlock](https://github.com/slothbag/Airlock) A decentralized dropbox / mega upload style app.  Uses a combination of Ethereum and IPFS to index and list content
 
