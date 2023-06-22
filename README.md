@@ -14,6 +14,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 - [Identity](#identity)
 - [Messaging](#messaging)
 - [Networking](#networking)
+- [Protocols](#protocols)
 - [Search Engines](#search-engines)
 - [Social Networks](#social-networks)
 - [Telephony](#telephony)
@@ -134,6 +135,10 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 * [Skywire](https://github.com/skycoin/skywire) is the Skycoin Project's communication primitive (analogous to MPLS, open-flow, TOX, mesh networking, darknet, i2p) that facilitates mesh networking both on traditional internet service provider infrastructure, and on individually owned wifi and radio equipment, allowing for a phased, incentivized approach to decentralization. [Skywire Overview](https://medium.com/skycoin/skywire-the-new-internet-for-the-new-world-6d09a8542c50) | [skycoin.net](https://skycoin.net/)
 * [Yggdrasil](https://yggdrasil-network.github.io/) is an early-stage implementation of a fully end-to-end encrypted IPv6 network. It is lightweight, self-arranging, supported on multiple platforms and allows pretty much any IPv6-capable application to communicate securely with other Yggdrasil nodes. Yggdrasil does not require you to have IPv6 Internet connectivity - it also works over IPv4.
 * [ZeroNet](https://zeronet.io) enabled decentralized websites using Bitcoin crypto and the BitTorrent network
+
+## Protocols 
+
+* [nostr](https://nostr.com/) stands for “Notes and Other Stuff Transmitted by Relays” and is an open protocol for censorship-resistant global networks. There are already [many implementations](https://www.nostr.net/) available.
 
 ## Search Engines
 
