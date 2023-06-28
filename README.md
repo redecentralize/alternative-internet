@@ -139,6 +139,7 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 ## Protocols 
 
 * [nostr](https://nostr.com/) stands for “Notes and Other Stuff Transmitted by Relays” and is an open protocol for censorship-resistant global networks. There are already [many implementations](https://www.nostr.net/) available.
+* [remoteStorage](https://remotestorage.io) is an open protocol for per-user storage on the Web. Users can: own their data, have everything stored in one place, syncronise across multiple devices, use the same data across different apps, and work offline. Developers can: avoid creating backends, scale without cost, and start quickly with a JavaScript library handling all aspects of the protocol.
 
 ## Search Engines
 
