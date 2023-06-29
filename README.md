@@ -139,8 +139,10 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 ## Protocols 
 
 * [nostr](https://nostr.com/) stands for “Notes and Other Stuff Transmitted by Relays” and is an open protocol for censorship-resistant global networks. There are already [many implementations](https://www.nostr.net/) available.
+* [remoteStorage](https://remotestorage.io) is an open protocol for per-user storage on the Web. Users can: own their data, have everything stored in one place, syncronise across multiple devices, use the same data across different apps, and work offline. Developers can: avoid creating backends, scale without cost, and start quickly with a JavaScript library handling all aspects of the protocol.
 * [Solidproject.org](https://solidproject.org/) Solid is a project lead by Tim Berners Lee that aims to re-decentralize the web. Solid (derived from "social linked data") is a proposed set of conventions and tools for building decentralized Web applications based on Linked Data principles. Solid is modular and extensible. It relies as much as possible on existing W3C standards and protocols. You can find more information also at [Inrupt](https://inrupt.com/solid) and [Solid MIT](https://solid.mit.edu/) webpages
 * [Webmentions](http://indiewebcamp.com/webmention) are an interesting method of notify another site that a *comment* /post on your own site is written in response to a post on their site. The site receiving the webmention notification can then verify the request and gather the message adding into a conversation flow in their post.[This project](http://github.com/glennjones/webmentions) is working on a unified API.
+
 
 ## Search Engines
 
