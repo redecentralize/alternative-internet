@@ -119,7 +119,6 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 ## Networking
 
-* [The FNF](http://thefnf.org/) is the free network foundation: teaching how to build wireless community networks.
 * [Freifunk](http://en.freifunk.net) is a non-commercial initiative for free decentralised wireless mesh networks. Technically Freifunk firmwares are based on [OpenWRT](http://www.openwrt.net) and OLSR or B.A.T.M.A.N.
 * [Funkfeuer](http://funkfeuer.at/) is, just like Freifunk, a non commercial initiative for free wireless mesh networks. Funkfeuer is based in Austria and uses [OpenWRT](http://www.openwrt.net) as the firmware for the Routers.
 * [IPOP (IP-over-P2P)](http://ipop-project.org/) is an open-source user-centric software virtual network allowing end users to define and create their own virtual private networks.
