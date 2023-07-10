@@ -97,6 +97,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 ## Messaging
 
+* [ADPS](https://adps-project.org/) (Amateur Digital Post Service) is an offline sneakernet software which enables using USB-drives for communication between other nodes which also use removable storages. It has two separate implemetantions. [The first one](https://github.com/ivanmihval/SharpADPS) is for Windows, has GUI and is written on C#. [Another one](https://github.com/ivanmihval/PyADPS) is crossplatform but uses CLI instead of GUI and it's written on Python.
 * [aenigma](https://github.com/openspace42/aenigma/): the | state-of-the-art | secure-by-default | one-touch-deployed | XMPP server for everyone. It does for XMPP what Mail-in-a-Box has done for email, Streisand for VPNs, and Easyengine for wordpress.
 The installation takes you on a 15 minute, clearly worded, step-by-step setup and takes care of everything automagically.
 * [Berty Messenger](https://berty.tech/) is a distributed peer-to-peer messenger app build on IPFS. Apps are available on iOS and Android, desktop applications are currently under development.
