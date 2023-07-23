@@ -191,8 +191,6 @@ There is no management stuff for checking the content. Users can decide which to
 
 * [BaseParadigm](https://bitbucket.org/travisfw/baseparadigm/) is an open source (GPLv3) library for managing a content addressable binary  semantic graph. Content addressability means enabling a number of dataexchange protocols (including p2p) for a developer using BaseParadigm.
 
-* [Beaker Browser](https://beakerbrowser.com/) an experimental browser for exploring the p2p web.
-
 * [BitTorrent Sync](http://www.bittorrent.com/sync) by BitTorrent Labs. Easy and effortless file replication between computers (and mobile devices) without using the cloud, so the only limit is available storage. All data transfers are encrypted. Works on Windows, Linux, OSX, Android and iOS. Recently they've [opened up their API](http://www.bittorrent.com/sync/developers/api) to developers.
 
 * [bitlove-ui](http://bitlove.org/) Bitlove creates Torrents for all enclosures of an RSS/ATOM feed and seeds them for podcasts.
@@ -380,6 +378,8 @@ There is no management stuff for checking the content. Users can decide which to
 * [Yaap it !](http://yaap.it/) is another client-side encrypted burn-after-reading sharing service. It's written in JavaScript and you can install it on you own server: https://github.com/SeyZ/yaapit
 
 * [Airlock](https://github.com/slothbag/Airlock) A decentralized dropbox / mega upload style app.  Uses a combination of Ethereum and IPFS to index and list content
+
+* [Beaker Browser](https://beakerbrowser.com/) an experimental browser for exploring the p2p web.
 
 * [Cactus player](https://bitbucket.org/cactusplayer/cactusplayer/src/master/) Decentralized P2P Music Player - main site has gone, but linking to source in case someone wants to know how it worked.
 
