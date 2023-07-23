@@ -379,7 +379,7 @@ There is no management stuff for checking the content. Users can decide which to
 
 * [Airlock](https://github.com/slothbag/Airlock) A decentralized dropbox / mega upload style app.  Uses a combination of Ethereum and IPFS to index and list content
 
-* [Beaker Browser](https://beakerbrowser.com/) an experimental browser for exploring the p2p web.
+* [Beaker Browser](https://beakerbrowser.com/) an experimental browser for exploring the p2p web. The link now points at [this post](https://github.com/beakerbrowser/beaker/blob/master/archive-notice.md) explaining its archival.
 
 * [Cactus player](https://bitbucket.org/cactusplayer/cactusplayer/src/master/) Decentralized P2P Music Player - main site has gone, but linking to source in case someone wants to know how it worked.
 
