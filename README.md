@@ -373,6 +373,8 @@ There is no management stuff for checking the content. Users can decide which to
 
 * [Elymus](https://github.com/angrymouse/elymus) is browser and development stack where decentralization is at first place and which is ready to sacrafice every other good for decentralization.
 
+* [Hidden Lake](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake) is an anonymous network with theoretical provability to a global observer. It is based on the problem of queues.
+
 ## Dead
 
 * [Zero Bin](http://0bin.net/) is an open source alternative for pastebin with burn-after-read function & client side encryption. Source code is also available on github https://github.com/sametmax/0bin
