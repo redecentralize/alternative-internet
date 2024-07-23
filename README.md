@@ -169,6 +169,7 @@ There is no management stuff for checking the content. Users can decide which to
 * [Mobilizon](https://joinmobilizon.org/) is a federated tool that helps you find, create and organise events.
 * [Movim](http://movim.eu/) is a decentralized open source social network based on XMPP.
 * [Patchwork](https://github.com/ssbc/patchwork) is a distributed social network. It uses crytographic keypairs to create feeds and publish unforgeable entries which can spread across the network. Relay servers optionally aggregate and redistribute the feeds.
+* [Plebbit](https://plebbit.com) is a protocol to build serverless, adminless, fully decentralized social media applications based on communities, like a [Reddit clone](https://plebbitapp.eth.limo) or a [4chan clone](https://plebchan.eth.limo). It has no blockchain transactions fees and uses arbitrary challenges over peer-to-peer pubsub to prevent spam. All code is [open source](https://github.com/plebbit).
 * [Pleroma](https://pleroma.social) is a free, federated social networking server built on open protocols. It is compatible with [GNU Social](https://gnu.io/social/), [Mastodon](https://joinmastodon.org/), and many other ActivityPub implementations.
 * [PPNet](https://github.com/pixelpark/ppnet) is a middleware that can be used to create a social network, either temporarily or permanently for a group of users. Includes mobile client for Android.
 * [Scuttlebutt](https://www.scuttlebutt.nz) gossip based p2p community social media, chess, book reviews, gatherings, ... (code [here](https://www.github.com/ssbc))
