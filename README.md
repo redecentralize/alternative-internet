@@ -180,6 +180,7 @@ There is no management stuff for checking the content. Users can decide which to
 * [Twister](http://twister.net.co) is a secure and fully-decentralized P2P microblogging platform based on concepts and code from Bitcoin and Libtorrent (as described in [this whitepaper](http://arxiv.org/abs/1312.7152)). Feel free to contribute to its [core service](https://github.com/miguelfreitas/twister-core) or [HTML UI](https://github.com/miguelfreitas/twister-html)!
 * [Vole](http://vole.cc/) is a web-based social network that you use in your browser, without a central server. It's built on the power of Bittorrent, Go and Ember.js. Uses bittorrent sync.
 * [Yarn.social](https://yarn.social) 🧶 is a decentralized self-hosted social media that has a privacy-first focus. There are no ads, no tracking and no personal information is ever collected or stored. Web and Mobile `Go` `MIT`
+* [WarpNet](https://github.com/Warp-net/warpnet) WarpNet is a MVP of decentralized, peer-to-peer social network inspired by Twitter, built with Go and Vue. It runs without central servers, using Noise protocol for inter-node communication and built-in local storage. WarpNet is censorship-resistant, scalable, and fully open-source. GNU GPL licensed.
 
 ## Telephony
 
