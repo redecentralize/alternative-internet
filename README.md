@@ -55,7 +55,8 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 ## Compute
 
-* [Bacalhau](https://www.bacalhau.org/) is a platform for fast, cost efficient, and secure computation by running jobs where the data is generated and stored. With Bacalhau, you can streamline your existing workflows without the need of extensive rewriting by running arbitrary Docker containers and WebAssembly (wasm) images as tasks. This architecture is also referred to as Compute Over Data (or CoD
+* [Bacalhau](https://www.bacalhau.org/) is a platform for fast, cost efficient, and secure computation by running jobs where the data is generated and stored. With Bacalhau, you can streamline your existing workflows without the need of extensive rewriting by running arbitrary Docker containers and WebAssembly (wasm) images as tasks. This architecture is also referred to as Compute Over Data (or CoD)
+* [Akash Network](https://akash.network/) is a decentralized cloud compute marketplace enabling users to lease CPU/GPU resources through a permissionless auction model. Kind of like "Airbnb for data centers". Providers supply compute and manage their own infrastructure, the Akash network standardizes how those resources are offered, and end users rent out the compute and deploy apps as docker containers.
 
 ## Cryptocurrencies and markets
 
