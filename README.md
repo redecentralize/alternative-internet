@@ -90,6 +90,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 * [YunoHost](https://doc.yunohost.org) is a server operating system aiming to make self-hosting accessible to everyone.
 * [Gemini Space](https://gemini.circumlunar.space/) is heavier than gopher, lighter than the web, will not replace either, strives for maximum power to weight ratio and takes user privacy very seriously. More [Resources / Awsome Gemini](https://github.com/kr1sp1n/awesome-gemini)
 * [LibreServer](https://libreserver.org/) is a small server system which enables you to run your own internet services independently. It includes all of the things you'd expect such as email, chat, VoIP, wikis, blogs, social networks, and more. You can run LibreServer on an old laptop or single board computer. You can also run it on an onion address.
+* [Serveronet](https://serveronet.org/) is a P2P Network of Websites. You can deploy decentralized websites which behave like classic Internet Sites. It's Free and Open source. You can use it on your own PC as a client or deploy on a public hosting server. Serveronet is a Cryptographic Peer 2 Peer Network of Sites.
 
 ## Identity
 
