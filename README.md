@@ -187,6 +187,8 @@ There is no management stuff for checking the content. Users can decide which to
 ## Telephony
 
 
+* [MeshLive](https://github.com/MeshLive/meshlive-android) is a beta Android app for encrypted voice/video calls and live audio/video broadcasts over a Bluetooth mesh, without internet, accounts or servers (GPL-3.0-or-later).
+
 * [The Serval Project](http://www.servalproject.org/) lets mobile phones make phone calls to each other peer-to-peer without a base station.
 
 ## Uncategorised
