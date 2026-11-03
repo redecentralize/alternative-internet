@@ -26,6 +26,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 ## Cloud and storage
 
 - [BitDust](http://bitdust.io) - is decentralized, secure and anonymous on-line storage, where only the owner has access and absolute control over its data. BitDust project is aimed to protect users freedom and provide an alternative way to operate and communicate in the network.
+- [Cloud in a Bottle](https://cloudinabottle.org/) is a self-hosted platform that builds apps from Git repos into rootless Podman containers on a user controlled server, each with its own subdomain. Open source, AGPL-3.0.
 - [Cloudron](http://cloudron.io/) is a platform to run apps on your server. It includes 1-Click app install, automatic backups, updates, Single Sign-On, DNS setup, SSL provisioning and a secure firewall.
 - [Cozy](http://cozy.io) is a personal cloud [you can host](https://docs.cozy.io/en/tutorials/selfhost-debian/), hack and delete. With Cozy, you manage your web apps like you were on your smartphone. It provides an open market place from where you can install the web app you made yourself (Cozy is a [personal PaaS](http://cozy.io/hack/getting-started/architecture-overview.html)).
 - [DAT](https://datproject.org) decentralized file system with live replication
